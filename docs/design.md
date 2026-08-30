@@ -66,12 +66,27 @@ Scoring is computed at build time by `src/lib/scoring.ts` (pure; unit-tested).
 - Read-only site: no login, unlisted URL, `noindex`.
 
 ## Frontend
-- Vite + React 19 + TypeScript + Tailwind v4 + recharts. Mobile-first, dark tropical theme
-  (Bebas Neue display font, torch orange / lagoon teal / sand).
-- Tabs: Draft Board (landing until the first boot, with premiere countdown) · Leaderboard (prize
-  banner, counted totals, roster strip) · Rosters · Castaways grid (filters, sort) → contestant
-  drawer (`#/contestant/<slug>`) · Episodes (boots, Jeff's take, group-chat quotes) · Chart
-  (counted totals per elimination) · Rules.
+- Vite + React 19 + TypeScript + Tailwind v4 + recharts. **Mobile-first, same information on every
+  screen size** (settled in a second grilling session, 2026-08-30). Dark tropical theme (Bebas Neue
+  display font, torch orange / lagoon teal / sand).
+- Five tabs on both form factors: **Standings · Rosters · Cast · Episodes · Rules**.
+  - Standings = prize banner, leaderboard rows (rank, name, counted points, roster thumbs) that tap
+    to expand into per-castaway status/points, plus the points-over-time chart once the season starts.
+  - Rosters = *By drafter* / *By pick* toggle. By pick is the draft board (5-column grid on desktop,
+    ordered #1–#21 list with round dividers on mobile). Pre-season the site lands on Rosters/By pick;
+    in-season it lands on Standings and Rosters defaults to By drafter.
+  - Cast = list rows on mobile / grid cards on desktop, with a list–grid toggle, filters, and sort.
+  - Castaway detail = bottom sheet (~92 % tall, grab handle, swipe-down) on mobile, right-side drawer
+    on desktop; `#/contestant/<slug>` deep link. Prev/Next inside.
+  - Episodes = accordion: latest open, others collapsed to `Ep N · "Title" · date · 🔥 boots`.
+- Mobile chrome: compact one-line header that scrolls away; fixed bottom tab bar with SVG icons and
+  safe-area padding. Desktop: hero header + top pill tabs. No swipe gestures.
+- Installable: `public/manifest.webmanifest` + generated icons (`scripts/make-icons.ts`); no service
+  worker, no offline.
+- Old hashes (`#/leaderboard`, `#/board`, `#/contestants`, `#/chart`) redirect to the new tabs.
+- Visual QA trick: build with `npm run data -- --demo`, then drop an HTML page of 390 px same-origin
+  iframes into `dist/` and open it through `vite preview` — the only way to get a true phone-width
+  render from the Chrome extension.
 
 ## Admin
 - Local only: `/episode-update` skill (`.claude/skills/episode-update/SKILL.md`) guides

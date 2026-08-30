@@ -115,6 +115,20 @@ body {
 
 .drawer-backdrop { background: rgba(3, 8, 7, 0.7); backdrop-filter: blur(3px); }
 
+/* Mobile bottom tab bar: sits above the iPhone home indicator. */
+.bottom-bar {
+  background: color-mix(in oklab, var(--color-night-950) 92%, transparent);
+  backdrop-filter: blur(10px);
+  border-top: 1px solid color-mix(in oklab, var(--color-sand-300) 14%, transparent);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
+@keyframes sheet-up {
+  from { transform: translateY(24px); opacity: 0.6; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.sheet { animation: sheet-up 0.22s ease-out; overscroll-behavior: contain; }
+
 .scrollbar-thin::-webkit-scrollbar { height: 6px; width: 6px; }
 .scrollbar-thin::-webkit-scrollbar-thumb { background: var(--color-night-600); border-radius: 999px; }
 }

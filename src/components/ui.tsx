@@ -5,9 +5,9 @@ import { ordinal } from "../lib/format";
 
 export function SectionTitle({ children, sub }: { children: ReactNode; sub?: ReactNode }) {
   return (
-    <div className="mb-4 flex flex-wrap items-baseline justify-between gap-2">
-      <h2 className="font-display text-3xl sm:text-4xl text-sand-100">{children}</h2>
-      {sub && <div className="text-sm text-sand-400">{sub}</div>}
+    <div className="mb-3 sm:mb-4 flex flex-wrap items-center justify-between gap-2">
+      <h2 className="font-display text-2xl sm:text-4xl text-sand-100">{children}</h2>
+      {sub && <div className="text-xs sm:text-sm text-sand-400">{sub}</div>}
     </div>
   );
 }
@@ -85,8 +85,7 @@ export function ContestantCard({
       <Photo c={c} />
       <div className={`p-2.5 ${compact ? "space-y-1" : "space-y-1.5"}`}>
         <div className="font-semibold leading-tight text-sand-100 group-hover:text-torch-400 transition">
-          {c.nickname ? `${c.nickname}` : c.name.split(" ")[0]}{" "}
-          <span className="text-sand-300 font-medium">{c.name.split(" ").slice(1).join(" ")}</span>
+          {displayFirst(c)} <span className="text-sand-300 font-medium">{c.name.split(" ").slice(1).join(" ")}</span>
         </div>
         {!compact && (
           <div className="text-xs text-sand-400 leading-snug">
@@ -104,6 +103,13 @@ export function ContestantCard({
       </div>
     </button>
   );
+}
+
+/** "Jelly" Loblack, "Thien An" Nguyen — but Danny Kilby, not "Kilby Kilby". */
+export function displayFirst(c: ContestantView): string {
+  const [first, ...rest] = c.name.split(" ");
+  const last = rest.join(" ");
+  return c.nickname && c.nickname !== last ? c.nickname : first!;
 }
 
 export function Points({ n, className = "" }: { n: number; className?: string }) {

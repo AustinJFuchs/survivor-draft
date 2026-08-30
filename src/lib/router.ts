@@ -1,18 +1,27 @@
 import { useEffect, useState } from "react";
 
-export type Tab = "board" | "leaderboard" | "rosters" | "contestants" | "episodes" | "chart" | "rules";
+export type Tab = "standings" | "rosters" | "cast" | "episodes" | "rules";
 
 export interface Route {
   tab: Tab;
   contestant?: string;
 }
 
-const TABS: Tab[] = ["board", "leaderboard", "rosters", "contestants", "episodes", "chart", "rules"];
+const TABS: Tab[] = ["standings", "rosters", "cast", "episodes", "rules"];
+
+/** Old hashes from the first version keep working. */
+const LEGACY: Record<string, Tab> = {
+  leaderboard: "standings",
+  chart: "standings",
+  board: "rosters",
+  contestants: "cast",
+};
 
 export function parseHash(hash: string, fallback: Tab): Route {
   const parts = hash.replace(/^#\/?/, "").split("/").filter(Boolean);
-  if (parts[0] === "contestant" && parts[1]) return { tab: "contestants", contestant: decodeURIComponent(parts[1]) };
-  const tab = TABS.includes(parts[0] as Tab) ? (parts[0] as Tab) : fallback;
+  if (parts[0] === "contestant" && parts[1]) return { tab: "cast", contestant: decodeURIComponent(parts[1]) };
+  const raw = parts[0] ?? "";
+  const tab = TABS.includes(raw as Tab) ? (raw as Tab) : (LEGACY[raw] ?? fallback);
   return { tab };
 }
 

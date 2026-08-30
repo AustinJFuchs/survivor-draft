@@ -1,0 +1,16 @@
+{
+  "name": "Survivor 51 Draft",
+  "short_name": "S51 Draft",
+  "description": "Family fantasy draft leaderboard for Survivor 51",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07110f",
+  "theme_color": "#07110f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

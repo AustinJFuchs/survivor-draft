@@ -1,10 +1,17 @@
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 import { contestantBySlug, data, drafterById, drafterColor } from "../data";
 import { ordinal } from "../lib/format";
 import { DrafterChip, Photo, StatusPill, TribeBadge } from "./ui";
 
-export default function ContestantDrawer({ slug, onClose, onOpen }: { slug: string; onClose: () => void; onOpen: (slug: string) => void }) {
+/**
+ * Castaway detail. On phones it's a bottom sheet (~92% tall, grab handle,
+ * swipe-down to dismiss); from `sm` up it's a right-side drawer. Same content.
+ */
+export default function ContestantSheet({ slug, onClose, onOpen }: { slug: string; onClose: () => void; onOpen: (slug: string) => void }) {
   const c = contestantBySlug.get(slug);
+  const startY = useRef<number | null>(null);
+  const scrollRef = useRef<HTMLDivElement>(null);
+
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => e.key === "Escape" && onClose();
     window.addEventListener("keydown", onKey);
@@ -14,6 +21,9 @@ export default function ContestantDrawer({ slug, onClose, onOpen }: { slug: stri
       document.body.style.overflow = "";
     };
   }, [onClose]);
+  useEffect(() => {
+    scrollRef.current?.scrollTo({ top: 0 });
+  }, [slug]);
   if (!c) return null;
 
   const order = data.contestants.map((x) => x.slug);
@@ -25,22 +35,39 @@ export default function ContestantDrawer({ slug, onClose, onOpen }: { slug: stri
   const dropped = standing?.dropped === c.slug;
   const { scoring } = data.season;
 
+  const onTouchStart = (e: React.TouchEvent) => (startY.current = e.touches[0]?.clientY ?? null);
+  const onTouchEnd = (e: React.TouchEvent) => {
+    const y = e.changedTouches[0]?.clientY ?? 0;
+    if (startY.current !== null && y - startY.current > 80) onClose();
+    startY.current = null;
+  };
+
   return (
-    <div className="fixed inset-0 z-50 flex justify-end" role="dialog" aria-modal="true" aria-label={c.name}>
+    <div className="fixed inset-0 z-50 flex items-end sm:items-stretch sm:justify-end" role="dialog" aria-modal="true" aria-label={c.name}>
       <div className="absolute inset-0 drawer-backdrop" onClick={onClose} />
-      <aside className="relative w-full sm:max-w-md md:max-w-lg h-full overflow-y-auto bg-night-900 border-l border-sand-300/10 shadow-2xl scrollbar-thin">
-        <div className="sticky top-0 z-10 flex items-center justify-between px-4 py-2 bg-night-900/90 backdrop-blur border-b border-sand-300/10">
-          <div className="flex gap-1">
-            <button onClick={() => onOpen(prev)} className="chip text-sand-300 cursor-pointer">← Prev</button>
-            <button onClick={() => onOpen(next)} className="chip text-sand-300 cursor-pointer">Next →</button>
+      <aside
+        ref={scrollRef}
+        className="sheet relative w-full h-[92dvh] sm:h-full sm:max-w-md md:max-w-lg overflow-y-auto bg-night-900 border-t sm:border-t-0 sm:border-l border-sand-300/10 shadow-2xl rounded-t-2xl sm:rounded-none scrollbar-thin"
+      >
+        <div
+          className="sticky top-0 z-10 bg-night-900/95 backdrop-blur border-b border-sand-300/10"
+          onTouchStart={onTouchStart}
+          onTouchEnd={onTouchEnd}
+        >
+          <div className="sm:hidden mx-auto mt-2 h-1.5 w-12 rounded-full bg-sand-300/30" aria-hidden />
+          <div className="flex items-center justify-between px-3 sm:px-4 py-2">
+            <div className="flex gap-1">
+              <button onClick={() => onOpen(prev)} className="chip text-sand-300 cursor-pointer">← Prev</button>
+              <button onClick={() => onOpen(next)} className="chip text-sand-300 cursor-pointer">Next →</button>
+            </div>
+            <button onClick={onClose} className="chip text-sand-200 cursor-pointer">Close ✕</button>
           </div>
-          <button onClick={onClose} className="chip text-sand-200 cursor-pointer">Close ✕</button>
         </div>
 
         <div className={`relative ${c.status === "eliminated" ? "eliminated" : ""}`}>
           <Photo c={c} eager className="w-full !aspect-[4/3] sm:!aspect-[3/2]" />
           <div className="absolute inset-x-0 bottom-0 p-4 bg-gradient-to-t from-night-900 via-night-900/70 to-transparent">
-            <div className="font-display text-4xl leading-none torch-glow">{c.name}</div>
+            <div className="font-display text-3xl sm:text-4xl leading-none torch-glow">{c.name}</div>
             {c.nickname && <div className="text-sand-300 text-sm">"{c.nickname}"</div>}
             <div className="flex flex-wrap gap-1.5 mt-2">
               <StatusPill c={c} />
@@ -50,7 +77,7 @@ export default function ContestantDrawer({ slug, onClose, onOpen }: { slug: stri
           </div>
         </div>
 
-        <div className="p-4 space-y-5">
+        <div className="p-4 space-y-5 pb-[calc(1rem+env(safe-area-inset-bottom))]">
           <dl className="grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
             <Row k="Age" v={String(c.age)} />
             <Row k="Occupation" v={c.occupation} />
