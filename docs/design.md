@@ -151,6 +151,16 @@ what-if simulator which runs the same engine in the browser.
 - Shown at the top of the drafter sheet beneath a computed strip (still in, avg age, tribe split, top
   scorer, GPA); the nickname also appears under the drafter's name on Standings.
 
+## Jeff's State of the Draft
+- `scripts/rundown.ts` → `data/51/rundowns.json` (archive keyed by episode, "0" = pre-season): a
+  headline, ~90-word comparison of all five drafts, one line per drafter in rank order, and two
+  awards (Draft/Ouch of the week; Boldest/Safest pre-season). Facts (standings, deltas since the
+  previous episode, boots, badges, outlook, nicknames, steal/reach, finale math) come from the engine.
+  Hash-based refresh → once per episode. Pipeline step after teams. Edits: `overrides.rundowns[key]`.
+- Latest shown at the top of Standings (headline + overview visible; lines/awards expandable);
+  earlier ones appear inside their episode on the Episodes tab. The headline is printed on the
+  standings share card.
+
 ## Admin
 - Local only: `/episode-update` skill (`.claude/skills/episode-update/SKILL.md`) guides
   corrections, fun facts, quotes, commentary edits; shows the leaderboard diff; commits and pushes.

@@ -219,8 +219,25 @@ export interface TeamSummary {
   edited?: boolean;
 }
 
+/** "Jeff's State of the Draft": a comparison of all drafts, one per episode (key "0" = pre-season). */
+export interface Rundown {
+  key: string;
+  episode?: number;
+  eliminations: number;
+  headline: string;
+  overview: string;
+  lines: { drafterId: string; text: string }[];
+  awards: { label: string; drafterId: string; text: string }[];
+  generatedAt: string;
+  model: string;
+  sourceHash: string;
+  edited?: boolean;
+}
+
 /** Human-owned corrections. Every field optional; anything present wins. */
 export interface Overrides {
+  /** Edit a rundown by key ("0" pre-season, else episode number). */
+  rundowns?: Record<string, Partial<Pick<Rundown, "headline" | "overview" | "lines" | "awards">>>;
   /** Edit or replace a generated team summary. */
   teams?: Record<string, Partial<Pick<TeamSummary, "nickname" | "summary" | "bullets">>>;
   /** Edit or replace a generated profile. */
@@ -408,6 +425,9 @@ export interface SeasonData {
   drafterStats: DrafterStats[];
   /** drafterId → team summary (generated + overrides). */
   teams: Record<string, TeamSummary>;
+  /** key → rundown archive; `latestRundown` is the one for the current state. */
+  rundowns: Record<string, Rundown>;
+  latestRundown?: Rundown;
   /** Tribe name → CSS colour; auto palette unless overridden. */
   tribeColors: Record<string, string>;
   season: SeasonConfig;

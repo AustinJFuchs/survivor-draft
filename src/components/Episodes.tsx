@@ -5,6 +5,7 @@ import { ChevronIcon } from "./icons";
 import { DrafterChip, Photo, SectionTitle } from "./ui";
 import ShareButton from "./ShareButton";
 import VotingMatrix from "./VotingMatrix";
+import RundownCard from "./RundownCard";
 
 export default function Episodes({ onOpen }: { onOpen: (slug: string) => void }) {
   const aired = data.episodes.filter((e) => e.aired || e.eliminations.length > 0).sort((a, b) => b.number - a.number);
@@ -157,6 +158,8 @@ export default function Episodes({ onOpen }: { onOpen: (slug: string) => void })
                     ) : (
                       <div className="text-sm text-sand-400">Jeff's commentary is on its way — it's generated once recaps are published.</div>
                     )}
+
+                    {data.rundowns[String(ep.number)] && data.latestRundown?.key !== String(ep.number) && <RundownCard rundown={data.rundowns[String(ep.number)]!} compact />}
 
                     {ep.quotes.length > 0 && (
                       <div className="space-y-2">

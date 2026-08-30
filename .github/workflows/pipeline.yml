@@ -82,6 +82,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run teams
 
+      - name: Generate Jeff's State of the Draft (only when facts changed)
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run rundown
+
       - name: Commit scraped data & commentary
         if: ${{ github.event_name != 'push' }}
         run: |

@@ -150,7 +150,16 @@ function standingsBlock(data: SeasonData, opts: { photos?: boolean } = {}): Node
 function standingsCard(data: SeasonData): Node {
   const gone = data.eliminations.length;
   const sub = data.seasonStarted ? `${gone} gone · ${data.contestants.length - gone} remain` : `Premieres ${data.season.premiereDate}`;
-  return frame(data, "Standings", sub, standingsBlock(data), h("div", { style: { height: 26 } }), h("div", { style: body(24, C.sand3) }, `Prize: ${data.season.prize.description}`));
+  const headline = data.latestRundown?.headline;
+  return frame(
+    data,
+    "Standings",
+    sub,
+    ...(headline ? [h("div", { style: { display: "flex", gap: 14, alignItems: "flex-start", marginBottom: 22 } }, h("div", { style: display(30, C.torch4) }, "JEFF:"), h("div", { style: display(40, C.sand, { flex: 1 }) }, headline))] : []),
+    standingsBlock(data),
+    h("div", { style: { height: 26 } }),
+    h("div", { style: body(24, C.sand3) }, `Prize: ${data.season.prize.description}`),
+  );
 }
 
 function draftCard(data: SeasonData): Node {

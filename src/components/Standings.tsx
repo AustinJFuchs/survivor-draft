@@ -8,6 +8,7 @@ import Paths from "./Paths";
 import ShareButton from "./ShareButton";
 import { Photo, Points, SectionTitle, StatusPill } from "./ui";
 import WhatIf from "./WhatIf";
+import RundownCard from "./RundownCard";
 
 export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: string) => void; onOpenDrafter: (id: string) => void }) {
   const { season, standings } = data;
@@ -29,6 +30,8 @@ export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: st
       >
         Standings
       </SectionTitle>
+
+      {data.latestRundown && <RundownCard rundown={data.latestRundown} onOpenDrafter={onOpenDrafter} />}
 
       <div className="card p-3 sm:p-5 flex items-center gap-3 sm:gap-5 border-torch-500/40 bg-gradient-to-r from-torch-600/20 to-transparent">
         <div className="text-2xl sm:text-3xl">🏆</div>

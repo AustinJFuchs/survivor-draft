@@ -24,7 +24,7 @@ import type {
 } from "../src/lib/types";
 import { computeHistory, computeStandings, scoreContestants, sortEliminations } from "../src/lib/scoring";
 import { GRADES_EARLY_UNTIL, computeBadges, computeGrades, computePaths, computeProjection, weekSummaries } from "../src/lib/analysis";
-import type { DrafterStats, TeamSummary } from "../src/lib/types";
+import type { DrafterStats, Rundown, TeamSummary } from "../src/lib/types";
 import { DATA_DIR, GENERATED_DIR, dataPath, readJson, writeJson } from "./lib/paths";
 
 export interface BuildInputs {
@@ -36,6 +36,7 @@ export interface BuildInputs {
   commentary: Commentary[];
   profiles: Record<string, Profile>;
   teams: Record<string, TeamSummary>;
+  rundowns: Record<string, Rundown>;
 }
 
 export function loadInputs(): BuildInputs {
@@ -53,7 +54,8 @@ export function loadInputs(): BuildInputs {
   }
   const profiles = readJson<Record<string, Profile>>(dataPath("profiles.json"), {});
   const teams = readJson<Record<string, TeamSummary>>(dataPath("teams.json"), {});
-  return { season, contestants, draft, scraped, overrides, commentary, profiles, teams };
+  const rundowns = readJson<Record<string, Rundown>>(dataPath("rundowns.json"), {});
+  return { season, contestants, draft, scraped, overrides, commentary, profiles, teams, rundowns };
 }
 
 export function buildSeasonData(inp: BuildInputs): SeasonData {
@@ -334,12 +336,22 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
     teams[d.id] = ov ? { ...base, ...ov, edited: true } : base;
   }
 
+  // ----- rundowns: archive + overrides; latest = highest eliminations count -----
+  const rundowns: Record<string, Rundown> = {};
+  for (const [k, r] of Object.entries(inp.rundowns)) {
+    const ov = overrides.rundowns?.[k];
+    rundowns[k] = ov ? { ...r, ...ov, edited: true } : r;
+  }
+  const latestRundown = Object.values(rundowns).sort((a, b) => b.eliminations - a.eliminations || (b.episode ?? 0) - (a.episode ?? 0))[0];
+
   return {
     season,
     contestants,
     drafterStats,
     tribeColors,
     teams,
+    rundowns,
+    latestRundown,
     draft: { ...draft, picks },
     episodes,
     eliminations,

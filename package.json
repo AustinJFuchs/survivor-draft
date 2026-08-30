@@ -19,7 +19,8 @@
     "report": "tsx scripts/report.ts",
     "profiles": "tsx scripts/profiles.ts",
     "cards": "tsx scripts/cards.ts",
-    "teams": "tsx scripts/teams.ts"
+    "teams": "tsx scripts/teams.ts",
+    "rundown": "tsx scripts/rundown.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",

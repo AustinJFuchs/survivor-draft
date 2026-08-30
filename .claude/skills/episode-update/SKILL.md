@@ -30,6 +30,8 @@ You maintain `data/51/overrides.json` (human-owned; always wins over `scraped.js
      regenerate one with `npm run profiles -- --slug <slug> --force`.
    - Team summaries (drafter sheet): edit `teams[drafterId].nickname` / `.summary` / `.bullets`
      in overrides, or regenerate with `npm run teams -- --drafter <id> --force`.
+   - Jeff's State of the Draft (top of Standings): edit `rundowns["<episode|0>"].headline` /
+     `.overview` / `.lines` / `.awards` in overrides, or `npm run rundown -- --force`.
 4. **Write the override.** Shapes (all optional, merged by slug/episode):
    ```json
    {

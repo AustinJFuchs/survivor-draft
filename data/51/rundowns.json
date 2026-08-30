@@ -1,0 +1,45 @@
+{
+  "0": {
+    "key": "0",
+    "eliminations": 0,
+    "headline": "Twenty-one names, zero torches snuffed, five very different bets",
+    "overview": "Five drafts, zero points, and 114 on the table for every single one of you — that's as level as this beach gets. Austin bookended his board with Linnea and Jenna at five and six, then waited until fifteen and sixteen for Carter and Eric. Kylie built around professions that talk for a living. Tami had the first pick, the twentieth, and the leftover twenty-first, and she's the only one carrying five with just her best four counting. Taylor took Kristin at two and spread out from there. Tim farmed early and often. Different shapes, identical scoreboard.",
+    "lines": [
+      {
+        "drafterId": "austin",
+        "text": "Picking last in the snake handed Austin back-to-back at five and six, and he used Linnea and Jenna to open before circling back for Carter and Eric in the mid-teens."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "Aaliyah at three, Cristian at eight, Alexis at thirteen, Kilby at eighteen — Kylie's board is a clean five-pick rhythm, and a chef, an HR head, a defense attorney and a game designer is a roster that can read a room."
+      },
+      {
+        "drafterId": "tami",
+        "text": "Tami owned the first overall pick in Jelly and then stacked Patt and Mike back-to-back at ten and eleven, and the leftover twenty-first in Sharonda gives her five bodies where only the best four count."
+      },
+      {
+        "drafterId": "taylor",
+        "text": "Taylor grabbed the oldest name on any board in 49-year-old Kristin at number two, then went Ori, Ana and Brady — crisis management, cardio, and a pro wrestler is exactly the chaos she advertised."
+      },
+      {
+        "drafterId": "tim",
+        "text": "Tim took Lewis at four and Maggie at seven, giving him the only two farmers he could find, before adding Devin and Thien An to round out the Charm Farm."
+      }
+    ],
+    "awards": [
+      {
+        "label": "Boldest draft",
+        "drafterId": "tami",
+        "text": "Using the first overall pick on Jelly and then rolling with a fifth castaway in Sharonda that may never count for a single point — that's a big swing."
+      },
+      {
+        "label": "Safest draft",
+        "drafterId": "kylie",
+        "text": "Aaliyah, Cristian, Alexis and Kilby came off the board at three, eight, thirteen and eighteen — no reaches, no leftovers, just four evenly spaced picks."
+      }
+    ],
+    "generatedAt": "2026-08-30T15:08:02.282Z",
+    "model": "claude-opus-5",
+    "sourceHash": "8516fdc3b2e9"
+  }
+}
