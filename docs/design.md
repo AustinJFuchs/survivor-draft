@@ -77,7 +77,14 @@ Scoring is computed at build time by `src/lib/scoring.ts` (pure; unit-tested).
     in-season it lands on Standings and Rosters defaults to By drafter.
   - Cast = list rows on mobile / grid cards on desktop, with a list–grid toggle, filters, and sort.
   - Castaway detail = bottom sheet (~92 % tall, grab handle, swipe-down) on mobile, right-side drawer
-    on desktop; `#/contestant/<slug>` deep link. Prev/Next inside.
+    on desktop; `#/contestant/<slug>` deep link. Prev/Next inside. Sections: facts (incl. birthday,
+    age this season, alliances, finish), draft context (pick, neighbours, contribution to the
+    drafter's counted total, roster mates), points (rank of 21, sparkline, breakdown), episode ledger
+    (survived/eliminated, immunity/reward mentions, votes for/against with voters and tally), Jeff's
+    mentions (sentences from commentary naming them), linked group-chat quotes
+    (`quotes[].contestantSlug`), bio, EW/CBS questionnaire, fun facts, extra wiki photos (hotlinked).
+    Votes come from Wikipedia's voting-history voter rows; questionnaire/birthdate/alliances/photos
+    from the Survivor Wiki page. All display-only.
   - Episodes = accordion: latest open, others collapsed to `Ep N · "Title" · date · 🔥 boots`.
 - Mobile chrome: compact one-line header that scrolls away; fixed bottom tab bar with SVG icons and
   safe-area padding. Desktop: hero header + top pill tabs. No swipe gestures.

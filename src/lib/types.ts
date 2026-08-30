@@ -137,6 +137,27 @@ export interface WikiExtras {
   votesAgainst?: number;
   daysLasted?: string;
   pageUrl?: string;
+  /** EW/CBS pre-season questionnaire ("Hobbies", "Pet peeves", ...). */
+  qa?: { question: string; answer: string }[];
+  birthdate?: string; // ISO date
+  alliances?: string[];
+  /** Extra wiki images (hotlinked, display only). */
+  photos?: { url: string; caption?: string }[];
+}
+
+/** One Tribal Council column from the voting-history table, for one castaway. */
+export interface VoteRecord {
+  episode?: number;
+  day?: number;
+  /** Who this castaway voted for (slug), if they voted. */
+  votedFor?: string;
+  /** Raw cell text when it isn't a name ("Immune", "Won", ...). */
+  votedForText?: string;
+  /** Votes cast against this castaway at that council. */
+  votesAgainst: number;
+  voters: string[]; // slugs
+  /** Vote tally text for the council, e.g. "5–1". */
+  tally?: string;
 }
 
 export interface ScrapedData {
@@ -147,6 +168,8 @@ export interface ScrapedData {
   eliminations: Elimination[];
   milestones: Milestones;
   extras: Record<string, WikiExtras>;
+  /** slug → one record per Tribal Council column. */
+  votes?: Record<string, VoteRecord[]>;
   warnings: string[];
 }
 
@@ -156,6 +179,8 @@ export interface Quote {
   drafterId: string;
   text: string;
   date?: string;
+  /** Optional: the castaway this quote is about; shows on their sheet. */
+  contestantSlug?: string;
 }
 
 export interface Commentary {
@@ -195,6 +220,23 @@ export type ContestantStatus =
   | "finalist"
   | "winner";
 
+export interface LedgerRow {
+  episode: number;
+  title?: string;
+  /** Points earned during this episode (survival + any bonuses that landed). */
+  points: number;
+  survived: boolean;
+  eliminated: boolean;
+  /** Named individually in the episode's immunity / reward winners text. */
+  immunity: boolean;
+  reward: boolean;
+  votesAgainst: number;
+  voters: string[];
+  votedFor?: string;
+  votedForText?: string;
+  tally?: string;
+}
+
 export interface ContestantView extends Contestant {
   drafterId?: string;
   pick?: DraftPick;
@@ -208,6 +250,24 @@ export interface ContestantView extends Contestant {
   extras?: WikiExtras;
   funFacts: { text: string; source: "wiki" | "manual" }[];
   points: ContestantPoints;
+  /** 1-based rank among all castaways by points (ties share). */
+  rank: number;
+  /** 1-based rank within the drafter's roster. */
+  rosterRank?: number;
+  /** True if this castaway's points are counted in the drafter's total. */
+  counted?: boolean;
+  /** Picks immediately before/after this one in draft order. */
+  pickBefore?: DraftPick;
+  pickAfter?: DraftPick;
+  /** Cumulative points after each elimination event (index 0 = start). */
+  sparkline: number[];
+  ledger: LedgerRow[];
+  votes: VoteRecord[];
+  /** Sentences from Jeff's commentary that mention this castaway. */
+  mentions: { episode: number; text: string }[];
+  /** Group-chat quotes linked to this castaway. */
+  quotes: Quote[];
+  ageOnDayOne?: number;
 }
 
 export interface ContestantPoints {

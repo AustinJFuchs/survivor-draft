@@ -65,6 +65,22 @@ test("S49 voting history: eliminated to episode", () => {
   assert.equal(vh.mergedTribe, "Lewatu");
 });
 
+test("S49 voting history: voter rows", () => {
+  const vh = parseVotingHistory(fixture("wikipedia-survivor-49.wikitext"));
+  const savannah = vh.voters.find((v) => v.name === "Savannah")!;
+  assert.ok(savannah);
+  // Column 4 (index 4) = episode 5: Savannah voted Jason; she had no vote in episode 1.
+  assert.equal(savannah.cells[0], undefined);
+  assert.equal(savannah.cells[4], "Jason");
+  const nicoleCol = vh.columns.findIndex((c) => c.eliminated === "Nicole");
+  const votesForNicole = vh.voters.filter((v) => v.cells[nicoleCol] === "Nicole").length;
+  assert.equal(votesForNicole, 5);
+  assert.equal(vh.columns[nicoleCol]!.tally, "5–1");
+  // Rowspan copies (Jawan's colspan=2 vote spans two columns) belong to the voter row itself.
+  const sophi = vh.voters.find((v) => v.name === "Sophi")!;
+  assert.equal(sophi.cells[10], "Jawan");
+});
+
 test("S51 voting history: empty columns, no eliminations", () => {
   const vh = parseVotingHistory(fixture("wikipedia-survivor-51.wikitext"));
   assert.ok(vh.columns.length >= 13);
@@ -104,4 +120,12 @@ test("fandom contestant page extras", () => {
   assert.ok(x.bio && x.bio.startsWith("Savannah Katlyn Louie is the Sole Survivor"));
   assert.ok(x.trivia && x.trivia.length >= 3);
   assert.ok(x.trivia![0]!.includes("applying for the show"));
+  assert.equal(x.birthdate, "1993-11-16");
+  assert.deepEqual(x.alliances, ["Uli Alliance"]);
+  assert.ok(x.qa && x.qa.length >= 5, "questionnaire parsed");
+  const hobbies = x.qa!.find((q) => /hobbies/i.test(q.question))!;
+  assert.equal(hobbies.answer, "Yoga, Pilates, hiking");
+  assert.ok(!x.qa!.some((q) => /^age$|^hometown$|^occupation$/i.test(q.question)), "basic fields excluded");
+  const prev = x.qa!.find((q) => /previous player/i.test(q.question))!;
+  assert.ok(prev.answer.startsWith("I'm going to embody Kim Spradlin"));
 });

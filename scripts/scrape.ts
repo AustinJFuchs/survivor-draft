@@ -8,7 +8,7 @@
 // in overrides.json and are applied by build-data.ts.
 
 import { readFileSync } from "node:fs";
-import type { Contestant, Elimination, EpisodeInfo, Milestones, ScrapedData, WikiExtras, ContestantTribes } from "../src/lib/types";
+import type { Contestant, Elimination, EpisodeInfo, Milestones, ScrapedData, WikiExtras, ContestantTribes, VoteRecord } from "../src/lib/types";
 import { dataPath, readJson, writeJson } from "./lib/paths";
 import { fetchWikitext, WIKIPEDIA_API } from "./lib/http";
 import { NameMatcher } from "./lib/names";
@@ -126,6 +126,40 @@ export async function scrape(args: Args): Promise<ScrapedData> {
     }
   }
 
+  // ---- Votes: per castaway, one record per Tribal Council column ----
+  const votes: Record<string, VoteRecord[]> = {};
+  const voterSlug = new Map<string, string | undefined>(vh.voters.map((v) => [v.name, matcher.match(v.name)]));
+  for (let c = 0; c < vh.columns.length; c++) {
+    const col = vh.columns[c]!;
+    const cast = vh.voters
+      .map((v) => ({ voter: voterSlug.get(v.name), cell: v.cells[c] }))
+      .filter((x): x is { voter: string; cell: string | undefined } => !!x.voter);
+    if (cast.every((x) => !x.cell)) continue; // column with no votes recorded yet
+    for (const { voter, cell } of cast) {
+      const rec: VoteRecord = { episode: col.episode, day: col.day, votesAgainst: 0, voters: [], tally: col.tally };
+      if (cell) {
+        const target = matcher.match(cell);
+        if (target) rec.votedFor = target;
+        else rec.votedForText = cell;
+      }
+      (votes[voter] ??= []).push(rec);
+    }
+    // Count votes received.
+    for (const { voter, cell } of cast) {
+      const target = cell ? matcher.match(cell) : undefined;
+      if (!target) continue;
+      const list = (votes[target] ??= []);
+      let rec = list.find((r) => r.episode === col.episode && r.day === col.day);
+      if (!rec) {
+        rec = { episode: col.episode, day: col.day, votesAgainst: 0, voters: [], tally: col.tally };
+        list.push(rec);
+      }
+      rec.votesAgainst++;
+      rec.voters.push(voter);
+    }
+  }
+  for (const v of vh.voters) if (!voterSlug.get(v.name)) warnings.push(`Wikipedia voting history: unmatched voter "${v.name}"`);
+
   // Merge episode: first voting-history column whose tribe is the merged tribe.
   if (milestones.merged.length > 0) {
     const mergedTribe = vh.mergedTribe ?? Object.values(tribes).find((t) => t.merged)?.merged;
@@ -176,7 +210,7 @@ export async function scrape(args: Args): Promise<ScrapedData> {
           continue;
         }
         try {
-          const x = await fetchContestantExtras(title);
+          const x = await fetchContestantExtras(title, season.id);
           if (x) extras[slug] = x;
         } catch (err) {
           warnings.push(`Survivor Wiki: failed ${title}: ${(err as Error).message}`);
@@ -200,6 +234,7 @@ export async function scrape(args: Args): Promise<ScrapedData> {
     eliminations,
     milestones,
     extras,
+    votes,
     warnings,
   };
 }

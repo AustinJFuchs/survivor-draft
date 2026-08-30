@@ -11,6 +11,7 @@ import type {
   DraftConfig,
   Elimination,
   EpisodeView,
+  LedgerRow,
   Milestones,
   Overrides,
   Quote,
@@ -18,6 +19,7 @@ import type {
   SeasonConfig,
   SeasonData,
   ContestantTribes,
+  VoteRecord,
 } from "../src/lib/types";
 import { computeHistory, computeStandings, scoreContestants, sortEliminations } from "../src/lib/scoring";
 import { DATA_DIR, GENERATED_DIR, dataPath, readJson, writeJson } from "./lib/paths";
@@ -117,43 +119,6 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
   const standings = computeStandings({ ...standingsInput, points, eliminated: eliminatedSet });
   const history = computeHistory(scoreInput, standingsInput);
 
-  // ----- contestants view -----
-  const pickBySlug = new Map(picks.map((p) => [p.contestantSlug, p]));
-  const elimBySlug = new Map(eliminations.map((e) => [e.contestantSlug, e]));
-  const contestants: ContestantView[] = inp.contestants.map((base) => {
-    const c: Contestant = { ...base, ...(overrides.contestants?.[base.slug] ?? {}) };
-    const scrapedTribes = scraped.tribes?.[c.slug];
-    const tribeOverride = overrides.tribes?.[c.slug] ?? {};
-    const tribes: ContestantTribes = {
-      ...(scrapedTribes ?? {}),
-      ...tribeOverride,
-      history: tribeOverride.history ?? scrapedTribes?.history ?? [],
-    };
-    if (!tribes.current) tribes.current = tribes.history[tribes.history.length - 1] ?? tribes.original;
-    const elimination = elimBySlug.get(c.slug);
-    const winner = milestones.winner === c.slug;
-    const finalist = milestones.finalists.includes(c.slug);
-    const status = winner ? "winner" : finalist ? "finalist" : elimination ? "eliminated" : "active";
-    const wikiFacts = (scraped.extras?.[c.slug]?.trivia ?? []).map((t) => ({ text: t, source: "wiki" as const }));
-    const manualFacts = (overrides.funFacts?.[c.slug] ?? []).map((t) => ({ text: t, source: "manual" as const }));
-    const pick = pickBySlug.get(c.slug);
-    return {
-      ...c,
-      drafterId: pick?.drafterId,
-      pick,
-      tribes,
-      status,
-      elimination,
-      placement: milestones.placements[c.slug],
-      merged: milestones.merged.includes(c.slug),
-      finalist,
-      winner,
-      extras: scraped.extras?.[c.slug],
-      funFacts: [...manualFacts, ...wikiFacts],
-      points: points[c.slug]!,
-    };
-  });
-
   // ----- episodes view -----
   const epMap = new Map<number, EpisodeView>();
   for (const e of scraped.episodes ?? []) epMap.set(e.number, { ...e, eliminations: [], quotes: [] });
@@ -192,6 +157,129 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
   const episodes = [...epMap.values()]
     .map((e) => ({ ...e, aired: e.aired ?? (e.airDate ? e.airDate <= today : e.eliminations.length > 0) }))
     .sort((a, b) => a.number - b.number);
+
+  // ----- contestants view -----
+  const pickBySlug = new Map(picks.map((p) => [p.contestantSlug, p]));
+  const elimBySlug = new Map(eliminations.map((e) => [e.contestantSlug, e]));
+  // Derived helpers for the sheet: rank, ledger, sparkline, mentions, linked quotes.
+  const sortedByPoints = [...inp.contestants].map((c) => c.slug).sort((a, b) => (points[b]!.total - points[a]!.total) || a.localeCompare(b));
+  const rankOf = new Map<string, number>();
+  sortedByPoints.forEach((slug, i) => {
+    const prev = sortedByPoints[i - 1];
+    rankOf.set(slug, prev && points[prev]!.total === points[slug]!.total ? rankOf.get(prev)! : i + 1);
+  });
+  const sortedPicks = [...picks].sort((a, b) => a.overall - b.overall);
+  const standingBySlugDrafter = new Map(standings.map((s) => [s.drafterId, s]));
+  const sentences = (text: string) => text.split(/(?<=[.!?])\s+/).map((t) => t.trim()).filter(Boolean);
+  const escapeRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const nameRe = (c: Contestant) => {
+    const names = [c.name, c.shortName, c.nickname, c.name.split(" ")[0]].filter((n): n is string => !!n && n.length > 1);
+    return new RegExp("\\b(" + names.map(escapeRe).join("|") + ")\\b", "i");
+  };
+  const votesBySlug = scraped.votes ?? {};
+
+  const contestants: ContestantView[] = inp.contestants.map((base) => {
+    const c: Contestant = { ...base, ...(overrides.contestants?.[base.slug] ?? {}) };
+    const scrapedTribes = scraped.tribes?.[c.slug];
+    const tribeOverride = overrides.tribes?.[c.slug] ?? {};
+    const tribes: ContestantTribes = {
+      ...(scrapedTribes ?? {}),
+      ...tribeOverride,
+      history: tribeOverride.history ?? scrapedTribes?.history ?? [],
+    };
+    if (!tribes.current) tribes.current = tribes.history[tribes.history.length - 1] ?? tribes.original;
+    const elimination = elimBySlug.get(c.slug);
+    const winner = milestones.winner === c.slug;
+    const finalist = milestones.finalists.includes(c.slug);
+    const status = winner ? "winner" : finalist ? "finalist" : elimination ? "eliminated" : "active";
+    const wikiFacts = (scraped.extras?.[c.slug]?.trivia ?? []).map((t) => ({ text: t, source: "wiki" as const }));
+    const manualFacts = (overrides.funFacts?.[c.slug] ?? []).map((t) => ({ text: t, source: "manual" as const }));
+    const pick = pickBySlug.get(c.slug);
+    const pickIdx = pick ? sortedPicks.findIndex((p) => p.overall === pick.overall) : -1;
+    const standing = pick ? standingBySlugDrafter.get(pick.drafterId) : undefined;
+    const rosterSlugs = standing ? picks.filter((p) => p.drafterId === standing.drafterId).map((p) => p.contestantSlug) : [];
+    const rosterSorted = [...rosterSlugs].sort((a, b) => points[b]!.total - points[a]!.total || a.localeCompare(b));
+
+    // Sparkline: cumulative points after each elimination event.
+    const sparkline: number[] = [];
+    for (let step = 0; step <= eliminations.length; step++) sparkline.push(scoreContestants(scoreInput, step)[c.slug]!.total);
+
+    // Ledger: one row per aired episode with an elimination or a vote record.
+    const myVotes: VoteRecord[] = votesBySlug[c.slug] ?? [];
+    const ledger: LedgerRow[] = [];
+    let prevTotal = 0;
+    const epNumbers = [...new Set([...eliminations.map((e) => e.episode), ...myVotes.map((v) => v.episode)].filter((n): n is number => n !== undefined))].sort((a, b) => a - b);
+    for (const n of epNumbers) {
+      // Nothing to say about episodes after this castaway left.
+      if (elimination?.episode !== undefined && n > elimination.episode) break;
+      const ep = epMap.get(n);
+      const stepsThroughEp = eliminations.filter((e) => e.episode !== undefined && e.episode <= n).length;
+      const totalAfter = scoreContestants(scoreInput, stepsThroughEp)[c.slug]!.total;
+      const outHere = elimination?.episode === n;
+      const wasOutBefore = elimination?.episode !== undefined && elimination.episode < n;
+      const re = nameRe(c);
+      const v = myVotes.filter((x) => x.episode === n);
+      ledger.push({
+        episode: n,
+        title: ep?.title,
+        points: totalAfter - prevTotal,
+        survived: !outHere && !wasOutBefore,
+        eliminated: outHere,
+        immunity: !!ep?.immunityWinners && re.test(ep.immunityWinners),
+        reward: !!ep?.rewardWinners && re.test(ep.rewardWinners),
+        votesAgainst: v.reduce((s, x) => s + x.votesAgainst, 0),
+        voters: [...new Set(v.flatMap((x) => x.voters))],
+        votedFor: v.find((x) => x.votedFor)?.votedFor,
+        votedForText: v.find((x) => x.votedForText)?.votedForText,
+        tally: v.find((x) => x.tally)?.tally,
+      });
+      prevTotal = totalAfter;
+    }
+
+    // Jeff's mentions.
+    const mentions: { episode: number; text: string }[] = [];
+    for (const [n, com] of commentaryByEp) {
+      const re = nameRe(c);
+      const text = [com.recap, ...com.bullets, com.draftImpact].join(" ");
+      for (const sent of sentences(text)) if (re.test(sent)) mentions.push({ episode: n, text: sent });
+    }
+
+    const bd = scraped.extras?.[c.slug]?.birthdate;
+    let ageOnDayOne: number | undefined;
+    if (bd) {
+      // Day 1 ≈ filming start; premiere date is a fine public proxy for "age this season".
+      const d1 = new Date(season.premiereDate);
+      const b = new Date(bd);
+      ageOnDayOne = d1.getFullYear() - b.getFullYear() - (d1 < new Date(d1.getFullYear(), b.getMonth(), b.getDate()) ? 1 : 0);
+    }
+
+    return {
+      ...c,
+      drafterId: pick?.drafterId,
+      pick,
+      tribes,
+      status,
+      elimination,
+      placement: milestones.placements[c.slug],
+      merged: milestones.merged.includes(c.slug),
+      finalist,
+      winner,
+      extras: scraped.extras?.[c.slug],
+      funFacts: [...manualFacts, ...wikiFacts],
+      points: points[c.slug]!,
+      rank: rankOf.get(c.slug) ?? 0,
+      rosterRank: rosterSorted.length ? rosterSorted.indexOf(c.slug) + 1 : undefined,
+      counted: standing ? standing.counted.includes(c.slug) : undefined,
+      pickBefore: pickIdx > 0 ? sortedPicks[pickIdx - 1] : undefined,
+      pickAfter: pickIdx >= 0 && pickIdx < sortedPicks.length - 1 ? sortedPicks[pickIdx + 1] : undefined,
+      sparkline,
+      ledger,
+      votes: myVotes,
+      mentions,
+      quotes: (overrides.quotes ?? []).filter((q) => q.contestantSlug === c.slug),
+      ageOnDayOne,
+    };
+  });
 
   return {
     season,
@@ -249,8 +337,7 @@ export function applyDemo(inp: BuildInputs): BuildInputs {
       episode: 3,
       generatedAt: new Date().toISOString(),
       model: "demo",
-      recap:
-        "Twenty-one castaways, two tribes, and one rule: anything can happen. Tonight it did. A medevac shook the beach before the first challenge, and the vote that followed was as messy as a Fijian rainstorm.",
+      recap: `Twenty-one castaways, two tribes, and one rule: anything can happen. Tonight it did. ${inp.contestants.find((c) => c.slug === boots[2])?.shortName ?? "Someone"} was evacuated before the first challenge, and the vote that followed was as messy as a Fijian rainstorm.`,
       bullets: ["The idol hunt went sideways in the first ten minutes.", "Two alliances formed, and one of them is already lying to the other.", "Nobody wants to be the first name written down at the next Tribal."],
       draftImpact: "Tami and Tim each lost a castaway tonight. Kylie's roster is untouched and she takes the lead. Austin, you're two points back — plenty of game left.",
       sources: [{ title: "Demo recap", url: "https://example.com" }],
@@ -258,9 +345,17 @@ export function applyDemo(inp: BuildInputs): BuildInputs {
   ];
   const overrides: Overrides = {
     ...inp.overrides,
-    quotes: [{ id: "q1", episode: 3, drafterId: "kylie", text: "I TOLD you not to draft the guy who said 'I'm a fan of blindsides' in his bio.", date: "2026-10-08" }],
+    quotes: [{ id: "q1", episode: 3, drafterId: "kylie", text: "I TOLD you not to draft the guy who said 'I'm a fan of blindsides' in his bio.", date: "2026-10-08", contestantSlug: boots[2] }],
     funFacts: { [shuffled[0]!]: ["Demo fun fact entered by hand."] },
   };
+  // Fake Tribal Council votes for the first three boots so the ledger has something to show.
+  scraped.votes = {};
+  boots.slice(0, 3).forEach((victim, i) => {
+    const ep = i + 1;
+    const voters = slugs.filter((s) => s !== victim && !boots.slice(0, i).includes(s)).slice(0, 5 - i);
+    for (const v of voters) (scraped.votes![v] ??= []).push({ episode: ep, day: 3 + i * 2, votedFor: victim, votesAgainst: 0, voters: [], tally: `${voters.length}–1` });
+    (scraped.votes![victim] ??= []).push({ episode: ep, day: 3 + i * 2, votedFor: voters[0], votesAgainst: voters.length, voters, tally: `${voters.length}–1` });
+  });
   return { ...inp, draft: { ...inp.draft, picks }, scraped, overrides, commentary };
 }
 

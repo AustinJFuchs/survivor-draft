@@ -132,20 +132,23 @@ export function parseContestantTable(wikitext: string): ContestantRow[] {
 
 export interface VotingHistory {
   /** Column-aligned parallel arrays; one entry per elimination column. */
-  columns: { episode?: number; day?: number; tribe?: string; eliminated?: string }[];
+  columns: { episode?: number; day?: number; tribe?: string; eliminated?: string; tally?: string }[];
   mergedTribe?: string;
+  /** One row per voter; `cells[i]` is the plain text of that voter's cell in column i. */
+  voters: { name: string; cells: (string | undefined)[] }[];
 }
 
 export function parseVotingHistory(wikitext: string): VotingHistory {
   const text = stripInvisible(wikitext);
   const table = findTableByCaption(text, /voting history/i);
-  if (!table) return { columns: [] };
+  if (!table) return { columns: [], voters: [] };
   const rowByLabel = (re: RegExp) => table.grid.find((g) => g[0] && re.test(plain(g[0].raw)));
   const epRow = rowByLabel(/^episode$/i);
   const dayRow = rowByLabel(/^day$/i);
   const tribeRow = rowByLabel(/^tribe$/i);
   const elimRow = rowByLabel(/^eliminated$/i);
-  if (!epRow || !elimRow) return { columns: [] };
+  const votesRow = rowByLabel(/^votes?$/i);
+  if (!epRow || !elimRow) return { columns: [], voters: [] };
   const width = Math.max(epRow.length, elimRow.length);
   const columns: VotingHistory["columns"] = [];
   for (let c = 1; c < width; c++) {
@@ -154,11 +157,13 @@ export function parseVotingHistory(wikitext: string): VotingHistory {
     const dayText = plain(dayRow?.[c]?.raw ?? "");
     const day = /(\d+)/.exec(dayText)?.[1];
     const tribe = tribeFromCell(tribeRow?.[c]);
+    const tally = plain(votesRow?.[c]?.raw ?? "");
     columns.push({
       episode: Number.isFinite(ep) && ep > 0 ? ep : undefined,
       day: day ? Number(day) : undefined,
       tribe,
       eliminated: eliminated || undefined,
+      tally: tally && !/^none$/i.test(tally) ? tally : undefined,
     });
   }
   // Merged tribe: the top header row usually says "Merged tribe" over a span.
@@ -166,7 +171,30 @@ export function parseVotingHistory(wikitext: string): VotingHistory {
   const top = table.grid[0] ?? [];
   const mergedStart = top.findIndex((cell) => /merged/i.test(plain(cell?.raw ?? "")));
   if (mergedStart > 0) mergedTribe = columns[mergedStart - 1]?.tribe;
-  return { columns, mergedTribe };
+
+  // Voter rows follow the "Voter | Vote" header row.
+  const voters: VotingHistory["voters"] = [];
+  const voterHeader = table.grid.findIndex((g) => g[0] && /^voter$/i.test(plain(g[0].raw)));
+  if (voterHeader >= 0) {
+    for (let r = voterHeader + 1; r < table.grid.length; r++) {
+      const g = table.grid[r]!;
+      const name = plain(g[0]?.raw ?? "");
+      if (!name || !g[0]?.header) continue;
+      const cells: (string | undefined)[] = [];
+      for (let c = 1; c < width; c++) {
+        const cell = g[c];
+        // Rowspan copies from a previous row are not this voter's votes.
+        if (!cell || cell.spanned === "row") {
+          cells.push(undefined);
+          continue;
+        }
+        const v = plain(cell.raw);
+        cells.push(v || undefined);
+      }
+      voters.push({ name, cells });
+    }
+  }
+  return { columns, mergedTribe, voters };
 }
 
 export interface ParsedEpisode {

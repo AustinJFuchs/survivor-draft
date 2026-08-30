@@ -35,7 +35,7 @@ You maintain `data/51/overrides.json` (human-owned; always wins over `scraped.js
      "milestones": { "mergeEpisode": 7, "merged": ["…"], "finalists": ["…"], "winner": "…" },
      "episodes": [{ "number": 3, "title": "…", "airDate": "2026-10-07" }],
      "funFacts": { "brady-booker": ["…"] },
-     "quotes": [{ "id": "q-ep3-1", "episode": 3, "drafterId": "kylie", "text": "…", "date": "2026-10-08" }],
+     "quotes": [{ "id": "q-ep3-1", "episode": 3, "drafterId": "kylie", "text": "…", "date": "2026-10-08", "contestantSlug": "brady-booker" }],
      "commentary": { "3": { "recap": "…" } },
      "notes": ["…"]
    }
