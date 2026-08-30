@@ -103,7 +103,11 @@ export function computeStandings(input: StandingsInput): DrafterStanding[] {
     let dropped: string | undefined;
     if (scored.length > input.handicap.countBest) {
       counted = scored.slice(0, input.handicap.countBest);
-      dropped = scored[scored.length - 1]!.slug;
+      const last = scored[scored.length - 1]!;
+      const lastCounted = counted[counted.length - 1]!;
+      // Only name a dropped contestant when the cut is unambiguous; with a tie
+      // at the cut line the total is the same whichever one is excluded.
+      if (last.total < lastCounted.total) dropped = last.slug;
     }
     const total = counted.reduce((sum, s) => sum + s.total, 0);
     const remaining = slugs.filter((s) => !input.eliminated.has(s)).length;
