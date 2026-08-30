@@ -1,0 +1,1001 @@
+{{Short description|Season of television series}}
+{{Use American English|date=March 2026}}
+{{Infobox television season
+| season_number        = 49
+| bgcolor              = #FCC200
+| image                = Survivor 49 logo.png
+| module1              = {{Infobox reality competition season
+| presenter            = [[Jeff Probst]]
+| num_days             = 26
+| num_survivors        = 18
+| winner               = Savannah Louie
+| runner_up            = Sophi Balerdi
+| location             = [[Mamanuca Islands|Mamanuca Islands, Fiji]]
+}}
+| num_episodes         = 13<!-- increment when new episode airs -->
+| first_aired          = {{Start date|2025|09|24}}
+| last_aired           = {{End date|2025|12|17}}
+| network              = [[CBS]]
+| next_season          = ''[[Survivor 50: In the Hands of the Fans|In the Hands of the Fans]]''
+| film_start           = {{Start date|2025|04|20}}
+| film_end             = {{Start date|2025|05|15}}<ref>{{Cite web |title=Survivor 49 Calendar |url=https://truedorktimes.com/s49/calendar.htm |publisher=True Dork Times |last=Pitman |first=Jeff |date=April 20, 2025 |access-date=July 11, 2025}}</ref>
+| episode_list         = List of Survivor (American TV series) episodes (season 41–present)
+}}
+
+'''''Survivor 49''''' is the forty-ninth season of the American competitive reality television series ''[[Survivor (American TV series)|Survivor]]''. It premiered on September 24, 2025,<ref>{{Cite web|url=https://parade.com/tv/survivor-season-49-2025|title=When does Survivor 49 start?|work=Parade|last=Bloom|first=Mike|date=July 10, 2025|access-date=July 11, 2025}}</ref> on [[CBS]] in the [[United States]]. It was the seventeenth consecutive season to be filmed in the [[Mamanuca Islands]] in [[Fiji]]. The season ended on December 17, 2025, when Savannah Louie was voted the Sole Survivor, defeating Sophi Balerdi and Sage Ahrens-Nichols in a 5–2–1 vote.<ref>{{cite web|url=https://ew.com/survivor-49-winner-revealed-final5-battle-finale-11869899|title=And the ''Survivor 49'' winner is…|work=[[Entertainment Weekly]]|last=Ross|first=Dalton|date=December 17, 2025|access-date=May 24, 2026}}</ref> Louie became the fifth winner of Asian heritage, following [[Yul Kwon]] from ''[[Survivor: Cook Islands]]'', [[Natalie Anderson (television personality)|Natalie Anderson]] from ''[[Survivor: San Juan del Sur]]'', Erika Casupanan from ''[[Survivor 41]]'', and Rachel LaMont from ''[[Survivor 47]]''.
+
+==Production==
+On December 15, 2023, [[Manoa Kamikamica]], the Fijian [[Ministry of Commerce, Trade, Tourism and Transport (Fiji)|Minister of Commerce, Trade, Tourism and Transport]], announced that the [[Fijian Parliament]] had renewed its contract with ''Survivor'' for an additional two years.<ref>{{Cite web|url=https://www.fbcnews.com.fj/news/fiji-secures-two-more-years-as-home-base-for-survivor/|title=Fiji secures two more years as home base for Survivor|work=[[FBC TV]]|last=Prakash|first=Praneeta|date=December 15, 2023|access-date=February 24, 2025}}</ref> A preview trailer for the season was released on May 21, 2025, right after the finale of ''[[Survivor 48]]'' aired. Like in the previous season, ''Survivor 49'' and ''[[The Amazing Race 38]]'' retain the 90-minute runtime; the premiere episode of ''Survivor 49'' ran for two hours.<ref>{{cite press release|title=CBS Unveils Fall Primetime Premiere Dates for the 2025-2026 Season |url=http://thefutoncritic.com/news/2025/07/11/cbs-unveils-fall-primetime-premiere-dates-for-the-2025-2026-season-333310/20250711cbs01/|publisher=[[CBS]]|via=[[The Futon Critic]]|date=July 11, 2025}}</ref>
+
+The American broadcast of the finale was interrupted by an address by President [[Donald Trump]].<ref>{{cite press release |title=CBS News Will Air a Special Report for President Donald J. Trump's Live Primetime Address to the Nation from the White House, Wednesday, Dec. 17 at 9:00 PM, ET |date=December 16, 2025 |url=http://www.thefutoncritic.com/news/2025/12/16/cbs-news-will-air-a-special-report-for-president-donald-j-trumps-live-primetime-address-to-the-nation-from-the-white-house-wednesday-dec-17-at-900-pm-et-689515/20251216cbs03/ |work=The Futon Critic |access-date=June 16, 2026}}</ref><ref>{{cite web |last1=White |first1=Peter |title='Survivor' & 'The Floor' Season Finales To Be Interrupted By Live Donald Trump Address |url=https://deadline.com/2025/12/survivor-the-floor-season-finales-interrupted-trump-address-1236650737/ |website=[[Deadline Hollywood]] |access-date=June 16, 2026 |date=December 16, 2025 |archive-date=December 17, 2025 |archive-url=https://web.archive.org/web/20251217005041/https://deadline.com/2025/12/survivor-the-floor-season-finales-interrupted-trump-address-1236650737/ |url-status=live}}</ref> The broadcast of the finale was not interrupted internationally, with the finale airing regularly in Canada, where the series airs on Global, and in Australia, where the finale aired on 9Go! as a special daytime airing alongside the intended American East Coast airing.
+
+==Contestants==
+{{main|List of Survivor (American TV series) contestants}}
+
+[[File:Survivor_49_Cast.png|thumb|300px|{{center|'''The cast of ''Survivor 49''.'''}} <hr />'''Back:''' Jawan, Shannon, Sage, Nate, Matt, Rizo and Annie <hr />'''Middle:''' Jason, Nicole, MC, Jeremiah, Kristina and Sophie <hr />'''Front:''' Alex, Savannah, Jake, Sophi and Steven]]
+
+The 18 castaways were officially announced on August 20, 2025.<ref>{{cite news|url=https://variety.com/lists/survivor-49-cast-photos/ |title=''Survivor 49'': Meet the 18 New Castaways, Including Former Marvel Exec Nate Moore and Future Season 50 Players |access-date=August 20, 2025 |work=[[Variety (magazine)|Variety]] |publisher=[[Penske Media Corporation]] |first=Selome |last=Hailu |date=August 20, 2025 |url-status=live |archive-url=https://web.archive.org/web/20250820170309/https://variety.com/lists/survivor-49-cast-photos/ |archive-date=August 20, 2025}}</ref><ref>{{cite magazine|url=https://ew.com/survivor-49-cast-contestants-revealed-11794072 |title=Meet the cast of ''Survivor 49'' |access-date=August 21, 2025 |magazine=[[Entertainment Weekly]] |publisher=[[Dotdash Meredith]] |first=Dalton |last=Ross |date=August 20, 2025 |url-status=live |archive-url=https://web.archive.org/web/20250821044449/https://ew.com/survivor-49-cast-contestants-revealed-11794072 |archive-date=August 21, 2025}}</ref> Notable cast members include [[Annie Davis]], lead singer of the band Trashy Annie; former [[Marvel Studios]] executive Nate Moore, and former [[WANF]] news reporter Savannah Louie.<ref>{{Cite web |last=Bloom|first=Mike|date=August 20, 2025 |title=From NASA to the MCU! Meet the Full Cast of 'Survivor 49'|url=https://parade.com/tv/survivor-49-cast-2025|access-date=August 20, 2025 |website=Parade}}</ref>
+{| class="wikitable sortable" style="text-align:center;" 
+|+List of ''Survivor 49'' contestants
+! rowspan="2" scope="col" | Contestant
+! rowspan="2" scope="col" | Age
+! rowspan="2" scope="col" class="unsortable" | From
+! colspan="4" scope="colgroup" | Tribe
+! colspan="2" scope="col" class="unsortable"| Finish
+|-
+! scope="col" | Original
+! scope="col"| First<br>switch
+! scope="col"| Second<br>switch
+! scope="col" class="unsortable" | Merged
+! scope="col" | Placement
+! scope="col" class="unsortable" | Day
+|-
+! scope="row" style=text-align:left| {{sortname|Nicole|Mazullo|nolink=1}}
+| 26
+| [[Philadelphia|Philadelphia,<br>Pennsylvania]]
+| rowspan="4" {{stribe|kele}}
+| rowspan="4" bgcolor="darkgray"|
+| rowspan="6" bgcolor="darkgray"|
+| rowspan="7" bgcolor="darkgray"|
+| 1st voted out
+| Day 3
+|-
+! scope="row" style=text-align:left| {{sortname|Kimberly "Annie"|Davis|Annie Davis}}
+| 49
+| [[Austin, Texas|Austin,<br>Texas]]
+| 2nd voted out
+| {{nowrap|Day 5}}
+|-
+! scope="row" style=text-align:left| {{sortname|Jake|Latimer|nolink=1}}
+| 35
+| [[St. Albert, Alberta|St. Albert,<br>Alberta]]
+|Medically evacuated
+| rowspan="2"|Day 6
+|-
+! scope="row" style=text-align:left| {{sortname|Jeremiah|Ing|nolink=1}}
+| 39
+| [[Toronto|Toronto,<br>Ontario]]
+| 3rd voted out
+|-
+! scope="row" style=text-align:left| {{sortname|Matt|Williams|nolink=1}}
+| 52
+| [[St. George, Utah|St. George,<br>Utah]]
+| rowspan="2" {{stribe|hina}} 
+| rowspan="2" {{stribe|hina}}
+| 4th voted out
+| Day 8
+|-
+! scope="row" style=text-align:left| {{sortname|Jason|Treul|nolink=1}}
+| 32
+| [[Santa Ana, California|Santa Ana,<br>California]]
+| 5th voted out
+| {{nowrap|Day 10}}
+|-
+! scope="row" style=text-align:left| {{sortname|Shannon|Fairweather|nolink=1}}
+| 27
+| [[Boston|Boston,<br>Massachusetts]]
+| rowspan="2" {{stribe|uli}} 
+| {{stribe|kele}}
+| {{stribe|kele}}
+| 6th voted out
+| {{nowrap|Day 12}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Nate|Moore|nolink=1}}
+| 47
+| [[Hermosa Beach, California|{{nowrap|Hermosa Beach,}}<br>California]]
+| {{stribe|hina}}
+| {{stribe|uli}}
+| rowspan="11" {{stribe|lewatu}}
+| 7th voted out<br>{{nowrap|1st jury member}}
+|{{nowrap|Day 14}}
+|-
+! scope="row" style="text-align:left" |{{sortname|Michelle "MC"|Chukwujekwu|nolink=1}}
+| 29
+| [[San Diego|San Diego,<br>California]]
+| {{stribe|hina}}
+| rowspan="2" {{stribe|kele}}
+| {{stribe|hina}}
+| 8th voted out<br>{{nowrap|2nd jury member}}
+|{{nowrap|Day 15}}
+|-
+! scope="row" style=text-align:left| {{sortname|Alex|Moore|nolink=1}}
+| 26
+| [[Washington, D.C.|Washington,<br>D.C.]]
+| {{stribe|kele}}
+| {{stribe|uli}}
+| 9th voted out<br>{{nowrap|3rd jury member}}
+|{{nowrap|Day 17}}
+|-
+! scope="row" style=text-align:left| {{sortname|Jawan|Pitts|nolink=1}}
+| 28
+| [[Los Angeles|Los Angeles,<br>California]]
+| {{stribe|uli}} 
+| {{stribe|hina}}
+| {{stribe|kele}}
+| 10th voted out<br>{{nowrap|4th jury member}}
+|{{nowrap|Day 19}}
+|-
+! scope="row" style="text-align:left" | {{sortname|Sophie|Segreti|nolink=1}}
+| 31
+| [[New York City|New York City,<br>New York]]
+| rowspan="3" {{stribe|hina}}
+| rowspan="3" {{stribe|kele}}
+| {{stribe|uli}}
+| 11th voted out<br>{{nowrap|5th jury member}}
+|{{nowrap|Day 21}}
+|-
+! scope="row" style=text-align:left| {{sortname|Steven|Ramm|nolink=1}}
+| 35
+| [[Denver|Denver,<br>Colorado]]
+| {{stribe|kele}}
+|12th voted out<br>{{nowrap|6th jury member}}
+|Day 23
+|-
+! scope="row" style="text-align:left" | {{sortname|Kristina|Mills|nolink=1}}
+| 35
+| [[Edmond, Oklahoma|Edmond,<br>Oklahoma]]
+| {{stribe|uli}}
+|13th voted out<br/>{{nowrap|7th jury member}}
+|Day 24
+|-
+! scope="row" style=text-align:left| {{sortname|Rizo|Velovic|nolink=1}}
+| 25
+| [[Yonkers, New York|Yonkers,<br>New York]]
+| rowspan="2" {{stribe|uli}}  
+| {{stribe|hina}} 
+| {{stribe|hina}} 
+|Eliminated<br>8th jury member
+|Day 25
+|-
+! scope="row" style="text-align:left" | {{sortname|Sage|Ahrens-Nichols|nolink=1}}
+| 30
+| [[Olympia, Washington|Olympia,<br>Washington]]
+| {{stribe|kele}} 
+| {{stribe|kele}}
+|2nd runner-up
+| rowspan="3" |Day 26
+|-
+! scope="row" style="text-align:left" | {{sortname|Sophi|Balerdi|nolink=1}}
+| 27
+| [[Miami|Miami,<br>Florida]]
+| {{stribe|kele}} 
+| rowspan="2" {{stribe|hina}}
+| rowspan="2" {{stribe|hina}}
+|Runner-up
+|-
+! scope="row" style="text-align:left" | {{sortname|Savannah|Louie|nolink=1}}
+| 31
+| [[Atlanta|Atlanta,<br>Georgia]]
+| {{stribe|uli}} 
+|Sole Survivor
+|-
+|}
+
+===Future appearances===
+Savannah Louie and Rizo Velovic returned for the following season, ''[[Survivor 50: In the Hands of the Fans]]''.
+
+==Season summary==
+[[File:Mamanuca Islands - panoramio (1).jpg|thumb|right|300px|The season filmed in the [[Mamanuca Islands]] of [[Fiji]].]]
+Eighteen castaways were divided into three tribes: Hina, Kele, and Uli. Kele lost every challenge before the first swap, and their strongest member Jake was evacuated due to a freak occurrence. Surviving members Alex and Sophi managed to fly under the radar through two swaps due to the Hina and Uli alliances going to war, and Sophi found new life with Uli majority members Rizo and Savannah.
+
+Despite losing their ally Nate at the first merged vote, Rizo and Savannah took control of the game, reaching the final four with Sophi and outsider Sage. Sophi won the final immunity challenge and took Sage to the end; Savannah easily defeated Rizo at fire, and her firm control of the game throughout earned the jury's respect and the victory in a 5–2–1 vote over Sophi and Sage, respectively.
+
+{| class="wikitable nowrap" style="margin:auto; text-align:center;"
+|+''Survivor 49'' season summary
+! colspan="3" scope="col" | Episode
+! colspan="2" scope="col" | Challenge winner(s)
+! scope="col" rowspan="2"|Journey
+! colspan="2" scope="col" | Eliminated
+|-
+! scope="col" | No.
+! scope="col" | Title
+! scope="col" | Air date
+! scope="col" | Reward
+! scope="col" | Immunity
+! scope="col" | Tribe
+! scope="col" | Player
+|-
+! rowspan="3"|1
+| rowspan="3" align="left"| "[[#ep702|Act One of a Horror Film]]"
+| rowspan="3" align="left"| September 24, 2025
+| {{stribe|hina}}
+| {{stribe|none|''None''}}
+| rowspan="3" {{stribe|none|''None''}}
+| rowspan="3" {{stribe|kele}}
+| rowspan="3"|Nicole
+|-
+| colspan="2"{{stribe|hina}}
+|-
+| colspan="2"{{stribe|uli}}
+|-
+! rowspan="3"|2
+| rowspan="3" align="left"| "[[#ep703|Cinema]]"
+| rowspan="3" align="left"| October 1, 2025
+| rowspan="2" colspan="2" {{stribe|hina}}
+| {{stribe|kele|Jake<br>(Kele)}}
+| rowspan="3" {{stribe|kele}}
+| rowspan="3"| Annie
+|-
+| {{stribe|uli| Jawan<br>(Uli)}}
+|-
+| colspan="2" {{stribe|uli}}
+| {{stribe|hina|Matt<br>(Hina)}}
+|-
+! rowspan="3"|3
+| rowspan="3" align="left"| "[[#ep704|Lovable Losers]]"
+| rowspan="3" align="left"| October 8, 2025
+| colspan="2" {{stribe|none|''None''}}
+| rowspan="4" {{stribe|none|''None''}}
+| {{stribe|kele}}
+| Jake
+|-
+| colspan="2" {{stribe|hina}}
+| rowspan="2" {{stribe|kele}}
+| rowspan="2"| Jeremiah
+|-
+| colspan="2" {{stribe|uli}}
+|-
+! 4
+| align="left"| "[[#ep705|Go Kick Rocks, Bro]]"
+| align="left"| October 15, 2025
+| colspan="2" {{stribe|kele}}
+| {{stribe|hina}}
+| Matt
+|-
+! rowspan="2"|5
+| rowspan="2" align="left"| "[[#ep706|I'm a Wolf, Baby]]"
+| rowspan="2" align="left"| October 22, 2025
+| rowspan="2" colspan="2" {{stribe|kele}}
+| {{stribe|kele|MC<br>(Kele)}}
+| rowspan="2" {{stribe|hina}}
+| rowspan="2"| Jason
+|-
+| {{stribe|hina|Nate<br>(Hina)}}
+|-
+! rowspan="2"|6
+| rowspan="2" align="left"| "[[#ep707|The Devil's Shoes]]"
+| rowspan="2" align="left"| October 29, 2025
+| {{stribe|hina}}
+| {{stribe|hina}}
+| rowspan="7" {{stribe|none|''None''}}
+| rowspan="2" {{stribe|kele}}
+| rowspan="2"|Shannon
+|-
+| {{stribe|uli}}
+| {{stribe|uli}}
+|-
+! 7
+| align="left"| "[[#ep708|Blood Will Be Drawn]]"
+| align="left"| November 5, 2025
+| Nate, Rizo,<br />Sophi, Sophie,<br />Steven, [Sage]{{efn|After finding an advantage on Day 14, Sage was automatically given reward and the chance to compete for immunity.}}
+| Sophie
+| rowspan="9" {{stribe|lewatu}}
+| Nate
+|-
+! 8
+| align="left"| "[[#ep709|Hot Grim Reaper]]"
+| align="left"| November 12, 2025
+| colspan="2"|Savannah{{efn|Savannah received an additional individual reward for finishing first place overall in the challenge.}}<br/>[Alex, Kristina, Sophi, Steven]
+| MC
+|-
+! rowspan="2"|9
+| rowspan="2" align="left"| "[[#ep710|If You’re Loyal to All,<br>You’re Loyal to None]]"
+| rowspan="2"align="left"| November 19, 2025
+| rowspan="2"|Alex, <s>Kristina</s> (Jawan),<br>Savannah, Sophie{{efn|Kristina was on the winning team but chose to give her reward to Jawan.}}
+| Savannah
+| rowspan="2"| Alex
+|-
+| Steven
+|-
+! 10
+| align="left"| "[[#ep711|Huge Dose of Bamboozle]]"
+| align="left"| November 26, 2025
+| Sage, Sophi,<br>Sophie, Steven
+| Sophie
+| Jawan
+|-
+! 11
+| align="left"| "[[#ep712|Cherry On Top]]"
+| align="left"| December 3, 2025
+| Steven<br>[Kristina, Rizo]{{efn|In addition to immunity, Steven won reward for himself and two other castaways of his choice; he chose Kristina and Rizo.}}
+| Steven
+| Steven
+| Sophie
+|-
+! 12
+| align="left"| "[[#ep713|The Die Is Cast]]"
+| align="left"| December 10, 2025
+| Savannah<br>[Rizo, Sophi]
+| Savannah
+| rowspan="3" {{stribe|none|''None''}}
+| Steven
+|-
+! rowspan="2"| 13
+| rowspan="2" align="left"| "[[#ep714|A Fever Dream]]"
+| rowspan="2" align="left"| December 17, 2025
+|Savannah<br>[Sage]{{efn|In addition to immunity, Savannah won reward for herself and another castaway of her choice; she chose Sage.}}
+|Savannah
+| Kristina
+|-
+| {{stribe|none|None}}
+| Sophi{{efn|For winning the final Immunity Challenge, Sophi had to assign additional immunity to another player, with the remaining two competing in a fire-making challenge to determine the third finalist; she gave additional immunity to Sage.}}<br>[Sage]
+| Rizo
+|-
+|}
+{{notelist}}
+
+==Episodes==
+{{see also|Lists of Survivor (American TV series) episodes}}
+<onlyinclude>{{Episode table |dontclose=y
+|background = #FCC200
+|overall    = 5
+|season     = 6
+|title      = 40
+|titleR     = <ref name="The Futon Critic" /><ref name="Zap2it Season 49" />
+|aux2       = 10
+|airdate    = 1r
+|airdateR   = <ref name="The Futon Critic" /><ref name="Zap2it Season 49" />
+|country    = U.S.
+|viewers    = 10
+|aux2T      = Rating/share<br>(18–49)
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 702
+| EpisodeNumber2  = 1
+| Title           = Act One of a Horror Film
+| OriginalAirDate = {{Start date|2025|09|24}}
+| Aux2            = 0.6/9<ref name="49.01">{{cite web|url=https://programminginsider.com/wednesday-ratings-nbc-and-cbs-share-leadership-on-non-scripted-laden-night/|title=Wednesday Ratings: NBC and CBS Share Leadership on Non-Scripted Laden Night|work=Programming Insider|last=Pucci|first=Douglas|date=September 26, 2025|access-date=September 26, 2025|archive-url=https://web.archive.org/web/20250929090211/https://programminginsider.com/wednesday-ratings-nbc-and-cbs-share-leadership-on-non-scripted-laden-night/|url-status=live|archive-date=September 29, 2025}}</ref>
+| Viewers         = 4.03<ref name="49.01" />
+| ShortSummary    = The 18 new castaways arrived in Fiji by boat to begin their ''Survivor'' journey.
+
+*'''Marooning Challenge''': Two tribe members raced into the jungle for crates. Two other tribe members then retrieved a boat full of crates from the ocean. The last two members assembled the crates to make a cube, which one tribe member would climb to ring a bell hanging above them. The first to ring the bell won flint, a pot, and a machete for their tribe. The two losing tribes would have to send a tribe member away to complete another challenge to earn their supplies. 
+
+Hina won the reward challenge. Uli sent Rizo to complete the supply challenge, while Kele sent Alex.
+
+*'''Supply Challenge:''' Each castaway must retrieve ten marked coconuts on a small peninsula, each containing multiple puzzle pieces. Once all coconuts are collected, they must use the pieces to assemble a map revealing the location of a buried ship wheel; each tribe had its own wheel in a different location on the peninsula. Using the wheel, they must raise their tribe's sail, which releases a key to the chest containing the supplies. The first to unlock the chest wins the supplies for their tribe. 
+
+Rizo completed the challenge first, winning supplies for Uli.
+
+*'''Immunity Challenge:''' Each tribe was split into three pairs. Each pair in turn navigated a rope tunnel, crawled through a muddy pit, then raced into the jungle to retrieve a large serpent. When all three serpents were retrieved, three players worked together to navigate a ball along a winding snake track. The first two tribes to finish won immunity, while the losing tribe had to forfeit their flint.
+
+Hina and Uli won the challenge. At Kele, the majority alliance of Alex, Jake, Jeremiah, and Sophi targeted outsiders Annie and Nicole, considering them the weakest members of the tribe physically, Nicole in particular. Annie attempted to form an alliance with Sophi, saying that she wanted to target Alex and Jake in the future. Sophi notified the majority alliance of Annie's proposal, and they considered voting Annie out over Nicole because of this. However, at Tribal Council, they ultimately chose to vote out Nicole.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 703
+| EpisodeNumber2  = 2
+| Title           = Cinema
+| OriginalAirDate = {{Start date|2025|10|01}}
+| Aux2            = 0.6/8<ref name="49.02">{{cite web|url=https://programminginsider.com/wednesday-ratings-nbc-and-cbs-share-in-broadcast-leadership-with-returns-of-programming-in-regular-time-slots/|title=Wednesday Ratings: NBC and CBS Share in Broadcast Leadership with Returns of Programming in Regular Time Slots|work=Programming Insider|last=Pucci|first=Douglas|date=October 3, 2025|access-date=October 3, 2025}}</ref>
+| Viewers         = 4.03<ref name="49.02" />
+| ShortSummary    = At Kele, Alex and Jake found a beware advantage, and the majority alliance affirmed their plan to target Annie next. At Hina, Matt invited MC into his alliance with Kristina and Steven, but a distrustful MC alerted Sophie of this. At Uli, Jawan was on the outs and further strained his relationship with Savannah by unknowingly taking her bag and dumping its contents to fill it with firewood. Jake, Jawan, and Matt were chosen for a journey.
+
+*'''Journey:''' Players tossed coconuts in their opponents’ bags, causing them to eventually drop from the weight. The last person left standing won.
+
+Jawan won and had a choice between stealing Jake or Matt’s next vote or imposing a disadvantage on Hina or Kele at the next challenge. He chose the latter.
+
+*'''Reward/Immunity Challenge:''' Tribes traversed an obstacle course and dug a ladder out, holding it up for one member to retrieve a key. The key unlocked a ramp to a large puzzle. The first two tribes to complete their puzzle won immunity plus a large fishing kit for first place and a smaller fishing kit for second place, while the losing tribe had to forfeit their flint.
+
+After learning the disadvantage would be for each tribe member to carry twenty pounds of coconuts through the obstacle course and to work through ten keys instead of one, Jawan chose to penalize Hina. In spite of the penalties, Hina placed first and Uli placed second after Kele’s massive lead was blown at the puzzle. At Kele, Alex found an idol and told everyone, including Annie, who Alex had tried to secretly align with. He considered voting out Sophi over Annie, but at Tribal Council, everyone stuck to the original plan to vote out Annie.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 704
+| EpisodeNumber2  = 3
+| Title           = Loveable Losers
+| OriginalAirDate = {{Start date|2025|10|08}}
+| Aux2            = 0.6/9<ref name="49.03">{{cite web|url=https://programminginsider.com/wednesday-ratings-nbc-leads-in-viewers-mlb-postseason-on-cable-tops-in-key-demos/|title=Wednesday Ratings: NBC Leads in Viewers, MLB Postseason on Cable Tops in Key Demos|work=Programming Insider|last=Pucci|first=Douglas|date=October 10, 2025|access-date=October 10, 2025}}</ref>
+| Viewers         = 4.23<ref name="49.03" />
+| ShortSummary    = At Kele, on the morning of the Immunity Challenge, Jake was bitten by a [[sea krait]]. He was immediately taken to Base Camp, where the medical staff treated him. While the bite was determined to be non-venomous, the medical staff refused to clear him to return to the game, given the conditions at Kele and the inability to monitor his condition. (Unusually, significant portions of Jake's treatment at Base Camp were shown on-camera; moreover, Alex showed that each tribe receives a binder depicting animals and plants to avoid.)
+
+*'''Immunity Challenge:''' One tribe member from each tribe raced to the top of a tower and leapt into the ocean. They then crossed a survivor water totter, retrieved a key, made their way across a series of floating platforms, and swam to the end. Then the next two players went. Once everyone was at the end, two players unlocked and solved a survivor turtle puzzle. The first two tribes to finish won immunity, while the losing tribe had to forfeit their flint.
+
+Hina and Uli won yet again. MC and Rizo found Hina and Uli's respective beware advantages. Sophi and Jeremiah plotted to blindside Alex by making him feel comfortable enough to not play his idol, but when Sophi overheard Alex tell Jeremiah he was considering voting Sophi to save himself, Sophi considered voting Jeremiah instead. At Tribal Council, Alex played his idol and Jeremiah was voted out.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 705
+| EpisodeNumber2  = 4
+| Title           = Go Kick Rocks, Bro
+| OriginalAirDate = {{Start date|2025|10|15}}
+| Aux2            = 0.6/9<ref name="49.04">{{cite web|url=https://programminginsider.com/wednesday-ratings-nbc-and-fs1-again-share-victory-on-the-night/|title=Wednesday Ratings: NBC and FS1 Again Share Victory on the Night|work=Programming Insider|last=Pucci|first=Douglas|date=October 17, 2025|access-date=October 17, 2025}}</ref>
+| Viewers         = 4.27<ref name="49.04" />
+| ShortSummary    = On day 8, the tribes were reshuffled and Uli was disbanded. Sophi from Kele and Jawan, Nate, Rizo, and Savannah from Uli joined Jason and Matt at Hina. Kristina, MC, Sophie, and Steven from Hina and Sage and Shannon from Uli joined Alex at Kele.
+
+*'''Reward/Immunity Challenge:''' Starting in the water, tribes pulled their boat to two stations of five small cubes on each. Once their boat was hooked at shore, one tribe member brought those cubes across a balance beam in two trips, while the remaining six worked together to transport ten larger cubes across parallel and uneven beams. The seven members then worked together to individually stack the twenty cubes into a high tower. The first tribe to complete their tower won immunity and a fruit reward, while the losing tribe had to forfeit their flint.
+
+Kele won. Rizo followed his clue to an idol. Sophi was brought into the majority alliance of members of the old Uli tribe, and they debated whether to target Jason or Matt. Meanwhile, Matt tried to gain traction for a move against Nate. At Tribal Council, while Savannah and Sophi voted for Jason, the remaining members of the majority alliance and Jason voted out Matt.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 706
+| EpisodeNumber2  = 5
+| Title           = I'm a Wolf, Baby
+| OriginalAirDate = {{Start date|2025|10|22}}
+| Aux2            = 0.7/9<ref name="49.05">{{cite web|url=https://programminginsider.com/wednesday-ratings-espn-leads-prime-time-among-key-adult-demos-with-nba-inside-rte-nba-hits-2-year-high-for-regular-season-in-espn-debut/|title=Wednesday Ratings: ESPN Leads Prime Time Among Key Adult Demos with NBA, ''Inside the NBA'' Hits 2-Year High for Regular Season in ESPN Debut|work=Programming Insider|last=Pucci|first=Douglas|date=October 24, 2025|access-date=October 24, 2025}}</ref>
+| Viewers         = 4.36<ref name="49.05" />
+| ShortSummary    = At Kele, Sage began working against Shannon and also told her tribemates that Rizo found Uli's beware advantage. MC and Nate were chosen for a journey.
+
+*'''Journey:''' MC and Nate had to work together to move a large pile of sandbags before a timer ran out. If successful, each kept their vote at the next Tribal Council. If they failed, both lost their vote. Halfway through the pile, they discovered another note. Hidden nearby under a rock lay an advantage. The first to find it kept their vote while the other had to finish the task alone before the timer ran out to keep their vote. However, the advantage dies if the timer runs out or the sandbag task is completed before the advantage is found. 
+
+They decided to complete the task together, thus keeping their votes and nullifying the advantage.
+
+*'''Reward/Immunity Challenge:''' Tribes swam to a bamboo cage where they climbed up and jumped in the cage. They then carried the cage out of the water and up the beach to a series of three baskets where one player would dig out from under the cage and retrieve missed balls the others shot at the baskets. The first tribe to land a ball in each of the three baskets won immunity plus three hens and a rooster, while the losing tribe had to forfeit their flint.
+
+Kele won again. Though most of the tribe agreed to vote out Jason, Savannah hoped to blindside Jawan. At Tribal Council, the tribe stayed united to vote out Jason.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 707
+| EpisodeNumber2  = 6
+| Title           = The Devil's Shoes
+| OriginalAirDate = {{Start date|2025|10|29}}
+| Aux2            = 0.6/8<ref name="49.06">{{Cite web|url=https://programminginsider.com/wednesday-ratings-mlb-world-series-a-domestic-and-international-success/|title=Wednesday Ratings: MLB World Series a Domestic and International Success|work=Programming Insider|first=Douglas|last=Pucci|date=October 31, 2025|access-date=October 31, 2025}}</ref>
+| Viewers         = 4.25<ref name="49.06" />
+| ShortSummary    = On day 11, just prior to the Reward Challenge, the tribes were shuffled again. Alex, Kristina, Nate, and Sophie went to Uli. Shannon, Sage, Jawan, and Steven went to Kele. Sophi, MC, Savannah, and Rizo went to Hina.
+
+*'''Reward Challenge:''' Tribes pushed a heavy cart along a bumpy track collecting sandbags. At each of two stations along the way, one tribe member then climbed a ladder and used a long pole to knock two disks off a high perch. Once at the finish, players used one of the disks to knock over four bamboo targets. The first two tribes to finish won a food reward of grilled cheese sandwiches, chips, and iced tea for first place, and grilled cheese for second place.
+
+Hina and Uli won. Old tribal lines put MC, Steven, and Nate in unfavorable positions on their new tribes, but Steven bonded with Jawan while Sage was ready to make a move against Shannon on Kele. Meanwhile on Hina, Sophi found a Knowledge is Power.
+
+*'''Immunity Challenge:''' Tribes raced up and over a hinged cargo net, then moved a pile of heavy sandbags stacking them onto a platform. One player then climbed on top of the pile to retrieve a bag of sticks and string used to construct an extending pole that was then used to retrieve a key. The key released a ball which was used by two players to maneuver through a tilt table maze. The first two tribes to finish won immunity, while the losing tribe had to forfeit their flint.
+
+Hina and Uli won. Shannon hoped to foster working relationships with the old Hina members in the future by targeting Jawan, but at Tribal Council, Sage's plan to blindside Shannon came to fruition.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 708
+| EpisodeNumber2  = 7
+| Title           = Blood Will Be Drawn
+| OriginalAirDate = {{Start date|2025|11|05}}
+| Aux2            = 0.6/9<ref name="49.07">{{Cite web|url=https://programminginsider.com/wednesday-ratings-nbc-leeds-primetime-in-total-viewers-and-closely-battles-with-cbs-for-demo-victory/|title=Wednesday Ratings: NBC Leeds Primetime in Total Viewers and CBS Earns Demo Victory|work=Programming Insider|last=Pucci|first=Douglas|date=November 7, 2025|access-date=November 7, 2025}}</ref>
+| Viewers         = 4.37<ref name="49.07" />
+| ShortSummary    = On day 13, the three tribes convened at Kele's beach to begin the individual stage of the game. Many keys were hidden in the jungle, one of which unlocked a chest to an advantage for the forthcoming challenge; Sage earned the advantage.
+
+*'''Reward Challenge:''' Tribes dug a massive boulder out from the ground and rolled it over obstacles before one person climbed it to retrieve a machete. One teammate used the machete to chop a rope to progress to the end, where the team would climb the boulder up to the top to solve a word puzzle. The first team to finish their puzzle won the merge feast and the right to compete for individual immunity.
+
+Sage's advantage was that she would automatically earn the merge meal and a spot in the immunity challenge. Nate, Rizo, Sophi, Sophie, and Steven won reward.
+
+*'''Immunity Challenge:''' Castaways held a pole that had a ball on top while balancing on a beam. At regular intervals, they would move to narrower sections of the beam while moving their hands further down the pole. If they fell off or their ball dropped, they were out. The last person left standing won immunity.
+
+Sophie won immunity. MC was able to retrieve the idol from her beware advantage despite interference by Savannah. Jawan and Sage joined old Hina, and they debated whether to target Nate, Rizo, or Savannah. The Uli alliance targeted Steven. At Tribal Council, MC played her idol but negated no votes, and Nate was sent to the jury.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 709
+| EpisodeNumber2  = 8
+| Title           = Hot Grim Reaper
+| OriginalAirDate = {{Start date|2025|11|12}}
+| Aux2            = 0.5/8<ref name="49.08">{{Cite web|url=https://programminginsider.com/wednesday-ratings-the-golden-bachelor-on-abc-achieves-7-week-high-in-total-viewers-with-season-finale/|title=Wednesday Ratings: ''The Golden Bachelor'' on ABC Achieves 7-Week High in Total Viewers with Season Finale|work=Programming Insider|last=Pucci|first=Douglas|date=November 14, 2025|access-date=November 14, 2025}}</ref>
+| Viewers         = 3.90<ref name="49.08" />
+| ShortSummary    = Kristina found an idol in front of Steven and Alex.
+
+*'''Immunity Challenge:''' Players used their hands and arms to brace against two walls with their feet on narrow footholds. At intervals, they moved down to smaller footholds. If they drop, they’re out. The twist: Players were split into two groups of five. The group that lasts the longest gets immunity and no tribal council. The losing group goes to tribal with no immunity. Additionally, the person lasting the longest earned an advantage and that group gets a reward of DIY deli sandwiches.
+
+Savannah won the advantage with the team of Steven, Sophi, Alex, and Kristina getting reward. Her advantage was to go to the losing group during tribal and cast a vote or bank it for an extra vote. Though Rizo was the consensus target, Sophie plotted to cast a stray vote for Jawan in case Rizo played his idol. MC alerted Jawan of this, who told the others. This came back to haunt MC as she was sent to the jury, with Rizo holding onto his idol and Savannah banking her vote.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 710
+| EpisodeNumber2  = 9
+| Title           = If You're Loyal to All, You're Loyal to None
+| OriginalAirDate = {{Start date|2025|11|19}}
+| Aux2            = 0.6/9<ref name="49.09">{{Cite web|url=https://programminginsider.com/wednesday-ratings-abc-tops-prime-time-with-cma-awards-steady-from-year-ago-total-audience/|title=Wednesday Ratings: ABC Tops Prime Time with CMA Awards Steady from Year-Ago Total Audience|work=Programming Insider|last=Pucci|first=Douglas|date=November 21, 2025|access-date=November 21, 2025}}</ref>
+| Viewers         = 4.17<ref name="49.09" />
+| ShortSummary    = Reactions to MC going and not Sophie put the latter on high alert, and she considered flipping to the minority.
+
+*'''Reward Challenge:''' Divided into two teams of four via schoolyard pick (with one castaway not being chosen), castaways pushed a large heavy cube from the start to a station with a sandbag. One castaway climbed the cube to free the sandbag, then all team members crawled under a net. One castaway tossed the sandbag in the air to free three rings from a high pole, then they would toss those rings back onto the pole. The first team to finish won a food reward of fried chicken, french fries, and cheesecake.
+
+Sophi was not chosen and picked the yellow team to win, but the blue team of Alex, Kristina, Savannah, and Sophie won. However, Kristina chose to give her spot to Jawan who hadn’t won a food reward up to that point. Rizo planned to target Alex, who had been playing the middle more obviously, while the majority hoped to split between Rizo and Savannah.
+
+*'''Immunity Challenge:''' Players used their feet to hold a large disc in place against a small support. If their disc dropped, they were out. The last man and woman standing won immunity.
+
+Steven and Savannah won immunity. Sophi became the backup target for the split vote, while Rizo tried to convince Jawan and Sage to flip and vote out Alex. At Tribal Council, no advantages were played, and Jawan, Sage, and Sophie joined the minority alliance to send Alex to the jury.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 711
+| EpisodeNumber2  = 10
+| Title           = Huge Dose of Bamboozle
+| OriginalAirDate = {{Start date|2025|11|26}}
+| Aux2            = 0.6/9
+| Viewers         = 4.25<ref>{{cite web |last1=Berman |first1=Marc |date=December 2, 2025 |title=Wednesday Ratings: CBS’ Combination of ‘Survivor’ and ‘The Amazing Race’ Top Repeat-Drenched Evening |url=https://programminginsider.com/wednesday-ratings-cbs-combination-of-survivor-and-the-amazing-race-top-repeat-drenched-evening/ |access-date=11 December 2025 |website=Programming Insider |publisher=Programming Insider}}</ref>
+| ShortSummary    = *'''Reward Challenge:''' Players divided into two teams of 4 by schoolyard pick. One pair on each team leapt off a high platform into the water. They then traversed a series of obstacles and retrieved a buoy with a rope attached to it. Then the second pair did the same. At the end they attached the buoys to tall poles and had to sling the buoys into a basket on top of the poles. The first team to finish won a reward of burgers, hot dogs, and chocolate cake at the Survivor Sanctuary.
+
+Sophi, Sophie, Sage, and Steven won reward.
+
+*'''Immunity Challenge:''' Players raced into a Survivor teeter tunnel, then maneuvered disks around an obstacle to release a handle. The handle was then used to transport puzzle pieces over a teeter totter balance beam. Once all the pieces were collected, they were used to assemble a logo puzzle.
+
+Sophie won immunity. She joined Rizo’s alliance while Jawan and Sage flipped back to Kristina and Steven. Savannah planned to use her extra vote to break the stalemate and changed the target from Steven to Sage, but Sophie convinced her to target Jawan instead. At Tribal Council, Kristina played her idol on Steven while Rizo played a fake on Savannah, and Jawan was sent to the jury.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 712
+| EpisodeNumber2  = 11
+| Title           = Cherry On Top
+| OriginalAirDate = {{Start date|2025|12|03}}
+| Aux2            = 0.6/10
+| Viewers         = 4.41<ref>{{cite web |last1=Berman |first1=Marc |title=Wednesday Nationals: The Annual Christmas in Rockefeller Center Scores a Victory for NBC |url=https://programminginsider.com/wednesday-nationals-the-annual-christmas-in-rockefeller-center-scores-a-victory-for-nbc/ |website=Programming Insider |publisher=Programming Insider |access-date=11 December 2025}}</ref>
+| ShortSummary    = Sage was upset at being left out of Jawan’s blindside and lashed out at Sophie. Steven was selected for a journey.
+
+*'''Journey:''' Steven had to navigate around the shore of an island searching for numbers that would provide the solution to a lock combination. If he unlocked the chest before the high tide made an advantage unreachable, he would win a Block-a-Vote. He was able to complete the task in time.
+
+*'''Reward/Immunity Challenge:''' Castaways had to stack blocks spelling "immunity" on a revolving table. If their letters dropped, they had to start over. The first person to finish and stand on the starting platform for three seconds won immunity plus a spaghetti reward.
+
+Steven won immunity and chose to share reward with Kristina and Rizo. Sage was adamant that Sophie should go next, but Sophi considered flipping on her allies Rizo and Savannah. At Tribal Council, no advantages were played, and Sophie was unanimously sent to the jury.
+
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 713
+| EpisodeNumber2  = 12
+| Title           = The Die Is Cast
+| OriginalAirDate = {{Start date|2025|12|10}}
+| Aux2            = 0.8/13
+| Viewers         = 4.77<ref>{{cite web |last1=Berman |first1=Marc |title=Wednesday Ratings: Easy Victory for CBS Care of ‘Survivor’ and ‘The Amazing Race’ Season-Ender |url=https://programminginsider.com/wednesday-ratings-easy-victory-for-cbs-care-of-survivor-and-the-amazing-race-season-ender/ |website=Programming Insider |publisher=Programming Insider |access-date=13 December 2025}}</ref>
+| ShortSummary    = *'''Reward Challenge:''' Castaways had to traverse a highstep obstacle, then maneuver a bag on a rope through a  ladder bridge, then crawl under another obstacle and retrieve two more bags. Once they had all three bags, they needed to land a sandbag on a small high perch. The first to do this won Mexican food at the sanctuary and their letters from home.
+
+Savannah won reward and chose to share it with Rizo and Sophi. Both alliances regrouped with Steven and Sophi revealing their advantages to their allies. Mulling flipping on her longtime allies, Sophi decided to stick with them.
+
+*'''Immunity Challenge:''' Castaways used their foot to balance a ball at the end of a beam. If their ball dropped, they were out. The last one standing won immunity.
+
+Savannah won her third immunity necklace. Sophi hoped to use her advantage to steal Steven's, but unbeknownst to her, he could only play it before Tribal whereas she could only play hers at Tribal. Steven declared he would block Savannah's vote. At Tribal Council, Sophi's advantage was nullified, and Rizo again kept his idol after initially getting ready to play it for himself. The idol was not needed as Sage and Kristina turned on Steven as a big threat, sending him to the jury.
+| LineColor       = #FCC200
+}}
+{{#invoke:Episode list|sublist|Survivor 49
+| EpisodeNumber   = 714
+| EpisodeNumber2  = 13
+| Title           = A Fever Dream
+| OriginalAirDate = {{Start date|2025|12|17}}
+| Aux2            = 0.7/9
+| Viewers         = 4.45<ref>{{cite web |last1=Vulture |first1=Telly |title=Wednesday TV Ratings: Survivor, The Floor, Shark Tank, Happy’s Place, Destination: Qatar!
+|url=https://tvseriesfinale.com/tv-show/wednesday-tv-ratings-survivor-the-floor-shark-tank-happys-place-destination-qatar/ |website=TV Series Finale |publisher=TV Series Finale |access-date=30 December 2025}}</ref>
+| ShortSummary    = On day 24, castaways were tasked with finding an advantage in the upcoming immunity challenge.
+
+*'''Advantage Scramble:''' Survivors raced through the jungle collecting pieces to a puzzle map showing the location of a hidden advantage to be used in the next challenge. Sophi was the first to finish her puzzle. After much searching, she spotted a bag high up in a tree. Using a bamboo pole, she retrieved the bag thus winning the advantage.
+
+*'''Reward/Immunity Challenge:''' Survivors crawled through a muddy pit, then dug up a grappling hook. They used the hook to drop a ladder and climbed up into a crows nest to retrieve a rope. Using the rope, they had to walk on a barrel rolling it along a sandy pathway to a tall platform where they maneuvered a bag of puzzle pieces to the top and then solved a Survivor puzzle. The first  to complete their puzzle won reward and immunity.
+
+Savannah won her fourth immunity challenge, tying the women's record. She chose to share her reward with Sage. The vote came down to majority alliance outsiders Kristina and Sage. At Tribal, Rizo played his idol, and Kristina was sent to the jury.
+
+*'''Immunity Challenge:''' Contestants leapt into the ocean and made their way to shore where they dug under a log and crawled through. They then traversed a balance beam collecting two handles and a ball along the way. Then they used the handles to collect a second ball from a wire cage. They then assembled a table track and maneuvered the balls along it landing them in separate targets. First to finish won immunity.
+
+Sophi came from behind to win her first immunity challenge. She ultimately decided to take Sage to the end, forcing longtime allies Rizo and Savannah to battle it out in fire.
+
+*'''Firemaking Challenge:''' Savannah easily defeated Rizo, sending him to the jury.
+
+At the Final Tribal Council, the jury voted Savannah the sole survivor in a 5–2–1 vote, with Sophi receiving MC & Kristina's votes to place second and Sage receiving Jawan's vote to place third.
+| LineColor       = #FCC200
+}}
+{{End|Episode table|html=y}}</onlyinclude>
+
+==Voting history==
+{| class="wikitable unsortable" style="text-align:center;"
+|+''Survivor 49'' voting history
+!
+! colspan="4"|Original tribes
+! colspan="2"|First switch
+! Second<br>switch
+! colspan="9"|Merged tribe
+|-
+! scope="row" | Episode
+! [[#ep702|1]]
+! [[#ep703|2]]
+! colspan="2"|[[#ep704|3]]
+! [[#ep705|4]]
+! [[#ep706|5]]
+! [[#ep707|6]]
+! [[#ep708|7]]
+! [[#ep709|8]]
+! [[#ep710|9]]
+! colspan="2"|[[#ep711|10]]
+! [[#ep712|11]]
+! [[#ep713|12]]
+! colspan="2"|[[#ep714|13]]
+|-
+! scope="row" | Day
+|3
+|5
+|colspan="2"|6
+|8
+|10
+|12
+|14
+|15
+|17
+|colspan="2"|19
+|21
+|23
+|24
+|25
+|-
+! scope="row" | Tribe
+| {{stribe|Kele}}
+| {{stribe|Kele}}
+| {{stribe|Kele}}
+| {{stribe|Kele}}
+| {{stribe|Hina}}
+| {{stribe|Hina}}
+| {{stribe|Kele}}
+| {{stribe|lewatu}}
+| {{stribe|lewatu}}
+| {{stribe|lewatu}}
+| colspan="2" {{stribe|lewatu}}
+| {{stribe|lewatu}}
+| {{stribe|lewatu}}
+| {{stribe|lewatu}}
+| {{stribe|lewatu}}
+|-
+! scope="row" | Eliminated
+| Nicole
+| Annie
+| Jake
+| Jeremiah
+| Matt
+| Jason
+| Shannon
+| Nate
+| MC
+| Alex
+| colspan="2"|Jawan
+| Sophie
+| Steven
+| Kristina
+| Rizo
+|-
+! scope="row" | Votes
+| 5–1
+| 4–1
+| ''Evacuated''{{efn|No vote; Jake was medically evacuated from the game.}}
+| 2–0{{efn|Alex played a hidden immunity idol on himself; therefore, one vote for him was not counted.}}
+| {{nowrap|4–2–1}}
+| 5–1
+| 3–1
+| 7–4
+| 4–1
+| 6–2–1
+| colspan="2"|5–3–1
+| 6–1
+| 4–1
+| 4–1
+| {{stribe|none|''None''}}{{efn|name=Final Four|For winning the final Immunity Challenge, Sophi had to assign additional immunity to another player, with the remaining two competing in a fire-making challenge to determine the third finalist; she gave additional immunity to Sage, and Savannah defeated Rizo in the fire-making challenge.}}
+|- style="border-top:5px solid; height:0px"
+! scope="col"| Voter
+! colspan="15" |Vote
+! Challenge
+|-
+! scope="row" |Savannah
+|
+|
+|
+|
+| Jason
+| Jason
+|
+| Steven
+| {{stribe|none}}{{efn|name=Day 15}}{{efn|name=Sacrifice| This player played a Bank Your Vote advantage, and as a result, deferred that night's vote to another Tribal Council.}}
+| Alex
+| Jawan
+| Jawan{{efn|This player played an extra vote advantage, allowing them to cast two ballots during a single vote.}}
+| Sophie
+| {{stribe|none}}{{efn|This player lost their vote as another player used a block a vote advantage.}}
+| Kristina
+| {{stribe|none|''Won''}}{{efn|name=Final Four}}
+|-
+! scope="row" |Sophi
+| Nicole
+| Annie
+|
+| Jeremiah
+| Jason
+| Jason
+|
+| Steven
+| {{stribe|none|''Immune''}}{{efn|name=Day 15}}
+| Alex
+| colspan="2" |Jawan
+| Sophie
+| Steven
+| Kristina
+| {{stribe|none|''Immune''}}{{efn|name=Final Four}}
+|-
+! scope="row" |Sage
+|
+|
+|
+|
+|
+|
+| Shannon
+| Nate
+| MC
+| Alex
+| colspan="2" |Savannah
+| Sophie
+| Steven
+| Kristina
+| {{stribe|none|''Saved''}}{{efn|name=Final Four}}
+|-
+! scope="row" |Rizo
+|
+|
+|
+|
+| Matt
+| Jason
+|
+| Steven
+| MC
+| Alex
+| colspan="2" |Jawan
+| Sophie
+| Steven
+| Kristina
+| {{stribe|none|''Lost''}}{{efn|name=Final Four}}
+|-
+! scope="row" |Kristina
+|
+|
+|
+|
+|
+|
+|
+| Nate
+| {{stribe|none|''Immune''}}{{efn|name=Day 15}}
+| Sophi
+| colspan="2" |Rizo
+| Sophie
+| Steven
+| Sage
+|style="background:darkgray" |
+|-
+! scope="row" |Steven
+|
+|
+|
+|
+|
+|
+| Shannon
+| Nate
+| {{stribe|none|''Immune''}}{{efn|name=Day 15}}
+| Sophi
+|colspan="2"|Savannah
+| Sophie
+| Sophi
+|colspan="2" style="background:darkgray" |
+|-
+! scope="row" |Sophie
+|
+|
+|
+|
+|
+|
+|
+| Nate
+| MC
+| Alex
+|colspan="2"|Jawan
+| Savannah
+|colspan="3" style="background:darkgray" |
+|-
+! scope="row" |Jawan
+|
+|
+|
+|
+| Matt
+| Jason
+| Shannon
+| Nate
+| MC
+| Alex
+|colspan="2"|Savannah
+|colspan="4" style="background:darkgray" |
+|-
+! scope="row" |Alex
+| Nicole
+| Annie
+|
+| Jeremiah
+|
+|
+|
+| Nate
+| {{stribe|none|''Immune''}}{{efn|name=Day 15|The players who won immunity on Day 15 were not eligible to vote at that night's Tribal Council, except Savannah, who had retained the right to vote through the advantage she won at the Day 15 challenge.}}
+| Rizo
+|colspan="6" style="background:darkgray" |
+|-
+! scope="row" |MC
+|
+|
+|
+|
+|
+|
+|
+| Nate
+| Sophie
+|colspan="7" style="background:darkgray" |
+|-
+! scope="row" |Nate
+|
+|
+|
+|
+| Matt
+| Jason
+|
+| Steven
+|colspan="8" style="background:darkgray" |
+|-
+! scope="row" |Shannon
+|
+|
+|
+|
+|
+|
+| Jawan
+|colspan="9" style="background:darkgray" |
+|-
+! scope="row" |Jason
+|
+|
+|
+|
+| Matt
+| Rizo
+|colspan="10" style="background:darkgray" |
+|-
+! scope="row" |Matt
+|
+|
+|
+|
+| Nate
+| colspan="11" style="background:darkgray" |
+|-
+! scope="row" |Jeremiah
+| Nicole
+| Annie
+|
+| <s>Alex</s>
+| colspan="12" style="background:darkgray" |
+|-
+! scope="row" |Jake
+| Nicole
+| Annie
+| style="background:lightgrey"|''Evacuated''
+| colspan="13" style="background:darkgray" |
+|-
+! scope="row" |Annie
+| Nicole
+| Sophi
+| colspan="14" style="background:darkgray" |
+|-
+! scope="row" |Nicole
+| Annie
+| colspan="15" style="background:darkgray" |
+|-
+|}
+
+{|class="wikitable nowrap" style="text-align:center; font-size:100%"
+! colspan="4"|Jury vote
+|-
+! Episode 
+! colspan="3" | [[#ep714|13]]
+|-
+! Day
+| colspan="3" | 26
+|-
+! Finalist
+| Savannah
+| Sophi
+| Sage
+|-
+! Votes 
+| colspan="3" |5–2–1
+|- style="border-top:5px solid; height:0px"
+! Juror
+! colspan="3" | Vote
+|-
+!Rizo
+| {{ya}}
+| 
+| 
+|-
+!Kristina
+| 
+| {{ya}}
+|
+|-
+!Steven
+| {{ya}}
+|
+|
+|-
+!Sophie
+| {{ya}}
+|
+|
+|-
+!Jawan
+| 
+| 
+| {{ya}}
+|-
+!Alex
+| {{ya}}
+| 
+|
+|-
+!MC
+|
+| {{ya}} 
+| 
+|-
+!Nate
+| {{ya}}
+| 
+|
+|}
+;Notes
+{{notelist}}
+
+== Reception ==
+''Survivor 49'' received a mixed reception from both fans and critics. While the personalities of Savannah and Rizo, Savannah's winning gameplay, and the entertainment value of the post-merge section were praised, the gameplay of the other castaways as well as the edit and the pre-merge section were criticized. Many also felt that the "new era" format of the show had begun to feel repetitive and uninteresting.<ref>{{Cite web|last=Rawden|first=Mark|title=Survivor 49 Is Going To Get Way Better On Rewatch, And There’s An Obvious Reason Why|url=https://www.cinemablend.com/television/survivor-49-way-better-rewatch-obvious-reason-survivor-50|work=Cinema Blend|date=December 7, 2025|access-date=January 1, 2026}}</ref>
+
+==Controversy==
+During the pre-game sequester period at Ponderosa, two of the original cast members were caught colluding with each other. The situation became so severe, that they were ejected from the game before it even started; they were ultimately replaced by Jason Treul and MC Chukwujekwu, both alternates for this season.<ref>{{cite magazine|url=https://ew.com/jeff-probst-explains-survivor-49-players-replaced-alternates-11794636 |title=Jeff Probst explains why 2 ''Survivor 49'' players were replaced by alternates |access-date=August 21, 2025 |magazine=[[Entertainment Weekly]] |publisher=[[Dotdash Meredith]] |first=Dalton |last=Ross |date=August 21, 2025}}</ref><ref>{{cite magazine|url=https://ew.com/survivor-49-alternates-reveal-thoughts-before-being-put-into-game-11798503 |title=The ''Survivor 49'' alternates reveal thoughts before being put into the game: 'I'm 100 percent ready to go in' |access-date=August 31, 2025 |magazine=[[Entertainment Weekly]] |publisher=[[Dotdash Meredith]] |first=Dalton |last=Ross |date=August 28, 2025 |url-status=live |archive-url=https://web.archive.org/web/20250831095038/https://ew.com/survivor-49-alternates-reveal-thoughts-before-being-put-into-game-11798503 |archive-date=August 31, 2025}}</ref> Additionally, third place finisher Sage Ahrens-Nichols alleged that two other castaways, Jake Latimer and Sophi Balerdi, also engaged in pre-game scheming; these claims were corroborated by fellow castaway [[Annie Davis]] who was on the same starting tribe as Latimer and Balerdi.<ref>{{Cite web|last=Holmes|first=Martin|title=‘Survivor 49’ Finalist Accuses Several Cast Members of Pre-Gaming Before Her Season|url=https://www.tvinsider.com/1236531/survivor-49-finalist-sage-ahrens-nichols-accuses-cast-pregaming/|work=TV Insider|date=December 31, 2025}}</ref><ref>{{Cite web|last=Galante|first=Grace|title=Second ‘Survivor 49’ Castaway Accuses Co-Stars of Cheating|url=https://parade.com/news/second-survivor-49-castaway-annie-davis-accuses-co-stars-cheating|work=Parade|date=January 7, 2026}}</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="The Futon Critic">{{cite web|url=http://www.thefutoncritic.com/showatch/survivor/listings/|title=''Survivor'' Episode Listings|website=[[The Futon Critic]]}}</ref>
+
+<ref name="Zap2it Season 49">{{cite web|url=https://tvlistings.gracenote.com/overview-affiliates.html?programSeriesId=SH00367078&tabName=guide&season=49|title=''Survivor'' Season 49 Episode Guide|website=[[Zap2it]]}}</ref>
+}}
+
+==External links==
+*{{Official website|https://www.cbs.com/shows/survivor}}
+
+{{Survivor (American TV series)}}
+
+[[Category:Survivor (American TV series) seasons|49]]
+[[Category:2025 American television seasons]]
+[[Category:2025 in Fiji]]
+[[Category:Television shows shot in Fiji]]
+[[Category:Television shows set in Fiji]]
+[[Category:Television controversies in the United States]]

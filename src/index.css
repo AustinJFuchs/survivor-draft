@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;500;600;700&display=swap");
+@import "tailwindcss";
+
+/* `static` so every token is emitted as a CSS variable even when no utility uses it —
+   the chart and drafter chips read --color-d1..d6 directly. */
+@theme static {
+  --font-display: "Bebas Neue", "Impact", "Arial Narrow", sans-serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+
+  /* Tropical night palette: deep jungle, sand, torch fire, lagoon. */
+  --color-night-950: #07110f;
+  --color-night-900: #0b1a17;
+  --color-night-800: #10241f;
+  --color-night-700: #173229;
+  --color-night-600: #234436;
+  --color-sand-100: #f7ecd6;
+  --color-sand-200: #ecd9b3;
+  --color-sand-300: #d9bf8a;
+  --color-sand-400: #b99a5f;
+  --color-torch-400: #ffb347;
+  --color-torch-500: #ff8a2b;
+  --color-torch-600: #e8621a;
+  --color-lagoon-400: #4fd1c5;
+  --color-lagoon-500: #2bb5a8;
+  --color-palm-400: #7bcf6b;
+  --color-palm-500: #4fae4a;
+  --color-ember-500: #e0453a;
+
+  /* Drafter colors (index order). */
+  --color-d1: #ff7a59;
+  --color-d2: #4fd1c5;
+  --color-d3: #c084fc;
+  --color-d4: #fbbf24;
+  --color-d5: #a3e635;
+  --color-d6: #60a5fa;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  background: var(--color-night-950);
+  color: var(--color-sand-100);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-image:
+    radial-gradient(1200px 600px at 10% -10%, rgba(255, 138, 43, 0.14), transparent 60%),
+    radial-gradient(900px 500px at 110% 10%, rgba(43, 181, 168, 0.12), transparent 60%),
+    linear-gradient(180deg, var(--color-night-900), var(--color-night-950) 40%);
+  background-attachment: fixed;
+  min-height: 100dvh;
+}
+
+@layer components {
+.font-display {
+  font-family: var(--font-display);
+  letter-spacing: 0.02em;
+}
+
+.card {
+  background: color-mix(in oklab, var(--color-night-800) 88%, transparent);
+  border: 1px solid color-mix(in oklab, var(--color-sand-300) 14%, transparent);
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px -18px rgba(0, 0, 0, 0.8);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border-radius: 999px;
+  padding: 0.15rem 0.6rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  border: 1px solid color-mix(in oklab, currentColor 35%, transparent);
+  background: color-mix(in oklab, currentColor 12%, transparent);
+  white-space: nowrap;
+}
+
+.torch-glow {
+  text-shadow:
+    0 0 18px rgba(255, 138, 43, 0.45),
+    0 0 2px rgba(255, 179, 71, 0.6);
+}
+
+.photo-frame {
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+  background: var(--color-night-700);
+}
+.photo-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  display: block;
+}
+
+.eliminated .photo-frame img {
+  filter: grayscale(1) brightness(0.55);
+}
+
+@keyframes flicker {
+  0%, 100% { opacity: 1; transform: translateY(0) scale(1); }
+  30% { opacity: 0.85; transform: translateY(-1px) scale(1.02); }
+  60% { opacity: 0.95; transform: translateY(0.5px) scale(0.98); }
+}
+.flicker { animation: flicker 2.4s ease-in-out infinite; display: inline-block; }
+
+.drawer-backdrop { background: rgba(3, 8, 7, 0.7); backdrop-filter: blur(3px); }
+
+.scrollbar-thin::-webkit-scrollbar { height: 6px; width: 6px; }
+.scrollbar-thin::-webkit-scrollbar-thumb { background: var(--color-night-600); border-radius: 999px; }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "51",
+  "name": "Survivor 51",
+  "subtitle": "The Open Era",
+  "groupName": "Survivor 51 Draft",
+  "premiereDate": "2026-09-23",
+  "timezone": "America/New_York",
+  "totalContestants": 21,
+  "drafters": [
+    { "id": "tami", "name": "Tami", "draftPosition": 1 },
+    { "id": "taylor", "name": "Taylor", "draftPosition": 2 },
+    { "id": "kylie", "name": "Kylie", "draftPosition": 3 },
+    { "id": "tim", "name": "Tim", "draftPosition": 4 },
+    { "id": "austin", "name": "Austin", "draftPosition": 5 }
+  ],
+  "scoring": {
+    "perEliminationSurvived": 1,
+    "merge": 3,
+    "finalTribal": 5,
+    "winner": 10
+  },
+  "handicap": { "countBest": 4 },
+  "prize": {
+    "title": "Winner's Prize",
+    "description": "Winner chooses a family activity — attendance mandatory.",
+    "validUntil": "Valid until the Survivor 52 premiere."
+  }
+}

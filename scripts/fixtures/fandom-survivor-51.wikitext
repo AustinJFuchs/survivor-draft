@@ -1,0 +1,189 @@
+{{Season
+| image             = US S51 logo.png
+| version           = {{version|us}}
+| location          = {{wp|Mamanuca Islands}}, {{wp|Fiji}}
+| filmingdates      = April 18, 2026 - May 13, 2026 <ref>https://www.truedorktimes.com/s51/calendar.htm</ref>
+| seasonrun         = September 23, 2026<ref>https://www.youtube.com/watch?v=CP-oYk4Cs1k</ref> -
+| episodes          =  
+| season            = 51
+| days              = 26 
+| survivors         = 21 
+| winner            =  
+| runnerup          =  
+| tribes            = 
+| viewership        = 
+| cast              = S51 Cast.jpg
+| intro             =  
+| previous          = {{S2|50}}
+| next              = ''Survivor 52''
+| grandprize        = US$1,000,000
+}}
+'''''{{PAGENAME}}''''' is the upcoming fifty-first season of the CBS competitive reality television series ''{{dab|Survivor|U.S.}}''.
+
+==Production==
+During the {{S2|50}} [[Reunion (In the Hands of the Fans)|live reunion]], host [[Jeff Probst]] explained that the season would heavily incorporate past game mechanics, [[Hidden Immunity Idol]]s, and other [[Advantage|advantages]] to keep castaways on their toes. He branded the season as the beginning of the "Open Era" of ''Survivor''. Probst teased:
+
+{{quote|prod|The "Open Era" is that anything “that has ever happened at any time on the show can happen in any season at any time in any order without any warning.<ref>https://variety.com/2026/tv/news/survivor-season-50-winner-51-the-open-era-1236755662/</ref>|Jeff Probst}}
+
+While the show will continue identifying seasons by number, Probst stated that the producers would reconsider using themed seasons again in the future.<ref>https://people.com/survivor-season-51-everything-to-know-11979442</ref>
+
+==Twists/Changes==
+*'''26-Day Game'''
+*'''Tribe Division:''' The castaways were divided into 2 tribes. No unifying theme was used in dividing the tribes.
+*'''Returning Game Mechanics:''' Throughout the season, multiple game mechanics, idols, and advantages from previous seasons were heavily incorporated.
+*'''[[Shot in the Dark]]'''
+
+==Castaways==
+{| class="wikitable sortable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;" align="center"
+! colspan="2" rowspan="2"| Contestant
+! colspan="1" class="unsortable"| Tribe Affiliation
+! class="unsortable" rowspan="2"| Finish
+! rowspan="2"| Votes<br />Against
+|- style="text-wrap:pretty;" <!--Please avoid using {{nowrap}}, as it causes the table to become too wide to display properly on vertical screens.-->
+! Original Tribe
+|-
+| {{tribebox2|}}[[File:S51 aaliyah t.png|70px|link=Aaliyah Puglia]]
+| align="left"| '''[[Aaliyah Puglia]]'''<br /><small>25, Providence, RI<br />Chef</small>
+| 
+|
+| 
+|-
+| {{tribebox2|}}[[File:S51 alexis t.png|70px|link=Alexis Levine]]
+| align="left"| '''[[Alexis Levine]]'''<br /><small>34, Atlanta, GA<br />Criminal Defense Attorney</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 ana t.png|70px|link=Ana Sani]]
+| align="left"| '''[[Ana Sani]]'''<br /><small>34, Toronto, ON<br />Voice Actress</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 brady t.png|70px|link=Brady Booker]]
+| align="left"| '''[[Brady Booker]]'''<br /><small>27, Knoxville, TN<br />Pro Wrestler</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 carter t.png|70px|link=Carter Krull]]
+| align="left"| '''[[Carter Krull]]'''<br /><small>24, Sioux Falls, SD<br />Livestock Farmer</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 cristian t.png|70px|link=Cristian Chavez]]
+| align="left"| '''[[Cristian Chavez]]'''<br /><small>25, Salt Lake City, UT<br />Head of HR</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 kilby t.png|70px|link=Danny Kilby]]
+| align="left"| {{nowrap|'''[[Danny Kilby]]'''}}<br /><small>30, London, ON<br />Game Designer</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 devin t.png|70px|link=Devin Way]]
+| align="left"| '''[[Devin Way]]'''<br /><small>33, Los Angeles, CA<br />Actor</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 eric t.png|70px|link=Eric Macksoud]]
+| align="left"| '''[[Eric Macksoud]]'''<br /><small>34, Windsor Locks, CT<br />Mental Health Counselor</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 jelly t.png|70px|link=Jelly Loblack]]
+| align="left"| '''[[Jelly Loblack]]'''<br /><small>29, Bloomington, IN<br />Sociology Professor</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 jenna t.png|70px|link=Jenna Doore]]
+| align="left"| '''[[Jenna Doore]]'''<br /><small>30, Toledo, OH<br />Wedding Photographer</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 kristin t.png|70px|link=Kristin Flickinger]]
+| align="left"| '''[[Kristin Flickinger]]'''<br /><small>49, Santa Barbara, CA<br />Crisis Management</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 lewis t.png|70px|link=Lewis Kelly]]
+| align="left"| '''[[Lewis Kelly]]'''<br /><small>28, Corozal, PR<br />Farmer</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 linnea t.png|70px|link=Linnea Capobianco]]
+| align="left"| '''[[Linnea Capobianco]]'''<br /><small>25, Jersey City, NJ<br />Entrepreneur</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 maggie t.png|70px|link=Maggie Nestor]]
+| align="left"| '''[[Maggie Nestor]]'''<br /><small>40, Charles Town, WV<br />Farmer</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 mike t.png|70px|link=Mike Pinsky]]
+| align="left"| '''[[Mike Pinsky]]'''<br /><small>32, New York City, NY<br />Baseball Executive</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 ori t.png|70px|link=Ori Jean-Charles]]
+| align="left"| '''[[Ori Jean-Charles]]'''<br /><small>27, Spring Valley, NY<br />Personal Trainer</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 patt t.png|70px|link=Patt Cannaday]]
+| align="left"| '''[[Patt Cannaday]]'''<br /><small>33, Washington, DC<br />Federal Prosecutor</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 rob t.png|70px|link=Rob Antonson]]
+| align="left"| '''[[Rob Antonson]]'''<br /><small>40, Cumberland, RI<br />Airline Gate Agent</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 sharonda t.png|70px|link=Sharonda Cox]]
+| align="left"| '''[[Sharonda Cox]]'''<br /><small>34, Richmond, KY<br />Resident, OBGYN</small>
+| 
+| 
+| 
+|-
+| {{tribebox2|}}[[File:S51 thienan t.png|70px|link=Thien An Nguyen]]
+| align="left"| '''[[Thien An Nguyen]]'''<br /><small>24, Fort Worth, TX<br />Medical Student</small>
+| 
+| 
+| 
+|}
+
+==Season Summary==
+
+==Voting History==
+{{S51votetable}}
+==Trivia==
+* ''Survivor 51'' is the first season since {{S2|40}} to start with only two competing tribes.<ref>https://us.auditioncentre.com/reality-tv-news/survivor-51-going-back-to-two-tribes/#google_vignette%20</ref>
+* ''Survivor 51'' is the first season since {{S2|14}} to start with an odd number of castaways, with 21 castaways competing.
+** This is the first season to intentionally do so, as ''Fiji'' was intended to have 20 castaways prior to [[Mellisa McNulty]] withdrawing.
+* ''Survivor 51'' is the third season to start with an unequal number of male and female castaways, after ''Fiji'' and {{S2|29}}.
+** This season also marks the first season with more female castaways (11) than male castaways (10).
+
+==References==
+{{Reflist}}
+{{SurvivorSeason}}
+[[Category:Seasons]]
+[[Category:Survivor (U.S.)]]
+[[Category:Seasons with a reused location]]
+[[Category:Survivor 51]]

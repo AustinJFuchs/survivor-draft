@@ -1,0 +1,13 @@
+{
+  "_comment": "Human-owned. Anything here wins over scraped.json at build time. Edit via /episode-update or by hand.",
+  "contestants": {},
+  "tribes": {},
+  "eliminations": [],
+  "removeEliminations": [],
+  "episodes": [],
+  "milestones": {},
+  "funFacts": {},
+  "quotes": [],
+  "commentary": {},
+  "notes": []
+}

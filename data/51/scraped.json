@@ -1,0 +1,284 @@
+{
+  "syncedAt": "2026-08-30T05:50:05.874Z",
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
+    "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
+  },
+  "tribes": {
+    "rob-antonson": {
+      "history": []
+    },
+    "brady-booker": {
+      "history": []
+    },
+    "patt-cannaday": {
+      "history": []
+    },
+    "linnea-capobianco": {
+      "history": []
+    },
+    "cristian-chavez": {
+      "history": []
+    },
+    "sharonda-cox": {
+      "history": []
+    },
+    "jenna-doore": {
+      "history": []
+    },
+    "kristin-flickinger": {
+      "history": []
+    },
+    "ori-jean-charles": {
+      "history": []
+    },
+    "lewis-kelly": {
+      "history": []
+    },
+    "danny-kilby": {
+      "history": []
+    },
+    "carter-krull": {
+      "history": []
+    },
+    "alexis-levine": {
+      "history": []
+    },
+    "jelly-loblack": {
+      "history": []
+    },
+    "eric-macksoud": {
+      "history": []
+    },
+    "maggie-nestor": {
+      "history": []
+    },
+    "thien-an-nguyen": {
+      "history": []
+    },
+    "mike-pinsky": {
+      "history": []
+    },
+    "aaliyah-puglia": {
+      "history": []
+    },
+    "ana-sani": {
+      "history": []
+    },
+    "devin-way": {
+      "history": []
+    }
+  },
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Permanent Uncertainty",
+      "airDate": "2026-09-23",
+      "aired": false
+    }
+  ],
+  "eliminations": [],
+  "milestones": {
+    "merged": [],
+    "finalists": [],
+    "placements": {}
+  },
+  "extras": {
+    "aaliyah-puglia": {
+      "threeWords": [
+        "confident",
+        "wise",
+        "sporadic"
+      ],
+      "trivia": [
+        "Aaliyah is the first known contestant to be raised by same-sex parents."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Aaliyah_Puglia"
+    },
+    "alexis-levine": {
+      "threeWords": [
+        "outgoing",
+        "thoughtful",
+        "determined"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Alexis_Levine"
+    },
+    "ana-sani": {
+      "threeWords": [
+        "goofy",
+        "ambitious",
+        "chaotic"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Ana_Sani"
+    },
+    "brady-booker": {
+      "threeWords": [
+        "enthusiastic",
+        "intense",
+        "fun"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Brady_Booker"
+    },
+    "carter-krull": {
+      "threeWords": [
+        "adventurous",
+        "competitive",
+        "determined"
+      ],
+      "trivia": [
+        "Carter is the youngest man to compete on Survivor 51."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Carter_Krull"
+    },
+    "cristian-chavez": {
+      "threeWords": [
+        "fun",
+        "chaotic",
+        "loud"
+      ],
+      "trivia": [
+        "Cristian was an alternate for Survivor 47."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Cristian_Chavez"
+    },
+    "danny-kilby": {
+      "threeWords": [
+        "wacky",
+        "chaotic",
+        "playful"
+      ],
+      "trivia": [
+        "Before appearing on Survivor, Kilby competed on the second real-life season of Sequester. He finished in 18th place."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Danny_Kilby"
+    },
+    "devin-way": {
+      "threeWords": [
+        "charming",
+        "playful",
+        "loyal"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Devin_Way"
+    },
+    "eric-macksoud": {
+      "threeWords": [
+        "animated",
+        "charismatic",
+        "empathic"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Eric_Macksoud"
+    },
+    "jelly-loblack": {
+      "threeWords": [
+        "curious",
+        "multifaceted",
+        "passionate"
+      ],
+      "trivia": [
+        "Jelly is one of five castaways with Native American ancestry. The others are Kel Gleason, Julie Berry, Natalie Bolton, and Elyse Umemoto.",
+        "Jelly is of Afro-Caribbean and Choctaw descent."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Jelly_Loblack"
+    },
+    "jenna-doore": {
+      "threeWords": [
+        "empathetic",
+        "determined",
+        "and energetic"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Jenna_Doore"
+    },
+    "kristin-flickinger": {
+      "threeWords": [
+        "determined",
+        "joyful"
+      ],
+      "trivia": [
+        "Kristin is the oldest contestant to compete on Survivor 51."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Kristin_Flickinger"
+    },
+    "lewis-kelly": {
+      "threeWords": [
+        "cheeky",
+        "devilish",
+        "charming"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Lewis_Kelly"
+    },
+    "linnea-capobianco": {
+      "threeWords": [
+        "rational",
+        "outgoing",
+        "optimistic"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Linnea_Capobianco"
+    },
+    "maggie-nestor": {
+      "threeWords": [
+        "joyful",
+        "intentional",
+        "redneck"
+      ],
+      "trivia": [
+        "Maggie is the first contestant to reside in West Virginia during filming."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Maggie_Nestor"
+    },
+    "mike-pinsky": {
+      "threeWords": [
+        "enthusiastic",
+        "strategic",
+        "driven"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Mike_Pinsky"
+    },
+    "ori-jean-charles": {
+      "threeWords": [
+        "consistent",
+        "anamoly",
+        "hustler"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Ori_Jean-Charles"
+    },
+    "patt-cannaday": {
+      "threeWords": [
+        "goofy",
+        "loyal",
+        "intense"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Patt_Cannaday"
+    },
+    "rob-antonson": {
+      "threeWords": [
+        "competitive",
+        "funny",
+        "loving"
+      ],
+      "trivia": [
+        "Rob is the oldest male contestant on Survivor 51."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Rob_Antonson"
+    },
+    "sharonda-cox": {
+      "threeWords": [
+        "charismatic",
+        "resilient",
+        "reliable"
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Sharonda_Cox"
+    },
+    "thien-an-nguyen": {
+      "threeWords": [
+        "quick-witted",
+        "empathetic",
+        "outgoing"
+      ],
+      "trivia": [
+        "Thien An is the youngest contestant to compete on Survivor 51."
+      ],
+      "pageUrl": "https://survivor.fandom.com/wiki/Thien_An_Nguyen"
+    }
+  },
+  "warnings": []
+}

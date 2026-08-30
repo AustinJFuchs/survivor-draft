@@ -1,0 +1,30 @@
+{
+  "_comment": "Recap sources for the Probst commentary generator. Each entry is a site the summarizer searches for an article about a given episode. `search` is a URL template; `{episode}` and `{season}` are substituted. Sites that block automated fetching are listed under `blocked` for reference.",
+  "sites": [
+    {
+      "id": "insidesurvivor",
+      "name": "Inside Survivor",
+      "homepage": "https://insidesurvivor.com/",
+      "listing": "https://insidesurvivor.com/category/survivor-51",
+      "match": "survivor-51.*(episode|recap)"
+    },
+    {
+      "id": "tvline",
+      "name": "TVLine",
+      "homepage": "https://www.tvline.com/",
+      "listing": "https://www.tvline.com/t/survivor/",
+      "match": "survivor.*(recap|episode|voted-out|eliminated)"
+    },
+    {
+      "id": "thewrap",
+      "name": "The Wrap",
+      "homepage": "https://www.thewrap.com/",
+      "listing": "https://www.thewrap.com/tag/survivor/",
+      "match": "survivor.*(recap|episode|voted-out|eliminated)"
+    }
+  ],
+  "wikipediaSynopsis": true,
+  "blocked": ["parade.com", "ew.com", "hollywoodreporter.com"],
+  "minSources": 2,
+  "maxWaitHours": 72
+}

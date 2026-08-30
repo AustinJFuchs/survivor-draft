@@ -1,0 +1,695 @@
+{{Short description|Survivor Season 51 American show, Cast announced 8/26}}
+{{Infobox television season
+| bgcolor              = #04A9E5
+| season_number        = 51
+| image                = Survivor 51 logo.png
+| image_alt            = 
+| caption              = 
+| module1              = {{Infobox reality competition season
+| presenter            = [[Jeff Probst]]
+| num_days             = 26
+| num_survivors        = 21
+| winner               = 
+| runner_up            = 
+| location             = [[Mamanuca Islands]], [[Fiji]]
+}}
+| num_episodes         = <!--increment when new episode airs -->
+| network              = [[CBS]]
+| first_aired          = {{void|Start date|2026|09|23}}
+| last_aired           = 
+| film_start           = {{Start date|2026|04|18}}
+| film_end             = {{End date|2026|05|13}}<ref>{{Cite web |title=''Survivor 51'' Calender|url=https://www.truedorktimes.com/s51/calendar.htm |publisher=True Dork Times |last=Pitman |first=Jeff |date=April 20, 2026 |access-date=May 17, 2026}}</ref>
+| prev_season          = ''[[Survivor 50: In the Hands of the Fans|In the Hands of the Fans]]''
+| next_season          = 
+| episode_list         = List of Survivor (American TV series) episodes (seasons 41–present)
+}}
+
+'''''Survivor 51''''' is the upcoming fifty-first season of the American competitive reality television series [[Survivor (American TV series)|''Survivor'']]. It is scheduled to premiere in September 2026 on [[CBS]] in the [[United States]]. It was the nineteenth consecutive season to be filmed in the [[Mamanuca Islands]] in [[Fiji]].
+
+==Production==
+Ahead of the season 50 premiere, CBS renewed ''Survivor'' for its fifty-first season on January 22, 2026.<ref>{{Cite web |last=White |first=Peter |date=2026-01-22 |title='Survivor' & 'The Amazing Race' Renewed At CBS |url=https://deadline.com/2026/01/survivor-the-amazing-race-renewed-cbs-1236693430/ |access-date=2026-03-21 |website=Deadline |language=en-US}}</ref> A trailer was played at the ''[[Survivor 50: In the Hands of the Fans]]'' reunion, revealing that there will be 2 starting tribes, a first since ''[[Survivor: Winners at War|Winners at War]]''.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=oSUzmg4zoLk |title=Survivor 51 {{!}} Sneak Peek |date=2026-05-20 |last=SurvivorOnCBS |access-date=2026-05-23 |via=YouTube}}</ref> This is the second season starting with an odd number of players, with 21, the first being ''[[Survivor: Fiji]]'' with 19 players.
+
+==Contestants==
+The 21 castaways were officially announced on August 25, 2026. Notable cast members include [[Devin Way]], a ''[[Grey's Anatomy]]'' and ''[[Queer as Folk (2022 TV series)|Queer as Folk]]'' actor and Brady Booker, a former [[WWE]] superstar.<ref name="parade">{{cite magazine|url=https://parade.com/tv/survivor-51-cast-2026 |title=''Survivor 51'' Cast Revealed: Meet the 21 New Contestants — Including a Former WWE Superstar and ''Grey’s Anatomy'' Star|magazine=Parade|last=Bloom|first=Mike|date=August 26, 2026|access-date=August 26, 2026}}</ref><ref name="EW">{{cite magazine|url=https://ew.com/survivor-51-cast-revealed-12068720 |title=Meet the cast of ''Survivor 51''|magazine=Entertaiment Weekly|last=Ross|first=Dalton|date=August 26, 2026|access-date=August 26, 2026}}</ref>
+
+{| class="wikitable sortable" style="text-align:center;"
+|+List of ''Survivor 51'' contestants
+! rowspan="2" scope="col" |Contestant
+! rowspan="2" scope="cpl" |Age
+! rowspan="2" scope="col" class="unsortable"|From
+! colspan="2" scope="colgroup" |Tribe
+! colspan="2" scope="col" class="unsortable" |Finish
+|-
+! scope="col" | Original
+! scope="col" class="unsortable" | Merged
+! scope="col" | Placement
+! scope="col" class="unsortable" | Day
+|-
+!scope="row" style=text-align:left| {{sortname|Rob|Antonson|nolink=1}}
+|40
+|[[Cumberland, Rhode Island]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Brady|Booker|nolink=1}}
+|27
+|[[Knoxville, Tennessee]]
+| {{void|stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Patt|Cannaday|nolink=1}}
+|33
+|[[Washington, D.C.]]
+| {{void|stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Linnea|Capobianco|nolink=1}}
+|25
+|[[Jersey City, New Jersey]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Cristian|Chavez|nolink=1}}
+|26
+|[[Salt Lake City, Utah]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Sharonda|Cox|nolink=1}}
+|34
+|[[Richmond, Kentucky]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Jenna|Doore|nolink=1}}
+|30
+|[[Toledo, Ohio]]
+| {{void|stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Kristin|Flickinger|nolink=1}}
+|49
+|[[Santa Barbara, California]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Ori|Jean-Charles|nolink=1}}
+|27
+|[[Spring Valley, New York]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Lewis|Kelly|nolink=1}}
+|28
+|[[Corozal, Puerto Rico]]
+| {{void|stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Dan|Kilby|nolink=1}}
+|30
+|[[London, Ontario]]
+| {{void|stribe|toka}} 
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Carter|Krull|nolink=1}}
+|24
+|[[Sioux Falls, South Dakota]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Alexis|Levine|nolink=1}}
+|34
+|[[Atlanta, Georgia]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Angelica "Jelly"|Loblack|nolink=1}}
+|29
+|[[Bloomington, Indiana]]
+| {{void|stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Eric|Macksoud|nolink=1}}
+|34
+|[[Windsor Locks, Connecticut]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Maggie|Nestor|nolink=1}}
+|40
+|[[Charles Town, West Virginia]]
+| {{void|stribe|toka}} 
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|An "Thien An"|Nguyen|nolink=1}}
+|24
+|[[Fort Worth, Texas]]
+| {{void|stribe|toka}} 
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Mike|Pinsky|nolink=1}}
+|32
+|[[New York City, New York]]
+| {{void|stribe|toka}} 
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Aaliyah|Puglia|nolink=1}}
+|24
+|[[Providence, Rhode Island]]
+| {{void|stribe|none|''None''}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Ana|Sani|nolink=1}}
+|34
+|[[Toronto, Ontario]]
+| {{void|stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Devin|Way}}
+|33
+|[[Los Angeles, California]]
+| {{void|stribe|toka}}
+|
+|
+|
+|}
+
+==Season summary==
+[[File:Mamanuca Islands - panoramio (1).jpg|thumb|right|300px|The season filmed in the [[Mamanuca Islands]] of [[Fiji]].]]
+
+{| class="wikitable nowrap" style="margin:auto; text-align:center;"
+|+''Survivor 51'' season summary
+! colspan="3" scope="col" | Episode
+! colspan="2" scope="col" | Challenge winner(s)
+! scope="col" rowspan="2"| Journey
+! colspan="2" scope="col" | Eliminated
+|-
+! scope="col" | No.
+! scope="col" | Title
+! scope="col" | Air date
+! scope="col" | Reward
+! scope="col" | Immunity
+! scope="col" | Tribe
+! scope="col" | Player
+|-
+! 1
+| align="left"| "[[#ep728|Permanent Uncertainty]]"
+| align="left"| September 23, 2026
+| 
+| 
+| 
+| 
+|
+|}
+
+==Episodes==
+{{see also|Lists of Survivor (American TV series) episodes}}
+<onlyinclude>{{#invoke:Episode table|main|dontclose=y
+|background = #04A9E5
+|overall    = 5
+|season     = 6
+|title      = 40
+|titleR     = <ref name="The Futon Critic" /><ref name="Zap2it Season 51">{{cite web|url=https://tvlistings.gracenote.com/overview-affiliates.html?programSeriesId=SH00367078&tabName=guide&season=50|title=''Survivor'' Season 51 Episode Guide|website=[[Zap2it]] |date=September 2017 }}</ref>
+|aux1       = 10
+|aux2       = 10
+|airdate    = 1r
+|airdateR   = <ref name="The Futon Critic" /><ref name="Zap2it Season 51" />
+|country    = U.S.
+|viewers    = 10
+|aux1T      = Day(s)
+|aux2T      = Rating/share<br>(18–49)
+}}
+{{#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 728
+| EpisodeNumber2  = 1
+| Title           = Permanent Uncertainty
+| OriginalAirDate = {{Start date|2026|09|23}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{End|Episode table|html=y}}</onlyinclude>
+
+==Voting history==
+{| class="wikitable unsortable" style="text-align:center;"
+|+''Survivor 51'' voting history
+!
+!colspan="1"|Original tribes
+!colspan="12"|
+|-
+! scope="row" | Episode
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+|-
+! scope="row" | Day
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Tribe
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Eliminated
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Votes
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|- style="border-top:5px solid; height:0px"
+! scope="col"| Voter
+! colspan="13"|Vote
+|-
+! scope="row" | Aaliyah
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Alexis
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Ana
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Brady
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Carter
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Cristian
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Devin
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Eric
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Jelly
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Jenna
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Kilby
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Kristin
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Lewis
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Linnea
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Maggie
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Mike
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Ori
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Patt
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Rob
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Sharonda
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Thien An
+| 
+| 
+| 
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+;Notes
+{{notelist}}
+
+== References ==
+{{Reflist|refs=
+<ref name="The Futon Critic">{{cite web|url=http://www.thefutoncritic.com/showatch/survivor/listings/|title=''Survivor'' Episode Listings|website=[[The Futon Critic]]}}</ref>
+
+<ref name="Zap2it Season 51">{{cite web|url=https://tvlistings.gracenote.com/overview-affiliates.html?programSeriesId=SH00367078&tabName=guide&season=50|title=''Survivor'' Season 51 Episode Guide|website=[[Zap2it]] |date=September 2017 }}</ref>
+}}
+
+==External links==
+*{{Official website|https://www.cbs.com/shows/survivor}}
+
+{{Survivor (American TV series)}}
+
+[[Category:Survivor (American TV series) seasons|51]]
+<!-- [[Category:2026 American television seasons]] -->
+[[Category:2026 in Fiji]]
+[[Category:Television shows shot in Fiji]]
+[[Category:Television shows set in Fiji]]
+[[Category:Upcoming television seasons]]

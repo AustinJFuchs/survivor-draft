@@ -1,0 +1,28 @@
+{
+  "seasonId": "51",
+  "style": "snake",
+  "_comment": "Snake order: Tami, Taylor, Kylie, Tim, Austin. Fill contestantSlug for each overall pick. Pick 21 is the leftover, assigned to Tami.",
+  "picks": [
+    { "round": 1, "overall": 1, "drafterId": "tami", "contestantSlug": "" },
+    { "round": 1, "overall": 2, "drafterId": "taylor", "contestantSlug": "" },
+    { "round": 1, "overall": 3, "drafterId": "kylie", "contestantSlug": "" },
+    { "round": 1, "overall": 4, "drafterId": "tim", "contestantSlug": "" },
+    { "round": 1, "overall": 5, "drafterId": "austin", "contestantSlug": "" },
+    { "round": 2, "overall": 6, "drafterId": "austin", "contestantSlug": "" },
+    { "round": 2, "overall": 7, "drafterId": "tim", "contestantSlug": "" },
+    { "round": 2, "overall": 8, "drafterId": "kylie", "contestantSlug": "" },
+    { "round": 2, "overall": 9, "drafterId": "taylor", "contestantSlug": "" },
+    { "round": 2, "overall": 10, "drafterId": "tami", "contestantSlug": "" },
+    { "round": 3, "overall": 11, "drafterId": "tami", "contestantSlug": "" },
+    { "round": 3, "overall": 12, "drafterId": "taylor", "contestantSlug": "" },
+    { "round": 3, "overall": 13, "drafterId": "kylie", "contestantSlug": "" },
+    { "round": 3, "overall": 14, "drafterId": "tim", "contestantSlug": "" },
+    { "round": 3, "overall": 15, "drafterId": "austin", "contestantSlug": "" },
+    { "round": 4, "overall": 16, "drafterId": "austin", "contestantSlug": "" },
+    { "round": 4, "overall": 17, "drafterId": "tim", "contestantSlug": "" },
+    { "round": 4, "overall": 18, "drafterId": "kylie", "contestantSlug": "" },
+    { "round": 4, "overall": 19, "drafterId": "taylor", "contestantSlug": "" },
+    { "round": 4, "overall": 20, "drafterId": "tami", "contestantSlug": "" },
+    { "round": 5, "overall": 21, "drafterId": "tami", "contestantSlug": "", "leftover": true }
+  ]
+}

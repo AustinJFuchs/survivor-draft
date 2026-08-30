@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "aaliyah-puglia",
+    "name": "Aaliyah Puglia",
+    "shortName": "Aaliyah",
+    "age": 24,
+    "hometown": "Gloucester City, NJ",
+    "residence": "Providence, RI",
+    "occupation": "Chef",
+    "photo": "photos/51/aaliyah-puglia.jpg"
+  },
+  {
+    "slug": "alexis-levine",
+    "name": "Alexis Levine",
+    "shortName": "Alexis",
+    "age": 34,
+    "hometown": "Atlanta, GA",
+    "residence": "Atlanta, GA",
+    "occupation": "Criminal defense attorney",
+    "photo": "photos/51/alexis-levine.jpg"
+  },
+  {
+    "slug": "thien-an-nguyen",
+    "name": "An Nguyen",
+    "nickname": "Thien An",
+    "shortName": "Thien An",
+    "aliases": ["An \"Thien An\" Nguyen", "Thien An Nguyen", "An Nguyen", "ThienAn"],
+    "age": 24,
+    "hometown": "Fort Worth, TX",
+    "residence": "Fort Worth, TX",
+    "occupation": "Medical student",
+    "photo": "photos/51/thien-an-nguyen.jpg"
+  },
+  {
+    "slug": "ana-sani",
+    "name": "Ana Sani",
+    "shortName": "Ana",
+    "age": 34,
+    "hometown": "Richmond Hill, ON",
+    "residence": "Toronto, ON",
+    "occupation": "Voice actress",
+    "photo": "photos/51/ana-sani.jpg"
+  },
+  {
+    "slug": "jelly-loblack",
+    "name": "Angelica Loblack",
+    "nickname": "Jelly",
+    "shortName": "Jelly",
+    "aliases": ["Angelica \"Jelly\" Loblack", "Jelly Loblack", "Angelica Loblack"],
+    "age": 29,
+    "hometown": "Garland, TX",
+    "residence": "Bloomington, IN",
+    "occupation": "Sociology professor",
+    "photo": "photos/51/jelly-loblack.jpg"
+  },
+  {
+    "slug": "brady-booker",
+    "name": "Brady Booker",
+    "shortName": "Brady",
+    "age": 27,
+    "hometown": "La Salle, IL",
+    "residence": "Knoxville, TN",
+    "occupation": "Pro wrestler",
+    "photo": "photos/51/brady-booker.jpg"
+  },
+  {
+    "slug": "carter-krull",
+    "name": "Carter Krull",
+    "shortName": "Carter",
+    "age": 24,
+    "hometown": "Rock Rapids, IA",
+    "residence": "Sioux Falls, SD",
+    "occupation": "Livestock farmer",
+    "photo": "photos/51/carter-krull.jpg"
+  },
+  {
+    "slug": "cristian-chavez",
+    "name": "Cristian Chavez",
+    "shortName": "Cristian",
+    "age": 26,
+    "hometown": "Salt Lake City, UT",
+    "residence": "Salt Lake City, UT",
+    "occupation": "Head of HR",
+    "photo": "photos/51/cristian-chavez.jpg"
+  },
+  {
+    "slug": "danny-kilby",
+    "name": "Danny Kilby",
+    "nickname": "Kilby",
+    "shortName": "Kilby",
+    "aliases": ["Danny \"Kilby\" Kilby", "Dan Kilby", "Dan", "Danny"],
+    "age": 30,
+    "hometown": "Mount Forest, ON",
+    "residence": "London, ON",
+    "occupation": "Game designer",
+    "photo": "photos/51/danny-kilby.jpg"
+  },
+  {
+    "slug": "devin-way",
+    "name": "Devin Way",
+    "shortName": "Devin",
+    "age": 33,
+    "hometown": "Lufkin, TX",
+    "residence": "Los Angeles, CA",
+    "occupation": "Actor",
+    "photo": "photos/51/devin-way.jpg"
+  },
+  {
+    "slug": "eric-macksoud",
+    "name": "Eric Macksoud",
+    "shortName": "Eric",
+    "age": 34,
+    "hometown": "Lincoln, RI",
+    "residence": "Windsor Locks, CT",
+    "occupation": "Mental health counselor",
+    "photo": "photos/51/eric-macksoud.jpg"
+  },
+  {
+    "slug": "jenna-doore",
+    "name": "Jenna Doore",
+    "shortName": "Jenna",
+    "age": 30,
+    "hometown": "Perrysburg, OH",
+    "residence": "Toledo, OH",
+    "occupation": "Wedding photographer",
+    "photo": "photos/51/jenna-doore.jpg"
+  },
+  {
+    "slug": "kristin-flickinger",
+    "name": "Kristin Flickinger",
+    "shortName": "Kristin",
+    "age": 49,
+    "hometown": "Ketchum, ID",
+    "residence": "Santa Barbara, CA",
+    "occupation": "Crisis management",
+    "photo": "photos/51/kristin-flickinger.jpg"
+  },
+  {
+    "slug": "lewis-kelly",
+    "name": "Lewis Kelly",
+    "shortName": "Lewis",
+    "age": 28,
+    "hometown": "Dublin, Ireland",
+    "residence": "Puerto Rico",
+    "occupation": "Farmer",
+    "photo": "photos/51/lewis-kelly.jpg"
+  },
+  {
+    "slug": "linnea-capobianco",
+    "name": "Linnea Capobianco",
+    "shortName": "Linnea",
+    "age": 25,
+    "hometown": "Kearny, NJ",
+    "residence": "Jersey City, NJ",
+    "occupation": "Entrepreneur",
+    "photo": "photos/51/linnea-capobianco.jpg"
+  },
+  {
+    "slug": "maggie-nestor",
+    "name": "Maggie Nestor",
+    "shortName": "Maggie",
+    "age": 40,
+    "hometown": "Middleway, WV",
+    "residence": "Charles Town, WV",
+    "occupation": "Farmer",
+    "photo": "photos/51/maggie-nestor.jpg"
+  },
+  {
+    "slug": "mike-pinsky",
+    "name": "Mike Pinsky",
+    "shortName": "Mike",
+    "age": 32,
+    "hometown": "New York City, NY",
+    "residence": "New York City, NY",
+    "occupation": "Baseball executive",
+    "photo": "photos/51/mike-pinsky.jpg"
+  },
+  {
+    "slug": "ori-jean-charles",
+    "name": "Ori Jean-Charles",
+    "shortName": "Ori",
+    "age": 27,
+    "hometown": "Spring Valley, NY",
+    "residence": "Spring Valley, NY",
+    "occupation": "Personal trainer",
+    "photo": "photos/51/ori-jean-charles.jpg"
+  },
+  {
+    "slug": "patt-cannaday",
+    "name": "Patt Cannaday",
+    "shortName": "Patt",
+    "age": 33,
+    "hometown": "Tampa, FL",
+    "residence": "Washington, DC",
+    "occupation": "Federal prosecutor",
+    "photo": "photos/51/patt-cannaday.jpg"
+  },
+  {
+    "slug": "rob-antonson",
+    "name": "Rob Antonson",
+    "shortName": "Rob",
+    "age": 40,
+    "hometown": "Johnston, RI",
+    "residence": "Cumberland, RI",
+    "occupation": "Airline gate agent",
+    "photo": "photos/51/rob-antonson.jpg"
+  },
+  {
+    "slug": "sharonda-cox",
+    "name": "Sharonda Cox",
+    "shortName": "Sharonda",
+    "age": 34,
+    "hometown": "Pompano Beach, FL",
+    "residence": "Richmond, KY",
+    "occupation": "OB/GYN resident",
+    "photo": "photos/51/sharonda-cox.jpg"
+  }
+]

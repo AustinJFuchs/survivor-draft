@@ -1,0 +1,97 @@
+# Scrape → summarize → build → deploy to GitHub Pages.
+#
+# Schedule (UTC; ET = UTC-4 during the season):
+#   daily 13:00 UTC  = 9 AM ET   (pre-season: picks up tribe names, titles, etc.)
+#   Thu 03:00 UTC    = Wed 11 PM ET  (right after the episode)
+#   Thu 05:00 UTC    = Thu 1 AM ET
+#   Thu 07:00 UTC    = Thu 3 AM ET
+# Plus manual runs from the Actions tab, optionally regenerating one episode's commentary.
+
+name: pipeline
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 13 * * *"
+    - cron: "0 3 * * 4"
+    - cron: "0 5 * * 4"
+    - cron: "0 7 * * 4"
+  workflow_dispatch:
+    inputs:
+      regenerate:
+        description: "Episode number whose commentary should be regenerated (optional)"
+        required: false
+        default: ""
+      skip_scrape:
+        description: "Skip scraping (build + deploy only)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci --no-audit --no-fund
+
+      - name: Scrape Wikipedia + Survivor Wiki
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        run: npm run scrape
+
+      - name: Generate Probst commentary for new episodes
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -n "${{ inputs.regenerate }}" ]; then
+            npm run summarize -- --episode "${{ inputs.regenerate }}" --force
+          else
+            npm run summarize
+          fi
+
+      - name: Commit scraped data & commentary
+        if: ${{ github.event_name != 'push' }}
+        run: |
+          git config user.name "survivor-draft-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
+      - name: Build site
+        env:
+          VITE_BASE: /${{ github.event.repository.name }}/
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
