@@ -15,7 +15,7 @@
     "summarize": "tsx scripts/summarize.ts",
     "photos": "tsx scripts/fetch-photos.ts",
     "check": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.scripts.json --noEmit",
-    "test": "tsx --test scripts/**/*.test.ts src/**/*.test.ts",
+    "test": "tsx --test scripts/lib/wikipedia.test.ts src/lib/scoring.test.ts",
     "report": "tsx scripts/report.ts"
   },
   "dependencies": {
