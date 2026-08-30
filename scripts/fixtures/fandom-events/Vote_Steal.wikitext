@@ -1,0 +1,245 @@
+{{twist
+| image= vote steal cambodia.png
+| description= The ability to cast two votes at a single [[Tribal Council]], while preventing another player from voting
+| seasonsappeared={{S2|31}}<br />{{S2|34}}<br />{{S2|37}}<br />{{S2|40}}<br />{{S2|41}}<br />{{S2|42}}<br />{{S2|43}}<br />{{S2|44}}<br />{{S2|45}}<br />{{S2|47}}<br />{{S2|48}}<br />{{S2|49}}<br />{{S2|50}}
+}}
+The '''Vote Steal''' (also referred to as '''Steal-a-Vote''') is an [[advantage]] that is occasionally available to castaways. It allows players to steal another castaway's vote to vote twice in one [[Tribal Council]].
+
+In {{S|44}}, the '''Control a Vote''' variant of the advantage was introduced, allowing its holder to publicly dictate the vote of one of their tribemates. In contrast to the traditional mechanics of the advantage, the target will still be the person physically casting the vote.
+
+==Overview==
+A variant of the [[Extra Vote]], the Vote Steal is a more powerful version of the advantage, allowing a castaway to prevent another from voting and use that castaway's ballot as their own. The castaway that uses the advantage can vote for one person twice or for two separate people, including the castaway whose vote was stolen. In addition, the vote may still be nullified by a [[Hidden Immunity Idol]]. Unlike with the standard Extra Vote, the use of the Vote Steal requires the player to state their intention ''before'' any votes are cast.
+
+In {{S2|31}} and {{S2|34}}, the Vote Steal has a distinct margin around all four sides. Beginning in {{S|37}}, by stealing another player's vote, the user of the Vote Steal will cast their vote on a regular parchment, allowing more anonymity as to whom the stolen vote was cast against.
+
+In ''Cambodia''<ref>https://i.imgur.com/9bbNkYN.png</ref> and ''Game Changers'', the Vote Steal is expressly noted as being nontransferable. The advantage can be physically given to another castaway as a sign of trust, but the castaway to whom it is given cannot use the advantage and must return it to its original owner.<ref>{{Cite episode|title=Parting Is Such Sweet Sorrow|episodelink=Parting Is Such Sweet Sorrow|series=Survivor: Game Changers}}</ref> In {{S2|37}} and {{S2|40}}, the transferability of the Vote Steal is not mentioned by the castaways nor are the advantage's rules shown in full. In {{S2|41}}, the rules of the advantage are not shown to mention anything regarding transferability, leaving the assumption that it is now transferable, much like the Extra Vote.
+
+The advantage cannot be cancelled out by the [[Safety Without Power]] advantage. If a castaway whose vote is stolen then uses the Safety Without Power to leave [[Tribal Council]], the owner of the Vote Steal is entitled to choose another castaway's vote to steal.<ref>{{cite web|url=https://ew.com/tv/survivor-jeff-probst-winners-at-war-tony-vlachos-episode-11-interview/ |title=Jeff Probst on Tony's three days of Survivor dominance |work=Entertainment Weekly |last=Ross |first=Dalton |date=April 23, 2020 |accessdate=April 23, 2020}}</ref>
+
+The negational portion of this advantage was spun off into its own advantage, the [[Vote Blocker]], in {{S2|35}}.
+
+In {{S2|42}}, the Vote Steal became a part of the [[Advantage Amulet]]; should there only be two amulet holders left in the game, the amulets may be played as a singular Vote Steal.
+
+{{S2|44}} saw the debut of the Control a Vote variant of the advantage. This variant allows an otherwise non-voting member of the tribe to participate in the vote by co-opting a tribemate's vote and forcing them to vote against whomever that the advantage holder dictates. This advantage also forces its holder to publicly disclose their target, which ostensibly entails an added layer of risk of blowback. It is unknown if the player this advantage is played against can be forced to vote against themselves, or if the rule that a player is disallowed from voting against themselves still applies.
+
+{{S2|49}} introduced a cross-tribal version of the twist, where the holder could steal a vote from someone on an opposing tribe. The holder would then receive a regular Extra Vote to use whenever they please before expiration, while the target would have their vote lost at their next Tribal Council.
+
+==Vote Steal at Revotes==
+The exact mechanics of the Vote Steal at a revote following a tie are currently unknown.
+
+[[Stephen Fishbach]], who used the Vote Steal in ''Cambodia'', has stated that the Vote Steal carries over to a revote following a tie. If the person targeted by the Vote Steal is not part of the tie, the user of the Vote Steal retains control of the target's vote at the revote, even if the user is part of the tie.<ref>https://twitter.com/stephenfishbach/status/1029118787092660224</ref>
+
+==Twist History==
+===Cambodia===
+A variant of the Extra Vote was introduced during the ''[[Sea Legs|Bermuda Triangles]]'' [[Immunity Challenge]] on Day 24. While the challenge was underway, host [[Jeff Probst]] released a row of buoys, and the first to bail out of the challenge and swim toward their buoy won the advantage. [[Spencer Bledsoe]] and [[Stephen Fishbach]] raced to their buoys, but it was Stephen who won the advantage. Back at camp, Stephen learned his advantage: he obtained the privilege to vote twice, but in turn, he would deny a tribemate the right to vote, which he could use until the final five. Stephen decided to use his advantage on the Day 29 [[Tribal Council]]. He chose to steal [[Joe Anglim]]'s vote, and voted against [[Abi-Maria Gomes]] and Joe, but was himself voted out in a 4-3-2 vote.
+
+===Game Changers===
+After the conclusion of the Day 25 [[Reward Challenge]], ''[[O-Black Water]]'', [[Sarah Lacina]] acquired an advantage that was revealed to be a Vote Steal that could be used all the way until the final five. She used it at the Day 35 Tribal Council, using it to steal [[Tai Trang]]'s vote and cast an extra vote against [[Michaela Bradshaw]], who was voted out.
+
+===David vs. Goliath===
+At the [[merge]] feast, a clue for the advantage could be seen on the table. However, no one picked up on this clue. Later, on Day 21, [[Davie Rickenbacker]] and [[Nick Wilson]] searched for an advantage and stumbled upon the same clue. Nick later found the Vote Steal by a palm tree. He used it at the Day 25 Tribal Council to steal [[Alison Raybould]]'s vote and cast a second vote against [[Dan Rengering]], contributing to his elimination.
+
+===Winners at War===
+On Day 8, [[Natalie Anderson]] found an advantage on the {{dab|Edge of Extinction|twist}} which she could sell to a castaway still in the game for one [[Fire Token]]. This advantage would allow its purchaser the opportunity to sneak into the opposing tribe's camp that night and retrieve the Vote Steal from inside one of the tribe's [[torch]]es. However, if a member of that tribe found it before the purchaser could retrieve it, they would be allowed to keep it for themselves. Natalie sold the advantage to [[Sarah Lacina]] of the [[Dakal]] tribe, who purchased it. That night, Sarah snuck into the [[Sele]] tribe's camp and obtained the Vote Steal.
+
+Sarah used the advantage at the Day 25 Tribal Council when, after [[Jeremy Collins]] used his [[Safety Without Power]] advantage to grant himself immunity and leave Tribal Council without casting a vote, she stole the vote of [[Denise Stapley]] to ensure that her alliance would have the numbers to [[Split Vote|split their votes]] between Denise and their main target [[Tyson Apostol]], whom they successfully voted out.
+
+===Survivor 41===
+On Day 6, [[Brad Reese]], [[Sydney Segal]], and [[Tiffany Seely]] each found an envelope labeled "[[Beware Advantage]]" at their respective tribe camps. The note instructed them to sneak out of their camp that night into a waiting a boat that would take them to an island where they would make a decision. There, they played a [[wikipedia:Chicken (game)|game of chicken]], having to choose between a tarp for their tribe or a Vote Steal for themselves. If all three chose a tarp, then each tribe would receive a tarp. If they unanimously chose a Vote Steal, they would all lose their votes at the next Tribal Council they attended. But if there was a split decision, those who chose a tarp would get nothing, but those who chose a Vote Steal would obtain one. Tiffany and Sydney chose a tarp, but did not receive one as Brad decided to choose a Vote Steal, usable until the final seven. However, Brad was voted out at the very next Tribal Council without using his Vote Steal.
+
+===Survivor 42===
+During the opening [[Reward Challenge]] on Day 1, [[Drea Wheeler]], [[Hai Giang]], and [[Lindsay Dolashewich]] took the [[Advantage Amulet]]. It was later revealed that, if one of them were to be eliminated and the other two of them were on the same tribe together, they may play their amulets at once as a Vote Steal. After Day 19, when Hai was voted out, the Vote Steal power was activated. When Drea was then blindsided on Day 21, the amulet's power upgraded to that of a [[Hidden Immunity Idol]], taking the Vote Steal out of play.
+
+===Survivor 43===
+On Day 7, [[James Jones]], [[Noelle Lambert]], and [[Owen Knight]] went on a journey following the third Immunity Challenge and were presented with a choice to risk their votes for an advantage, or save them. Because Noelle told Owen and James about her low standings in the [[Vesi]] tribe, and swearing loyalty to them come the merge, the two men protected their votes and allowed Noelle to take the advantage without risking her vote. Once Noelle returned to camp, she discovered that she won the Vote Steal. On Day 14, Noelle briefly gave the advantage to Owen after learning that James had found the [[Knowledge is Power Advantage]], in case he learned she possessed the Vote Steal, but she reclaimed it later on. On Day 17, Noelle used the Vote Steal on Owen as part of a plan to blindside James 4-1.
+
+===Survivor 44===
+On Day 14, the [[Va Va]] tribe was divided into two teams, with the team that won the Reward/Immunity Challenge being sequestered away from the losers. The winning team was told that they would not vote at Tribal Council, but a note that came with their reward informed them that they could look for a key to unlock the birdcage in their camp for a new advantage. [[Heidi Lagares-Greenblatt]] unlocked the birdcage and found the "Control a Vote" advantage, which would let her dictate one vote of any member of the losing tribe. She would have to play her advantage publicly, stating whose vote she wants to control and who the vote will count against. At Tribal Council, Heidi played the vote on [[Lauren Harpe]] and compelled her to vote against [[Yam Yam Arocho]]. Despite the advantage play, it was Heidi's ally [[Matt Blankinship]] that was voted out 3-2.
+
+===Survivor 45===
+During the [[Summit|journey]] on Day 11, [[Austin Li Coon]], [[J. Maya]], and [[Kellie Nalbandian]] were given the option of taking food or the Advantage Amulet. The three agreed to take the amulets. When J. Maya was voted out on Day 13, the Vote Steal power was activated. After Kellie was blindsided on Day 16, the amulet's power upgraded to that of a Hidden Immunity Idol, taking the Vote Steal out of play.
+
+===Survivor 47===
+Diring the Journey on Day 7, [[Rome Cooney]] won the Vote Steal after drawing it out of a bag. At the Day 8 Tribal Council, he used it on [[Kishan Patel]], as a result Kishan was voted out 4-0.
+
+===Survivor 48===
+On the Day 4 Journey, [[Thomas Krottinger]] successfully solved a numbered slide puzzle and earned the Vote Steal. Before he could use it, he was voted out of the game 2-0 at his first Tribal Council as a result of [[Kyle Fraser]] playing his idol.
+
+===Survivor 49===
+On the Day 4 Journey, [[Jawan Pitts]] beat out [[Jake Latimer]] and [[Matt Williams]] in the challenge, and was given the choice between stealing one of their votes, or giving one of their tribes a [[Challenge Advantage|Tribe Disadvantage]]. He chose the Disadvantage, and the Cross-Tribal Vote Steal was out of play.
+
+=== Survivor 50: In the Hands of the Fans ===
+On the Day 14 Journey, [[Stephenie LaGrossa Kendrick]] successfully outlasted a water timer while doing a version of the [[When It Rains, It Pours]] challenge, earning her the Vote Steal. At the Day 19 Tribal Council, after a chaotic scramble, she used it on [[Rick Devens]] in hopes of voting out [[Aubry Bracco]]. However, the rest of the tribe viewed her as untrustworthy, voting her out in a unanimous 8-2 vote.
+
+===Summary===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Location
+! Episode Acquired
+! Original Owner
+! Given To
+! Episode Used
+! Vote Stolen
+! Intended Target
+! Successful?
+! Eliminated
+|-
+| {{S2|31}}
+| Day 24 [[Immunity Challenge]]
+| {{Ep|3109}}
+| {{nowrap|[[File:S31 stephen t.png|60px|link=Stephen Fishbach]]<br />[[Stephen Fishbach]]}}
+| None
+| {{Ep|3111}}
+| {{nowrap|[[File:S31 joe t.png|60px|link=Joe Anglim]]<br />[[Joe Anglim]]}}
+| {{nowrap|[[File:S31 joe t.png|60px|link=Joe Anglim]]<br />Joe Anglim}}
+| {{yn|n}}<br />4-'''3'''-'''2'''
+| {{nowrap|[[File:S31 stephen bw.png|60px|link=Stephen Fishbach]]<br />Stephen Fishbach}}
+|-
+| {{S2|34}}
+| Day 25 [[Reward Challenge]]
+| {{Ep|3408}}
+| {{nowrap|[[File:S34 sarah t.png|60px|link=Sarah Lacina]]<br />[[Sarah Lacina]]}}
+| None
+| {{Ep|3411}}
+| {{nowrap|[[File:S34 tai t.png|60px|link=Tai Trang]]<br />[[Tai Trang]]}}
+| {{nowrap|[[File:S34 michaela t.png|60px|link=Michaela Bradshaw]]<br />[[Michaela Bradshaw]]}}
+| {{yn|y}}<br />'''4'''-2-1
+| {{nowrap|[[File:S34 michaela bw.png|60px|link=Michaela Bradshaw]]<br />Michaela Bradshaw}}
+|-
+| {{S2|37}}
+| Hidden by a palm tree during the [[merge]]
+| {{Ep|3708}}
+| {{nowrap|[[File:S37 nick t.png|60px|link=Nick Wilson]]<br />[[Nick Wilson]]}}
+| None
+| {{Ep|3709}}
+| {{nowrap|[[File:S37 alison t.png|60px|link=Alison Raybould]]<br />[[Alison Raybould]]}}
+| {{nowrap|[[File:S37 dan t.png|60px|link=Dan Rengering]]<br />[[Dan Rengering]]}}
+| {{yn|y}}<br />'''6'''-3-2
+| {{nowrap|[[File:S37 dan bw.png|60px|link=Dan Rengering]]<br />Dan Rengering}}
+|-
+| {{S2|40}}
+| {{tribeicon|sele}} camp
+| {{Ep|4003}}
+| {{nowrap|[[File:S40 sarah t.png|60px|link=Sarah Lacina]]<br />[[Sarah Lacina]]}}
+| None
+| {{Ep|4010}}
+| {{nowrap|[[File:S40 denise t.png|60px|link=Denise Stapley]]<br />[[Denise Stapley]]}}
+| {{nowrap|[[File:S40 tyson t.png|60px|link=Tyson Apostol]]<br />[[Tyson Apostol]]}}
+| {{yn|y}}<br />'''5'''-2-'''0'''
+| {{nowrap|[[File:S40 tyson bw.png|60px|link=Tyson Apostol]]<br />Tyson Apostol}}
+|-
+| {{S2|41}}
+| Day 7 [[Summit|Journey]]
+| {{Ep|4103}}
+| {{nowrap|[[File:S41 brad t.png|60px|link=Brad Reese]]<br />[[Brad Reese]]}}
+| None
+| colspan="5" | Eliminated while in possession in {{Ep|4103}}
+|-
+| rowspan="3" | {{S2|42}}
+| rowspan="3" | Day 1 [[Reward Challenge]]<br /><small>([[Advantage Amulet]])</small>
+| rowspan="3" | {{Ep|4201}}
+| {{nowrap|[[File:S42 drea t.png|60px|link=Drea Wheeler]]<br />[[Drea Wheeler]]}}
+| colspan="6" rowspan="3" | Upgraded to [[Hidden Immunity Idol]] in {{Ep|4211}}
+|-
+| {{nowrap|[[File:S42 lindsay t.png|60px|link=Lindsay Dolashewich]]<br />[[Lindsay Dolashewich]]}}
+|-
+| {{nowrap|[[File:S42 hai bw.png|60px|link=Hai Giang]]<br /><s>[[Hai Giang]]</s>}}
+|-
+| {{S2|43}}
+| Day 7 [[Summit|Journey]]
+| {{Ep|4303}}
+| {{nowrap|[[File:S43 noelle t.png|60px|link=Noelle Lambert]]<br/>[[Noelle Lambert]]}}
+| {{nowrap|[[File:S43 owen t.png|60px|link=Owen Knight]] â†’ [[File:S43 noelle t.png|60 px|link=Noelle Lambert]]<br />[[Owen Knight]] â†’ Noelle Lambert}}
+| {{Ep|4309}}
+| {{nowrap|[[File:S43 owen t.png|60px|link=Owen Knight]]<br />Owen Knight}}
+| {{nowrap|[[File:S43 james t.png|60px|link=James Jones]]<br />[[James Jones]]}}
+| {{yn|y}}<br />'''4'''-1
+| {{nowrap|[[File:S43 james bw.png|60px|link=James Jones]]<br />James Jones}}
+|-
+| {{S2|44}}
+| {{tribeicon|vava}} camp<br /><small>(Control a Vote)</small>
+| {{Ep|4407}}
+| {{nowrap|[[File:S44 heidi t.png|60px|link=Heidi Lagares-Greenblatt]]<br/>[[Heidi Lagares-Greenblatt]]}}
+| None
+| "Let's Not Be Cute About It"
+| {{nowrap|[[File:S44 lauren t.png|60px|link=Lauren Harpe]]<br />[[Lauren Harpe]]}}
+| {{nowrap|[[File:S44 yamyam t.png|60px|link=Yam Yam Arocho]]<br />[[Yam Yam Arocho]]}}
+| {{yn|n}}<br />3-'''2'''
+| {{nowrap|[[File:S44 matt bw.png|60px|link=Matt Blankinship]]<br />[[Matt Blankinship]]}}
+|-
+| rowspan="3"| {{S2|45}}
+| rowspan="3"| Day 11 [[Summit|Journey]]<br /><small>([[Advantage Amulet]])</small>
+| rowspan="3"| {{Ep|4505}}
+| {{nowrap|[[File:S45 austin t.png|60px|link=Austin Li Coon]]<br />[[Austin Li Coon]]}}
+| colspan="6" rowspan="3" | Upgraded to [[Hidden Immunity Idol]] in {{Ep|4508}}
+|-
+| {{nowrap|[[File:S45 kellie t.png|60px|link=Kellie Nalbandian]]<br />[[Kellie Nalbandian]]}}
+|-
+| {{nowrap|[[File:S45 jmaya bw.png|60px|link=J. Maya]]<br /><s>[[J. Maya]]</s>}}
+|-
+| {{S2|47}}
+| Day 7 [[Summit|Journey]]
+| {{Ep|4703}}
+| {{nowrap|[[File:S47 rome t.png|60px|link=Rome Cooney]]<br />[[Rome Cooney]]}}
+| None
+| {{Ep|4704}}
+| {{nowrap|[[File:S47 kishan t.png|60px|link=Kishan Patel]]<br />[[Kishan Patel]]}}
+| {{nowrap|[[File:S47 kishan t.png|60px|link=Kishan Patel]]<br />Kishan Patel}}
+| {{yn|y}}<br />'''4'''-0
+| {{nowrap|[[File:S47 kishan bw.png|60px|link=Kishan Patel]]<br />Kishan Patel}}
+|-
+| {{S2|48}}
+| Day 4 [[Summit|Journey]]
+| {{Ep|4802}}
+| {{nowrap|[[File:S48 thomas t.png|60px|link=Thomas Krottinger]]<br />[[Thomas Krottinger]]}}
+| None
+| colspan="5" | Eliminated while in possession in {{Ep|4804}}
+|-
+| {{S2|49}}
+| Day 4 [[Summit|Journey]]<br /><small>([[Advantage Menu|Advantage Option]])</small>
+| {{Ep|4902}}
+| {{nowrap|[[File:S49 jawan t.png|60px|link=Jawan Pitts]]<br />[[Jawan Pitts]]}}
+| None
+| colspan="5" | Not chosen
+|-
+| {{S2|50}}
+| Day 14 [[Summit|Journey]]
+| {{Ep|5007}}
+| {{nowrap|[[File:S50 stephenie t.png|60px|link=Stephenie LaGrossa Kendrick]]<br />[[Stephenie LaGrossa Kendrick]]}}
+| None
+| {{Ep|5010}}
+| {{nowrap|[[File:S50 rick t.png|60px|link=Rick Devens]]<br />[[Rick Devens]]}}
+| {{nowrap|[[File:S50 aubry t.png|60px|link=Aubry Bracco]]<br />[[Aubry Bracco]]}}
+| {{yn|n}}<br />8-'''2'''
+| {{nowrap|[[File:S50 stephenie bw.png|60px|link=Stephenie LaGrossa Kendrick]]<br />[[Stephenie LaGrossa Kendrick]]}}
+|}
+
+==Trivia== 
+* Though the Vote Steal has helped eliminate its target multiple times, the individual vote alone has never altered the eventual outcome of [[Tribal Council]].
+** In {{S2|31}} and {{S2|50}}, the person playing the Vote Steal was eliminated at that Tribal Council.
+** In {{S2|34}}, the target was voted out by a two-vote margin, but the person whose vote was stolen received the second-most votes.
+** In {{S2|37}}, {{S2|40}}, {{S2|43}}, and {{S2|47}}, the target was voted out, but by at least a three-vote margin.
+* [[Stephen Fishbach]] is the first castaway to use a Vote Steal advantage to vote for two separate people. He is also the first castaway to target the person whose vote he stole, and to use the advantage unsuccessfully.
+* [[Sarah Lacina]] (''Game Changers'' and ''Winners at War'') is the first player to possess a Vote Steal in two different seasons.
+** By extension, Sarah is the first player to successfully use the Vote Steal in two different seasons.
+* [[Brad Reese]] is the first player to be voted out while in possession of a Vote Steal.
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Twists]]
+[[Category:Gameplay]]
+[[Category:Survivor (U.S.)]]
+[[Category:Survivor: Cambodia]]
+[[Category:Survivor: Game Changers]]
+[[Category:Survivor: David vs. Goliath]]
+[[Category:Survivor: Winners at War]]
+[[Category:Survivor 41]]
+[[Category:Survivor 42]]
+[[Category:Survivor 43]]
+[[Category:Survivor 44]]
+[[Category:Survivor 45]]
+[[Category:Survivor 47]]
+[[Category:Survivor 48]]
+[[Category:Survivor 49]]
+[[Category:Survivor (franchise)]]

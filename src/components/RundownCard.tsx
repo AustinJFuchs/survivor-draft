@@ -3,10 +3,12 @@ import { data, drafterById, drafterColor } from "../data";
 import { formatDate } from "../lib/format";
 import type { Rundown } from "../lib/types";
 import { ChevronIcon } from "./icons";
+import { useMeContext } from "../lib/me";
 
 /** "Jeff's State of the Draft" — latest on Standings, archived per episode on Episodes. */
 export default function RundownCard({ rundown, onOpenDrafter, compact }: { rundown: Rundown; onOpenDrafter?: (id: string) => void; compact?: boolean }) {
   const [open, setOpen] = useState(!!compact);
+  const { me } = useMeContext();
   const when = rundown.episode ? `after Ep ${rundown.episode}` : "pre-season";
   const ep = rundown.episode ? data.episodes.find((e) => e.number === rundown.episode) : undefined;
   return (
@@ -32,7 +34,7 @@ export default function RundownCard({ rundown, onOpenDrafter, compact }: { rundo
               const d = drafterById.get(l.drafterId);
               const team = data.teams[l.drafterId];
               return (
-                <li key={l.drafterId} className="flex gap-2.5 text-sm">
+                <li key={l.drafterId} className={`flex gap-2.5 text-sm rounded-md ${me === l.drafterId ? "bg-torch-500/10 -mx-2 px-2 py-1" : ""}`}>
                   <span className="font-display text-xl leading-none w-5 text-right" style={{ color: drafterColor(l.drafterId) }}>
                     {i + 1}
                   </span>

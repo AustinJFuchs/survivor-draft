@@ -1,0 +1,104 @@
+{{Twist
+|image = Advantage option rules.png
+|description = A game advantage that can be used as whatever advantage is on the list, but only one.
+|seasonsappeared = {{S2|34}}<br />{{S2|38}}<br />{{S2|39}}<br />{{S2|47}}<br />{{S2|49}}
+}}The '''Advantage Menu''' (also called the '''Advantage Option''' or  '''Take Your Pick''') is an advantage introduced in {{S|34}}. It allows the castaway who holds it to select one advantage on the list to use later in the game.
+
+==Overview==
+The Advantage Menu offers multiple potential advantages for the person who obtains it. It can be played in several different ways, according to which advantage the holder decides to use.
+
+In its first appearance in {{S|34}}, the person who obtained the advantage immediately had to choose from one of three advantages while on {{dab|Exile Island|twist}}. This was modified in the Advantage Menu's subsequent appearance in {{S|38}}, where the holder could now defer choosing which advantage to use. However, the Advantage Menu would only be good up until the third [[Tribal Council]]. Additionally, the Advantage Menu could be bequeathed to someone on the opposing tribe during the last round it could be used.<ref name="s38">https://www.instagram.com/reel/DU3gPs6iatU/</ref>
+
+In {{S|39}}, the task of winning a coin toss was added before the person offered the advantage option could receive their chosen advantage, failing which they would lose their vote per the wager on the {{dab|Island of the Idols|twist}}.
+
+{{S|42}} introduced the [[Advantage Amulet]], which tied in the principles of the Advantage Menu with the mechanic of having to share the advantages across all its finders. Additionally, instead of each finder selecting an advantage at will, the amulet would provide an increasingly powerful advantage as fewer holders remained in the game.
+
+==History==
+===Game Changers===
+During the [[Tribe Switch]] on Day 14, [[Debbie Wanner]] drew the package containing no [[buff]] and was sent to {{dab|Exile Island|twist}}, where she would wait until after the next [[Tribal Council]] to replace the member voted out by the tribe that lost the next [[Immunity Challenge]]. While on Exile Island, Debbie was visited by former two-time castaway and {{S2|26}} winner [[John Cochran]], who offered to her an '''Advantage Option''', giving her the choice between three advantagesâ€”a kit with which to design a fake [[Hidden Immunity Idol]]; an [[Extra Vote]]; as well as a challenge advantage to be used by her new tribe at the following Immunity Challenge. Debbie chose the Extra Vote and would hold onto it until the Day 24 Tribal Council, where she used it to vote against [[Ozzy Lusth]] twice and contributed to his elimination.
+===Edge of Extinction===
+During the marooning on Day 1, [[Ron Clark]] found an envelope labeled "Secret Advantage" under a crate of vegetables on the boat. It was later revealed to be an Advantage Menu, which gave him the choice of [[Reward Steal|stealing the reward]] won by the other tribe after a challenge; an [[Extra Vote]], which allows the player to use the parchment as a vote at [[Tribal Council]]; or individual immunity, which allows the player to use the menu like a [[Hidden Immunity Idol]] before the votes are read. However, the Advantage Menu was now repurposed to allow its holder to defer choosing an advantage until its expiration after the third Tribal Council. Ron did not have to choose any advantage as his tribe did not go to any of the first three Tribal Councils. Ron initially was going to give the Advantage Menu to [[Chris Underwood]] following the third Immunity Challenge, but decided against it<ref name="s38"/>, leaving the Advantage Menu to expire after the Day 8 Tribal Council. However, Ron kept the expired envelope and gave it to [[Rick Devens]] on Day 31. Rick attempted to purchase immunity off of the menu, but Jeff informed him that the menu had expired. Rick then played a real Hidden Immunity Idol, which ultimately sent Ron home.
+===Island of the Idols===
+On Day 34, [[Dean Kowalski]] was sent to the {{dab|Island of the Idols|twist}}, where [[Rob Mariano]] and [[Sandra Diaz-Twine]] offered Dean a choice between three advantages: an Extra Vote, an [[Idol Nullifier]], or a Hidden Immunity Idol, good for the next Tribal Council, which could not be played for himself. Dean selected the Idol Nullifier, after which he had to play a coin toss to win the advantage. Dean won the coin toss and would use his Idol Nullifier on Day 37 to counter [[Janet Carbin]]'s idol play, sending her home in a 4-1 vote.
+===Survivor 47===
+After the Yellow Team won immunity from the [[Group Tribal Council]] on Day 13, [[Sol Yi]] discovered the Take Your Pick advantage at the [[Beka]] camp, and was instructed to anonymously send it to someone from the losing Blue Team before their Tribal Council. Sol willed it to [[Rachel LaMont]], who had the option of picking a [[Vote Blocker]] or [[Safety Without Power]]. Rachel picked the Safety Without Power advantage and was allowed to leave Tribal Council.
+===Survivor 49===
+On the Day 4 Journey, [[Jawan Pitts]] beat out [[Jake Latimer]] and [[Matt Williams]] in the challenge, and was given the choice between [[Vote Steal|stealing one of their votes]], or giving one of their tribes a [[Challenge Advantage|Tribe Disadvantage]]. He chose the Disadvantage and it was automatically activated at the next day's Immunity Challenge, with Jawan choosing to penalize Matt's [[Hina]] tribe, who still ended up coming in first place, while his [[Uli]] tribe finished in second, sending Jake's [[Kele]] tribe to Tribal Council.
+
+===Summary===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Location
+! Episode Acquired
+! Owner
+! First Option
+! Second Option
+! Third Option
+! Advantage Chosen
+! Episode Used
+|-
+| {{S|34}}
+| {{dab|Exile Island|twist}}
+| {{Ep|3405}}
+| {{nowrap|[[File:S34 debbie t.png|60px|link=Debbie Wanner]]<br />[[Debbie Wanner]]}}
+| Fake [[Hidden Immunity Idol]] kit
+| [[Extra Vote]]
+| [[Challenge Advantage|Advantage]] for tribe at next [[Immunity Challenge]]
+| '''Extra Vote'''
+| {{Ep|3407}}
+|-
+| {{S|38}}
+| Under a box of vegetables at the marooning
+| {{Ep|3801}}
+| {{nowrap|[[File:S38 ron t.png|60px|link=Ron Clark]]<br />[[Ron Clark]]}}
+| [[Reward Steal]]
+| [[Extra Vote]]
+| Individual Immunity to be used as a [[Hidden Immunity Idol]]
+| colspan="2"| Expired in {{Ep|3803}}
+|-
+| {{S|39}}
+| {{dab|Island of the Idols|twist}}
+| {{Ep|3912}}
+| {{nowrap|[[File:S39 dean t.png|60px|link=Dean Kowalski]]<br />[[Dean Kowalski]]}}
+| [[Extra Vote]]
+| [[Idol Nullifier]]
+| [[Hidden Immunity Idol]] to be used on Day 35 on another player
+| '''Idol Nullifier'''
+| {{Ep|3913}}
+|-
+| {{S|47}}
+| {{tribeicon|beka}} camp
+| {{Ep|4707}}
+| {{nowrap|[[File:S47 rachel t.png|60px|link=Rachel LaMont]]<br />[[Rachel LaMont]]}}
+| [[Safety Without Power]]
+| [[Vote Blocker]]
+| ''None''
+| '''Safety Without Power'''
+| {{Ep|4707}}
+|-
+| {{S|49}}
+| Day 4 [[Summit|Journey]]
+| {{Ep|4902}}
+| {{nowrap|[[File:S49 jawan t.png|60px|link=Jawan Pitts]]<br />[[Jawan Pitts]]}}
+| [[Vote Steal]]
+| [[Challenge Advantage|Tribe Disadvantage]]
+| ''None''
+| '''Tribe Disadvantage'''
+| {{Ep|4902}}
+|}
+
+==Trivia==
+* [[Ron Clark]] is the firstÂ person not to use the Advantage Menu.
+
+{{GameplayNav}}
+==References==
+{{Reflist}}
+[[Category:Gameplay]]
+[[Category:Objects]]
+[[Category:Survivor (U.S.)]]
+[[Category:Twists]]
+[[Category:Survivor: Game Changers]]
+[[Category:Survivor: Edge of Extinction]]
+[[Category:Survivor: Island of the Idols]]
+[[Category:Survivor 47]]
+[[Category:Survivor (franchise)]]

@@ -1,0 +1,95 @@
+{{Twist
+|image = Idol Nullifier.jpg
+|description = An advantage that allows the user to negate the usage of a [[Hidden Immunity Idol]]
+|seasonsappeared = {{S2|37}}<br />{{S2|39}}<br />{{S2|40}}<br />{{S2|42}} (unaired)
+}}
+The '''Idol Nullifier''' is an advantage introduced in {{S2|37}}. Its main function is to prevent a [[Hidden Immunity Idol]] from negating any votes.
+
+==Overview==
+The Idol Nullifier is a talisman that can be used at [[Tribal Council]]. If the castaway wishes to use it, they must do so while casting their vote. At the voting booth, the user must write the name of the intended target on the nullifier and place it in the voting [[urn]], along with their vote. If a [[Hidden Immunity Idol]] is played on the intended target, the host will verify its authenticity, but will also present the Idol Nullifier, informing the player that the idol has been rendered powerless. If the target does not play an idol, the advantage will be wasted and its user will remain anonymous if they choose to be. Similar to the Hidden Immunity Idol, the Idol Nullifier can be played until five castaways remain.
+
+An Idol Nullifier can only negate one Hidden Immunity Idol, so it can be countered if a second Hidden Immunity Idol is played for the target.<ref>http://xfn-blogs.xfinity.com/tv/2018/11/27/survivor-host-jeff-probst-sheds-light-on-idol-nullifier-rules/</ref>
+
+==History==
+===David vs. Goliath===
+The Idol Nullifier debuted in {{S2|37}} after the [[Tribe Switch|tribe switch]] on Day 10. [[Carl Boudreaux]] was left without a [[tribe]] and was subsequently banished to {{dab|Exile Island|twist}}. During his stay, he successfully located the Idol Nullifier, which he revealed to his allies. At the Day 25 [[Tribal Council]], Carl used the Idol Nullifier on [[Dan Rengering]], successfully preventing his idol from having any power, sending him to the [[jury]].
+
+===Island of the Idols===
+On Day 34, [[Dean Kowalski]] was selected by random draw to go to the {{dab|Island of the Idols|twist}}. For his mentors' challenge, [[Rob Mariano]] and [[Sandra Diaz-Twine]] offered him a choice of three advantagesâ€”an [[Extra Vote]], an Idol Nullifier, or a [[Hidden Immunity Idol]] good for the next [[Tribal Council]] which could not be played on himselfâ€” if he won a game of chance. Dean chose to play for an Idol Nullifier, which he then received after winning the game of chance. At the Day 37 Tribal Council, Dean used the Idol Nullifier on [[Janet Carbin]], successfully preventing her idol from having any power, sending her to the [[jury]].
+
+===Winners at War===
+On Day 15, [[Tyson Apostol]] found an Idol Nullifier on the {{dab|Edge of Extinction|twist}} which he could sell to a castaway still in the game for one [[Fire Token]]. Tyson sold the advantage to [[Parvati Shallow]] of the [[Sele]] tribe, who purchased it and could use it until there were five active players remaining. Parvati was voted out the following day, with the Idol Nullifier being taken out of play after she was sent to the Edge of Extinction herself.
+===Survivor 42===
+On Day 8, [[Taku]] won the [[Reward Challenge]], earning themselves a bounty of fish. Hidden inside one of the fish was a piece of bamboo representing the Idol Nullifier; however, [[Jonathan Young]] disposed of it after cleaning the fish.<ref>https://ew.com/tv/survivor-jeff-probst-secret-advantages/</ref><ref>https://podcasts.apple.com/us/podcast/advantages-and-idols/id1673596832?i=1000603381228 (30:00)</ref> 
+
+Later, Jonathan and [[Omar Zaheer]] found an Idol Nullifier at their water well. Omar took it and the two men kept it a secret. Though this Idol Nullifier went unaired, Omar has stated that this contributed to his decision to return [[Mike Turner]] his idol before then blindsiding him with the nullifier at the final five; Omar (and various other castmates) also attributed his elimination on Day 23 to the advantage.<ref name="omar">https://ew.com/tv/survivor-42-omar-zaheer-interview/</ref><ref>https://ew.com/tv/survivor-42-finale-maryanne-mike-lindsay-jonathan-romeo/</ref>
+
+===Summary===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Location
+! Episode Acquired
+! Original Owner
+! Given To
+! Episode Used
+! Target
+! Successful?
+! Eliminated
+|-
+| {{S2|37}}
+| {{dab|Exile Island|twist}}
+| {{Ep|3704}}
+| {{nowrap|[[File:S37 carl t.png|60px|link=Carl Boudreaux]]<br />[[Carl Boudreaux]]}}
+| None
+| {{Ep|3709}}
+| {{nowrap|[[File:S37 dan t.png|60px|link=Dan Rengering]]<br />[[Dan Rengering]]}}
+| {{yn|y}}
+| {{nowrap|[[File:S37 dan bw.png|60px|link=Dan Rengering]]<br />Dan Rengering}}
+|-
+| {{S2|39}}
+| {{dab|Island of the Idols|twist}}
+| {{Ep|3912}}
+| {{nowrap|[[File:S39 dean t.png|60px|link=Dean Kowalski]]<br />[[Dean Kowalski]]}}
+| None
+| {{Ep|3913}}
+| {{nowrap|[[File:S39 janet t.png|60px|link=Janet Carbin]]<br />[[Janet Carbin]]}}
+| {{yn|y}}
+| {{nowrap|[[File:S39 janet bw.png|60px|link=Janet Carbin]]<br />Janet Carbin}}
+|-
+| {{S2|40}}
+| {{dab|Edge of Extinction|twist}}
+| {{Ep|4006}}
+| {{nowrap|[[File:S40 parvati t.png|60px|link=Parvati Shallow]]<br />[[Parvati Shallow]]}}
+| None
+| colspan="4"|Voted out while in possession in {{Ep|4006}}
+|-
+|{{S2|42}}
+|{{tribeicon|taku}} camp
+|{{Ep|4204}}<ref name="omar"/><br /><small>(unaired)</small>
+|{{nowrap|[[File:S42 omar t.png|60px|link=Omar Zaheer]]<br />[[Omar Zaheer]]}}
+| None
+| colspan="4"|Eliminated while in possession in {{Ep|4212}}
+|}
+
+==Reception==
+The Idol Nullifier was well-received in its first appearance because of its role in one of the biggest blindsides of {{S2|37}}. [[Dan Rengering]], the first victim of the nullifier, has expressed frustration that it was an unforeseeable twist, but agreed that the outcome was exciting from his perspective as a fan.<ref>https://www.hollywoodreporter.com/tv/tv-news/survivor-david-goliath-idol-nullifier-twist-hits-episode-9-1162864/</ref> On the other hand, the nullifier's subsequent appearance in {{S2|39}} was generally panned for its introduction in the form of a coin flip, its contribution to an unsatisfactory endgame, and its direct role in causing the elimination of fan favorite [[Janet Carbin]]. Janet has expressed her "hatred" for the twist, which left her in a "ridiculous" situation with no way out at the final five.<ref>https://www.goldderby.com/article/2019/survivor-fans-wanted-janet-carbin-to-win-island-of-the-idols-tommy-sheehan/</ref><ref>https://ew.com/tv/2019/12/19/survivor-finale-janet-carbin-interview-island-of-the-idols-season-39/</ref>
+
+Meanwhile, commentators have noted that the advantage is well-balanced with a way to outmaneuver it, but conceded that it could be exploited by majority alliances to prevent shifts in power.<ref>https://survivingtribal.com/2018/11/24/survivor-david-goliath-idol-nullifier-balanced/</ref> Former contestant and previous Sole Survivor [[Adam Klein]] has expressed his disapproval, believing that the nullifier overwhelmingly benefits the majority, making it harder for them to be usurped.<ref>https://robhasawebsite.com/survivor-42-episode-12-recap/ (0:55:00)</ref>
+
+==Trivia==
+*The concept of the Idol Nullifier originated in {{S|2017au}} as part of the two-part "Super Idol", which included both the function of an Idol Nullifier as well as that of a regular Hidden Immunity Idol.
+**Instead of playing the nullifier in the voting booth, the contestant could play it as they would a regular idol, thereby reducing the uncertainty involved in using it.
+*[[Parvati Shallow]] is the first person to be voted out with an Idol Nullifier still in their possession.
+*All three men who found the Idol Nullifier were members of orange starting tribes.
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Gameplay]]
+[[Category:Twists]]
+[[Category:Survivor (U.S.)]]
+[[Category:Survivor: David vs. Goliath]]
+[[Category:Survivor: Island of the Idols]]
+[[Category:Survivor: Winners at War]]
+[[Category:Survivor 42]]
+[[Category:Survivor (franchise)]]

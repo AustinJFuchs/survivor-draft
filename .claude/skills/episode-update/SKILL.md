@@ -32,6 +32,10 @@ You maintain `data/51/overrides.json` (human-owned; always wins over `scraped.js
      in overrides, or regenerate with `npm run teams -- --drafter <id> --force`.
    - Jeff's State of the Draft (top of Standings): edit `rundowns["<episode|0>"].headline` /
      `.overview` / `.lines` / `.awards` in overrides, or `npm run rundown -- --force`.
+   - Idols/advantages: `npm run events` re-scrapes the wiki tables; add a missing one with
+     `events[]` in overrides (`id`, `type`, `contestantSlug`, `episode`, `advantage`, `outcome`,
+     `detail`) or hide a wrong one with `removeEvents: ["<id>"]` (ids are in data/51/events.json).
+   - Season in review (finale): `review` in overrides edits the text; `npm run review -- --force`.
 4. **Write the override.** Shapes (all optional, merged by slug/episode):
    ```json
    {

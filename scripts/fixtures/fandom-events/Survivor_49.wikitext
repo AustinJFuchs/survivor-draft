@@ -1,0 +1,238 @@
+{{Season
+| image             = US S49 logo.png
+| version           = {{version|us}}
+| location          = {{wp|Mamanuca Islands}}, {{wp|Fiji}}
+| filmingdates      = April 20, 2025 - May 15, 2025<ref>https://www.truedorktimes.com/s49/calendar.htm</ref>
+| seasonrun         = September 24, 2025<ref>https://www.tvinsider.com/gallery/survivor-49-cast/</ref> - December 17, 2025
+| episodes          = 13
+| season            = 49
+| days              = 26
+| survivors         = 18
+| winner            = [[Savannah Louie]]
+| runnerup          = [[Sophi Balerdi]]<br />[[Sage Ahrens-Nichols]]
+| tribes            = {{tribeicon|hina}}<br />{{tribeicon|kele}}<br />{{tribeicon|uli}}<br />{{tribeicon|lewatu}}
+| viewership        = 
+| cast              = S49 Cast.jpeg
+| intro             = Survivor 49 Official Intro!
+| previous          = {{S2|48}}
+| next              = {{S2|50}}
+| grandprize   = US$1,000,000
+}}
+'''''Survivor 49''''' is the forty-ninth season of the CBS competitive reality television series ''{{dab|Survivor|U.S.}}''.
+
+''Survivor 49'' began with a collapse of the [[Kele|Kele Tribe]], losing four members in a row. After a tribe swap into two tribes, the first season in the New Era to do so, The old [[Uli]] members came together on new [[Hina]] with [[Sophi Balerdi]] to take out old Hina. [[Uli Alliance|This alliance]] spent the early merge struggling for power against the Hina alliance, and eventually the Tres Leches alliance, consisting of [[Savannah Louie]], [[Rizo Velovic]], and Sophi Balerdi, emerged victorious as they made the final four together utilizing Rizo's [[Hidden Immunity Idol]] and Savannah's ability to win [[Immunity Challenge|Immunity Challenges]]. After 26 days, Savannah defeated Sophi and [[Sage Ahrens-Nichols]] in a 5-2-1 vote.
+
+Prior to its airdate, ''Survivor 49'' was announced to have produced two returning players for the upcoming [[Survivor 50: In the Hands of the Fans|50th season]]. Those players were officially revealed to be Rizo Velovic and Savannah Louie after ''Survivor 49'' finished airing, though their names were heavily rumored during airing. To date, there are no other players to return for another season.
+
+==Production==
+12 hours before the season's marooning, two would-be contestants were removed from the game for violating the pregame rules during the preseason [[Ponderosa]], specifically with regards to talking to the other contestants. They were aptly replaced by [[Jason Treul]] and [[MC Chukwujekwu]].<ref>https://parade.com/tv/survivor-49-cast-2025</ref><ref>https://ew.com/jeff-probst-explains-survivor-49-players-replaced-alternates-11794636</ref><ref>https://parade.com/tv/jeff-probst-survivor-49-alternates-jason-treul-michelle-mc-chukwujekwu-exclusive</ref><ref>https://ew.com/jeff-probst-players-cut-survivor-49-disrespecting-rules-11816250</ref>
+
+One week prior to the season's air date, a special video was uploaded to the ''SurvivorCBS'' YouTube channel titled "''[[36 Hour Survivor: Influencer Experience]]''". In the video, eight social media influencers spent 36 hours simulating an episode of ''Survivor''. They built a shelter, searched for a [[Hidden Immunity Idol]], competed in an [[Immunity Challenge]], and voted someone out at [[Tribal Council]]. The video also gave insight into some of ''Survivor 49''<nowiki/>'s set designs and props, including a challenge design, the Tribal Council set, and the torch [[snuffer]].
+==Twists/Changes==
+* '''26-Day Game'''
+* '''Tribe Division: '''The 18 castaways were divided into 3 tribes of 6. No unifying theme was used in dividing the tribes.
+* '''Penalties for Losing Immunity Challenges'''
+*'''[[Shot in the Dark]]'''
+*'''[[Summit|Journeys]]''':
+**'''[[Advantage Menu|Advantage Option]]:''' The person who won the challenge on the Day 4 journey could choose to take one of two advantages:
+***'''[[Vote Steal]]:''' The challenge winner could choose to prevent one of the challenge losers' right to vote at their next Tribal Council. In exchange, they would receive the right to vote twice at a future Tribal Council.
+***'''[[Challenge Advantage|Tribe Disadvantage]]:''' The challenge winner could choose to impose a disadvantage on one of the other two tribes at the next Immunity Challenge.
+**[[Vote Blocker|'''Vote Blocker''']]
+*'''[[Beware Advantage]]s'''
+**'''[[Hidden Immunity Idol]]'''
+**'''[[Knowledge is Power Advantage|Knowledge is Power]]'''
+*'''[[Tribe Switch]]:''' A tribe switch occurred on Day 7, shuffling the remaining fourteen castaways into two tribes of seven, dissolving the {{tribeicon|uli}} tribe.
+*'''Tribe Expansion:''' A tribe expansion occurred on Day 11 with the reconstitution of the Uli tribe, spreading the remaining twelve castaways into three tribes of four.
+*'''Traditional [[Merge]]:''' For the first time in the New Era, the [[Earn the Merge]] twist was skipped in favor of a traditional merge at the final eleven. However, the players still competed in two teams to earn the merge feast and a chance at Individual Immunity.
+*'''Simplified Final Four Tribal Council'''
+* '''Reformatted Final Tribal Council:''' Instead of having each jury member speak individually, an open forum was held to ensure a more insightful rapport between the jury and finalists.
+
+==Castaways==
+{| class="wikitable sortable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;" align="center"
+! colspan="2" rowspan="2"| Contestant
+! colspan="4" class="unsortable"| Tribe Affiliation
+! class="unsortable" rowspan="2"| Finish
+! rowspan="2"| Votes<br />Against
+|- style="text-wrap:pretty;" <!--Please avoid using {{nowrap}}, as it causes the table to become too wide to display properly on vertical screens.-->
+! Original Tribe
+! Dissolved Tribe
+! Expanded Tribe
+! class="unsortable"| Merged Tribe
+|-
+| {{tribebox2|kele}}[[File:S49 nicole t.png|70px|link=Nicole Mazullo]]
+| align="left"| '''[[Nicole Mazullo]]'''<br /><small>26, Philadelphia, PA<br />Financial Crime Consultant</small>
+| {{tribebox|kele}}
+| rowspan="4" {{tribebox2|out}}
+| rowspan="6" {{tribebox2|out}}
+| rowspan="7" {{tribebox2|out}}
+| {{nowrap|1st Voted Out<br />Day 3}}
+| 5
+|-
+| {{tribebox2|kele}}[[File:S49 annie t.png|70px|link=Annie Davis]]
+| align="left"| '''[[Annie Davis]]'''<br /><small>49, Austin, TX<br />Musician</small>
+| {{tribebox|kele}}
+| {{nowrap|2nd Voted Out<br />Day 5}}
+| 5
+|-
+| {{tribebox2|kele}}[[File:S49 jake t.png|70px|link=Jake Latimer]]
+| align="left"| '''[[Jake Latimer]]'''<br /><small>35, St. Albert, AB<br />Correctional Officer</small>
+| {{tribebox|kele}}
+| {{nowrap|Evacuated<br />Day 6}}
+| 0
+|-
+| {{tribebox2|kele}}[[File:S49 jeremiah t.png|70px|link=Jeremiah Ing]]
+| align="left"| '''[[Jeremiah Ing]]'''<br /><small>38, Toronto, ON<br />Global Events Manager</small>
+| {{tribebox|kele}}
+| {{nowrap|3rd Voted Out<br />Day 6}}
+| 2
+|-
+| {{tribebox2|hina}}[[File:S49 matt t.png|70px|link=Matt Williams]]
+| align="left"| '''[[Matt Williams]]'''<br /><small>52, St. George, UT<br />Airport Ramp Agent</small>
+| {{tribebox|hina}}
+| {{tribebox|hina}}
+| {{nowrap|4th Voted Out<br />Day 8}}
+| 4
+|-
+| {{tribebox2|hina}}[[File:S49 jason t.png|70px|link=Jason Treul]]
+| align="left"| '''[[Jason Treul]]'''<br /><small>32, Santa Ana, CA<br />Law Clerk</small>
+| {{tribebox|hina}}
+| {{tribebox|hina}}
+| {{nowrap|5th Voted Out<br />Day 10}}
+| 7
+|-
+| {{tribebox2|uli}}[[File:S49 shannon t.png|70px|link=Shannon Fairweather]]
+| align="left"| {{nowrap|'''[[Shannon Fairweather]]'''}}<br /><small>27, Boston, MA<br />Wellness Specialist</small>
+| {{tribebox|uli}}
+| {{tribebox|kele}}
+| {{tribebox|kele}}
+| {{nowrap|6th Voted Out<br />Day 12}}
+| 3
+|-
+| {{tribebox2|uli}}[[File:S49 nate t.png|70px|link=Nate Moore]]
+| align="left"| '''[[Nate Moore]]'''<br /><small>47, Hermosa Beach, CA<br />Film Producer</small>
+| {{tribebox|uli}}
+| {{tribebox|hina}}
+| {{tribebox|uli}}
+| rowspan="11" {{tribebox|lewatu}}
+| {{nowrap|7th Voted Out<br />1st Jury Member<br />Day 14}}
+| 8
+|-
+| {{tribebox2|hina}}[[File:S49 mc t.png|70px|link=MC Chukwujekwu]]
+| align="left"| '''[[MC Chukwujekwu]]'''<br /><small>29, San Diego, CA<br />Fitness Trainer</small>
+| {{tribebox|hina}}
+| {{tribebox|kele}}
+| {{tribebox|hina}}
+| {{nowrap|8th Voted Out<br />2nd Jury Member<br />Day 15}}
+| 4
+|-
+| {{tribebox2|kele}}[[File:S49 alex t.png|70px|link=Alex Moore]]
+| align="left"| '''[[Alex Moore]]'''<br /><small>26, Washington, DC<br />Political Comms Director</small>
+| {{tribebox|kele}}
+| {{tribebox|kele}}
+| {{tribebox|uli}}
+| {{nowrap|9th Voted Out<br />3rd Jury Member<br />Day 17}}
+| 7
+|-
+| {{tribebox2|uli}}[[File:S49 jawan t.png|70px|link=Jawan Pitts]]
+| align="left"| '''[[Jawan Pitts]]'''<br /><small>28, Los Angeles, CA<br />Video Editor</small>
+| {{tribebox|uli}}
+| {{tribebox|hina}}
+| {{tribebox|kele}}
+| {{nowrap|10th Voted Out<br />4th Jury Member<br />Day 19}}
+| 6
+|-
+| {{tribebox2|hina}}[[File:S49 sophie t.png|70px|link=Sophie Segreti]]
+| align="left"| '''[[Sophie Segreti]]'''<br /><small>31, New York, NY<br />Strategy Associate</small>
+| {{tribebox|hina}}
+| {{tribebox|kele}}
+| {{tribebox|uli}}
+| {{nowrap|11th Voted Out<br />5th Jury Member<br />Day 21}}
+| 7
+|-
+| {{tribebox2|hina}}[[File:S49 steven t.png|70px|link=Steven Ramm]]
+| align="left"| '''[[Steven Ramm]]'''<br /><small>35, Denver, CO<br />Rocket Scientist</small>
+| {{tribebox|hina}}
+| {{tribebox|kele}}
+| {{tribebox|kele}}
+| {{nowrap|12th Voted Out<br />6th Jury Member<br />Day 23}}
+| 8
+|-
+| {{tribebox2|hina}}[[File:S49 kristina t.png|70px|link=Kristina Mills]]
+| align="left"| '''[[Kristina Mills]]'''<br /><small>35, Edmond, OK<br />MBA Career Coach</small>
+| {{tribebox|hina}}
+| {{tribebox|kele}}
+| {{tribebox|uli}}
+| {{nowrap|13th Voted Out<br />7th Jury Member<br />Day 24}}
+| 4
+|-
+| {{tribebox2|uli}}[[File:S49 rizo t.png|70px|link=Rizo Velovic]]
+| align="left"| '''[[Rizo Velovic]]'''<br /><small>25, Yonkers, NY<br />Tech Sales</small>
+| {{tribebox|uli}}
+| {{tribebox|hina}}
+| {{tribebox|hina}}
+| {{nowrap|Eliminated<br />8th Jury Member<br />Day 25}}
+| 3
+|-
+| {{tribebox2|uli}}[[File:S49 sage t.png|70px|link=Sage Ahrens-Nichols]]
+| align="left"| '''[[Sage Ahrens-Nichols]]'''<br /><small>30, Olympia, WA<br />Clinical Social Worker</small>
+| {{tribebox|uli}}
+| {{tribebox|kele}}
+| {{tribebox|kele}}
+| {{nowrap|Second<br />Runner-Up}}
+| 1
+|-
+| {{tribebox2|kele}}[[File:S49 sophi t.png|70px|link=Sophi Balerdi]]
+| align="left"| '''[[Sophi Balerdi]]'''<br /><small>27, Miami, FL<br />Entrepreneur</small>
+| {{tribebox|kele}}
+| {{tribebox|hina}}
+| {{tribebox|hina}}
+| {{nowrap|Runner-Up}}
+| 4
+|-
+| {{tribebox2|uli}}[[File:S49 savannah t.png|70px|link=Savannah Louie]]
+| align="left"| '''[[Savannah Louie]]'''<br /><small>31, Atlanta, GA<br />Former Reporter</small>
+| {{tribebox|uli}}
+| {{tribebox|hina}}
+| {{tribebox|hina}}
+| {{nowrap|Sole Survivor}}
+| 4
+|}
+
+==Season Summary==
+Once more, the eighteen new contestants were divided into three new tribes of six: [[Hina]], [[Kele]], and [[Uli]]. Kele struggled almost immediately, losing the first three [[Immunity Challenge]]s and their physically strongest member, [[Jake Latimer|Jake]], to a non-lethal snakebite. In contrast, Hina and Uli worked more smoothly, though the latter tribe suffered from personality clashes, most notably between [[Jawan Pitts|Jawan]] and [[Savannah Louie|Savannah]], and eventually [[Sage Ahrens-Nichols|Sage]] and [[Shannon Fairweather|Shannon]].
+
+One week into the game, the castaways were surprised by a [[Tribe Switch|tribe switch]] that split them between Kele and Hina. Old tribal lines largely held, and the original Uli members on the new Hina used their numbers advantage to vote out the original Hina players. While these divisions seemed firm heading into a second tribe switch on Day 11, Jawan and Sage aligned with original Hina member [[Steven Ramm|Steven]] to blindside Sage's rival, Shannon, just shy of the [[merge]].
+
+On Day 13, the tribes merged into the [[Lewatu]] tribe. The original Hina, now joined by Jawan and Sage, gained early control by blindsiding [[Nate Moore|Nate]] at the first merged [[Tribal Council]], leaving the remainder of his [[Uli Alliance|alliance]] ([[Rizo Velovic|Rizo]], Savannah, and [[Sophi Balerdi|Sophi]]) on the bottom. However, a mix of Rizo's defensive use of his [[Hidden Immunity Idol]], Savannah's strong performances in Immunity Challenges, and the opposing group's poor coordination allowed the trio to slowly chip away at their rivals, reducing them to only [[Kristina Mills|Kristina]], Sage, and Steven by the final six.
+
+With the game at an apparent 3â€“3 stalemate on Day 22, Steven found a [[Vote Blocker]] advantage and hoped to use it to swing the upcoming vote in his side's favor. After learning this, Sophi planned to steal the advantage at Tribal Council using her [[Knowledge is Power Advantage]], which she had found on Hina. However, Steven blocked Savannah's vote before Tribal Council, making Sophi's advantage useless and seemingly ensuring her elimination. Instead, Kristina and Sage unexpectedly turned on Steven, and he was voted out unanimously. 
+
+Betraying Steven proved to be a fatal error for Kristina, who was unanimously voted out at the final five for being the tribe's best fire-maker. Sophi then won the [[Final Immunity Challenge]] and, despite her close ties with Savannah and Rizo, chose to take Sage to the [[Final Three]], forcing her allies to compete in the fire-making challenge. Savannah won and joined the other two women in the end.
+
+At the [[Final Tribal Council]], Sophi emphasized her survival skills and reaching the end without idols or immunity wins. Savannah highlighted her adaptability and challenge wins, though she faced criticism for struggling to connect with some jurors. Sage spoke about playing an emotional and authentic game, but was criticized for her betrayals. In the end, the [[jury]] most respected Savannah's overall game, awarding her the title of [[Sole Survivor]] in a 5-2-1 vote.
+
+{{S49epguide}}
+
+==Voting History==
+{{S49votetable}}
+
+==Trivia==
+* ''Survivor 49'' is one of four seasons, alongside {{S2|19}}, {{S2|25}}, and {{S2|33}}, to have contestants return for another season before their original season aired.
+* ''Survivor 49'' is the fourth season, following {{S2|29}}, {{S2|31}}, and {{S2|34}} to have castaways with homophonic first names (names that are pronounced the same, but spelled differently), namely [[Sophi Balerdi]] and [[Sophie Segreti]].
+* ''Survivor 49'' contains the most known alternates of any cast, whether they were for previous seasons or this season, with 4: Jason, MC, Sage, and Sophie.
+* ''Survivor 49'' is the first season where every castaway who reached the [[merge]] was part of at least two different pre-merge [[tribe]]s.
+* ''Survivor 49'' is the first season to not have any players use their [[Shot in the Dark]] since it was introduced in {{S2|41}}.
+* ''Survivor 49'' is the first season since {{S2|40}} to have only two active tribes at once.
+* ''Survivor 49'' is the first season since ''Winners at War'' to not feature the [[Earn the Merge]] twist.
+* ''Survivor 49'' is the first season since ''San Juan del Sur'' to feature an all-female [[Final Tribal Council]], and the third time it has happened with a Final Three.
+* ''Survivor 49'' is the first season since {{S2|39}} where the 1st runner up and the Sole Survivor are same gender.
+* Every person that won individual immunity had their name start with the letter 'S'.
+* The castaways who made Final Tribal Council all had names starting with the letter 'S'.
+
+==References==
+{{Reflist}}
+{{SurvivorSeason}}
+[[Category:Seasons|49]]
+[[Category:Survivor (U.S.)]]
+[[Category:Seasons with a reused location]]
+[[Category:Survivor 49]]

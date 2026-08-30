@@ -59,6 +59,12 @@ jobs:
         if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
         run: npm run scrape
 
+      - name: Scrape idols & advantages (Survivor Wiki tables + Claude for twists)
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run events
+
       - name: Generate Probst commentary for new episodes
         if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
         env:
@@ -87,6 +93,12 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run rundown
+
+      - name: Season in review (only once a winner exists)
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run review
 
       - name: Commit scraped data & commentary
         if: ${{ github.event_name != 'push' }}

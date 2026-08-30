@@ -1,0 +1,105 @@
+{{twist
+| image= Vote Blocker.jpg
+| description= The ability to prevent a castaway from voting
+| seasonsappeared={{S2|35}}<br />{{S2|39}}<br />{{S2|47}}<br />{{S2|48}}<br />{{S2|49}}<br />{{S2|50}}
+}}
+The '''Vote Blocker''' (also known as the '''Block a Vote''') is an [[advantage]] that is occasionally available to castaways. It allows players to prevent a castaway from voting at [[Tribal Council]].
+
+The Vote Blocker is mechanically one of the two halves of the previously-established [[Vote Steal]] advantage.
+==Overview==
+The Vote Blocker allows a castaway to prevent another from voting at Tribal Council. This power extends to the revote if there is a tie. In its debut in {{S2|35}} and up to its first appearance in {{S2|47}}, the advantage had to be played at Tribal Council, with the holder declaring whom they wanted to block from voting before the votes are cast. This was changed with the Vote Blocker's second appearance in ''Survivor 47'', where the advantage had to be played ''before'' Tribal Council, with the target finding out that they had been blocked from voting only when they entered the voting booth.
+
+In its first appearance in ''Heroes vs. Healers vs. Hustlers'', the Vote Blocker had to be used at the next Tribal Council after it was found, regardless of whether the holder attended that Tribal Council. If the finder did not attend Tribal Council, they would play the advantage against their target, who would find out at Tribal Council that they were barred from voting before the votes were cast. Similarly in ''Survivor 47'', the advantage was packaged as part of the time-limited [[Advantage Menu|Take Your Pick]] advantage and, if selected, had to be used at the immediate Tribal Council. Otherwise, since {{S2|39}}, the advantage could be played at any Tribal Council until the final six. It is currently unknown if the Vote Blocker can be transferred to another castaway. A Vote Blocker can be cancelled out by an [[Extra Vote]].<ref>{{Ep|4713}}, {{S|47}}</ref>
+
+==History==
+===Heroes vs. Healers vs. Hustlers===
+[[File:Jessica vote blocker.jpg|thumb|250px|right|Jessica reads the Vote Blocker.]]
+The Vote Blocker was hidden in a random bag of potato chips that [[Yawa]] won at the Day 9 [[Reward Challenge]]. [[Jessica Johnston]] found the advantage, which was only good for the next [[Tribal Council]]. If her tribe won the next [[Immunity Challenge]], then she would have to anonymously play it against a member of the losing tribe. As Yawa won the next Immunity Challenge, she had to choose which member of the losing [[Levu]] tribe to block from voting at Tribal Council. She decided to block [[Devon Pinto]] from voting, who was anonymously sent the advantage afterward and only learned at Tribal Council that he would not be voting. Devon being the only former Hustler meant that the vote between the former Heroes and Healers on Levu would have ended in a tie, had it not been for [[Joe Mena]] playing his [[Hidden Immunity Idol]] on himself, thus eliminating [[Alan Ball]] in a 2-0 vote.
+===Island of the Idols===
+The Vote Blocker would be reintroduced as a reward for [[Noura Salman]]'s mentors' challenge on the {{dab|Island of the Idols|twist}} on Day 9. In order to receive it, she had to persuade the [[Vokai]] tribe to make her the caller for the Reward/Immunity Challenge on Day 11. She failed to do so after a disastrous attempt to practice for the challenge beforehand, which prompted her tribe to sit her out of the challenge, resulting in her losing her vote at her next Tribal Council.
+
+Due to Noura's failure, [[Elaine Stott]] became eligible to win the Vote Blocker for her mentors' challenge on the Island of the Idols on Day 15. By accepting the challenge, Elaine had to retrieve the advantage at the Day 16 Immunity Challenge or lose her vote at her next Tribal Council. With help from ally [[Elizabeth Beisel]], she successfully obtained the advantage. After Vokai lost this Immunity Challenge, Elaine leveraged the advantage to unite her original [[Lairo]] tribemates [[Aaron Meredith]] and [[Missy Byrd]] against voting with the original Vokai tribe. That night, Elaine used the advantage to block [[Jason Linden]]'s vote, who was then voted out by the former Lairos, 4-3.
+===Survivor 47===
+During the reward on Day 13, [[Sol Yi]] found a [[Advantage Menu|Take Your Pick]] advantage that he had to send to any member of the losing team during the [[Group Tribal Council]], who would have the choice between either [[Safety Without Power]] or a Vote Blocker, both of which were only valid for that Tribal Council. Sol chose to send it to [[Rachel LaMont]], who chose Safety Without Power and left Tribal Council, leaving the Vote Blocker unused.
+
+On Day 19, the [[Beka]] tribe was instructed to either elect or randomly draw for one member to attend a [[Summit|journey]]. Rachel was randomly selected to go for the journey. There, she was given the chance to earn an advantage if she could solve a puzzle before an anchor pulled the puzzle into the ocean. Ultimately, Rachel was able to finish in time and earned the Vote Blocker, coincidentally the advantage she had previously left behind. This Vote Blocker could be used until the final six. Rachel used the Vote Blocker on [[Sam Phalen]] ahead of the Day 23 Tribal Council. Here, it was confirmed that the target may use their extra vote, if they have one, to circumvent the effect of the Vote Blocker.
+===Survivor 48===
+The Vote Blocker entered the game on Day 4 of {{S|48}}, when [[Mitch Guerra]] won his challenge on the [[journey]] and received it as his prize. Mitch used his Vote Blocker on [[Saiounia Hughley]] on Day 14 ahead of the [[Split Tribal Council]], sealing her elimination in a unanimous 5-0 vote.
+===Survivor 49===
+During the journey on Day 20, [[Steven Ramm]] won this advantage. Steven would use the Vote Blocker against [[Savannah Louie]] before the Day 23 Tribal Council, preventing [[Sophi Balerdi]] from stealing it with her [[Knowledge is Power Advantage]]. Despite this, Steven was voted out at that Tribal Council in a 4-1 vote.
+===In The Hands of the Fans===
+During the journey on Day 4, [[Savannah Louie]] won the challenge against [[Colby Donaldson]] and was awarded this advantage after Colby left to go back to camp. However, Savannah was voted out on Day 6, therefore leaving the game with the vote blocker with her.
+
+===Summary===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Location
+! Episode Acquired
+! Owner
+! Episode Used
+! Target
+|-
+| {{S2|35}}
+| Bag of potato chips won from the Day 9 [[Reward Challenge]]
+| {{Ep|3504}}
+| {{nowrap|[[File:S35 jessica t.png|60px|link=Jessica Johnston]]<br />[[Jessica Johnston]]}}
+| "I Don't Like Having Snakes Around"
+| {{nowrap|[[File:S35 devon t.png|60px|link=Devon Pinto]]<br />[[Devon Pinto]]}}
+|-
+| {{S2|39}}
+| Day 16 [[Immunity Challenge]]
+| {{Ep|3906}}
+| {{nowrap|[[File:S39 elaine t.png|60px|link=Elaine Stott]]<br />[[Elaine Stott]]}}
+| "Suck It Up Buttercup"
+| {{nowrap|[[File:S39 jason t.png|60px|link=Jason Linden]]<br />[[Jason Linden]]}}
+|-
+| rowspan="2" | {{S2|47}}
+| {{tribeicon|beka}} camp<br /><small>([[Advantage Menu|Take Your Pick]])</small>
+| {{Ep|4707}}
+| {{nowrap|[[File:S47 rachel t.png|60px|link=Rachel LaMont]]<br />[[Rachel LaMont]]}}
+| colspan="2" | ''Not chosen''
+|-
+| Day 19 [[Journey]]
+| {{Ep|4711}}
+| {{nowrap|[[File:S47 rachel t.png|60px|link=Rachel LaMont]]<br />[[Rachel LaMont]]}}
+| {{Ep|4713}}
+| {{nowrap|[[File:S47 sam t.png|60px|link=Sam Phalen]]<br />[[Sam Phalen]]}}
+|-
+| {{S2|48}}
+| Day 4 [[Journey]]
+| {{Ep|4802}}
+| {{nowrap|[[File:S48 mitch t.png|60px|link=Mitch Guerra]]<br />[[Mitch Guerra]]}}
+| {{Ep|4807}}
+| {{nowrap|[[File:S48 sai t.png|60px|link=Saiounia Hughley]]<br />[[Saiounia Hughley]]}}
+|-
+| {{S2|49}}
+| Day 20 [[Journey]]
+| {{Ep|4911}}
+| {{nowrap|[[File:S49 steven t.png|60px|link=Steven Ramm]]<br />[[Steven Ramm]]}}
+| {{Ep|4912}}
+| {{nowrap|[[File:S49 savannah t.png|60px|link=Savannah Louie]]<br />[[Savannah Louie]]}}
+|-
+| {{S2|50}}
+| Day 4 [[Journey]]
+| {{Ep|5001}}
+| {{nowrap|[[File:S50 savannah t.png|60px|link=Savannah Louie]]<br />[[Savannah Louie]]}}
+| colspan="2" |Eliminated while in possession in {{Ep|5002}}
+|}
+
+==Trivia==
+* A similar advantage called the Vote Stopper appeared on {{S|2016au}}, a year before its introduction to the American version of the show.
+* Coincidentally, the person playing the Vote Blocker and the target have always been of opposite genders.
+* [[Savannah Louie]] is the first person to be voted out with a Vote Blocker in her possession. She is also the only player to possess a Vote Blocker and never use it.
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Twists]]
+[[Category:Gameplay]]
+[[Category:Survivor (U.S.)]]
+[[Category:Survivor: Heroes vs. Healers vs. Hustlers]]
+[[Category:Survivor: Island of the Idols]]
+[[Category:Survivor 47]]
+[[Category:Survivor 48]]
+[[Category:Survivor 49]]
+[[Category:Survivor (franchise)]]

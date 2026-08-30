@@ -1,0 +1,305 @@
+{{Gameplay
+| name             = Journey
+| image            = S44e05 summit.jpg
+| description      = An event that allows ambassadors from each [[tribe]] to meet in private.
+| seasonsappeared  = {{S2|1}}<br />{{S2|4}}<br />{{S2|6}}<br />{{S2|11}}<br />{{S2|33}}<br />{{S2|41}}-present
+}}
+A '''summit''' is a minor [[twist]] that originated in {{S|1}}, and reappeared in {{S2|4}}, {{S2|6}}, {{S2|11}}, and {{S2|33}}.
+
+Since {{S2|41}}, summits have appeared as a recurring twist referred to as "'''journeys'''" to a location informally known as "'''Shipwheel Island'''".<ref>https://ew.com/tv/survivor-42-chanelle-howell-interview/</ref><ref>https://twitter.com/AMikeBloomType/status/1501741539713863682</ref><ref>https://robhasawebsite.com/survivor-42-know-it-alls-episode-3-recap/</ref> Since {{S2|43}}, the locations have varied on the journey.
+
+==Overview==
+Summits see ambassadors from each pre-[[merge]] tribe meet in private at a location separate from the tribal camps, and may require them to make a decision, either for themselves or for their tribe. In earlier seasons, summits were generally used to facilitate the next phase of the game, such as the merge or a [[Tribe Switch|tribe switch]]. Starting in {{S2|41}}, journeys became a recurring twist which gave players the chance to receive [[advantage]]s or face a task that could result in the loss of their vote. 
+
+==Strategy==
+Summits allow ambassadors to converse with each other in private, giving them an opportunity to discuss important game matters with each other. This may result in ambassadors, either knowingly or unwittingly, giving away their tribe dynamics to the other ambassador, which can help or hinder their game. Summits can also give ambassadors an opportunity to strategize with each other, making alliances and deals to work with each other later in the game.
+
+The journeys introduced in {{S|41}} gave ambassadors the ability to directly build trust through the decision game. Ambassadors may choose to play collaboratively during the game of chicken to gain an ally down the road, or play selfishly, though this comes at the risk of losing their own vote. The mechanics of the games played on journeys have evolved since ''41''. Later seasons introduced solo journeys, and more games and mini-challenges that would result in an advantage if passed and a lost vote if failed. Sometimes, these tasks would be mandatory to complete instead of an optional risk for the amabassadors to accept or deny, which drew controversy among the fans, as it often resulted in people losing their votes when they were sent on a journey against their will.
+
+==Twist History==
+===Pre-{{S2|41}}===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Episode
+! colspan="2"|Participant(s)
+! Summary
+|-
+| {{S2|1}}
+| {{Ep|107}}
+| {{Tribebox-pt|pagong|S1 jenna t.png|60px|Jenna Lewis}}
+| {{Tribebox-pt|tagi|S1 sean t.png|60px|Sean Kenniff}}
+| On Day 19, an ambassador for each tribe was pre-selected by production to attend a summit on Day 19 to facilitate the [[merge]]. The two ambassadors were first given the opportunity to assess the opposing tribe's camp and interacting with members of the other tribe. Later that day, they formally met with host [[Jeff Probst]] at a sand spit, where they were treated to a luxurious meal and stayed overnight, being asked to make three important decisions: what the merged tribe would be called, which camp the newly merged tribe would live at, and which three items from the other camp they would be allowed to bring with them. The following morning, Jenna and Sean easily decided on living at the Tagi beach for its abundance of food and more organized atmosphere, christening the merged tribe "[[Rattana]]".
+|-
+| {{S2|4}}
+| {{Ep|407}}
+| {{Tribebox-pt|maraamu|S4 kathy t.png|60px|Kathy Vavrick-O'Brien}}
+| {{Tribebox-pt|rotu|S4 rob t.png|60px|Rob Mariano}}
+| [[Tree Mail]] on Day 19 instructed both tribes to choose a member to whom they would give a map to an unknown destination. [[Maraamu]] selected [[Kathy Vavrick-O'Brien]], while [[Rob Mariano]] volunteered for [[Rotu]]. The two ambassadors met with Probst at a ''tohua'', a traditional Marquesan structure in which chiefs from different tribes would meet. They were given pizza and beer and would stay at the ''tohua'' overnight to discuss the name of the merged tribe and which camp it would live at. The following day, Kathy and Rob settled on living at the Rotu camp, naming the merged tribe "[[Soliantu]]".
+|-
+| {{S2|11}}
+| {{Ep|1104}}
+| {{tribebox-tr|2|nakum|S11 judd t.png|60px|Judd Sergeant|S11 margaret t.png|Margaret Bobonich}}
+| {{tribebox-tr|2|yaxha|S11 amy t.png|60px|Amy O'Hara|S11 gary t.png|Gary Hogeboom}}
+| On Day 9, the tribes convened for what they believed was a [[Reward Challenge]]. There, each tribe was told to nominate the man and woman they believed most deserved being rewarded with a picnic. [[NakÃºm]] selected [[Judd Sergeant]] and [[Margaret Bobonich]], while [[YaxhÃ¡]] selected [[Amy O'Hara]] and [[Gary Hogeboom]]. The two pairs left their tribes for a summit atop a Mayan pyramid. Unbeknownst to them, a tribe switch occurred in their absence, and they would return to camp to meet their switched tribes.
+|-
+| {{S2|33}}
+| {{Ep|3303}}
+| {{tribebox-tr|4|takali|S33 cece t.png|60px|CeCe Taylor|S33 chris t.png|Chris Hammons|S33 david t.png|David Wright|S33 paul t.png|Paul Wachter}}
+| {{tribebox-tr|4|vanua|S33 figgy t.png|60px|Figgy Figueroa|S33 jay t.png|Jay Starrett|S33 taylor t.png|Taylor Stocker|S33 will t.png|Will Wahl}}
+| Tribes were instructed by Tree Mail on Day 8 to conduct a rock draw, with the four members selecting the colored rocks being sent to a summit. [[CeCe Taylor]], [[Chris Hammons]], [[David Wright]], and [[Paul Wachter]] drew the colored rocks for [[Takali]], while [[Figgy Figueroa]], [[Jay Starrett]], [[Taylor Stocker]], and [[Will Wahl]] did so for [[Vanua]]. The ambassadors were taken to a different island, where they feasted on peanut butter and jelly sandwiches while getting to know each other. Unlike most summits, no game-changing [[twist]] occurred, nor was any [[advantage]] on offer.
+|}
+==={{S2|41}} - {{S2|50}}===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Episode
+! colspan="6"|Participant(s)
+! Summary
+|-
+| rowspan="4"|{{S2|41}}
+| {{Ep|4101}}
+| colspan="2" {{Tribebox-pt|luvu|S41 danny t.png|60px|Danny McCray}}
+| colspan="2" {{Tribebox-pt|ua|S41 jd t.png|60px|JD Robinson}}
+| colspan="2" {{Tribebox-pt|yase|S41 xander t.png|60px|Xander Hastings}}
+| On Day 2, each tribe was instructed to choose one member to get on a boat to go on a journey, where they would make a decision. [[Danny McCray]] volunteered for [[Luvu]], [[JD Robinson]] was selected by rock draw for [[Ua]], and [[Yase]] agreed to send [[Xander Hastings]]. The boat took each castaway to another island, where they were instructed to hike to the top of a hill while getting to know each other. Once at the top of the hill, they were told to separate, after which they would make a private decision. They were each given a choice between keeping their vote for their first trip to Tribal Council, or risk their vote. If all three chose "protect", they would keep their votes. If they unanimously chose "risk", they would all lose their votes. But if there was a split decision, all three still keep their votes, but those who chose "risk" would obtain an [[Extra Vote]], the result of which they would find out at their first Tribal Council. Danny opted to keep his vote, while JD and Xander risked theirs, each earning an Extra Vote.
+|-
+| {{Ep|4102}}
+| colspan="3" {{Tribebox-pt|luvu|S41 deshawn t.png|60px|Deshawn Radden}}
+| colspan="3" {{Tribebox-pt|yase|S41 evvie t.png|60px|Evvie Jagoda}}
+| After coming in first place during the [[Immunity Challenge]] on Day 5, Luvu was tasked with selecting a member of the losing Yase tribe to go on a journey, along with a member of either Ua or one their own. They chose [[Evvie Jagoda]], with Luvu's [[Deshawn Radden]] volunteering to go with her. At the island, they were faced with the same dilemma the previous ambassadors encountered. Evvie told Deshawn that they could not risk their vote for the upcoming Tribal Council, encouraging Deshawn to risk his. They followed through with their agreement, resulting in Deshawn receiving an Extra Vote.
+|-
+| {{Ep|4103}}
+| colspan="2" {{Tribebox-pt|luvu|S41 sydney t.png|60px|Sydney Segal}}
+| colspan="2" {{Tribebox-pt|ua|S41 brad t.png|60px|Brad Reese}}
+| colspan="2" {{Tribebox-pt|yase|S41 tiffany t.png|60px|Tiffany Seely}}
+| On Day 6, [[Sydney Segal]] of Luvu, [[Brad Reese]] of Ua, and [[Tiffany Seely]] of Yase each found an envelope labeled "[[Beware Advantage]]" at each of their tribe camps. The note instructed them to sneak out of their camps that night into a waiting a boat that would take them to an island where they would make a decision. There, they faced a dilemma of choosing between a tarp for their tribe or a [[Vote Steal]] for themselves. If all three chose a tarp, then each tribe would receive a tarp. If they unanimously chose a Vote Steal, they would all lose their votes. But if there was a split decision, those who chose a tarp would get nothing, but those who chose a Vote Steal would obtain one. Tiffany and Sydney chose a tarp, but did not receive one as Brad decided to choose a Vote Steal.
+|-
+| {{Ep|4105}}
+| colspan="3" {{Tribebox-pt|ua|S41 shan t.png|60px|Shan Smith}}
+| colspan="3" {{Tribebox-pt|yase|S41 liana t.png|60px|Liana Wallace}}
+| After Yase came in first place in the Day 11 Immunity Challenge, they were tasked with choosing a member of their own tribe, and a member of either Luvu or Ua to go on a journey to make a decision. [[Liana Wallace]] volunteered to go, with Yase selecting [[Shan Smith]] of Ua to join her. On the island, they faced the same dilemma the first two sets of ambassadors did. Shan opted to keep her vote for that night's Tribal Council, encouraging Liana to take the advantage. Back at camp, Liana was informed that she received the [[Knowledge is Power]] advantage.
+|-
+| rowspan="3"|{{S2|42}}
+| {{Ep|4201}}
+| colspan="2" {{Tribebox-pt|ika|S42 drea t.png|60px|Drea Wheeler}}
+| colspan="2" {{Tribebox-pt|taku|S42 maryanne t.png|60px|Maryanne Oketch}}
+| colspan="2" {{Tribebox-pt|vati|S42 jenny t.png|60px|Jenny Kim}}
+| On Day 2, each tribe was instructed to choose one member to get on a boat to go on a journey, where they would make a decision. [[Drea Wheeler]] and [[Maryanne Oketch]] volunteered for [[Ika]] and [[Taku]], respectively, while [[Jenny Kim]] drew the short stick and was sent for [[Vati]]. The boat took each castaway to another island, where they were instructed to hike to the top of a hill while getting to know each other. Once at the top of the hill, they were told to separate, after which they would make a private decision. They were each given a choice between keeping their vote for their first trip to Tribal Council, or risk their vote. If all three chose "protect", they would keep their votes. If they unanimously chose "risk", they would all lose their votes. But if there was a split decision, all three still keep their votes, but those who chose "risk" would obtain an Extra Vote, the result of which they would find out at their first Tribal Council. Jenny opted to keep her vote, while Drea and Maryanne risked theirs, each earning an Extra Vote.
+|-
+| {{Ep|4203}}
+| colspan="3" {{Tribebox-pt|taku|S42 omar t.png|60px|Omar Zaheer}}
+| colspan="3" {{Tribebox-pt|vati|S42 chanelle t.png|60px|Chanelle Howell}}
+| After placing first in the Immunity Challenge on Day 7, the Taku tribe selected [[Chanelle Howell]] from the losing Vati tribe to go on a journey. In addition, Taku selected [[Omar Zaheer]] to represent their tribe on the journey. There, Chanelle and Omar both decided to risk their vote with an Extra Vote on the line. That night at Vati's Tribal Council, Chanelle discovered that she had lost her vote as a result. On Day 14, Omar would discover at the final twelve Tribal Council that he had lost his vote as a result of this decision.
+|-
+| {{Ep|4205}}
+| colspan="3" {{Tribebox-pt|ika|S42 rocksroy t.png|60px|Rocksroy Bailey}}
+| colspan="3" {{Tribebox-pt|vati|S42 lydia t.png|60px|Lydia Meredith}}
+| After placing first in the Immunity Challenge on Day 11, the Ika tribe selected [[Lydia Meredith]] from the losing Vati tribe to go on a journey. In addition, Ika selected [[Rocksroy Bailey]] to represent their tribe on the journey. Because Lydia and Rocksroy both decided to protect their votes, no advantage was introduced.
+|-
+| rowspan="3"|{{S2|43}}
+| {{Ep|4301}}
+| colspan="2" {{Tribebox-pt|baka|S43 gabler t.png|60px|Mike Gabler}}
+| colspan="2" {{Tribebox-pt|coco|S43 karla t.png|60px|Karla Cruz Godoy}}
+| colspan="2" {{Tribebox-pt|vesi|S43 dwight t.png|60px|Dwight Moore}}
+| On Day 2, each tribe was instructed to choose one member to get on a boat to go on a journey, where they would make a decision. [[Mike Gabler]] was selected for [[Baka]], [[Karla Cruz Godoy]] for [[Coco]], and [[Dwight Moore]] for [[Vesi]]. At the journey, the three players waded their way through the ocean to a spit. There, Karla protected her vote, while Gabler and Dwight opted to "risk" their votes, both drawing tokens. When they returned to their respective camps, Dwight discovered that he had lost his vote, while Gabler found that he received a Hidden Immunity Idol that could be used at either of his next two Tribal Councils.
+|-
+| {{Ep|4303}}
+| colspan="2" {{Tribebox-pt|baka|S43 owen t.png|60px|Owen Knight}}
+| colspan="2" {{Tribebox-pt|coco|S43 james t.png|60px|James Jones}}
+| colspan="2" {{Tribebox-pt|vesi|S43 noelle t.png|60px|Noelle Lambert}}
+| After coming in first place during the Immunity Challenge on Day 7, Baka was tasked with choosing one member of each tribe to attend the journey. [[Noelle Lambert]] from Vesi, [[Owen Knight]] from Baka, and [[James Jones]] from Coco were chosen to head on their journey. There, James and Owen both agreed to protect their votes, giving Noelle the advantage. At camp, she learned that she had received the Vote Steal.
+|-
+| {{Ep|4304}}
+| colspan="2" {{Tribebox-pt|baka|S43 jeanine t.png|60px|Jeanine Zheng}}
+| colspan="2" {{Tribebox-pt|coco|S43 geo t.png|60px|Geo Bustamante}}
+| colspan="2" {{Tribebox-pt|vesi|S43 jesse t.png|60px|Jesse Lopez}}
+| On Day 11, Vesi placed first in the Immunity Challenge and selected [[Geo Bustamante]] from Coco and [[Jeanine Zheng]] from Baka to attend the journey. Vesi then nominated [[Jesse Lopez]] to represent them on the journey. The three players had to row a boat across turbulent waters to reach a spit, where Geo attempted to persuade Jeanine and Jesse to give him the advantage. He proved unsuccessful as all three players decided to risk their votes. At camp, Jeanine and Jesse learned that they had lost their votes, while Geo discovered that he had won the Knowledge is Power advantage.
+|-
+| rowspan="3"|{{S2|44}}
+| {{Ep|4401}}
+| colspan="2" {{Tribebox-pt|ratu|S44 lauren t.png|60px|Lauren Harpe}}
+| colspan="2" {{Tribebox-pt|soka|S44 matt t.png|60px|Matt Blankinship}}
+| colspan="2" {{Tribebox-pt|tika|S44 sarah t.png|60px|Sarah Wade}}
+| On Day 2, [[Ratu]], [[Soka]], and [[Tika]] decided randomly to send [[Lauren Harpe]], [[Matt Blankinship]] and [[Sarah Wade]] respectively to the first journey. There, Lauren received the [[Extra Vote|Bank Your Vote]] advantage on her first draw, while both Matt and Sarah lost their votes. Both Matt and Sarah opted to draw another package. To his dismay, Matt found that he was now ineligible to vote at his next two Tribal Councils. Meanwhile, Sarah received the brand new Inheritance Advantage, which she could use to "inherit" any and all advantages and idols played at any Tribal Council until the final seven.
+|-
+| {{Ep|4404}}
+| colspan="2" {{Tribebox-pt|ratu|S44 jaime t.png|60px|Jaime Lynn Ruiz}}
+| colspan="2" {{Tribebox-pt|soka|S44 josh t.png|60px|Josh Wilder}}
+| colspan="2" {{Tribebox-pt|tika|S44 carson t.png|60px|Carson Garrett}}
+| On Day 8, Soka placed first in the Reward Challenge and was given the chance to select one person from each tribe to go on a journey. Soka elected [[Carson Garrett]] to represent Tika, [[Jaime Lynn Ruiz]] to represent Ratu, and [[Josh Wilder]] to represent their tribe. At the journey, Carson, Jaime and Josh were each given an idol that would expire at the end of the tribal phase of the game; they did not have to risk their votes. Additionally, it was revealed that Carson, Jaime, and Josh would be switching tribes. Carson joined Ratu, Jaime Soka, and Josh Tika.
+|-
+| {{Ep|4404}}
+| colspan="2" {{Tribebox-pt|ratu|S44 brandon t.png|60px|Brandon Cottom}}
+| colspan="2" {{Tribebox-pt|soka|S44 danny t.png|60px|Danny Massa}}
+| colspan="2" {{Tribebox-pt|tika|S44 carolyn t.png|60px|Carolyn Wiger}}
+| On Day 11, Ratu placed first in the challenge and selected [[Brandon Cottom]] to represent their tribe on a journey. They chose [[Danny Massa]] from Soka and [[Carolyn Wiger]] from Tika to join him. On the journey, the three castaways were told to walk along the beach together. At the end of their walk, they were surprised by the fact that there would be no game to be played, nor was any advantage up for grabs. Instead, they would enjoy a feast in the ''Survivor'' [[Sanctuary]] together.
+|-
+| rowspan="4"|{{S2|45}}
+| {{Ep|4502}}
+| colspan="2" {{Tribebox-pt|belo|S45 bruce t.png|60px|Bruce Perreault}}
+| colspan="2" {{Tribebox-pt|lulu|S45 brandon t.png|60px|Brandon Donlon}}
+| colspan="2" {{Tribebox-pt|reba|S45 drew t.png|60px|Drew Basile}}
+| On Day 4, [[Bruce Perreault]], [[Brandon Donlon]], and [[Drew Basile]] represented [[Belo]], [[Lulu]], and [[Reba]] on the journey respectively. After taking some time to get to know each other, the three men parted ways and found themselves each faced with an individual challenge where they would have three minutes to find a lock box combination by matching a set of numbered tiles bearing line patterns. Each person could either choose to protect their vote or compete for an advantage, failing which they would lose their vote. Bruce chose not to compete, while Brandon and Drew elected to compete. Drew succeeded and received the [[Safety Without Power]] advantage, while Brandon lost the challenge and left, unable to vote at his next Tribal Council, where he would be voted out.
+|-
+| {{Ep|4505}}
+| colspan="2" {{Tribebox-pt|belo|S45 austin t.png|60px|Austin Li Coon}}
+| colspan="2" {{Tribebox-pt|lulu|S45 kellie t.png|60px|Kellie Nalbandian}}
+| colspan="2" {{Tribebox-pt|reba|S45 jmaya t.png|60px|J. Maya}}
+| On Day 11, Reba placed first in the immunity challenge, they nominating [[J. Maya]] to go on the journey before selecting [[Austin Li Coon]] and [[Kellie Nalbandian]] to represent Belo and Lulu respectively on the journey. There, the three players were instructed to vote between "Sustenance" in the form of sandwiches and juice and "Strategy" in the form of the [[Advantage Amulet]]. After some discussion, the trio decided to go for the Advantage Amulets.
+|-
+| {{Ep|4509}}
+| colspan="6" {{Tribebox-tr|3|dakuwaqa|S45 austin t.png|60px|Austin Li Coon|S45 emily t.png|Emily Flippen|S45 katurah t.png|Katurah Topps}}
+| On Day 17 after the Immunity Challenge, the three members of the blue team ([[Austin Li Coon]], [[Emily Flippen]], and [[Katurah Topps]]) who were eliminated first in the challenge embarked. There, they faced a challenge to recover their lost votes. Emily and Katurah failed the challenge, while Austin succeeded and regained his vote at the next Tribal Council.
+|-
+| {{Ep|4511}}
+| colspan="6" {{Tribebox-pt|dakuwaqa|S45 emily t.png|60px|Emily Flippen}}
+| The final journey occurred on Day 20; the [[Dakuwaqa]] tribe was instructed to either elect or randomly draw for one member to attend a journey. Emily was randomly selected to go for the journey. There, she was given the chance to risk her vote and compete for individual immunity. Faced with the "Savvy" puzzle from Day 1 that stumped four players, Emily balked and abstained from the challenge in order not to lose her vote.
+|-
+| rowspan="3"|{{S2|46}}
+| {{Ep|4601}}
+| colspan="2" {{Tribebox-pt|nami|S46 tevin t.png|60px|Tevin Davis}}
+| colspan="2" {{Tribebox-pt|siga|S46 maria t.png|60px|Maria Shrime Gonzalez}}
+| colspan="2" {{Tribebox-pt|yanu|S46 jelinsky t.png|60px|David Jelinsky}}
+| On Day 2, [[Tevin Davis]], [[Maria Shrime Gonzalez]], and [[David Jelinsky]] represented [[Nami]], [[Siga]], and [[Yanu]] respectively. The three contestants were told to play a game where each person would draw a card; the cards bore either a picture of a torch, a vote, or a skull. The person who drew the torch card would have to guess which of the other two players had the vote card. If they picked correctly, they (and the vote card holder) would win an advantage and the skull card holder would lose their vote at their next Tribal Council, and vice versa. Maria ended up picking the torch card and, after hearing Tevin and Jelinsky plead their cases, threatened to share with her tribe whomever ended up lying to her. Jelinsky dropped his bluff and confessed to being the skull card holder, leaving Maria with an easy decision which helped herself and Tevin win an [[Extra Vote|extra vote]].
+|-
+| {{Ep|4603}}
+| colspan="2" {{Tribebox-pt|nami|S46 liz t.png|60px|Liz Wilcox}}
+| colspan="2" {{Tribebox-pt|siga|S46 ben t.png|60px|Ben Katzman}}
+| colspan="2" {{Tribebox-pt|yanu|S46 bhanu t.png|60px|Bhanu Gopal}}
+| After [[Nami]] won the third Immunity Challenge on Day, they selected [[Liz Wilcox]] to represent them on the journey. Liz then picked Siga's [[Ben Katzman]] and Yanu's [[Bhanu Gopal]] to join her on the journey. There, Bhanu shared everything about his tribe's dynamics, to Liz and Ben's delight. Thereafter, the three castaways drew rocks, with the two players who drew blue rocks being offered a risky game where they stood to win an advantage. Liz drew the odd white rock and returned to camp, while Ben and Bhanu proceeded to play the game, a scaled down version of ''[[Cube Crisis]]''. Neither player was able to complete the puzzle in time, leaving them with no vote at their next Tribal Council.
+|-
+| {{Ep|4605}}
+| colspan="2" {{Tribebox-pt|nami|S46 hunter t.png|60px|Hunter McKnight}}
+| colspan="2" {{Tribebox-pt|siga|S46 tim t.png|60px|Tim Spicer}}
+| colspan="2" {{Tribebox-pt|yanu|S46 q t.png|60px|Q Burdette}}
+| On Day 11, Nami won the Immunity Challenge and selected [[Hunter McKnight]] to go on the journey. Hunter then allowed each of the other two tribes to nominate their representative; Yanu and Siga nominated [[Q Burdette]] and [[Tim Spicer]] respectively. At the journey, the three men agreed to form an alliance and bring in their closest ally to form a [[Journey Six|final six pact]]. Thereafter, they were instructed to nominate one person to compete for an advantage, with the challenge promising to test them on their ''Survivor'' knowledge. Hunter stepped up and proceeded to play the game, a variation of ''{{Dab|Survivor History|challenge}}'' where he had to sort 20 ''Survivor'' logos in order of their season's air date. Despite being a superfan, Hunter failed to get the order correct and lost his vote at the next Tribal Council.
+|-
+| rowspan="4"|{{S2|47}}
+| {{Ep|4703}}
+| colspan="2" {{Tribebox-pt|gata|S47 anika t.png|60px|Anika Dhar}}
+| colspan="2" {{Tribebox-pt|lavo|S47 rome t.png|60px|Rome Cooney}}
+| colspan="2" {{Tribebox-pt|tuku|S47 kyle t.png|60px|Kyle Ostwald}}
+| On Day 7, [[Anika Dhar]] from [[Gata]], [[Rome Cooney]] from [[Lavo]], and [[Kyle Ostwald]] from [[Tuku]] attended the journey. The mechanics were the same as the first journey of ''Survivor 44''. Both Anika and Kyle lost their vote and opted not to continue playing, while Rome won the Vote Steal advantage.
+|-
+| {{Ep|4704}}
+| colspan="2" {{Tribebox-pt|gata|S47 andy t.png|60px|Andy Rueda}}
+| colspan="2" {{Tribebox-pt|lavo|S47 teeny t.png|60px|Teeny Chirichillo}}
+| colspan="2" {{Tribebox-pt|tuku|S47 caroline t.png|60px|Caroline Vidmar}}
+| On Day 8, [[Andy Rueda]], [[Teeny Chirichillo]], and [[Caroline Vidmar]] were chosen to represent Gata, Lavo, and Tuku respectively. Following a brief conversation, the castaways were told to decide for one of them to lose their vote at their next Tribal Council in exchange for an advantage that would benefit all three attendees; if none of them agreed to lose their vote, all three players would lose their vote. Despite all three players facing initial hesitation, Teeny ultimately decided to sacrifice his vote, giving himself, Andy, and Caroline a three-way Amulet Idol.
+|-
+| {{Ep|4709}}
+| colspan="3" {{Tribebox-tr|2|beka|S47 andy t.png|60px|Andy Rueda|S47 sam t.png|Sam Phalen}}
+| colspan="3" {{Tribebox-tr|2|beka|S47 caroline t.png|60px|Caroline Vidmar|S47 rachel t.png|Rachel LaMont}}
+| On Day 16 after the Immunity Challenge, upon which the four people ([[Andy Rueda]], [[Caroline Vidmar]], [[Rachel LaMont]] and [[Sam Phalen]]) who were eliminated first in the challenge embarked on a journey. There, they faced off in a challenge to recover their lost votes. Andy, Rachel, and Sam beat Caroline in the challenge, and regained their votes at the next Tribal Council.
+|-
+| {{Ep|4711}}
+| colspan="6" {{Tribebox-pt|beka|S47 rachel t.png|60px|Rachel LaMont}}
+| On Day 19, the [[Beka]] tribe was instructed to either nominate or randomly draw for one member to attend a journey. Rachel was randomly selected to go on the journey. There, she was given the chance to earn an advantage if she could solve a slide puzzle before an anchor pulled the puzzle into the ocean. Ultimately, Rachel was able to finish in time and earned the [[Vote Blocker]].
+|-
+| rowspan="4"|{{S2|48}}
+| {{Ep|4802}}
+| colspan="2" {{Tribebox-pt|civa|S48 mitch t.png|60px|Mitch Guerra}}
+| colspan="2" {{Tribebox-pt|lagi|S48 thomas t.png|60px|Thomas Krottinger}}
+| colspan="2" {{Tribebox-pt|vula|S48 mary t.png|60px|Mary Zheng}}
+| On Day 4, [[Mitch Guerra]] from [[Civa]], [[Thomas Krottinger]] from [[Lagi]], and [[Mary Zheng]] from [[Vula]] attended the first journey. The three contestants were told to split between three different paths that would lead them to a ''Survivor'' puzzle. In the puzzle, the contestants have to slide one number at a time at the end of each row in order to arrange it from 1-15 within the time limit. If they finished in time, they earned the advantage; otherwise, they would lose their vote along with their chance to obtain the advantage. Mitch and Thomas successfully completed the puzzle in time with Mitch earning a Vote Blocker and Thomas earning a Vote Steal Advantage. Mary, however, did not complete the puzzle in time and lost her vote.
+|-
+| {{Ep|4803}}
+| colspan="2" {{Tribebox-pt|civa|S48 kamilla t.png|60px|Kamilla Karthigesu}}
+| colspan="2" {{Tribebox-pt|lagi|S48 bianca t.png|60px|Bianca Roses}}
+| colspan="2" {{Tribebox-pt|vula|S48 justin t.png|60px|Justin Pioppi}}
+| On Day 8, coming in first place at the Immunity challenge, Lagi chose [[Kamilla Karthigesu]] from Civa, [[Bianca Roses]] from their own tribe, and [[Justin Pioppi]] from Vula to go on a journey. Each person had to play an individual game of chance where they had to roll seven dice, each of which had a face with a skull, a face with a flame, and four blank faces. Kamilla, Bianca, and Justin would roll the dice until they had rolled either four flames or four skulls; if they got four flames first, they would win an Extra Vote, but if they got four skulls first, they would lose their vote at their next Tribal Council. Kamilla successfully rolled four flames and won an Extra Vote. But Bianca and Justin rolled four skulls, meaning they had lost their votes.
+|-
+| {{Ep|4808}}
+| colspan="3" {{Tribebox-tr|2|niunai|S48 kamilla t.png|60px|Kamilla Karthigesu|S48 shauhin t.png|Shauhin Davari}}
+| colspan="3" {{Tribebox-tr|2|niunai|S48 mitch t.png|60px|Mitch Guerra|S48 star t.png|Star Toomey}}
+| On Day 15 after the Immunity Challenge, upon which the first four people (Kamilla Karthigesu, Mitch Guerra, [[Shauhin Davari]] and [[Star Toomey]]) who were eliminated in the challenge embarked on a journey. There, they faced off in a challenge to keep their votes. The four of them were presented with a chute containing grey balls and red balls; each of them would take turns taking either one or two balls from the chute and placing them in their own chute. The first person to take three red balls would lose their vote at that night's Tribal Council. Ultimately, Star was the first to receive three red balls, meaning she lost her vote.
+|-
+| {{Ep|4811}}
+| colspan="6" {{Tribebox-pt|niunai|S48 eva t.png|60px|Eva Erickson}}
+| On Day 20, the [[Niu Nai]] tribe was instructed to randomly draw for one member to attend a journey; [[Eva Erickson]] was selected. There, she was tasked with stacking rows of tiles in a circular pattern on a spinning table that she could only move with her feet whilst balancing on a balance beam in the allotted time; if she stacked less than four rows of tiles, she would lose her vote at the next Tribal Council. If she stacked between four and seven rows, nothing would happen. but if she stacked at least eight rows of tiles, she would receive the Knowledge Is Power Advantage. Seeing as Eva was the only person in the game to possess any advantages or Hidden Immunity Idols, she opted to only stack enough tiles to keep her vote.
+|-
+| rowspan="3"|{{S2|49}}
+| {{Ep|4902}}
+| colspan="2" {{Tribebox-pt|hina|S49 matt t.png|60px|Matt Williams}}
+| colspan="2" {{Tribebox-pt|kele|S49 jake t.png|60px|Jake Latimer}}
+| colspan="2" {{Tribebox-pt|uli|S49 jawan t.png|60px|Jawan Pitts}}
+| On Day 4, with [[Matt Williams]] from [[Hina]], [[Jake Latimer]] from [[Kele]], and [[Jawan Pitts]] from [[Uli]] were selected to attend a journey. There the three of them competed against each other in a challenge for an advantage. The castaways had to throw coconuts into the other competitors nets, once a net had enough coconuts inside, it would drop and that person would be out of the challenge. Ultimately, Jawan was the winner of the challenge. Jawan was given the choice of either making one of Jake or Matt lose their vote at their next Tribal Council in exchange for an Extra Vote for himself, or he could give one of the other tribes a [[Challenge Advantage|Challenge Disadvantage]] at the next Immunity Challenge. Jawan chose to take the Challenge Disadvantage, which he would ultimately give to Hina.
+|-
+| {{Ep|4905}}
+| colspan="3" {{Tribebox-pt|hina|S49 nate t.png|60px|Nate Moore}}
+| colspan="3" {{Tribebox-pt|kele|S49 mc t.png|60px|MC Chukwujekwu}}
+| On Day 9, [[Nate Moore]] from Hina was selected by rock draw, while [[MC Chukwujekwu]] from Kele volunteered. Both MC and Nate were tasked to work together carrying a large load of sandbags to a barrel before an hourglass empties. Under the pile of sandbags was a stipulation to find an advantage before time runs out. Before finishing the task, both looked for the advantage, but opted to simply finish the task without finding it to ensure both had their votes.
+|-
+| {{Ep|4911}}
+| colspan="6" {{Tribebox-pt|lewatu|S49 steven t.png|60px|Steven Ramm}}
+| On Day 20, the [[Lewatu]] tribe was instructed to send someone for a strenuous journey. [[Steven Ramm]] volunteered to go. There, he was tasked with finding six signs with numbers around an island to unlock a combination box to retrieve a club to smash open a pot hanging on a post in the middle of the ocean. However, if the tide gets too high, then the pot will rise to the top of the post, releasing it, dropping it into the ocean, leaving Steven without a vote. Steven successfully completed the task, earning a [[Vote Blocker]].
+|-
+| rowspan="3"|{{S2|50}}
+| {{Ep|5001}}
+| colspan="2" {{Tribebox-pt|cila|S50 savannah t.png|60px|Savannah Louie}}
+| colspan="2" {{Tribebox-pt|kalo|S50 mike t.png|60px|Mike White}}
+| colspan="2" {{Tribebox-pt|vatu|S50 colby t.png|60px|Colby Donaldson}}
+| On Day 4, [[Savannah Louie]] from [[Cila]], [[Mike White]] from [[Kalo]], and [[Colby Donaldson]] from [[Vatu]] were selected to go on a journey. There they were informed only two people could participate, with the third returning to camp immediately. After a rock draw, Mike was selected to return to camp. Savannah and Colby proceeded to play a game where they would take turns stacking odd-shaped blocks onto a tilting base, with the first player to knock over the tower losing their vote and the winner retaining their vote. Colby lost the challenge and therefore lost his vote, returning to camp first. Before leaving herself, Savannah was informed she had won an advantage in the form of a [[Vote Blocker|vote blocker]].
+|-
+| {{Ep|5007}}
+| colspan="6" {{Tribebox-pt|manulevu|S50 stephenie t.png|60px|Stephenie LaGrossa Kendrick}}
+| On Day 14, the [[Manulevu]] tribe was instructed to send someone for a journey. They decided to randomly chose someone using their [[Shot in the Dark]] dice, with [[Stephenie LaGrossa Kendrick]] being selected. Stephenie was tasked with playing a game of [[When It Rains, It Pours]] against a pot filling with water. If Stephenie could last for at least one hour, she would win an advantage, otherwise she'd lose here vote. She outlasted the pot, earning a [[Vote Steal]].
+|-
+| {{Ep|5009}}
+| colspan="6" {{Tribebox-pt|manulevu|S50 christian t.png|60px|Christian Hubicki}}
+| After winning the Immunity Challenge on Day 18, [[Joe Hunter]] was tasked to send one person on a journey. He chose [[Christian Hubicki]]. There, he found the {{wp|Jimmy Fallon}} One in the Urn twist. If Christian finished a puzzle of the season's logo before a barge capsizes, he would have the ability to cast a vote ahead of [[Tribal Council]], and the ability to [[Extra Vote|bank his vote]] (or not) at the next Tribal Council. If he could not, he would receive a letter to be read back at camp. Christian was unable to complete the puzzle in time and was revealed that he would be force to vote against himself at the next Tribal Council.
+|}
+
+==Gallery==
+<gallery>
+Jenna wSean.jpg|Jenna and Sean represent their tribes at the first ever summit in ''Borneo''.
+S4KathyandRob.jpg|Kathy and Rob convening ahead of the merge in ''Marquesas''.
+Amazon Summit.png|Dave and Jenna at the summit in ''The Amazon''.
+S41e02 summit sign.jpg|The journey's instructions in ''Survivor 41''.
+S41E3 exile large.jpg|The journey on Night 6 from ''41''.
+S42 day 2 summit.jpg|The first journey of ''Survivor 42''.
+summit s43e03.jpg|James, Noelle, and Owen at the journey, on Day 7, in ''Survivor 43''.
+S44 summit instructions.png|The journey's instructions in ''Survivor 44''.
+S44e04 summit.jpg|Josh, Jaime, and Carson on a journey in ''44''.
+S45e02 journey.jpg|Bruce, Drew, and Brandon on a journey, on Day 4 in ''Survivor 45''.
+S46e01 summit.jpg|Maria, Tevin, and Jelinsky on a journey, on Day 2 in ''Survivor 46''.
+s46e05 summit.jpg|Hunter, Q, and Tim form an alliance on a journey, on Day 11 in ''Survivor 46''.
+S47e03 journey.jpg|Kyle, Rome, and Anika on a journey, on Day 7 in ''Survivor 47''.
+S47e09 journey.jpg|Sam, Caroline, Rachel and Andy competing to regain their lost votes, on Day 16, in ''47''.
+S47e11 journey.jpg|Rachel on her second journey, on Day 19, from ''47''.
+S48e02 journey.jpg|Mitch, Mary and Thomas on a journey, on Day 4 in ''Survivor 48''.
+S48e03 journey.jpg|Bianca, Kamilla and Justin on a journey, on Day 7, from ''48''.
+S48e08 journey.jpg|Mitch, Shauhin, Star and Kamilla competing to keep their votes, on Day 15 from ''48''.
+S48e11 eva journey.jpg|Eva stacking tiles, on Day 20 from ''48''.
+</gallery>
+==Trivia==
+* None of the advantages obtained in the {{S2|41}} journeys were effectively used by the players who originally obtained them.
+** [[JD Robinson]] was voted out after giving his [[Extra Vote]] to [[Shan Smith]].
+*** In turn, Shan's use of the Extra Vote to vote for both [[Naseer Muttalif]] and [[Heather Aldret]] did not impact the outcome of [[Tribal Council]], as Naseer would have been voted out 3-2 without the need for a revote had she voted only for Naseer. However, it should be noted that the use of the advantage was to evenly [[Split Vote|split the vote]] between the two.
+** [[Xander Hastings]]' use of the Extra Vote to vote for [[Liana Wallace]] twice did not impact the outcome of Tribal Council, as Liana would have been voted out 4-3 had he only voted once.
+** [[Deshawn Radden]]'s use of the Extra Vote to vote for [[Evvie Jagoda]] twice did not impact the outcome of Tribal Council, as Evvie was not voted out.
+** [[Brad Reese]] was voted out while in possession of his [[Vote Steal]], which he could not play at that Tribal Council because he was under the effect of the [[Beware Advantage]].
+** Liana was unsuccessful in her use of the [[Knowledge is Power]] advantage to steal Xander's idol.
+*{{S|45}} is the first season to have journeys occur after the merge.
+* [[Austin Li Coon]] and [[Emily Flippen]] were the first players to attend multiple journeys.
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Gameplay]]
+[[Category:Twists]]
+[[Category:Survivor (U.S.)]]
+[[Category:Survivor: Borneo]]
+[[Category:Survivor: Marquesas]]
+[[Category:Survivor: The Amazon]]
+[[Category:Survivor: Guatemala]]
+[[Category:Survivor: Millennials vs. Gen X]]
+[[Category:Survivor 41]]
+[[Category:Survivor 42]]
+[[Category:Survivor 43]]
+[[Category:Survivor 44]]
+[[Category:Survivor 45]]
+[[Category:Survivor 46]]
+[[Category:Survivor 47]]
+[[Category:Survivor 48]]
+[[Category:Survivor 49]]
+[[Category:Survivor (franchise)]]

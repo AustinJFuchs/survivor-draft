@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex" />
+<title>S51 Draft — widget</title>
+<style>
+  :root { color-scheme: dark; }
+  html, body { margin: 0; background: #07110f; color: #f7ecd6; font: 14px/1.3 -apple-system, "Inter", system-ui, sans-serif; }
+  .wrap { padding: 12px 14px; }
+  h1 { margin: 0 0 6px; font: 700 13px/1 system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; color: #ffb347; }
+  .head { color: #d9bf8a; font-size: 12px; margin-bottom: 8px; }
+  ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 5px; }
+  li { display: flex; align-items: center; gap: 8px; background: #10241f; border-radius: 10px; padding: 6px 10px; border-left: 4px solid var(--c, #b99a5f); }
+  .rank { font-weight: 800; width: 14px; color: var(--c); }
+  .name { flex: 1; font-weight: 600; }
+  .sub { color: #b99a5f; font-size: 11px; }
+  .pts { font-weight: 800; font-variant-numeric: tabular-nums; }
+  .foot { color: #6f7f75; font-size: 10px; margin-top: 8px; }
+  a { color: inherit; text-decoration: none; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🔥 Survivor 51 Draft</h1>
+  <div class="head" id="head">Loading…</div>
+  <ol id="rows"></ol>
+  <div class="foot" id="foot"></div>
+</div>
+<script>
+  // Reads the site's public JSON endpoint. Works in any "web widget" app or as a
+  // home-screen shortcut; refreshes every 30 minutes while open.
+  const colors = ["#ff7a59", "#4fd1c5", "#c084fc", "#fbbf24", "#a3e635", "#60a5fa"];
+  async function load() {
+    try {
+      const res = await fetch("api/standings.json?t=" + Date.now(), { cache: "no-store" });
+      const d = await res.json();
+      document.getElementById("head").textContent = d.headline || (d.seasonStarted ? d.latestEpisode ? `After Ep ${d.latestEpisode}` : "" : `Premieres ${d.premiereDate}`);
+      const ol = document.getElementById("rows");
+      ol.innerHTML = "";
+      d.standings.forEach((s) => {
+        const li = document.createElement("li");
+        li.style.setProperty("--c", colors[s.index % colors.length]);
+        li.innerHTML = `<span class="rank">${s.rank}</span><span class="name">${s.name}<div class="sub">${s.remaining} of ${s.rosterSize} in${s.nickname ? " · " + s.nickname : ""}</div></span><span class="pts">${s.total}</span>`;
+        ol.appendChild(li);
+      });
+      document.getElementById("foot").innerHTML = `<a href="./">Open the site</a> · synced ${new Date(d.syncedAt || d.builtAt).toLocaleString()}`;
+    } catch (e) {
+      document.getElementById("head").textContent = "Couldn't load standings.";
+    }
+  }
+  load();
+  setInterval(load, 30 * 60 * 1000);
+</script>
+</body>
+</html>

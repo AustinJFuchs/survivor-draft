@@ -144,6 +144,10 @@ body {
 
 .drawer-backdrop { background: rgba(3, 8, 7, 0.7); backdrop-filter: blur(3px); }
 
+.me-glow {
+  box-shadow: 0 0 0 1px color-mix(in oklab, var(--me, var(--color-torch-500)) 55%, transparent), 0 0 28px -6px var(--me, var(--color-torch-500));
+}
+
 .badge-ring {
   background: color-mix(in oklab, var(--color-torch-500) 14%, transparent);
   border: 1px solid color-mix(in oklab, var(--color-torch-400) 45%, transparent);

@@ -1,0 +1,135 @@
+{{Gameplay
+| image           = s41 knowledge is power.jpg
+| description     = An advantage that allows its user to steal another player's advantage or idol
+| seasonsappeared = {{S2|41}}<br />{{S2|42}}<br />{{S2|43}}<br />{{S2|48}}<br />{{S2|49}}
+}}
+'''Knowledge is Power''' is an [[advantage]] introduced in {{S|41}} that allows its user to steal another player's advantage or [[Hidden Immunity Idol]]. 
+==Overview==
+Before the votes are cast at [[Tribal Council]], the Knowledge is Power advantage allows its user to ask one player one of two questions: whether they have a [[Hidden Immunity Idol]], or whether they have an [[advantage]]. That player is compelled to answer truthfully and, if they happen to indeed be in possession of an idol or advantage, surrender the requested object to the user. If the user has asked the target for an advantage, and the target is in possession of multiple advantages, the target may choose to surrender any advantage without disclosing the nature of their other advantages. If the target does not have an idol or advantage, the user receives nothing and the advantage is rendered powerless. The advantage may be played at any Tribal Council until the final six.
+
+It is unclear how the advantage would interact with the [[Advantage Amulet]] twist, with which it appeared alongside on {{S|42}}.
+==Strategy==
+Given that the Knowledge is Power advantage has appeared on seasons with idols introduced through the [[Beware Advantage]], and information about who is in possession of each idol is somewhat public due to the idol finders having to say an activation phrase for their idol to gain power, the advantage holder may easily deduce their possible targets as long as they are aware of the mechanics of the Beware Advantage.
+
+By taking away a target's idol before the vote, the Knowledge is Power advantage can be used to achieve the same effect as an [[Idol Nullifier]].
+
+With the Knowledge is Power advantage becoming a recurring fixture in the ''{{dab|Survivor|U.S.}}'' catalog of twists, contestants may bluff about its existence to coax an advantage holder to yield their advantage to them without any legitimate threat of losing it before proceeding to eliminate them in order to control the advantage. Despite not being in play since {{S|43}}, the advantage's previous appearances have lingered among the castaways and heavily influenced their strategies.
+
+A strategy for the holder of the Knowledge is Power advantage would be to keep it a complete secret and keep it on their person at all times in order to prevent anyone else from being clued in on its existence and relaying it to where everyone passes their advantages and/or idols around in an effort to flush the advantage. Then, after the holder learns who possesses advantages and/or idols from camp conversations, and use the Knowledge is Power accordingly.
+===Counter-Strategy===
+A counter-strategy may be employed by potential targets under the circumstance that they are aware of the existence of the Knowledge is Power advantage. Similar to the concept of the "safe vote" employed as a strategy against the Hidden Immunity Idol, targets may transfer their idol or advantage to an ally so as to reduce the likelihood that the advantage user makes the correct guess. However, passing one's advantage to an ally could also be to the detriment of the owner if the ally decides to either eliminate the original owner or use that advantage against the owner. A player could also make a fake Hidden Immunity Idol or advantage to trick the holder into still using the advantage on them, only to learn that it is fake.
+
+==Twist History==
+===Survivor 41===
+The Knowledge is Power advantage was introduced at the Day 11 [[summit]] when [[Shan Smith]] protected her vote and encouraged [[Liana Wallace]] to risk her vote. Liana was aware that her tribemate and rival [[Xander Hastings]] had ownership of the [[Yase]] [[Hidden Immunity Idol]], and intended to take his idol from him.
+
+At the [[merge]], Shan unintentionally divulged that Liana had received an advantage during their summit together; Liana then revealed the identity of the Knowledge is Power advantage to [[Tiffany Seely]]. Because of the [[Hourglass]] twist, Liana, Tiffany, and Xander ended up being immune at the first individual [[Tribal Council]]; Xander thus intended to play his idol to protect [[Yase Alliance]] member [[Evvie Jagoda]] that night. However, when the alliance realized that Liana had defected from them, Evvie, Tiffany, and Xander decided that Xander would hand the idol to Tiffany, who they believed Liana was least likely to target with her advantage. The plan came to fruition at Tribal Council when Liana incorrectly played her advantage against Xander, thus wasting the advantage and allowing Xander to retrieve his idol from Tiffany after Tribal Council.
+
+===Survivor 42===
+On Day 15, [[Drea Wheeler]] opted to switch places with [[Maryanne Oketch]] and sit out of the [[Reward Challenge]] in her stead. Under the sit out bench was a [[Beware Advantage]]. Drea found it during the challenge and read it back at camp, learning about the existence of an advantage hidden five paces from the water well. She successfully retrieved it, coming into possession of the Knowledge is Power advantage.
+
+On Day 21, Drea hatched a plan to blindside [[Mike Turner]] by stealing his idol using her advantage; she shared this plan with [[Omar Zaheer]], who then conspired to defuse the advantage behind her back. Upon being warned of Drea's plan, Mike agreed to yield his idol to Omar before Tribal Council. Thus, when Drea played the advantage and asked Mike for his idol, the advantage was wasted. As a result, she was left without ammunition and voted out that night. Mike then retrieved his idol from Omar after Tribal Council.
+
+===Survivor 43===
+On Day 11, [[Geo Bustamante]], [[Jeanine Zheng]], and [[Jesse Lopez]] were sent to go on a [[summit|journey]], where all three decided to risk their vote for a shot at an advantage. Jeanine and Jesse lost their votes, while Geo was awarded the Knowledge is Power advantage. However, after divulging to [[Karla Cruz Godoy]] that he had the advantage, Geo was blindsided at Tribal Council later that night, taking out the Knowledge is Power advantage with him.
+
+On Day 14, [[James Jones]] found a clue to the Knowledge is Power advantage hidden in the [[Gaia]] tribe's water well. The clue directed him to find the yet undisclosed advantage under the tribe's shelter, which he successfully retrieved. Meanwhile, the rest of the Gaia tribe correctly suspected that James was in possession of the Knowledge is Power advantage and played around this assumption. In the end, James was eliminated at the [[Split Tribal Council]] on Day 17 without ever using his advantage.
+
+===Survivor 48===
+On Day 20, [[Eva Erickson]] was randomly selected to go on a journey. There, she had to complete an individual challenge, failing which she would lose her vote at the next Tribal Council. After she completed the first stage of the challenge, Eva was allowed to continue the challenge to win the Knowledge is Power advantage. Being the only person in the game with a [[Hidden Immunity Idol]], Eva completed the first stage of the challenge and opted not to play for the advantage.
+
+===Survivor 49===
+On Day 12, [[Sophi Balerdi]] found the Knowledge is Power advantage hidden at the [[Hina]] camp. Sophi would go on to use it at the Day 23 Tribal Council, with her target being [[Steven Ramm]], who had recently attended a [[journey]] after which he revealed he possessed an advantage. However, the advantage Steven had was the [[Vote Blocker]], which he played before that night's Tribal Council. As a result, Sophi was incorrect in using the advantage against Steven.
+
+===Summary===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Location
+! Episode Acquired
+! Original Owner
+! Given To
+! Episode Used
+! Target
+! Asked For
+! Outcome
+|-
+| {{S2|41}}
+| Day 11 [[Summit|Journey]]
+| {{Ep|4105}}
+| {{nowrap|[[File:S41 liana t.png|60px|link=Liana Wallace]]<br />[[Liana Wallace]]}}
+| None
+| {{Ep|4107}}
+| {{nowrap|[[File:S41 xander t.png|60px|link=Xander Hastings]]<br />[[Xander Hastings]]}}
+| [[Hidden Immunity Idol]]
+| {{yn|n}}<br />Incorrect Guess
+|-
+| {{S2|42}}
+| {{tribehl2|kulakula}} camp
+| {{Ep|4208}}
+| {{nowrap|[[File:S42 drea t.png|60px|link=Drea Wheeler]]<br />[[Drea Wheeler]]}}
+| None
+| {{Ep|4211}}
+| {{nowrap|[[File:S42 mike t.png|60px|link=Mike Turner]]<br />[[Mike Turner]]}}
+| [[Hidden Immunity Idol]]
+| {{yn|n}}<br />Incorrect Guess
+|-
+| rowspan="2"|{{S2|43}}
+| Day 11 Journey
+| {{Ep|4305}}
+| {{nowrap|[[File:S43 geo t.png|60px|link=Geo Bustamante]]<br />[[Geo Bustamante]]}}
+| None
+| colspan="4"|Eliminated while in possession in {{Ep|4305}}
+|-
+| {{tribehl2|gaia}} camp
+| {{Ep|4307}}
+| {{nowrap|[[File:S43 james t.png|60px|link=James Jones]]<br />[[James Jones]]}}
+| {{nowrap|[[file:S43 sami t.png|60px|link=Sami Layadi]] â†’ [[File:S43 james t.png|60 px|link=James Jones]]<br />[[Sami Layadi]]<ref>https://ew.com/tv/survivor-43-james-jones-interview/</ref> â†’ James Jones}}	
+| colspan="4"|Eliminated while in possession in {{Ep|4309}}
+|-
+| {{S2|48}}
+| Day 20 Journey
+| {{Ep|4811}}
+| colspan=6|''Not taken''
+|-
+| {{S2|49}}
+| {{tribehl2|hina}} camp
+| {{Ep|4906}}
+| {{nowrap|[[File:S49 sophi t.png|60px|link=Sophi Balerdi]]<br />[[Sophi Balerdi]]}}
+| None
+| {{Ep|4912}}
+| {{nowrap|[[File:S49 steven t.png|60px|link=Steven Ramm]]<br />[[Steven Ramm]]}}
+| Advantage<br />([[Vote Blocker]])
+| {{yn|n}}<br />Incorrect Guess
+|}
+==Reception==
+The advantage has been met with mixed to negative reception. Former contestant [[Stephen Fishbach]] has derided the advantage as "one of the worst twists in show history" for undermining players' agency.<ref>https://twitter.com/stephenfishbach/status/1450984079466319874</ref> The introduction of the advantage in the fifth episode of an already twist-heavy {{S2|41}} also attracted a negative response.
+
+While the advantage seeks to encourage its user to forge social connections to glean inside information, because of the advantage's co-existence with the [[Beware Advantage|Beware idols]] in both its appearances, this intention is defeated. By extension, the advantage has been viewed as overpowered since the public nature of the idols allows the advantage users to steal the idols without having to source for "knowledge" on who the idol holders are.<ref>https://robhasawebsite.com/survivor-42-episode-12-recap/ (2:22:00)</ref>
+
+However, the advantage's outcome in ''41'', where the [[Yase Alliance]] outmaneuvered the advantage to hold their idol, has been commended as one of the highlights of the season.<ref>https://ew.com/tv/recaps/survivor-season-41-episode-7/</ref><ref>https://www.truedorktimes.com/s41/kaiser/e7.htm</ref> Similarly, the advantage's misplay in {{S2|42}} contributed to a [[Tribal Council]] which was also well-received.<ref>https://robhasawebsite.com/survivor-42-know-it-alls-episode-11-recap-live-915e-515p/</ref>
+
+==Trivia==
+* [[Geo Bustamante]] is the first castaway to be voted out while in possession of the Knowledge is Power advantage.
+* Internationally, [[Myles Kuah]] is the first person to successfully play this advantage.
+** [[Kristin Alston]] is the first person to have a Hidden Immunity Idol stolen by this advantage.
+* Internationally, [[Parvati Shallow]] is the first person to willingly discard the Knowledge is Power advantage.
+* The first two times the advantage was played:
+** Multiple people had individual immunity at [[Tribal Council]], leaving exactly five people eligible for elimination.
+** An [[Extra Vote]] was played.
+** A [[Sydney Segal|wo]][[Drea Wheeler|man]] from a [[Luvu|bl]][[Ika|ue]] starting tribe was voted out.
+** [[Xander Hastings|The]] [[Mike Turner|target]] made it to [[Final Tribal Council]] but did not win.
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Gameplay]]
+[[Category:Twists]]
+[[Category:Objects]]
+[[Category:Survivor (U.S.)]]
+[[Category:Survivor 41]]
+[[Category:Survivor 42]]
+[[Category:Survivor 43]]
+[[Category:Survivor 48]]
+[[Category:Survivor 49]]
+[[Category:Australian Survivor: Brains v Brawn II]]
+[[Category:Survivor: Australia v The World]]

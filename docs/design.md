@@ -161,6 +161,39 @@ what-if simulator which runs the same engine in the browser.
   earlier ones appear inside their episode on the Episodes tab. The headline is printed on the
   standings share card.
 
+## Idols & advantages
+- `scripts/events.ts` → `data/51/events.json`. Deterministic parse of the Survivor Wiki per-type tables
+  (`Hidden Immunity Idol/History`, `Beware Advantage`, `Extra Vote`, `Vote Steal`, `Vote Blocker`,
+  `Knowledge is Power`, `Safety Without Power`, `Idol Nullifier`, `Advantage Amulet`, `Advantage Menu`,
+  `Challenge Advantage`, `Shot in the Dark`, `Journey`) filtered to this season (`scripts/lib/fandom-events.ts`,
+  tested against Survivor 49). Claude reads only the season page's "Twists/Changes" bullets and
+  voting-table footnotes for `type: "other"` events (tagged `extracted: "claude"`, hash-gated).
+  Overrides: `events[]` adds, `removeEvents[]` hides. Display only: castaway sheet (list + ledger
+  chips), episode cards, torch wall markers, and the **Idol Whisperer** badge.
+
+## Torch wall
+- Top of Episodes (collapsed on mobile, open on desktop): every boot in order with photo, placement,
+  Ep/Day, drafter colour and event glyphs; merge divider; the living as lit torches (winner/finalists
+  labelled once known).
+
+## "That's me"
+- `?me=<drafterId>` (query, before or after the hash) or the picker on Rules stores the drafter in
+  `localStorage`. Effects: glowing standings row + "★ you", "★ My team" header chip → drafter sheet,
+  highlighted line in the rundown, "★ Mine" filter on Cast, "You'd be Nth" strip in What-if. Standings
+  order and share cards are unchanged. Personal links are listed on Rules with copy buttons.
+
+## Season in review
+- `scripts/review.ts` runs only once `milestones.winner` exists → `data/51/review.json`: headline,
+  "How it went" (~200 words), MVP/pick/bust lines, sign-off, plus engine facts (champion, MVP by points,
+  pick/bust of the year by rank-vs-pick gap). Replaces the rundown at the top of Standings; final
+  report cards + badges inside; `cards/recap.png` with a Share button. `overrides.review` edits.
+
+## Public JSON & widgets
+- `build-data.ts` writes `public/api/standings.json` (tiny) and `public/api/season.json` (everything)
+  on every build; GitHub Pages serves them CORS-open. `public/widget.html` is a chrome-less standings
+  page for web-widget apps; `docs/scriptable-widget.js` is the iOS Scriptable widget; `docs/widgets.md`
+  has KWGT notes. Linked from Rules.
+
 ## Admin
 - Local only: `/episode-update` skill (`.claude/skills/episode-update/SKILL.md`) guides
   corrections, fun facts, quotes, commentary edits; shows the leaderboard diff; commits and pushes.

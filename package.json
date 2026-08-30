@@ -15,12 +15,14 @@
     "summarize": "tsx scripts/summarize.ts",
     "photos": "tsx scripts/fetch-photos.ts",
     "check": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.scripts.json --noEmit",
-    "test": "tsx --test scripts/lib/wikipedia.test.ts src/lib/scoring.test.ts src/lib/analysis.test.ts",
+    "test": "tsx --test scripts/lib/wikipedia.test.ts scripts/lib/fandom-events.test.ts src/lib/scoring.test.ts src/lib/analysis.test.ts",
     "report": "tsx scripts/report.ts",
     "profiles": "tsx scripts/profiles.ts",
     "cards": "tsx scripts/cards.ts",
     "teams": "tsx scripts/teams.ts",
-    "rundown": "tsx scripts/rundown.ts"
+    "rundown": "tsx scripts/rundown.ts",
+    "events": "tsx scripts/events.ts",
+    "review": "tsx scripts/review.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",

@@ -24,8 +24,9 @@ import type {
 } from "../src/lib/types";
 import { computeHistory, computeStandings, scoreContestants, sortEliminations } from "../src/lib/scoring";
 import { GRADES_EARLY_UNTIL, computeBadges, computeGrades, computePaths, computeProjection, weekSummaries } from "../src/lib/analysis";
-import type { DrafterStats, Rundown, TeamSummary } from "../src/lib/types";
-import { DATA_DIR, GENERATED_DIR, dataPath, readJson, writeJson } from "./lib/paths";
+import type { DrafterStats, GameEvent, Review, Rundown, TeamSummary } from "../src/lib/types";
+import { mkdirSync, writeFileSync } from "node:fs";
+import { DATA_DIR, GENERATED_DIR, ROOT, dataPath, readJson, writeJson } from "./lib/paths";
 
 export interface BuildInputs {
   season: SeasonConfig;
@@ -37,6 +38,8 @@ export interface BuildInputs {
   profiles: Record<string, Profile>;
   teams: Record<string, TeamSummary>;
   rundowns: Record<string, Rundown>;
+  events: GameEvent[];
+  review?: Review;
 }
 
 export function loadInputs(): BuildInputs {
@@ -55,7 +58,9 @@ export function loadInputs(): BuildInputs {
   const profiles = readJson<Record<string, Profile>>(dataPath("profiles.json"), {});
   const teams = readJson<Record<string, TeamSummary>>(dataPath("teams.json"), {});
   const rundowns = readJson<Record<string, Rundown>>(dataPath("rundowns.json"), {});
-  return { season, contestants, draft, scraped, overrides, commentary, profiles, teams, rundowns };
+  const events = readJson<{ events?: GameEvent[] }>(dataPath("events.json"), {}).events ?? [];
+  const review = readJson<Review | undefined>(dataPath("review.json"), undefined);
+  return { season, contestants, draft, scraped, overrides, commentary, profiles, teams, rundowns, events, review };
 }
 
 export function buildSeasonData(inp: BuildInputs): SeasonData {
@@ -130,15 +135,15 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
 
   // ----- episodes view -----
   const epMap = new Map<number, EpisodeView>();
-  for (const e of scraped.episodes ?? []) epMap.set(e.number, { ...e, eliminations: [], quotes: [] });
+  for (const e of scraped.episodes ?? []) epMap.set(e.number, { ...e, eliminations: [], quotes: [], events: [] });
   for (const o of overrides.episodes ?? []) {
     if (o.number === undefined) continue;
-    const ex = epMap.get(o.number) ?? { number: o.number, eliminations: [], quotes: [] };
-    epMap.set(o.number, { ...ex, ...o, eliminations: ex.eliminations, quotes: ex.quotes });
+    const ex = epMap.get(o.number) ?? { number: o.number, eliminations: [], quotes: [], events: [] };
+    epMap.set(o.number, { ...ex, ...o, eliminations: ex.eliminations, quotes: ex.quotes, events: ex.events });
   }
   for (const e of eliminations) {
     if (e.episode === undefined) continue;
-    const ep = epMap.get(e.episode) ?? { number: e.episode, eliminations: [], quotes: [] };
+    const ep = epMap.get(e.episode) ?? { number: e.episode, eliminations: [], quotes: [], events: [] };
     ep.eliminations.push(e);
     epMap.set(e.episode, ep);
   }
@@ -151,14 +156,14 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
     else if (o.recap) commentaryByEp.set(n, { episode: n, generatedAt: "", model: "manual", recap: o.recap, bullets: o.bullets ?? [], draftImpact: o.draftImpact ?? "", sources: o.sources ?? [], edited: true });
   }
   for (const [n, c] of commentaryByEp) {
-    const ep = epMap.get(n) ?? { number: n, eliminations: [], quotes: [] };
+    const ep = epMap.get(n) ?? { number: n, eliminations: [], quotes: [], events: [] };
     ep.commentary = c;
     epMap.set(n, ep);
   }
   const quotes: Quote[] = overrides.quotes ?? [];
   for (const q of quotes) {
     if (q.episode === undefined) continue;
-    const ep = epMap.get(q.episode) ?? { number: q.episode, eliminations: [], quotes: [] };
+    const ep = epMap.get(q.episode) ?? { number: q.episode, eliminations: [], quotes: [], events: [] };
     ep.quotes.push(q);
     epMap.set(q.episode, ep);
   }
@@ -166,6 +171,30 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
   const episodes = [...epMap.values()]
     .map((e) => ({ ...e, aired: e.aired ?? (e.airDate ? e.airDate <= today : e.eliminations.length > 0) }))
     .sort((a, b) => a.number - b.number);
+
+  // ----- game events: scraped/extracted + manual, minus removals -----
+  const removedEvents = new Set(overrides.removeEvents ?? []);
+  const events: GameEvent[] = [...(inp.events ?? []), ...(overrides.events ?? []).map((e) => ({ ...e, extracted: "manual" as const }))]
+    .filter((e) => !removedEvents.has(e.id) && e.contestantSlug && slugs.has(e.contestantSlug))
+    .sort((a, b) => (a.episode ?? 99) - (b.episode ?? 99) || (a.day ?? 99) - (b.day ?? 99));
+  for (const e of events) {
+    const ep = e.episode !== undefined ? epMap.get(e.episode) : undefined;
+    if (ep) (ep as EpisodeView).events.push(e);
+  }
+  const eventLabel = (e: GameEvent): string => {
+    const who = (s?: string) => contestants.find((c) => c.slug === s)?.shortName;
+    switch (e.type) {
+      case "idol-found": return "found an idol";
+      case "idol-played": return `played an idol${e.outcome === "success" ? " ✓" : e.outcome === "fail" ? " ✗" : ""}`;
+      case "idol-unused": return "idol never played";
+      case "advantage-found": return `found ${e.advantage ?? "an advantage"}`;
+      case "advantage-played": return `played ${e.advantage ?? "an advantage"}${e.targetSlug ? ` on ${who(e.targetSlug)}` : ""}${e.outcome === "fail" ? " ✗" : ""}`;
+      case "advantage-unused": return `${e.advantage ?? "advantage"} unused`;
+      case "shot-in-the-dark": return `Shot in the Dark${e.outcome === "success" ? " ✓" : e.outcome === "fail" ? " ✗" : ""}`;
+      case "journey": return "journey";
+      default: return e.advantage ?? "twist";
+    }
+  };
 
   // ----- contestants view -----
   const pickBySlug = new Map(picks.map((p) => [p.contestantSlug, p]));
@@ -217,7 +246,7 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
     const myVotes: VoteRecord[] = votesBySlug[c.slug] ?? [];
     const ledger: LedgerRow[] = [];
     let prevTotal = 0;
-    const epNumbers = [...new Set([...eliminations.map((e) => e.episode), ...myVotes.map((v) => v.episode)].filter((n): n is number => n !== undefined))].sort((a, b) => a - b);
+    const epNumbers = [...new Set([...eliminations.map((e) => e.episode), ...myVotes.map((v) => v.episode), ...events.filter((x) => x.contestantSlug === c.slug).map((x) => x.episode)].filter((n): n is number => n !== undefined))].sort((a, b) => a - b);
     for (const n of epNumbers) {
       // Nothing to say about episodes after this castaway left.
       if (elimination?.episode !== undefined && n > elimination.episode) break;
@@ -228,9 +257,11 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
       const wasOutBefore = elimination?.episode !== undefined && elimination.episode < n;
       const re = nameRe(c);
       const v = myVotes.filter((x) => x.episode === n);
+      const evHere = events.filter((x) => x.contestantSlug === c.slug && x.episode === n).map(eventLabel);
       ledger.push({
         episode: n,
         title: ep?.title,
+        events: evHere.length ? evHere : undefined,
         points: totalAfter - prevTotal,
         survived: !outHere && !wasOutBefore,
         eliminated: outHere,
@@ -287,6 +318,7 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
       mentions,
       quotes: (overrides.quotes ?? []).filter((q) => q.contestantSlug === c.slug),
       ageOnDayOne,
+      events: events.filter((e) => e.contestantSlug === c.slug),
       profile: mergeProfile(inp.profiles[c.slug], overrides.profiles?.[c.slug], c.slug),
     };
   });
@@ -295,7 +327,9 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
   const contestantName = (slug: string) => contestants.find((c) => c.slug === slug)?.shortName ?? slug;
   const immunityWins: Record<string, number> = {};
   for (const c of contestants) immunityWins[c.slug] = c.ledger.filter((r) => r.immunity).length;
-  const badgesByDrafter = computeBadges({ drafters: season.drafters, picks, standings, history, eliminations, milestones, immunityWins, contestantName });
+  const advantagesFound: Record<string, number> = {};
+  for (const e of events) if ((e.type === "idol-found" || e.type === "advantage-found") && e.contestantSlug) advantagesFound[e.contestantSlug] = (advantagesFound[e.contestantSlug] ?? 0) + 1;
+  const badgesByDrafter = computeBadges({ drafters: season.drafters, picks, standings, history, eliminations, milestones, immunityWins, advantagesFound, contestantName });
   const paths = computePaths({ drafters: season.drafters, picks, contestantSlugs, eliminations, milestones, scoring: season.scoring, handicap: season.handicap });
   const drafterStats: DrafterStats[] = season.drafters.map((d) => {
     const mine = picks.filter((p) => p.drafterId === d.id);
@@ -344,6 +378,8 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
   }
   const latestRundown = Object.values(rundowns).sort((a, b) => b.eliminations - a.eliminations || (b.episode ?? 0) - (a.episode ?? 0))[0];
 
+  const review = inp.review ? (overrides.review ? { ...inp.review, ...overrides.review, edited: true } : inp.review) : undefined;
+
   return {
     season,
     contestants,
@@ -352,6 +388,8 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
     teams,
     rundowns,
     latestRundown,
+    events,
+    review,
     draft: { ...draft, picks },
     episodes,
     eliminations,
@@ -431,7 +469,49 @@ export function applyDemo(inp: BuildInputs): BuildInputs {
     for (const v of voters) (scraped.votes![v] ??= []).push({ episode: ep, day: 3 + i * 2, votedFor: victim, votesAgainst: 0, voters: [], tally: `${voters.length}–1` });
     (scraped.votes![victim] ??= []).push({ episode: ep, day: 3 + i * 2, votedFor: voters[0], votesAgainst: voters.length, voters, tally: `${voters.length}–1` });
   });
-  return { ...inp, draft: { ...inp.draft, picks }, scraped, overrides, commentary };
+  const demoEvents: GameEvent[] = [
+    { id: "d1", type: "idol-found", contestant: "", contestantSlug: shuffled[3]!, episode: 2, day: 4, advantage: "Hidden Immunity Idol", detail: "Found at camp", source: { page: "demo", url: "#" }, extracted: "table" },
+    { id: "d2", type: "idol-played", contestant: "", contestantSlug: shuffled[3]!, episode: 5, outcome: "success", advantage: "Hidden Immunity Idol", detail: "negated 3 votes", source: { page: "demo", url: "#" }, extracted: "table" },
+    { id: "d3", type: "advantage-found", contestant: "", contestantSlug: shuffled[0]!, episode: 3, advantage: "Extra Vote", detail: "Day 7 journey", source: { page: "demo", url: "#" }, extracted: "table" },
+    { id: "d4", type: "shot-in-the-dark", contestant: "", contestantSlug: boots[4]!, episode: 5, outcome: "fail", source: { page: "demo", url: "#" }, extracted: "table" },
+    { id: "d5", type: "other", contestant: "", contestantSlug: shuffled[5]!, episode: 4, advantage: "Mystery scroll", detail: "Opened a scroll that let her swap tribes.", source: { page: "demo", url: "#" }, extracted: "claude" },
+  ];
+  const final = process.argv.includes("--final");
+  if (final) {
+    // Everyone but three goes home; a winner is crowned; a review exists.
+    const rest = slugs.filter((s) => !boots.includes(s));
+    const trio = rest.slice(0, 3);
+    const extraBoots = rest.slice(3);
+    extraBoots.forEach((s, i) => eliminations.push({ order: eliminations.length + 1, contestantSlug: s, episode: 7 + Math.floor(i / 2), day: 17 + i, kind: "voted-out", placementText: `${eliminations.length + 1}th voted out`, juryMember: true }));
+    scraped.eliminations = eliminations;
+    scraped.milestones = { ...scraped.milestones, finalists: trio, winner: trio[0], placements: { [trio[0]!]: 1, [trio[1]!]: 2, [trio[2]!]: 3 } };
+    scraped.episodes = scraped.episodes.map((e) => ({ ...e, aired: true }));
+    for (let n = 8; n <= 13; n++) scraped.episodes.push({ number: n, title: `Demo Ep ${n}`, airDate: `2026-11-${String(n + 10).padStart(2, "0")}`, aired: true });
+    return {
+      ...inp,
+      draft: { ...inp.draft, picks },
+      scraped,
+      overrides,
+      commentary,
+      events: demoEvents,
+      review: {
+        headline: "One draft, one dynasty, four sore losers",
+        howItWent: "Demo review text. ".repeat(20).trim(),
+        mvpLine: "Demo MVP line.",
+        pickLine: "Demo pick line.",
+        bustLine: "Demo bust line.",
+        signoff: "The tribe has spoken. See you next season.",
+        champion: ["tami"],
+        mvp: trio[0],
+        pickOfYear: { drafterId: "tami", contestantSlug: trio[0]!, pick: 21, rank: 1 },
+        bustOfYear: { drafterId: "austin", contestantSlug: boots[0]!, pick: 5, rank: 21 },
+        generatedAt: new Date().toISOString(),
+        model: "demo",
+        sourceHash: "demo",
+      },
+    };
+  }
+  return { ...inp, draft: { ...inp.draft, picks }, scraped, overrides, commentary, events: demoEvents };
 }
 
 const isMain = process.argv[1] && /build-data\.ts$/.test(process.argv[1]);
@@ -439,6 +519,35 @@ if (isMain) {
   const demo = process.argv.includes("--demo");
   const data = buildSeasonData(demo ? applyDemo(loadInputs()) : loadInputs());
   if (demo) console.log("DEMO DATA — run `npm run data` to restore the real build.");
+  // Public JSON endpoints (served from the site; CORS-open on GitHub Pages).
+  const apiDir = join(ROOT, "public", "api");
+  mkdirSync(apiDir, { recursive: true });
+  const nickname = (id: string) => data.teams[id]?.nickname;
+  const latestEpisode = data.episodes.filter((e) => e.eliminations.length > 0).map((e) => e.number).sort((a, b) => b - a)[0];
+  const standingsApi = {
+    season: data.season.name,
+    seasonStarted: data.seasonStarted,
+    premiereDate: data.season.premiereDate,
+    latestEpisode,
+    headline: data.review?.headline ?? data.latestRundown?.headline,
+    syncedAt: data.syncedAt,
+    builtAt: data.builtAt,
+    standings: data.standings.map((s) => ({
+      id: s.drafterId,
+      index: data.season.drafters.findIndex((d) => d.id === s.drafterId),
+      name: s.name,
+      nickname: nickname(s.drafterId),
+      rank: s.rank,
+      tied: s.tied,
+      total: s.total,
+      rawTotal: s.rawTotal,
+      remaining: s.remaining,
+      rosterSize: data.contestants.filter((c) => c.drafterId === s.drafterId).length,
+      badges: data.drafterStats.find((x) => x.drafterId === s.drafterId)?.badges.map((b) => b.emoji + " " + b.name) ?? [],
+    })),
+  };
+  writeFileSync(join(apiDir, "standings.json"), JSON.stringify(standingsApi, null, 2));
+  writeFileSync(join(apiDir, "season.json"), JSON.stringify(data));
   writeJson(join(GENERATED_DIR, "season.json"), data);
   console.log(
     `Built season ${data.season.id}: ${data.contestants.length} contestants, ${data.eliminations.length} eliminations, ${data.episodes.length} episodes.`,

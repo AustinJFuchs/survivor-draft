@@ -207,6 +207,39 @@ export interface Profile {
   edited?: boolean;
 }
 
+// ---------- Idols, advantages, twists (display only) ----------
+
+export type GameEventType =
+  | "idol-found"
+  | "idol-played"
+  | "idol-unused"
+  | "advantage-found"
+  | "advantage-played"
+  | "advantage-unused"
+  | "shot-in-the-dark"
+  | "journey"
+  | "other";
+
+export interface GameEvent {
+  id: string;
+  type: GameEventType;
+  /** Castaway name as written on the wiki (scrape) or slug (after matching). */
+  contestant: string;
+  contestantSlug?: string;
+  episode?: number;
+  day?: number;
+  /** "Hidden Immunity Idol", "Extra Vote", "Beware Advantage", ... */
+  advantage?: string;
+  outcome?: "success" | "fail" | "pending";
+  /** Who the play was aimed at / who it stole from, when known. */
+  target?: string;
+  targetSlug?: string;
+  detail?: string;
+  source: { page: string; url: string };
+  /** How it got here: parsed from a wiki table, a voting footnote, Claude, or a human. */
+  extracted: "table" | "footnote" | "claude" | "manual";
+}
+
 /** Jeff-voiced team summary per drafter, regenerated when the team's situation changes. */
 export interface TeamSummary {
   drafterId: string;
@@ -234,10 +267,33 @@ export interface Rundown {
   edited?: boolean;
 }
 
+/** Season in review — written once the Sole Survivor is known. */
+export interface Review {
+  headline: string;
+  howItWent: string;
+  mvpLine?: string;
+  pickLine?: string;
+  bustLine?: string;
+  signoff?: string;
+  champion: string[];
+  mvp?: string;
+  pickOfYear?: { drafterId: string; contestantSlug: string; pick: number; rank: number };
+  bustOfYear?: { drafterId: string; contestantSlug: string; pick: number; rank: number };
+  generatedAt: string;
+  model: string;
+  sourceHash: string;
+  edited?: boolean;
+}
+
 /** Human-owned corrections. Every field optional; anything present wins. */
 export interface Overrides {
+  review?: Partial<Pick<Review, "headline" | "howItWent" | "mvpLine" | "pickLine" | "bustLine" | "signoff">>;
   /** Edit a rundown by key ("0" pre-season, else episode number). */
   rundowns?: Record<string, Partial<Pick<Rundown, "headline" | "overview" | "lines" | "awards">>>;
+  /** Add game events by hand (id required; contestantSlug required). */
+  events?: GameEvent[];
+  /** Drop scraped/extracted events by id. */
+  removeEvents?: string[];
   /** Edit or replace a generated team summary. */
   teams?: Record<string, Partial<Pick<TeamSummary, "nickname" | "summary" | "bullets">>>;
   /** Edit or replace a generated profile. */
@@ -270,6 +326,8 @@ export type ContestantStatus =
 export interface LedgerRow {
   episode: number;
   title?: string;
+  /** Idols/advantages this episode, short labels ("found idol", "played Extra Vote ✓"). */
+  events?: string[];
   /** Points earned during this episode (survival + any bonuses that landed). */
   points: number;
   survived: boolean;
@@ -315,6 +373,8 @@ export interface ContestantView extends Contestant {
   /** Group-chat quotes linked to this castaway. */
   quotes: Quote[];
   ageOnDayOne?: number;
+  /** Idols, advantages, journeys, Shot in the Dark — this castaway's, in episode order. */
+  events: GameEvent[];
   profile?: Profile;
 }
 
@@ -352,6 +412,7 @@ export interface HistoryPoint {
 
 export interface EpisodeView extends EpisodeInfo {
   eliminations: Elimination[];
+  events: GameEvent[];
   commentary?: Commentary;
   quotes: Quote[];
 }
@@ -428,6 +489,9 @@ export interface SeasonData {
   /** key → rundown archive; `latestRundown` is the one for the current state. */
   rundowns: Record<string, Rundown>;
   latestRundown?: Rundown;
+  /** All game events (slugs resolved), episode order. */
+  events: GameEvent[];
+  review?: Review;
   /** Tribe name → CSS colour; auto palette unless overridden. */
   tribeColors: Record<string, string>;
   season: SeasonConfig;

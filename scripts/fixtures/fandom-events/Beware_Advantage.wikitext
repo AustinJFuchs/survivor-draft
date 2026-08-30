@@ -1,0 +1,386 @@
+{{Gameplay
+| image = Beware Advantage.png
+| description = An advantage that comes with consequences for its opener
+| seasonsappeared = {{S2|41}}-present (except {{S2|44}})
+}}
+The '''Beware Advantage''' is a twist introduced in {{S|41}} that enforces restrictions upon its finder if they choose to open the seal.
+==Overview==
+Introduced in {{S2|41}}, the Beware Advantage is hidden in each tribe camp like a normal [[Hidden Immunity Idol]].
+
+The packaging of the Beware Advantage is similar to that of a Hidden Immunity Idol, with it being wrapped in parchment and bundled with string, but with a warning: "Beware Advantage. If you take it, it is yours, but you must do what it says. Otherwise, leave it" are printed.
+
+The package containing the idol contains two pieces of paper: the conventional congratulatory note for finding an idol,<ref>https://robhasawebsite.com/survivor-42-episode-2-recap/</ref> as well as a set of instructions informing the finder that they have lost their vote until:
+# All three idols' "activation phrases" are read out at the same [[Immunity Challenge]], or
+# The finder reaches the [[merge]]
+
+Each Beware Advantage comes with a specific phrase that the finder '''must''' say at a challenge to help activate it. In addition, each finder is informed what the other two activation phrases are, so they are aware of when their own idol is activated, and who possesses the other two idols. While it was initially mandatory for the finders to state their phrases at every Immunity Challenge, this requirement was waived midway into ''Survivor 41''<ref>https://robhasawebsite.com/survivor-42-episode-4-recap-xander-hastings/</ref> and appeared to be unenforced throughout {{S2|42}}.
+
+In ''Survivor 41'', if all three activation phrases were not said at the same challenge by the merge, the three idols would be rendered powerless. This was changed in ''Survivor 42'' such that the idols would gain full power at the merge regardless of whether the phrases were said during the pre-merge.
+
+On Day 6 of ''Survivor 41'', a variation of the Beware Advantage was introduced, forcing its finders to get into a boat to attend a [[summit]] that night in order to protect their votes.
+
+On Day 15 of ''Survivor 42'', a post-merge version of the Beware Advantage was introduced at the [[Reward Challenge]]. Its finder must find the [[Knowledge is Power]] advantage hidden near the water well. Failure to retrieve the advantage by sundown would result in the finder losing their vote. Unbeknownst to the player, the advantage would be hidden in a hole full of red paint, forcing the player to avoid being literally caught red-handed.
+
+In {{S|43}}, a Hidden Immunity Idol bracelet, which was by itself powerless, was given to the finder along with a note informing them that they have lost their vote. To activate the idol, the finder had to obtain the distinct beads from each of their tribemates' bags and bring them along with the bracelet to Tribal Council. If any bead was missing from the bracelet any time the finder went to Tribal Council, they would be unable to vote. However, each bead had to be willingly given to the finder instead of being stolen. Furthermore, if the finder was unable to obtain each of their tribemates' beads come the merge, the finder would regain their vote but the idol would be rendered powerless.
+
+In {{S|45}}, the Beware Advantage sent its finder on a scavenger hunt to find a Hidden Immunity Idol located at camp. The Idol only has power for one Tribal Council, but the wielder can sacrifice one vote to extend the power as far as the merge, and a second vote to extend the power as far as the final five. A similar concept was employed in {{S|47}}, but instead of sacrificing their votes, the finder had to find the idols which progressed in power.
+
+==Twist History==
+===Survivor 41===
+[[File:beware advantage s41.jpg|right|250px|thumb|The note that comes with the Beware Advantage.]]
+Beware Advantages were introduced as one of the numerous twists that came into play in {{S2|41}}. One advantage was hidden at each of the three tribe camps.
+
+On Day 4, [[Xander Hastings]] found and opened the Beware Advantage on the [[Yase]] tribe, coming into possession of an inactive [[Hidden Immunity Idol]] at the cost of his vote. It was revealed that each finder would have to say one of three phrases to formally activate the idol:
+
+* [[Luvu]]: "I'm as confused as a goat on Astroturf."
+* [[Ua]]: "I didn't realize this till now... Broccoli is just a bunch of small trees."
+* Yase: "I truly believe that butterflies are dead relatives saying hi."
+
+While Xander uttered his phrase at the Day 5 [[Immunity Challenge]], none of the other tribes had found their Beware Advantage. After Yase lost that challenge, Xander was rendered ineligible to vote at that night's [[Tribal Council]].
+
+[[File:S41E3 exile large.jpg|right|thumb|270px]]
+The next morning, [[Brad Reese]] found and opened the Ua tribe's Beware Advantage, hidden on their beach's jungle. Shortly thereafter, he found a second Beware Advantage hidden on his tribe beach. At the same time, [[Sydney Segal]] and [[Tiffany Seely]] found this second version of the Beware Advantage on Luvu and Yase beach respectively. It was revealed that, in order not to lose their vote, they would have to sneak into a boat that night and attend a [[summit]] together. There, Brad, Sydney, and Tiffany faced a prisoner's dilemma which gave each of them a choice between receiving a tarp or a [[Vote Steal]]. If all of them opted to receive a tarp, they would all receive a tarp; if all of them opted to receive a Vote Steal, all of them would lose their votes; if there was a split decision, all three players would keep their votes, but those who picked "Vote Steal" would receive a Vote Steal and those who picked "tarp" would receive nothing. Sydney and Tiffany played defensively by picking "tarp", receiving nothing the next morning. Meanwhile, Brad successfully chose and received a Vote Steal. He revealed his possession of both an inactive idol and a Vote Steal to his allies [[Genie Chen]] and [[Shan Smith]].
+
+Before the Day 7 Immunity Challenge commenced, Brad and Xander each uttered their phrases, but because nobody on Luvu had found the advantage yet, they would continue to be ineligible to vote. When Ua lost that challenge, Brad was rendered ineligible to vote at Tribal Council and he was blindsided by his tribe because of the advantages he was known to possess. As a result, the Vote Steal was removed from play and the Ua Beware Advantage was re-hidden.
+
+On Day 11, remembering what Brad had told her about the Beware Advantage, Genie hunted for and found the re-hidden Ua advantage. She shared this with Shan and [[Ricard FoyÃ©]], who convinced her to leave the package unopened. Ricard and Shan then conspired to activate the idol without Genie's knowledge, with Shan passing Ricard her Extra Vote for safekeeping so that it would remain usable if she could not vote. Ua devised a plan to help Xander say his phrase without arousing further suspicion at the next Immunity Challenge. There, Shan and Xander said their phrases, and it was revealed that [[Naseer Muttalif]] had found Luvu's Beware Advantage earlier that morning. With all three phrases uttered, the idols came into full power and Shan's vote was re-instated in time for that night's Tribal Council when Ua lost the challenge.
+
+On Days 17 and 19, Naseer and Shan were respectively blindsided, leaving the game with the idols in their pockets. On Day 24, Xander played his idol at the final five, the last time the idols could be used, though he did not negate any votes against him.
+
+===Survivor 42===
+On Day 5, [[Mike Turner]] found the [[Vati]] tribe's Beware Advantage in the jungle. Eager to take risks, he opened it to learn that he had lost his vote. At the same time, the three tribes' phrases were revealed.
+
+* [[Ika]]: "Potatoes have skin. I have skin. Am I a potato?"
+* [[Taku]]: "It's another classic case of the bunny rabbit having dinner in the mailbox."
+* Vati: "There's such grace in a game of soccer, it makes me cry."
+
+In order to garner the support from his allies, he divulged this information to [[Daniel Strunk]] and [[Jenny Kim]]. Mike hoped for Daniel to devise a strategy to utilize the advantage; Daniel suggested for Mike not to utter his phrase at the challenges, ostensibly to keep suspicion away from Mike, but with the ulterior motive of never having the idols be activated. In addition, Daniel revealed Mike's possession of the idol to his own ally [[Chanelle Howell]], and the pair debated whether Mike was now too big of a strategic threat and a strategic liability due to his inability to vote. Later on, Daniel would come to discover that the idols would be activated by the [[merge]] regardless of whether Mike said his phrase, defeating his original plan.
+
+[[File:Beware advantage s42.jpg|thumb|250px|right|Maryanne reads the Beware Advantage.]]
+On Day 7, the Taku tribe went on an idol hunt, during which [[Maryanne Oketch]] found the Beware Advantage and shared this information with the rest of her tribe. She said her phrase at the next Immunity Challenge, but the Ika tribe had yet to find their advantage and Mike held off on saying his phrase. After Vati lost the Immunity Challenge, Mike found himself unable to vote at that night's Tribal Council. On Day 9, Maryanne said her phrase once again and, yet again, she received no response from either of the tribes.
+
+On Day 10, [[Drea Wheeler]] and [[Romeo Escobar]] hunted for the idol on the Ika tribe, with Drea finding the advantage. Meanwhile, the five remaining Vati members settled on Mike keeping quiet until the merge so that they would have an idol the other tribes were unaware of. At the Immunity Challenge on Day 11, Maryanne once again led in saying her phrase; Drea followed, and, on the spot, Mike said his phrase as well, activating all three idols. When Vati lost the Immunity Challenge, Mike regained his ability to vote at that night's Tribal Council.
+
+[[File:Drea kip.jpg|thumb|250px|right|Drea finds her fourth advantage.]]
+On Day 15, Drea opted to switch places with Maryanne and sit out of the [[Reward Challenge]] after the random draw. Under the sit-out bench was a Beware Advantage placed by [[Jeff Probst]] before the castaways arrived. Drea found it during the challenge and read it back at camp. The note told her there was an advantage hidden five paces from the water well, but she had to get it quickly or risk getting caught "red-handed". This proved to be rather literal, as Drea found the advantage submerged in a hole filled with red paint. She had to reach in and cover her arm in paint to retrieve the advantage, which turned out to be the [[Knowledge is Power]] advantage.
+
+During the [[Double Elimination]] on Day 17, Drea and Maryanne played their idols ''before'' the votes were cast to grant themselves preventive immunity.
+
+Drea played her Knowledge is Power advantage on Day 21 in an attempt to steal Mike's idol. However, this was foiled as Mike had transferred ownership of the idol to [[Omar Zaheer]] before Tribal Council.
+
+Mike had individual immunity at the final five, the last time idols could be played. Thus, he opted to play his idol for Maryanne but did not negate any votes.
+
+===Survivor 43===
+On Day 5, [[Cody Assenmacher]] found the Beware Advantage at the [[Vesi]] camp just hours before the tribe was to go to Tribal Council. He obtained a Hidden Immunity Idol bracelet, which was by itself powerless, at the cost of his vote until he had obtained the distinct beads from each of his tribemates' bags. With Tribal Council looming, Cody enlisted the help of his allies [[Jesse Lopez]] and [[Nneka Ejere]] to help him obtain each bead. The three managed to clandestinely persuade [[Dwight Moore]], [[Justine Brennan]], and [[Noelle Lambert]] to give Cody their beads, allowing him to regain his vote in time for Tribal Council.
+
+[[File:Karla beware advantage.jpg|thumb|250px|right|Karla reads the Beware Advantage.]]
+On Day 6, [[Karla Cruz Godoy]] found the Beware Advantage at the [[Coco]] camp and, although she had left it behind at first, she returned for it and claimed a Hidden Immunity Idol bracelet. Without disclosing that she found it, Karla managed to gain her tribemates beads by trading some of her personal belongings, therefore regaining her vote and activating her Idol.
+
+On Day 10, [[Jeanine Zheng]] found the Beware Advantage at the [[Baka]] camp. She shared it with the rest of her tribemates sans [[Mike Gabler]], whom she managed to persuade to give up his bead, thus successfully activating her idol.
+
+On Day 14, Cody and Jeanine gave their idols to Jesse and Dwight respectively as they feared James would use his [[Knowledge Is Power Advantage]] to steal them. When Dwight was voted out that night, everyone believed that Jeanine's idol was flushed out. However, Dwight gave the idol to Jesse minutes before going to Tribal Council, giving the latter two idols.
+
+On Day 23, Jesse hatched a plan to blindside Cody while flushing Karla's idol. Jesse played the idol that Cody had entrusted in his possession on Owen, prompting a flustered Karla to play her idol. Cody went home that night in a 4-0-0 vote. The next day, Jesse revealed that he had been holding on to Jeanine's idol since Dwight's elimination. He played the idol to guarantee his safety at the final five.
+===Survivor 45===
+The Beware Advantage reappeared in {{S|45}}, where the task sent the finders on a scavenger hunt to find the idol, until which they would be unable to vote at Tribal Council. On Day 2, [[Reba]]'s [[Austin Li Coon]] became the first person to find the advantage. He was instructed to use a cipher to decode a message hidden on his tribe flag, which then directed him to dig at a palm tree on his beach. He later gave the idol to [[Julie Alley]] at the final nine in case she was separated from her allies, but he never received it back. Julie ended up playing the idol on Day 21 to negate a unanimous vote and blindside [[Emily Flippen]].
+
+Meanwhile on Day 4, [[Brandon Donlon]] discovered [[Lulu]]'s Beware Advantage, but out of reluctance to sacrifice his vote, offered the advantage to his ally [[Sabiyah Broderick]] to open instead. Sabiyah then followed her first clue to a palm tree on the Lulu camp, where she found the idol encased in a wax totem. She was instructed to melt the wax with fire, but Lulu's lack of flint forced her to put her endeavors on pause. After her tribe lost the third Immunity Challenge, Sabiyah used the campfire at Tribal Council to melt the wax. Right as the tribe headed up to vote, she was able to retrieve her idol, but was presented with a dilemma at the voting booth. She decided to abstain from voting in order to extend the validity period of her idol. This proved to be a big mistake as she was blindsided shortly thereafter, leaving with the idol in her pocket.
+
+On Day 12, the Lulu tribe went to search for an idol. [[Bruce Perreault]] found and opened a Beware Advantage, which directed him to find the idol buried under the tribe shelter. The tribe sans [[Katurah Topps]] conspired to help Bruce find the idol; though he was initially unsuccessful, he managed to recover the idol amidst the chaos as the tribe prepared to make their way to the [[merge]] tribe camp. Bruce ended up getting blindsided on Day 19, leaving the game without using his idol.
+
+===Survivor 46===
+In {{S|46}}, idols were hidden in locked boxes at each tribe camp. The person who finds the Beware Advantage will be directed to the location of the lock box, but the location of the key will only be revealed after their tribe loses the next Immunity Challenge. On Day 2, [[Jem Hussain-Adams]] became the first person to find the Beware Advantage at [[Siga]] camp. Some time later, she moved the box containing the idol and rehid the Beware Advantage, which [[Maria Shrime Gonzalez]] found when the Siga tribe went on a group idol hunt. Siga finally lost their first Immunity Challenge on Day 11, allowing Jem to receive a set of instructions that directed her to find the key. First, she had to use her tribe machete to measure the perimeter of the tribe boat, the perimeter of [[Tree Mail]], and the width of the tribe flag. Then, she had to input these values into an equation, which informed her that the key was hidden 28 machete-lengths away from where she originally found the advantage. Stealthily completing the task, Jem found the key, retrieved the idol, and regained her vote before Tribal Council.
+
+On Day 3, [[Tiffany Nicole Ervin]] found [[Yanu]]'s Beware Advantage; after Yanu lost the challenge, she was given a cipher puzzle that led her to the key hidden on the tribe's beach. After finding the key, Tiffany acquired the idol and regained her vote before that night's Tribal Council.
+
+Later on Day 5, [[Randen Montalvo]] found [[Nami]]'s Beware Advantage hidden in a tree at camp. However, he was medically [[Evacuation|evacuated]] on Day 7 before his tribe ever lost an Immunity Challenge. The advantage was rehidden and later opened by [[Hunter McKnight]] on Day 10. Because Nami never lost an Immunity Challenge, Hunter was directed to return to where he found the box once his tribe received news of an impending merge. When the [[Tree Mail]] came, Hunter returned to the box and found a riddle directing him to find a key somewhere on his camp. He managed to retrieve the key and unlock the box shortly before the other castaways arrived at his camp.
+
+All three idols were ultimately taken out of play when their respective owners were blindsided at Tribal Council.
+
+===Survivor 47===
+In {{S|47}}, idols were hidden throughout each tribe camp. The person who found the Beware Advantage was given clues to find a key and a box containing one of those idols; after finding the idol, which can only be used at their next Tribal Council, they were extended the offer to relinquish the idol in exchange for the right to find a more powerful idol that can be used at any of their next three Tribal Councils. After discovering this second idol, they were given the opportunity to, once again, relinquish the idol and find an idol that can be used at any Tribal Council up to the final five.
+
+On Day 2, [[Gabe Ortis]] was the first person to find the Beware Advantage and, eventually, the [[Tuku]] idol. He chose to keep the second idol and ultimately used it at Tuku's first Tribal Council on Day 5.
+
+On Day 3, [[Rome Cooney]] found the advantage on the [[Lavo]] tribe and began his search for the idol, rousing much suspicion from his tribemates in the process. Rome ended up finding the box and sharing its hiding spot with [[Teeny Chirichillo]], who divulged the secret to [[Kishan Patel]]. After Rome caught them in the act, he decided to take the first idol and stop the search. Meanwhile, on [[Gata]], [[Andy Rueda]] found the Beware Advantage on Day 4 but decided not to take it, opting instead to brainstorm ideas before committing to taking the package. However, he was unable to retrieve the advantage after a change of heart, as [[Sam Phalen]] had intercepted it and taken it for himself. With help from his allies, Sam was able to find the idol and similarly chose not to search for the second idol.
+
+Rome used his idol on Lavo's first Tribal Council on Day 7, managing to negate one vote from [[Sol Yi]]. Sam let his idol expire as he didn't use it at Gata's second Tribal Council on Day 10.
+
+On Day 8, [[Sue Smey]] found the rehidden advantage on the Tuku tribe and was led by a map to the idol's location. However, the idol was enclosed in a pot suspended over the ground, and she had to cut the rope holding it up. When she did so, the pot shattered and the idol was released, but the pot also contained red paint that splattered across the ground upon impact. Sue then proceeded to clean up the evidence, but not without arousing the suspicion of [[Caroline Vidmar]] and [[Tiyana Hallums]], who noticed some of the paint on Sue's face.
+
+===Survivor 48===
+In {{S|48}}, idols were hidden throughout each tribe camp. Each idol was encased in a [[wikipedia:The Da Vinci Code|cryptex]] puzzle lock, and the person who claims the Beware Advantage must solve the proper combination by finding animal pictures scattered across their campsite. Doing so uncovers a letter they must use to solve the cryptogram tube. However, while all the camps have the same number of animals and letters, the word they spell and the method of collecting the letters are different.
+
+On Day 2, [[Saiounia Hughley]] found the advantage on the [[Vula]] camp, discovering a note that shows colored numbers. She realized that each color matches the animals on the island and the number that the color highlights matches the letter in their name. After claiming the letters, Saiounia had her alliance help her unscramble the letters to spell out "Listen" and claimed the idol. Saiounia used the idol in Vula's second Tribal Council on Day 5, negating one vote from [[Kevin Leung]].
+
+On Day 4, [[Star Toomey]] found the advantage on the [[Lagi]] camp with a circular decoder meant to match certain corners from the animals to spell out the letters. On Day 11, the Lagi tribe worked together to decipher the riddle and [[Eva Erickson]] was able to unlock the tube by spelling out "Silent". While Star had the idol and her vote restored, she gave the idol to Eva in a show of trust. Eva played the idol on Day 24 as it was the last day she could, and she negated zero votes.
+
+Also on Day 4, [[Kyle Fraser]] found the advantage on the [[Civa]] camp, containing a riddle about where to find the animals and their letters. While Kyle was quickly able to find the letters thanks to [[David Kinne]] discovering them days ago, he had [[Kamilla Karthigesu]] solve the puzzle. Kamilla correctly deciphered the puzzle as "Enlist", and Kyle received his idol. Kyle used his idol at Vula's fourth Tribal Council on Day 9, negating three votes and blindsiding [[Thomas Krottinger]].
+
+=== Survivor 49 ===
+
+=== In the Hands of the Fans ===
+On Day 19 of {{S2|50}}, the Final 10 castaways were told at the [[Survivor Auction]] that for the last item (which was hidden), everyone would need to pitch in $20. Everyone obliged, so Jeff Probst revealed that the hidden item was their loved ones' letters. However, as a result of purchasing the item, the players activated another twist. YouTuber {{wp|MrBeast}} came to the Auction to show the players a briefcase that said "Beware" on it, which contained his Super Beware Advantage. However, they were not shown the contents of the briefcase until that night's Tribal Council. At Tribal Council, MrBeast opened the briefcase revealing a coin. On one side was the MrBeast logo (heads), and on the other side were torches (tails). Jeff Probst explained that one player would have to flip the coin. The player who would flip the coin would have to call "heads" or "tails", and if they flipped the coin on the side they called, they would be given Individual Immunity for that Tribal Council and a Hidden Immunity Idol. Additionally, the prize money for the season would be doubled to $2,000,000. However, if they flipped the coin on the side they did not call, they would be [[Do or Die (twist)|instantly eliminated from the season]], and no vote would take place at Tribal Council. Knowing he was on the chopping block, but also because he wanted to double the prize money, [[Rick Devens]] volunteered to flip the coin. With little backlash from the other players, he was designated as the player who would flip the coin. Because he watches MrBeast with his kids, Rick called "heads" and then flipped the coin. The coin successfully landed on "heads", granting Rick the two advantages, as well as doubling the prize money.
+
+=== Summary ===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Location
+! Episode Opened
+! Owner
+! style="text-align:center; width:240px"| Task
+! Advantage
+! Successful?
+|-
+| rowspan="7"|{{S2|41}}
+| {{tribeicon|yase}} camp
+| {{Ep|4102}}
+| {{nowrap|[[File:S41 xander t.png|60px|link=Xander Hastings]]<br />[[Xander Hastings]]}}
+| Say an activation phrase at an [[Immunity Challenge]]
+| [[Hidden Immunity Idol]]
+| {{yn|y}}
+|-
+| {{tribeicon|ua}} camp
+| {{Ep|4103}}
+| {{nowrap|[[File:S41 brad t.png|60px|link=Brad Reese]]<br />[[Brad Reese]]}}
+| Say an activation phrase at an Immunity Challenge
+| Hidden Immunity Idol
+| {{yn|n}}
+|-
+| {{tribeicon|luvu}} camp
+| rowspan="3"|{{Ep|4103}}
+| {{nowrap|[[File:S41 sydney t.png|60px|link=Sydney Segal]]<br />[[Sydney Segal]]}}
+| rowspan="3"|Attend a [[summit]] on Night 6
+| rowspan="3"|Either protect vote, or<br />"risk" vote for a [[Vote Steal]]
+| {{yn|y}}<br />Protected vote
+|-
+| {{tribeicon|yase}} camp
+| {{nowrap|[[File:S41 tiffany t.png|60px|link=Tiffany Seely]]<br />[[Tiffany Seely]]}}
+| {{yn|y}}<br />Protected vote
+|- 
+| {{tribeicon|ua}} camp
+| {{nowrap|[[File:S41 brad t.png|60px|link=Brad Reese]]<br />[[Brad Reese]]}}
+| {{yn|y}}<br />Received Vote Steal
+|-
+| {{tribeicon|ua}} camp
+| {{Ep|4105}}
+| {{nowrap|[[File:S41 shan t.png|60px|link=Shan Smith]]<br />[[Shan Smith]]}}
+| Say an activation phrase at an Immunity Challenge
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|luvu}} camp
+| {{Ep|4105}}
+| {{nowrap|[[File:S41 naseer t.png|60px|link=Naseer Muttalif]]<br />[[Naseer Muttalif]]}}
+| Say an activation phrase at an Immunity Challenge
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| rowspan="4"|{{S2|42}}
+| {{tribeicon|vati}} camp
+| {{Ep|4202}}
+| {{nowrap|[[File:S42 mike t.png|60px|link=Mike Turner]]<br />[[Mike Turner]]}}
+| Say an activation phrase at an Immunity Challenge
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|taku}} camp
+| {{Ep|4203}}
+| {{nowrap|[[File:S42 maryanne t.png|60px|link=Maryanne Oketch]]<br />[[Maryanne Oketch]]}}
+| Say an activation phrase at an Immunity Challenge
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|ika}} camp
+| {{Ep|4205}}
+| {{nowrap|[[File:S42 drea t.png|60px|link=Drea Wheeler]]<br />[[Drea Wheeler]]}}
+| Say an activation phrase at an Immunity Challenge
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| Day 15 [[Reward Challenge]]
+| {{Ep|4208}}
+| {{nowrap|[[File:S42 drea t.png|60px|link=Drea Wheeler]]<br />[[Drea Wheeler]]}}
+| Retrieve an advantage at camp before sundown
+| [[Knowledge is Power]]
+| {{yn|y}}
+|-
+| rowspan="3"| {{S2|43}}
+| {{tribeicon|vesi}} camp
+| {{Ep|4302}}
+| {{nowrap|[[File:S43 cody t.png|60px|link=Cody Assenmacher]]<br />[[Cody Assenmacher]]}}
+| Retrieve beads from each tribe member's bag
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|coco}} camp
+| {{Ep|4303}}
+| {{nowrap|[[File:S43 karla t.png|60px|link=Karla Cruz Godoy]]<br />[[Karla Cruz Godoy]]}}
+| Retrieve beads from each tribe member's bag
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|baka}} camp
+| {{Ep|4305}}
+| {{nowrap|[[File:S43 jeanine t.png|60px|link=Jeanine Zheng]]<br />[[Jeanine Zheng]]}}
+| Retrieve beads from each tribe member's bag
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| rowspan="3"| {{S2|45}}
+| {{tribeicon|reba}} camp
+| {{Ep|4501}}
+| {{nowrap|[[File:S45 austin t.png|60px|link=Austin Li Coon]]<br />[[Austin Li Coon]]}}
+| Complete a scavenger hunt
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| rowspan=2|{{tribeicon|lulu}} camp
+| {{Ep|4502}}
+| {{nowrap|[[File:S45 sabiyah t.png|60px|link=Sabiyah Broderick]]<br />[[Sabiyah Broderick]]}}
+| Complete a scavenger hunt
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{Ep|4506}}
+| {{nowrap|[[File:S45 bruce t.png|60px|link=Bruce Perreault]]<br />[[Bruce Perreault]]}}
+| Find the idol hidden under the tribe shelter
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| rowspan=4|{{S|46}}
+| {{tribeicon|siga}} camp
+| {{Ep|4601}}
+| {{nowrap|[[File:S46 jem t.png|60px|link=Jem Hussain-Adams]]<br />[[Jem Hussain-Adams]]}}
+| Lose an upcoming Immunity Challenge to receive a clue to the location of a key;<br />Use the key to unlock the idol
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|yanu}} camp
+| {{Ep|4601}} 
+| {{nowrap|[[File:S46 tiffany t.png|60px|link=Tiffany Nicole Ervin]]<br />[[Tiffany Nicole Ervin]]}}
+| Lose an upcoming Immunity Challenge to receive a clue to the location of a key;<br />Use the key to unlock the idol
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|nami}} camp
+| {{Ep|4602}}
+| {{nowrap|[[File:S46 randen t.png|60px|link=Randen Montalvo]]<br />[[Randen Montalvo]]}}
+| Lose an upcoming Immunity Challenge to receive a clue to the location of a key;<br />Use the key to unlock the idol
+| Hidden Immunity Idol
+| {{yn|n}}<br />Evacuated
+|-
+| {{tribeicon|nami}} camp
+| {{Ep|4605}}
+| {{nowrap|[[File:S46 hunter t.png|60px|link=Randen Montalvo]]<br />[[Hunter McKnight]]}}
+| Lose an upcoming Immunity Challenge to receive a clue to the location of a key;<br />Use the key to unlock the idol
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| rowspan=5|{{S|47}}
+| rowspan=2|{{tribeicon|tuku}} camp
+| rowspan=2|{{Ep|4701}}
+| rowspan=2|{{nowrap|[[File:S47 gabe t.png|60px|link=Gabe Ortis]]<br />[[Gabe Ortis]]}}
+| rowspan=2|Find an idol at camp, with the option to relinquish it to find idols that can be used for longer periods
+| Hidden Immunity Idol<br />good for next Tribal Council
+| {{yn|y}}<br />Relinquished
+|-
+| Hidden Immunity Idol<br />good for 3 Tribal Councils
+| {{Yn|y}}
+|-
+| {{tribeicon|lavo}} camp
+| {{Ep|4701}} 
+| {{nowrap|[[File:S47 rome t.png|60px|link=Rome Cooney]]<br />[[Rome Cooney]]}}
+| Find an idol at camp, with the option to relinquish it to find idols that can be used for longer periods
+| Hidden Immunity Idol<br />good for next Tribal Council
+| {{yn|y}}
+|-
+| {{tribeicon|gata}} camp
+| {{Ep|4702}} 
+| {{nowrap|[[File:S47 sam t.png|60px|link=Sam Phalen]]<br />[[Sam Phalen]]}}
+| Find an idol at camp, with the option to relinquish it to find idols that can be used for longer periods
+| Hidden Immunity Idol<br />good for next Tribal Council
+| {{yn|y}}
+|-
+| {{tribeicon|tuku}} camp
+| {{Ep|4704}} 
+| {{nowrap|[[File:S47 sue t.png|60px|link=Sue Smey]]<br />[[Sue Smey]]}}
+| Find an idol at camp, but risk getting caught "red-handed" as the idol is covered in red paint
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| rowspan=3| {{S|48}}
+| {{tribeicon|vula}} camp
+| {{Ep|4801}}
+| {{nowrap|[[File:S48 saiounia t.png|60px|link=Saiounia Hughley]]<br />[[Saiounia Hughley]]}}
+| Crack the code hidden around camp to unlock the idol
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|lagi}} camp
+| {{Ep|4802}}
+| {{nowrap|[[File:S48 star t.png|60px|link=Star Toomey]]<br />[[Star Toomey]]}}
+| Crack the code hidden around camp to unlock the idol
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|civa}} camp
+| {{Ep|4802}}
+| {{nowrap|[[File:S48 kyle t.png|60px|link=Kyle Fraser]]<br />[[Kyle Fraser]]}}
+| Crack the code hidden around camp to unlock the idol
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| rowspan=3| {{S|49}}
+| {{tribeicon|kele}} camp
+| {{Ep|4902}}
+| {{nowrap|[[File:S49 alex t.png|60px|link=Alex Moore]]<br />[[Alex Moore]]}}
+| After losing an Immunity Challenge, search around camp for a chest containing the idol and use a key tethered to a chain to unlock it
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|hina}} camp
+| {{Ep|4903}}
+| {{nowrap|[[File:S49 mc t.png|60px|link=MC Chukwujekwu]]<br />[[MC Chukwujekwu]]}}
+| After losing an Immunity Challenge, search around camp for a chest containing the idol and use a key tethered to a chain to unlock it
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{tribeicon|uli}} camp
+| {{Ep|4903}}
+| {{nowrap|[[File:S49 rizo t.png|60px|link=Rizo Velovic]]<br />[[Rizo Velovic]]}}
+| After losing an Immunity Challenge, search around camp for a chest containing the idol and use a key to unlock it
+| Hidden Immunity Idol
+| {{yn|y}}
+|-
+| {{S2|50}}
+| {{tribeicon|manulevu}}'s Day 19<br>Tribal Council<br>(Super)
+| {{Ep|5010}}
+| {{nowrap|[[File:S50 rick t.png|60px|link=Rick Devens]]<br />[[Rick Devens]]}}
+| Flip a coin at Tribal Council and correctly call your choice of heads or tails, otherwise you are [[Do or Die (twist)|instantly eliminated]]
+| Hidden Immunity Idol + Individual Immunity + $2,000,000 for the [[Sole Survivor]]
+| {{yn|y}}
+|}
+
+==Trivia==
+* In both seasons with the activation phrases, the [[Hidden Immunity Idol]]s were activated on Day 11.
+* [[Brad Reese]] is the first contestant to open multiple Beware Advantages.
+** [[Drea Wheeler]] is the first contestant to activate multiple Beware Advantages.
+* [[Randen Montalvo]] is the first (and so far, only) contestant to be [[Evacuation|evacuated]] while having a Beware Advantage in his possession.
+* In the ''On Fire with Jeff Probst'' podcast, [[Jeff Probst]] revealed that the name "Beware Advantage" came before a concept for the advantage was established.<ref>https://podcasts.apple.com/us/podcast/advantages-and-idols/id1673596832?i=1000603381228 (21:00)</ref><ref>https://twitter.com/survivorcbs/status/1633663900846800897</ref>
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Gameplay]]
+[[Category:Twists]]
+[[Category:Objects]]
+[[Category:Survivor (U.S.)]]
+[[Category:Survivor 41]]
+[[Category:Survivor 42]]
+[[Category:Survivor 43]]
+[[Category:Survivor 45]]
+[[Category:Survivor 46]]
+[[Category:Survivor 47]]
+[[Category:Survivor 48]]
+[[Category:Survivor 49]]

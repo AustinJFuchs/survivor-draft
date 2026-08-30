@@ -225,9 +225,22 @@ export function parseTable(raw: string): Table {
   const rows: Cell[][] = [];
   let caption: string | undefined;
   let cur: Cell[] | null = null;
+  let nested = 0; // depth of tables nested inside a cell
   for (let li = 1; li < lines.length; li++) {
     const line = lines[li]!;
     const trimmed = line.trim();
+    // A nested table inside a cell: keep its lines in the cell, don't parse them as ours.
+    if (nested > 0) {
+      if (trimmed.startsWith("{|")) nested++;
+      else if (trimmed.startsWith("|}")) nested--;
+      if (cur && cur.length > 0) cur[cur.length - 1]!.raw += "\n" + line;
+      continue;
+    }
+    if (trimmed.startsWith("{|")) {
+      nested = 1;
+      if (cur && cur.length > 0) cur[cur.length - 1]!.raw += "\n" + line;
+      continue;
+    }
     if (trimmed.startsWith("|}")) break;
     if (trimmed.startsWith("|+")) {
       caption = plain(trimmed.slice(2));

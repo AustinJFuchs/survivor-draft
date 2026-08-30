@@ -3,6 +3,7 @@ import { contestantBySlug, data, drafterById, drafterColor } from "../data";
 import { formatDate, ordinal } from "../lib/format";
 import type { ContestantView } from "../lib/types";
 import { DrafterChip, Photo, StatusPill, TribeBadge } from "./ui";
+import { eventGlyph } from "./TorchWall";
 
 /**
  * Castaway detail. On phones it's a bottom sheet (~92% tall, grab handle,
@@ -219,6 +220,11 @@ export default function ContestantSheet({ slug, onClose, onOpen }: { slug: strin
                             {r.votesAgainst} vote{r.votesAgainst === 1 ? "" : "s"} against
                           </span>
                         )}
+                        {r.events?.map((t, k) => (
+                          <span key={k} className="chip text-torch-400">
+                            {t}
+                          </span>
+                        ))}
                       </div>
                       {(r.votedFor || r.votedForText || r.votesAgainst > 0) && (
                         <div className="text-[11px] text-sand-400 mt-1">
@@ -245,6 +251,42 @@ export default function ContestantSheet({ slug, onClose, onOpen }: { slug: strin
                     <div className="font-display text-lg text-sand-200 shrink-0">{r.points > 0 ? `+${r.points}` : r.points}</div>
                   </li>
                 ))}
+              </ul>
+            </div>
+          )}
+
+          {/* Idols & advantages */}
+          {c.events.length > 0 && (
+            <div>
+              <h4 className="text-xs uppercase tracking-widest text-sand-400 mb-1">Idols & advantages</h4>
+              <ul className="card divide-y divide-sand-300/10 text-sm">
+                {c.events.map((e) => {
+                  const g = eventGlyph(e);
+                  return (
+                    <li key={e.id} className="px-3 py-2 flex items-start gap-3">
+                      <span className="text-lg leading-none">{g.glyph}</span>
+                      <div className="min-w-0 flex-1">
+                        <div className="text-sand-100">
+                          {g.label.charAt(0).toUpperCase() + g.label.slice(1)}
+                          {e.episode ? <span className="text-sand-400"> · Ep {e.episode}</span> : null}
+                          {e.day ? <span className="text-sand-400"> · Day {e.day}</span> : null}
+                        </div>
+                        {e.detail && <div className="text-xs text-sand-400">{e.detail}</div>}
+                        <div className="text-[10px] text-sand-400">
+                          {e.extracted === "claude" ? "AI-extracted from the wiki" : e.extracted === "manual" ? "Entered by hand" : "Survivor Wiki"}
+                          {e.source.url && e.source.url !== "#" && (
+                            <>
+                              {" · "}
+                              <a className="underline" href={e.source.url} target="_blank" rel="noreferrer">
+                                {e.source.page}
+                              </a>
+                            </>
+                          )}
+                        </div>
+                      </div>
+                    </li>
+                  );
+                })}
               </ul>
             </div>
           )}

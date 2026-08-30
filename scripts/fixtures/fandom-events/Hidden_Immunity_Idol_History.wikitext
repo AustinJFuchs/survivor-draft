@@ -1,0 +1,1825 @@
+This is a complete list of [[Hidden Immunity Idol]]s obtained in [[Survivor (U.S.)|''Survivor'' (U.S.)]].
+==Hidden Immunity Idol History==
+==={{S2|11}} to {{S2|20}}===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Hiding Place
+! Episode Found
+! Found By
+! Given To
+! Episode Used
+! Successful?
+! Victim
+! Pertinent Notes
+|-
+! colspan="9" |Preventive Idol
+|-
+| {{S2|11}}
+| {{tribeicon|xhakum}}â€‹ camp
+| {{Ep|1109}}
+| [[File:S11 gary t.png|60px|link=Gary Hogeboom]]<br />[[Gary Hogeboom]]
+| None
+| {{Ep|1109}}
+| colspan="2" |N/A
+| style="text-align: left;" |
+* This idol was not rehidden.
+* Gary was not shown to have found and be in possession of this idol until he played it at Tribal Council. A secret scene depicted him actually finding the idol, which was also shown at the [[Reunion (Guatemala)|Reunion]].<ref>https://youtu.be/ZrgygajqO0E</ref>
+|-
+! colspan="9" |Super Idol
+|-
+| {{S2|12}}
+| {{dab|Exile Island|twist}}
+| {{Ep|1204}}
+| [[File:S12 terry t.png|60px|link=Terry Deitz]]<br />[[Terry Deitz]]
+| None
+| colspan="3" |Expired in {{Ep|1214}}
+| style="text-align: left;" |
+* On Day 36, Terry was considered effectively immune by the other contestants as he held the idol at the last time idols could be played.
+|-
+| {{S2|13}}
+| {{dab|Exile Island|twist}}
+| {{Ep|1302}}
+| [[File:S13 yul t.png|60px|link=Yul Kwon]]<br />[[Yul Kwon]]
+| None
+| colspan="3" |Expired in {{Ep|1215}}
+| style="text-align: left;" |
+* On Day 38, Yul was considered effectively immune by the other contestants as he held the idol at the last time idols could be played.
+|-
+! colspan="9" |Negating Idol
+|-
+| rowspan="3" | {{S2|14}}
+| {{tribeicon|moto}} camp
+| {{Ep|1407}}
+| [[File:S14 yauman t.png|60px|link=Yau-Man Chan]]<br />[[Yau-Man Chan]]
+| None
+| {{Ep|1413}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-2]
+| [[File:S14 stacy bw.png|60px|link=Stacy Kimball]]<br />[[Stacy Kimball]]
+| style="text-align: left;" |
+* This was the first modern idol found in ''{{dab|Survivor|U.S.}}'' history, and the first idol of any kind played successfully.
+|-
+| {{tribeicon|ravu}} camp
+| {{Ep|1408}}
+| [[File:S14 mookie t.png|60px|link=Mookie Lee]]<br />[[Mookie Lee]]
+| [[File:S14 alex t.png|60px|link=Alex Angarita]]<br />[[Alex Angarita]]
+| {{Ep|1410}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was the first modern idol played in ''Survivor'' history, and the first idol of any kind played unsuccessfully.
+|-
+| {{tribeicon|bulabula}} camp
+| {{Ep|1413}}
+| [[File:S14 earl t.png|60px|link=Earl Cole]]<br />[[Earl Cole]]
+| None
+| {{Ep|1414}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was the rehidden Ravu idol.
+* This was the first idol played "by default" at the last time idols could be played.
+|-
+| rowspan="2" | {{S2|15}}
+| {{tribeicon|feilong}} camp
+| {{Ep|1506}}
+| [[File:S15 todd t.png|60px|link=Todd Herzog]]<br />[[Todd Herzog]]
+| [[File:S15 james t.png|60px|link=James Clement]]<br />[[James Clement]]
+| colspan="3" |Eliminated while in possession in {{Ep|1511}}
+| style="text-align: left;" |
+* James received this idol from Todd when he was [[Kidnapping|kidnapped]] after Fei Long won the [[Reward Challenge]].
+|-
+| {{tribeicon|zhanhu}} camp
+| {{Ep|1507}}
+| [[File:S15 james t.png|60px|link=James Clement]]<br />[[James Clement]]
+|None
+| colspan="3" |Eliminated while in possession in {{Ep|1511}}
+| style="text-align: left;" |
+* Knowing where the Fei Long idol was found, James found the Zhan Hu idol at the same spot in their camp.
+* Both idols were flushed upon James' exit and were not rehidden.
+* These are the first idols "flushed" while the holder still possessed them.
+|-
+| rowspan="4" | {{S2|16}}
+| rowspan="2" | {{dab|Exile Island|twist}}
+| {{Ep|1604}}
+| [[File:S16 ozzy t.png|60px|link=Ozzy Lusth]]<br />[[Ozzy Lusth]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|1610}}
+| style="text-align: left;" |
+* None
+|-
+| {{Ep|1611}}
+| [[File:S16 jason t.png|60px|link=Jason Siska]]<br />[[Jason Siska]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|1611}}
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|dabu}} camp
+| {{Ep|1612}}
+| [[File:S16 amanda t.png|60px|link=Amanda Kimmel]<br />]]<br />[[Amanda Kimmel]]
+| None
+| {{Ep|1612}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-2]
+| [[File:S16 alexis bw.png|60px|link=Alexis Jones]]<br />[[Alexis Jones]]
+| style="text-align: left;" |
+* The clues were on Exile Island, but the idol was hidden back at camp.
+* Amanda was not shown to have found and be in possession of this idol until she played it at Tribal Council.
+|-
+| {{dab|Exile Island|twist}}
+| {{Ep|1613}}
+| [[File:S16 parvati t.png|60px|link=Parvati Shallow]]<br />[[Parvati Shallow]]
+| None
+| colspan="3" |Discarded in {{Ep|1613}}
+| style="text-align: left;" |
+* Parvati found this idol, but felt that she did not need it and left it on Exile Island.<ref name="ParvatiS16Idol1">{{cite web|url=http://www.realitytvworld.com/news/exclusive-parvati-shallow-talks-about-her-survivor-micronesia-win-7099.php |title=Exclusive: Parvati Shallow talks about her 'Survivor: Micronesia' win |work=Reality TV World |last=Rocchio |first=Christopher |date=May 13, 2008 |accessdate=August 15, 2015}}</ref><ref name="ParvatiS16Idol2">{{cite web|url=https://ew.com/tv/2019/05/08/survivor-micronesia-oral-history-greatest-moment-ever/|title=The ultimate blindside: An oral history of the greatest ''Survivor'' moment ever |work=Entertainment Weekly |last=Ross |first=Dalton |date=May 8, 2019 |accessdate=May 16, 2019}}</ref>
+* This is the first idol to be found on Exile Island, but not taken back to camp.
+|-
+| rowspan="2" | {{S2|17}}
+| {{dab|Exile Island|twist}}
+| {{Ep|1702}}
+| [[File:S17 sugar t.png|60px|link=Sugar Kiper]]<br />[[Sugar Kiper]]
+| {{nowrap| [[File:S17 ace t.png|60px|link=Ace Gordon]] â†’ [[File:S17 sugar t.png|60px|link=Sugar Kiper]] â†’ [[File:S17 matty t.png|60px|link=Matty Whitmore]]<br />[[Ace Gordon]] â†’ Sugar Kiper â†’ [[Matty Whitmore]]}}
+| {{Ep|1712}}
+| {{yn|n}}<br />negated 2 votes<br />[4-'''2''']
+| None
+| style="text-align: left;" |
+* Sugar gave this idol to Ace, and later reclaimed it from him.
+* Sugar gave the idol "by default" to Matty at the last time idols could be played.
+|-
+| [[Fake Merge]] feast
+| {{Ep|1707}}
+| [[File:S17 randy t.png|60px|link=Randy Bailey]]<br />[[Randy Bailey]]
+| None
+| colspan="3" |Discarded in {{Ep|1707}}
+| style="text-align: left;" |
+* The castaways deliberately threw the idol at sea upon finding it. Randy offered possession of the idol, but everyone refused.
+|-
+| rowspan="2" | {{S2|18}}
+| {{tribeicon|timbira}} camp
+| {{Ep|1803}}
+| [[File:S18 brendan t.png|60px|link=Brendan Synnott]]<br />[[Brendan Synnott]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|1809}}
+| style="text-align: left;" |
+* After finding this idol, Brendan shared with Taj the location of the other idol at the Jalapao camp.
+|-
+| {{tribeicon|jalapao}} camp
+| {{Ep|1805}}
+| [[File:S18 taj t.png|60px|link=Taj Johnson-George]]<br />[[Taj Johnson-George]]
+| [[File:S18 stephen t.png|60px|link=Stephen Fishbach]]<br />[[Stephen Fishbach]]
+| colspan="3" |Expired in {{Ep|1813}}
+| style="text-align: left;" |
+* Taj immediately gave the idol to Stephen for safekeeping.
+* Stephen did not play the idol the last time it could be played, making it the first modern idol to be left to expire unused.
+|-
+| rowspan="4" | {{S2|19}}
+| {{tribeicon|foafoa}} camp
+| {{Ep|1902}}
+| [[File:S19 russellh t.png|60px|link=Russell Hantz]]<br />[[Russell Hantz]]
+| None
+| {{Ep|1908}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was the first modern idol found without any clues.
+|-
+| {{tribeicon|galu}} camp
+| {{Ep|1904}}
+| [[File:S19 erik t.png|60px|link=Erik Cardona]]<br />[[Erik Cardona]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|1908}}
+| style="text-align: left;" |
+* None
+|-
+| rowspan="2" | {{tribeicon|aiga}}â€‹ camp
+| {{Ep|1909}}
+| [[File:S19 russellh t.png|60px|link=Russell Hantz]]<br />[[Russell Hantz]]
+| None
+| {{Ep|1909}}
+| {{yn|y}}<br />negated 7 votes<br />['''7'''-4]
+| [[File:S19 kelly bw.png|60px|link=Kelly Sharbaugh]]<br />[[Kelly Sharbaugh]]
+| style="text-align: left;" |
+* This is either the rehidden Foa Foa or Galu idol; it is unknown which because both were removed from play at the previous [[Tribal Council]].
+|-
+| {{Ep|1910}}
+| [[File:S19 russellh t.png|60px|link=Russell Hantz]]<br />[[Russell Hantz]]
+| None
+| colspan="3" |Expired in {{Ep|1914}}
+| style="text-align: left;" |
+* Russell did not play the idol the last time it could be played.
+|-
+| rowspan="6" | {{S2|20}}
+| {{tribeicon|heroes}} camp
+| {{Ep|2004}}
+| [[File:S20 tom t.png|60px|link=Tom Westman]]<br />[[Tom Westman]]
+| None
+| {{Ep|2004}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-3-2]
+| [[File:S20 cirie bw.png|60px|link=Cirie Fields]]<br />[[Cirie Fields]]
+| style="text-align: left;" |
+* This was the first idol played before the [[merge]].
+|-
+| {{tribeicon|villains}} camp
+| {{Ep|2005}}
+| [[File:S20 russell t.png|60px|link=Russell Hantz]]<br />[[Russell Hantz]]
+| [[File:S20 parvati t.png|60px|link=Parvati Shallow]]<br />[[Parvati Shallow]]
+| {{Ep|2006}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-3-2]
+| [[File:S20 tyson bw.png|60px|link=Tyson Apostol]]<br />[[Tyson Apostol]]
+| style="text-align: left;" |
+* Russell presented the idol at Tribal Council, but he handed it to Parvati, allowing her to use it.
+|-
+| {{tribeicon|heroes}} camp
+| {{Ep|2008}}
+| [[File:S20 jt t.png|60px|link=J.T. Thomas]]<br />[[J.T. Thomas]]
+| {{nowrap| [[File:S20 russell t.png|60px|link=Russell Hantz]] â†’ [[File:S20 parvati t.png|60px|link=Parvati Shallow]] â†’ [[File:S20 jerri t.png|60px|link=Jerri Manthey]]<br />[[Russell Hantz]] â†’ [[Parvati Shallow]] â†’ [[Jerri Manthey]]}}
+| {{Ep|2010}}
+| {{yn|y}}<br />negated 5 votes<br />['''5'''-5]
+| rowspan="2" | [[File:S20 jt bw.png|60px|link=J.T. Thomas]]<br />J.T. Thomas
+| style="text-align: left;" |
+* This idol had a golden string to distinguish it from the Villains idol.
+* After finding the re-hidden Heroes idol, J.T. handed this idol to Russell, who then gave it to Parvati, who gave it to Jerri at Tribal Council.
+* At Tribal Council, Parvati gave away both her idols, one to Jerri and one to Sandra.
+* In a post-game interview, Parvati revealed that she gave Jerri an idol before she gave one to Sandra.{{cn}}
+* First time a player has been a victim of a successful idol play from an idol they were once in possession of.
+|-
+| {{tribeicon|villains}} camp
+| {{Ep|2009}}
+| [[File:S20 parvati t.png|60px|link=Parvati Shallow]]<br />[[Parvati Shallow]]
+| [[File:S20 sandra t.png|60px|link=Sandra Diaz-Twine]]<br />[[Sandra Diaz-Twine]]
+| {{Ep|2010}}
+| {{yn|n}}<br />negated 0 votes
+| style="text-align: left;" |
+* This idol had a silver string to distinguish it from the Heroes idol.
+* While technically "unsuccessful", this was part of a double idol play by Parvati on Sandra and [[Jerri Manthey]], and the latter idol was successful.
+|-
+| rowspan="2" | {{tribeicon|yinyang}}â€‹ camp
+| {{Ep|2011}}
+| [[File:S20 russell t.png|60px|link=Russell Hantz]]<br />[[Russell Hantz]]
+| None
+| {{Ep|2011}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was the rehidden Heroes idol.
+|-
+| {{Ep|2012}}
+| [[File:S20 sandra t.png|60px|link=Sandra Diaz-Twine]]<br />[[Sandra Diaz-Twine]]
+| None
+| {{Ep|2013}}
+| {{yn|n}}<br />negated 2 votes<br />[4-'''2''']
+| None
+| style="text-align: left;" |
+* This idol was played "by default" at the last time idols could be played.
+|}
+
+
+==={{S2|21}} to {{S2|30}}===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Hiding Place
+! Episode Found
+! Found By
+! Given To
+! Episode Used
+! Successful?
+! Victim
+! Pertinent Notes
+|-
+| rowspan="2" | {{S2|21}}
+| {{tribeicon|espada}} camp
+| {{Ep|2102}}
+| [[File:S21 marty t.png|60px|link=Marty Piombo]]<br />[[Marty Piombo]]
+| [[File:S21 sash t.png|60px|link=Sash Lenahan]]<br />[[Sash Lenahan]]
+| {{Ep|2114}}
+| {{yn|n}}<br />negated 1 vote<br />[5-'''1''']
+| None
+| style="text-align: left;" |
+* While in possession of this idol, Marty was part of a tie vote between himself and [[Kelly Bruno]]. Marty is the first contestant to survive a revote while keeping possession of an idol.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| {{tribeicon|laflor}} â€‹camp
+| {{Ep|2104}}
+| [[File:S21 naonka t.png|60px|link=NaOnka Mixon]]<br />[[NaOnka Mixon]]
+| [[File:S21 chase t.png|60px|link=Chase Rice]]<br />[[Chase Rice]]
+| {{Ep|2114}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* NaOnka passed the idol to Chase the afternoon before she [[quit]] the game.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="3" | {{S2|22}}
+| {{tribeicon|ometepe}} camp
+| {{Ep|2201}}
+| [[File:S22 kristina t.png|60px|link=Kristina Kell]]<br />[[Kristina Kell]]
+| None
+| {{Ep|2202}}
+| {{yn|n}}<br />negated 2 votes<br />[4-'''2'''-2]
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|zapatera}} camp
+| {{Ep|2202}}
+| [[File:S22 ralph t.png|60px|link=Ralph Kiser]]<br />[[Ralph Kiser]]
+| [[File:S22 mike t.png|60px|link=Mike Chiesl]]<br />[[Mike Chiesl]]
+| {{Ep|2208}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|ometepe}} camp
+| {{Ep|2204}}
+| [[File:S22 rob t.png|60px|link=Rob Mariano]]<br />[[Rob Mariano]]
+| None
+| {{Ep|2214}}
+| {{yn|n}}<br />negated 1 vote<br />[4-'''1''']
+| None
+| style="text-align: left;" |
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="2" | {{S2|23}}
+| {{tribeicon|savaii}} camp
+| {{Ep|2302}}
+| [[File:S23 ozzy t.png|60px|link=Ozzy Lusth]]<br />[[Ozzy Lusth]]
+| {{nowrap| [[File:S23 cochran t.png|60px|link=John Cochran]] â†’ [[File:S23 ozzy t.png|60px|link=Ozzy Lusth]] â†’ [[File:S23 whitney t.png|60px|link=Whitney Duncan]]<br />[[John Cochran]] â†’ Ozzy Lusth â†’ [[Whitney Duncan]]}}
+| {{Ep|2308}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was given to Cochran when Ozzy decided to intentionally send himself to {{dab|Redemption Island|twist}}, then passed back to Ozzy upon his return from Redemption Island, then played for Whitney at Tribal Council.
+|-
+| {{tribeicon|upolu}} camp
+| {{Ep|2305}}
+| [[File:S23 coach t.png|60px|link=Coach Wade]]<br />[[Coach Wade]]
+| None
+| colspan="3" |Expired in {{Ep|2315}}
+| style="text-align: left;" |
+* Coach did not play the idol the last time it could be played.
+|-
+| rowspan="3" | {{S2|24}}
+| {{dab|One World|twist}} camp<br />({{tribeicon|manono}} idol)
+| {{Ep|2401}}
+| [[File:S24 sabrina t.png|60px|link=Sabrina Thompson]]<br />[[Sabrina Thompson]]
+| [[File:S24 colton t.png|60px|link=Colton Cumbie]]<br />[[Colton Cumbie]]
+| colspan="3" |Eliminated while in possession in {{Ep|2406}}
+| style="text-align: left;" |
+* Sabrina is the first contestant to find another tribe's idol and be forced to give it to a member of that tribe.
+* This is the first idol to be "flushed" by an [[evacuation]].
+* Colton wanted to give the idol to [[Jay Byars]] of the rival [[Salani]] tribe, but the rules of this season barred a tribe's idol from being passed to a member of the other tribe.
+|-
+| {{tribeicon|salani}} camp
+| {{Ep|2405}}
+| [[File:S24 kim t.png|60px|link=Kim Spradlin-Wolfe]]<br />[[Kim Spradlin]]
+| None
+| colspan="3" |Expired in {{Ep|2414}}
+| style="text-align: left;" |
+* The Salani camp used to be the One World camp, but after winning the first post-swap [[Reward Challenge]], Salani kept the beach to themselves, forcing the rival Manono tribe to move out.
+* Kim became the first player to be immune the last time idols could be played.
+|-
+| {{tribeicon|tikiano}} camp
+| {{Ep|2407}}
+| [[File:S24 troyzan t.png|60px|link=Troyzan Robertson]]<br />[[Troyzan Robertson]]
+| None
+| {{Ep|2409}}
+| {{yn|n}}<br />negated 2 votes<br />[5-'''2'''-2-1]
+| None
+| style="text-align: left;" |
+* This was the rehidden Manono idol.
+|-
+| rowspan="3" | {{S2|25}}
+| {{tribeicon|kalabaw}}â€‹ camp
+| {{Ep|2502}}
+| [[File:S25 jonathan t.png|60px|link=Jonathan Penner]]<br />[[Jonathan Penner]]
+| None
+| {{Ep|2507}}
+| {{yn|y}}<br />negated 5 votes<br />['''5'''-4-2]
+| [[File:S25 rc bw.png|60px|link=RC Saint-Amour]]<br />[[RC Saint-Amour]]
+| style="text-align: left;" |
+* This is the first idol to be played successfully, but not successfully eliminate the person the user voted for.
+|-
+| {{tribeicon|tandang}} camp
+| {{Ep|2503}}
+| [[File:S25 abimaria t.png|60px|link=Abi-Maria Gomes]]<br />[[Abi-Maria Gomes]]
+| None
+| {{Ep|2510}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-3-2]
+| [[File:S25 pete bw.png|60px|link=Pete Yurkowski]]<br />[[Pete Yurkowski]]
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|matsing}} camp
+| {{Ep|2505}}
+| [[File:S25 malcolm t.png|60px|link=Malcolm Freberg]]<br />[[Malcolm Freberg]]
+| None
+| colspan="3" |Expired in {{Ep|2513}}
+| style="text-align: left;" |
+* Malcolm was immune the last time idols could be played.
+|-
+| rowspan="5" | {{S2|26}}
+| {{tribeicon|gota}}â€‹ camp
+| {{Ep|2602}}
+| [[File:S26 reynold t.png|60px|link=Reynold Toepfer]]<br />[[Reynold Toepfer]]
+| None
+| {{Ep|2604}}
+| {{yn|n}}<br />negated 1 vote<br />[6-'''1''']
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|bikal}} camp
+| {{Ep|2603}}
+| [[File:S26 malcolm t.png|60px|link=Malcolm Freberg]]<br />[[Malcolm Freberg]]
+| [[File:S26 eddie t.png|60px|link=Eddie Fox]]<br />[[Eddie Fox]]
+| {{Ep|2610}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-4-2]
+| [[File:S26 phillip bw.png|60px|link=Phillip Sheppard]]<br />[[Phillip Sheppard]]
+| style="text-align: left;" |
+* This idol was found prior to the previous Tribal Council; as a result, events were shown out of order to avoid having Bikal camp scenes immediately prior to Gota's Tribal Council.
+* Malcolm explicitly mentioned at Tribal Council that the idol he was giving to Eddie was his original idol.
+|-
+| {{tribeicon|gota}}â€‹ camp
+| {{Ep|2605}}
+| [[File:S26 reynold t.png|60px|link=Reynold Toepfer]]<br />[[Reynold Toepfer]]
+| [[File:S26 malcolm t.png|60px|link=Malcolm Freberg]]<br />[[Malcolm Freberg]]
+| {{Ep|2609}}
+| {{yn|n}}<br/>negated 0 votes
+| None
+| style="text-align: left;" |
+* Malcolm still had his original idol at the time Reynold gave this one to him.
+|-
+| rowspan="2" | {{tribeicon|eniledam}}â€‹ camp
+| {{Ep|2610}}
+| [[File:S26 malcolm t.png|60px|link=Malcolm Freberg]]<br />[[Malcolm Freberg]]
+| None
+| {{Ep|2610}}
+| {{yn|n}}<br />negated 2 votes<br />[4-4-'''2''']
+| None
+| style="text-align: left;" |
+* This was the rehidden Gota idol.
+* While technically "unsuccessful", this was part of a double idol play by Malcolm on himself and Eddie, and the latter was successful.
+|-
+| {{Ep|2612}}
+| [[File:S26 erik t.png|60px|link=Erik Reichenbach]]<br />[[Erik Reichenbach]]
+| [[File:S26 andrea t.png|60px|link=Andrea Boehlke]]<br />[[Andrea Boehlke]]
+| colspan="3" |Eliminated while in possession in {{Ep|2612}}
+| style="text-align: left;" |
+* Erik immediately gave the idol to Andrea, who kept it.
+* Andrea was the first woman to be voted out with an unused Hidden Immunity Idol in her possession.
+|-
+| rowspan="2" | {{S2|27}}
+| rowspan="2" | {{tribeicon|kasama}}â€‹ camp
+| {{Ep|2708}}
+| [[File:S27 tyson t.png|60px|link=Tyson Apostol]][[Tyson Apostol]]
+| None
+| {{Ep|2711}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was originally the {{tribeicon|tadhana}}â€‹â€‹â€‹â€‹ idol, and the first idol to be hidden pre-merge, but not found until the merge (along with the {{tribeicon|galang}}â€‹ idol, which was never found).
+|-
+| {{Ep|2712}}
+| [[File:S27 tyson t.png|60px|link=Tyson Apostol]]<br />[[Tyson Apostol]]
+| [[File:S27 gervase t.png|60px|link=Gervase Peterson]]<br />[[Gervase Peterson]]
+| {{Ep|2714}}
+| {{yn|n}}<br />negated 2 votes<br />[3-'''2''']
+| None
+| style="text-align: left;" |
+* Tyson was immune the last time idols could be played and gave the idol "by default" to Gervase at Tribal Council.
+|-
+| rowspan="6" | {{S2|28}}
+| {{tribeicon|luzon}} camp
+| rowspan="2" | {{Ep|2801}}
+| [[File:S28 garrett t.png|60px|link=Garrett Adelstein]]<br />[[Garrett Adelstein]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|2801}}
+| style="text-align: left;" |
+* This was the first idol to be found on Day 1.
+|-
+| {{tribeicon|aparri}} camp
+| [[File:S28 tony t.png|60px|link=Tony Vlachos]]<br />[[Tony Vlachos]]
+| [[File:S28 lj t.png|60px|link=LJ McKanas]]<br />[[LJ McKanas]]
+| {{Ep|2806}}
+| {{yn|n}}<br />negated 0 votes
+| rowspan="2" |None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|solana}} camp
+| {{Ep|2802}}
+| [[File:S28 lj t.png|60px|link=LJ McKanas]]<br />[[LJ McKanas]]
+| [[File:S28 tony t.png|60px|link=Tony Vlachos]]<br />[[Tony Vlachos]]
+| {{Ep|2806}}
+| {{yn|n}}<br />negated 0 votes
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|solarrion}} camp
+| {{Ep|2807}}
+| [[File:S28 spencer t.png|60px|link=Spencer Bledsoe]]<br />[[Spencer Bledsoe]]
+| None
+| {{Ep|2809}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was either the rehidden Aparri, Luzon, or Solana idol, it is unknown which because all were removed from play at previous Tribal Councils.
+|-
+| {{tribeicon|solarrion}} camp<br />(super idol)
+| {{Ep|2809}}
+| [[File:S28 tony t.png|60px|link=Tony Vlachos]]<br />[[Tony Vlachos]]
+| None
+| colspan="3" |Expired in {{Ep|2812}}
+| style="text-align: left;" |
+* On Day 36, Tony was effectively immune as he held the idol at the last time it could be played.
+* Tony used this idol to "bluff" having immunity at the final four.
+|-
+| {{tribeicon|solarrion}} camp
+| {{Ep|2810}}
+| [[File:S28 tony t.png|60px|link=Tony Vlachos]]<br />[[Tony Vlachos]]
+| None
+| {{Ep|2812}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was played "by default" at the last time idols could be played. Tony also had the super idol in his possession at the time.
+|-
+| rowspan="5" | {{S2|29}}
+| {{tribeicon|coyopa}} camp
+| {{Ep|2902}}
+| [[File:S29 john t.png|60px|link=John Rocker]]<br />[[John Rocker]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|2903}}
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|hunahpu}} camp
+| {{Ep|2904}}
+| [[File:S29 keith t.png|60px|link=Keith Nale]]<br />[[Keith Nale]]
+| None
+| {{Ep|2910}}
+| {{yn|y}}<br />negated 3 votes<br />[4-'''3'''-2]
+| rowspan="2" | [[File:S29 wes bw.png|60px|link=Wes Nale]]<br />[[Wes Nale]]
+| style="text-align: left;" |
+* None
+|-
+| {{dab|Exile Island|twist}}
+| {{Ep|2908}}
+| [[File:S29 jon t.png|60px|link=Jon Misch]]<br />[[Jon Misch]]
+| None
+| {{Ep|2910}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-3-2]
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|huyopa}}â€‹ camp
+| {{Ep|2910}}
+| [[File:S29 natalie t.png|60px|link=Natalie Anderson]]<br />[[Natalie Anderson]]
+| [[File:S29 jaclyn t.png|60px|link=Jaclyn Schultz]]<br />[[Jaclyn Schultz]]
+| {{Ep|2914}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-2]
+| [[File:S29 baylor bw.png|60px|link=Baylor Wilson]]<br />[[Baylor Wilson]]
+| style="text-align: left;" |
+* This was the rehidden Coyopa idol.
+* This idol was played "by default" by Natalie for Jaclyn at the last time idols could be played.
+|-
+| {{dab|Exile Island|twist}}
+| {{Ep|2911}}
+| [[File:S29 jon t.png|60px|link=Jon Misch]]<br />[[Jon Misch]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|2913}}
+| style="text-align: left;" |
+* None
+|-
+| rowspan="3" | {{S2|30}}
+| {{tribeicon|masaya}} camp
+| {{Ep|3001}}
+| [[File:S30 carolyn t.png|60px|link=Carolyn Rivera]]<br />[[Carolyn Rivera]]
+| None
+| {{Ep|3013}}
+| {{yn|y}}<br />negated 5 votes<br />['''5'''-2]
+| [[File:S30 dan bw.png|60px|link=Dan Foley]]<br />[[Dan Foley]]
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|nagarote}} camp
+| {{Ep|3004}}
+| [[File:S30 jenn t.png|60px|link=Jenn Brown]]<br />[[Jenn Brown]]
+| None
+| {{Ep|3007}}
+| {{yn|y}}<br />negated 7 votes<br />['''7'''-4-1]
+| [[File:S30 kelly bw.png|60px|link=Kelly Remington]]<br />[[Kelly Remington]]
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|merica}} camp
+| {{Ep|3008}}
+| [[File:S30 mike t.png|60px|link=Mike Holloway]]<br />[[Mike Holloway]]
+| None
+| {{Ep|3012}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-3]
+| [[File:S30 tyler bw.png|60px|link=Tyler Fredrickson]]<br />[[Tyler Fredrickson]]
+| style="text-align: left;" |
+* This was originally the {{tribeicon|escameca}} idol that had yet to be found prior to the merge.
+|}
+==={{S2|31}} to {{S2|40}}===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Hiding Place
+! Episode Found
+! Found By
+! Given To
+! Episode Used
+! Successful?
+! Victim
+! Pertinent Notes
+|-
+| rowspan="4" | {{S2|31}}
+| Day 3 Immunity Challenge<br />({{tribeicon|takeo}}â€‹ idol)
+| {{Ep|3101}}
+| [[File:S31 kelley t.png|60px|link=Kelley Wentworth]]<br />[[Kelley Wentworth]]
+| None
+| {{Ep|3108}}
+| {{yn|y}}<br />negated 9 votes<br />['''9'''-3]
+| [[File:S31 andrew bw.png|60px|link=Andrew Savage]][[Andrew Savage]]
+| style="text-align: left;" |
+* None
+|-
+| Day 9 Immunity Challenge<br />({{tribeicon|bayon}}â€‹ idol)
+| {{Ep|3103}}
+| [[File:S31 jeremy t.png|60px|link=Jeremy Collins]]<br />[[Jeremy Collins]]
+| [[File:S31 stephen t.png|60px|link=Stephen Fishbach]]<br />[[Stephen Fishbach]]
+| {{Ep|3110}}
+| {{yn|y}}<br />negated 5 votes<br />['''5'''-3-2]
+| [[File:S31 ciera bw.png|60px|link=Ciera Eastin]]<br />[[Ciera Eastin]]
+| style="text-align: left;" |
+* None
+|-
+| rowspan="2" | {{tribeicon|orkun}} camp
+| {{Ep|3109}}
+| [[File:S31 jeremy t.png|60px|link=Jeremy Collins]]<br />[[Jeremy Collins]]
+| None
+| {{Ep|3114}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-3]
+| rowspan="2" | [[File:S31 kimmi bw.png|60px|link=Kimmi Kappenberg]]<br />[[Kimmi Kappenberg]]
+| style="text-align: left;" |
+* This was the first idol in ''Cambodia'' to be planted at camp rather than at a challenge.
+* Both Kelley and Jeremy played their idols at the Day 36 Tribal Council, negating all votes. A new vote led to a deadlocked 3-3 tie between Kimmi and [[Tasha Fox]]. After much debate, Kimmi was voted out in a unanimous decision.
+|-
+| {{Ep|3111}}
+| [[File:S31 kelley t.png|60px|link=Kelley Wentworth]]<br />[[Kelley Wentworth]]
+| None
+| {{Ep|3114}}
+| {{yn|y}}<br />negated 3 votes<br />[3-'''3''']
+| style="text-align: left;" |
+* The clue was hidden at a [[Witch Hunt|challenge]], and the idol was found at camp.
+|-
+| rowspan="3" | {{S2|32}}
+| {{tribeicon|gondol}} camp
+| rowspan="2" | {{Ep|3203}}
+| [[File:S32 tai t.png|60px|link=Tai Trang]]<br />[[Tai Trang]]
+| None
+| colspan="3" |Expired in {{Ep|3213}}
+| style="text-align: left;" |
+* This idol expired when the last Tribal Council in which idols could be played was cancelled when [[Joe del Campo]] was evacuated.
+|-
+| {{tribeicon|totang}} camp
+| [[File:S32 jason t.png|60px|link=Kyle Jason]]<br />[[Kyle Jason]]
+| {{nowrap| [[File:S32 tai t.png|60px|link=Tai Trang]] â†’ [[File:S32 jason t.png|60px|link=Kyle Jason]] â†’ [[File:S32 scot t.png|60px|link=Scot Pollard]]<br />[[Tai Trang]] â†’ Kyle Jason â†’ [[Scot Pollard]]}}
+| colspan="3" |Eliminated while in possession in {{Ep|3210}}
+| style="text-align: left;" |
+* At the Day 24 Tribal Council, Jason and Scot gave the idol to Tai so that he could combine it with his own to form a super idol. However, Tai did not receive any votes, and he gave the idol back to Jason after Tribal Council.
+* After Jason won the Day 27 [[Immunity Challenge]], he gave Scot the idol for the upcoming Tribal Council. When host [[Jeff Probst]] asked for his [[torch]], Scot did not react, thinking Tai would combine his own idol to form the super idol. When Tai refused, Scot was voted out with Jason's idol.
+|-
+| {{tribeicon|chanloh}} camp
+| {{Ep|3205}}
+| [[File:S32 neal t.png|60px|link=Neal Gottlieb]]<br />[[Neal Gottlieb]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|3207}}
+| style="text-align: left;" |
+* This is the second idol to be "flushed" by an evacuation.
+* Neal did not give his idol to anyone when he left.
+|-
+| rowspan="5" | {{S2|33}}
+| {{tribeicon|takali}} camp
+| {{Ep|3302}}
+| [[File:S33 david t.png|60px|link=David Wright]]<br />[[David Wright]]
+| [[File:S33 jessica t.png|60px|link=Jessica Lewis]]<br />[[Jessica Lewis]]
+| {{Ep|3304}}
+| {{yn|y}}<br />negated 5 votes<br />['''5'''-2-1]
+| [[File:S33 lucy bw.png|60px|link=Lucy Huang]]<br />[[Lucy Huang]]
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|vanua}} camp
+| {{Ep|3304}}
+| [[File:S33 adam t.png|60px|link=Adam Klein]]<br />[[Adam Klein]]
+| [[File:S33 hannah t.png|60px|link=Hannah Shapiro]]<br />[[Hannah Shapiro]]
+| {{Ep|3311}}
+| {{yn|n}}<br />negated 4 votes<br />[5-'''4''']
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|takali}} camp
+| {{Ep|3305}}
+| [[File:S33 david t.png|60px|link=David Wright]]<br />[[David Wright]]
+| [[File:S33 ken t.png|60px|link=Ken McNickle]]<br />[[Ken McNickle]]
+| {{Ep|3310}}
+| {{yn|n}}<br />negated 0 votes<br />
+| None
+| style="text-align: left;" |
+* Although Ken did not receive any votes, the idol protected him from the rock draw tiebreaker.
+|-
+| {{tribeicon|ikabula}} camp
+| {{Ep|3306}}
+| [[File:S33 jay t.png|60px|link=Jay Starrett]]<br />[[Jay Starrett]]
+| None
+| {{Ep|3312}}
+| {{yn|n}}<br />negated 1 vote<br />[4-2-'''1''']
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|vinaka}} camp
+| {{Ep|3313}}
+| [[File:S33 adam t.png|60px|link=Adam Klein]]<br />[[Adam Klein]]
+| None
+| {{Ep|3313}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was either the rehidden Ikabula, Takali, or Vanua idol, it is unknown which because all were removed from play at previous Tribal Councils.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="5" | {{S2|34}}
+| {{nowrap|Day 9 Immunity Challenge<br />({{tribeicon|tavua}} idol)}}
+| {{Ep|3402}}
+| [[File:S34 troyzan t.png|60px|link=Troyzan Robertson]]<br />[[Troyzan Robertson]]
+| None
+| {{Ep|3412}}
+| {{yn|n}}<br />negated 0 votes
+| [[File:S34 cirie bw.png|60px|link=Cirie Fields]]<br />[[Cirie Fields]]
+| style="text-align: left;" |
+* While Troyzan received no votes, the idol prevented him from being vulnerable after all votes were nullified. Cirie was eliminated by default.
+|-
+| {{tribeicon|mana}} camp
+| {{Ep|3403}}
+| [[File:S34 tai t.png|60px|link=Tai Trang]]<br />[[Tai Trang]]
+| [[File:S34 sierra t.png|60px|link=Sierra Dawn Thomas]]<br />[[Sierra Dawn Thomas]]
+| {{Ep|3403}}
+| {{yn|y}}<br />negated 6 votes<br />['''6'''-5]
+| [[File:S34 malcolm bw.png|60px|link=Malcolm Freberg]]<br />[[Malcolm Freberg]]
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|nuku}} camp
+| {{Ep|3404}}
+| [[File:S34 jt t.png|60px|link=J.T. Thomas]]<br />[[J.T. Thomas]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|3404}}
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|mana}} camp
+| rowspan="2" | {{Ep|3405}}
+| [[File:S34 tai t.png|60px|link=Tai Trang]]<br />[[Tai Trang]]
+| [[File:S34 aubry t.png|60px|link=Aubry Bracco]]<br />[[Aubry Bracco]]
+| {{Ep|3412}}
+| {{yn|y}}<br />negated 1 vote<br />[''3''-2-'''1''']
+| rowspan="2" | [[File:S34 cirie bw.png|60px|link=Cirie Fields]]<br />[[Cirie Fields]]
+| style="text-align: left;" |
+* As [[Brad Culpepper]] had the Immunity Necklace, [[Sarah Lacina]] used the [[Legacy Advantage]] to negate the majority votes, and Aubry, Tai, and Troyzan were all protected by idols, Cirie was eliminated by default.
+|-
+| {{tribeicon|nuku}} camp
+| [[File:S34 tai t.png|60px|link=Tai Trang]]<br />[[Tai Trang]]
+| None
+| {{Ep|3412}}
+| {{yn|y}}<br />negated 2 votes<br />[''3''-'''2'''-1]
+| style="text-align: left;" |
+* After being switched to Nuku, Tai found this idol at the same spot as he did at the Mana camp.
+|-
+| rowspan="10" | {{S2|35}}
+| Marooning<br />(super idol)
+| {{Ep|3501}}
+| [[File:S35 ryan t.png|60px|link=Ryan Ulrich]]<br />[[Ryan Ulrich]]
+| [[File:S35 chrissy t.png|60px|link=Chrissy Hofbeck]]<br />[[Chrissy Hofbeck]]
+| colspan="3" |Expired in {{Ep|3501}}
+| style="text-align: left;" |
+* This idol was planted in the marooning supplies. It could only be used at the first Tribal Council. Ryan anonymously sent it to Chrissy after his tribe won the first Immunity Challenge, but she decided not to use it.
+|-
+| {{tribeicon|soko}} camp
+| {{Ep|3502}}
+| [[File:S35 joe t.png|60px|link=Joe Mena]]<br />[[Joe Mena]]
+| None
+| {{Ep|3504}}
+| {{yn|y}}<br />negated 2 votes<br />['''2'''-2]
+| [[File:S35 alan bw.png|60px|link=Alan Ball]]<br />[[Alan Ball]]
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|yawa}} camp
+| {{Ep|3505}}
+| [[File:S35 mike t.png|60px|link=Mike Zahalsky]]<br />[[Mike Zahalsky]]
+| None
+| {{Ep|3509}}
+| {{yn|n}}<br />negated 2 votes<br />[7-'''2'''-1]
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|levu}} camp
+| {{Ep|3506}}
+| [[File:S35 joe t.png|60px|link=Joe Mena]]<br />[[Joe Mena]]
+| None
+| {{Ep|3507}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* None
+|-
+| rowspan="2" | {{tribeicon|solewa}}â€‹ camp
+| {{Ep|3508}}
+| [[File:S35 ryan t.png|60px|link=Ryan Ulrich]]<br />[[Ryan Ulrich]]
+| None
+| {{Ep|3510}}
+| {{yn|n}}<br />negated 2 votes<br />[4-'''2'''-2]
+| None
+| style="text-align: left;" |
+* This was either the rehidden Levu or Soko idol; it is unknown which because both were removed from play at previous Tribal Councils.
+|-
+| {{Ep|3510}}
+| [[File:S35 ben t.png|60px|link=Ben Driebergen]]<br />[[Ben Driebergen]]
+| None
+| {{Ep|3511}}
+| {{yn|y}}<br />negated 6 votes<br />['''6'''-1]
+| [[File:S35 lauren bw.png|60px|link=Lauren Rimmer]]<br />[[Lauren Rimmer]]
+| style="text-align: left;" |
+* This was the rehidden Yawa idol.
+* This was the first idol to ever negate a unanimous vote.
+|-
+| {{tribeicon|solewa}} camp<br />(first half)
+| rowspan="2" | {{Ep|3511}}
+| rowspan="2" | [[File:S35 lauren t.png|60px|link=Lauren Rimmer]]<br />[[Lauren Rimmer]]
+| rowspan="2" |None
+| colspan="3" rowspan="2" |Discarded in {{Ep|3511}}
+| rowspan="2" style="text-align: left;" |
+* This was a two-part idol. Lauren found the first half and was instructed to find the second half at the Immunity Challenge. The idol was put out of play after Lauren gave one half to Mike, who threw it in the fire.
+|-
+| Day 33 Immunity Challenge<br />(second half)
+|-
+| rowspan="2" | {{tribeicon|solewa}}â€‹â€‹ camp
+| {{Ep|3512}}
+| [[File:S35 ben t.png|60px|link=Ben Driebergen]]<br />[[Ben Driebergen]]
+| None
+| {{Ep|3512}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* Ben was not shown to have found and be in possession of this idol until he played it at Tribal Council.
+* As it was played before voting, it de facto prevented Ben from receiving any votes.
+|-
+| {{Ep|3513}}
+| [[File:S35 ben t.png|60px|link=Ben Driebergen]]<br />[[Ben Driebergen]]
+| None
+| {{Ep|3513}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-1-1]
+| [[File:S35 mike bw.png|60px|link=Mike Zahalsky]]<br />[[Mike Zahalsky]]
+| style="text-align: left;" |
+* This idol was played "by default" at the last time idols could be played.
+* This was the first idol play to result in a tie, between Mike and [[Devon Pinto]]. Mike was voted out on the revote.
+|-
+| rowspan="6" | {{S2|36}}
+| {{tribeicon|naviti}} camp
+| {{Ep|3601}}
+| [[File:S36 domenick t.png|60px|link=Domenick Abbate]]<br />[[Domenick Abbate]]
+| None
+| {{Ep|3613}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was [[Andrea Boehlke]]'s unused idol from {{S2|26}}.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="2" | {{tribeicon|malolo}}â€‹ camp
+| {{Ep|3602}}
+| [[File:S36 michael t.png|60px|link=Michael Yerger]]<br />[[Michael Yerger]]
+| [[File:S36 stephanie t.png|60px|link=Stephanie Johnson]]<br />[[Stephanie Johnson]]
+| {{Ep|3603}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was one of [[James Clement]]'s unused idols from {{S2|15}}.
+|-
+| rowspan="2" | {{Ep|3606}}
+| [[File:S36 michael t.png|60px|link=Michael Yerger]]<br />[[Michael Yerger]]
+| None
+| {{Ep|3608}}
+| {{yn|y}}<br />negated 7 votes<br />['''7'''-4-1]
+| [[File:S36 libby bw.png|60px|link=Libby Vincek]]<br />[[Libby Vincek]]
+| style="text-align: left;" |
+* This was the fake idol that [[Ozzy Lusth]] created in {{S2|16}}.
+|-
+| {{tribeicon|yanuya}} camp
+| [[File:S36 wendell t.png|60px|link=Wendell Holland]]<br />[[Wendell Holland]]
+| [[File:S36 laurel t.png|60px|link=Laurel Johnson]]<br />[[Laurel Johnson]]
+| {{Ep|3613}}
+| {{yn|n}}<br />negated 1 vote<br />[4-'''1''']
+| None
+| style="text-align: left;" |
+* This was the [[Immunity Necklace]] that [[Erik Reichenbach]] gave away in ''Micronesia''.
+* This idol was played "by default" by Wendell (who was immune) for Laurel at the last time idols could be played.
+|-
+| {{dab|Ghost Island|twist}}
+| {{Ep|3607}}
+| [[File:S36 chris t.png|60px|link=Chris Noble]]<br />[[Chris Noble]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|3607}}
+| style="text-align: left;" |
+* This was [[J.T. Thomas]]'s unused idol from {{S2|34}}.
+* This idol was only good for the next Tribal Council, but Chris was given the opportunity to play a game of chance to extend the idol's power for up to five more Tribal Councils. Chris was able to extend the idol's power for one more Tribal Council before losing the game of chance, thereby losing his vote at the next Tribal Council.
+|-
+| {{tribeicon|lavita}} camp
+| {{Ep|3609}}
+| [[File:S36 donathan t.png|60px|link=Donathan Hurley]]<br />[[Donathan Hurley]]
+| None
+| {{Ep|3610}}
+| {{yn|n}}<br />negated 1 vote<br />[3-1-'''1''']
+| None
+| style="text-align: left;" |
+* This was a two-part idol. The first half was [[Scot Pollard]]'s unused idol from {{S2|32}}. The second half was [[Tai Trang]]'s unused idol, also from ''KÃ¢oh RÅ?ng''.
+|-
+| rowspan="7" | {{S2|37}}
+| {{tribeicon|goliath}} camp
+| {{Ep|3701}}
+| [[File:S37 dan t.png|60px|link=Dan Rengering]]<br />[[Dan Rengering]]
+| [[File:S37 angelina t.png|60px|link=Angelina Keeley]]<br />[[Angelina Keeley]]
+| {{Ep|3708}}
+| {{yn|n}}<br />negated 2 votes<br />[7-3-'''2''']
+| None
+| style="text-align: left;" |
+* Without any evidence either way, this wiki considers the idol given away to have been the first idol Dan obtained.
+|-
+| {{tribeicon|david}} camp
+| {{Ep|3702}}
+| [[File:S37 davie t.png|60px|link=Davie Rickenbacker]]<br />[[Davie Rickenbacker]]
+| [[File:S37 christian t.png|60px|link=Christian Hubicki]]<br />[[Christian Hubicki]]
+| {{Ep|3708}}
+| {{yn|y}}<br />negated 7 votes<br />['''7'''-3-2]
+| [[File:S37 john bw.png|60px|link=John Hennigan]]<br />[[John Hennigan]]
+| style="text-align: left;" |
+* None
+|-
+| Day 15 Immunity Challenge<br />({{tribeicon|tiva}}â€‹ idol)
+| {{Ep|3705}}
+| [[File:S37 dan t.png|60px|link=Dan Rengering]]<br />[[Dan Rengering]]
+| None
+| {{Ep|3709}}
+| {{yn|n}}<br />[[Idol Nullifier|nullified]]<br />['''6'''-3-2]
+| None
+| style="text-align: left;" |
+* Dan successfully played an idol on himself, but [[Carl Boudreaux]] played an [[Idol Nullifier]], cancelling out his idol.
+|-
+| rowspan="4" | {{tribeicon|kalokalo}}â€‹â€‹ camp
+| {{Ep|3709}}
+| [[File:S37 christian t.png|60px|link=Christian Hubicki]] [[Christian Hubicki]]
+| None
+| {{Ep|3711}}
+| {{yn|y}}<br />negated 5 votes<br />['''5'''-2-1]
+| [[File:S37 gabby bw.png|60px|link=Gabby Pascuzzi]]<br />[[Gabby Pascuzzi]]
+| style="text-align: left;" |
+* This was either the rehidden David or Goliath idol, it is unknown which because both were removed from play at the previous Tribal Council.
+|-
+| {{Ep|3710}}
+| [[File:S37 nick t.png|60px|link=Nick Wilson]]<br />[[Nick Wilson]]
+| None
+| {{Ep|3712}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was the rehidden Tiva idol.
+|-
+| {{Ep|3712}}
+| [[File:S37 davie t.png|60px|link=Davie Rickenbacker]]<br />[[Davie Rickenbacker]]
+| None
+| {{Ep|3712}}
+| {{yn|n}}<br />negated 2 votes<br />[3-2-'''2''']
+| None
+| style="text-align: left;" |
+* This idol was only good for the next Tribal Council, but Davie was given the opportunity to play a game of chance to extend the idol's power for up to two more Tribal Councils. Davie elected not to play the game of chance, thereby preserving his vote at the next Tribal Council.
+|-
+| {{Ep|3713}}
+| [[File:S37 angelina t.png|60px|link=Angelina Keeley]]<br />[[Angelina Keeley]]
+| None
+| {{Ep|3713}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="8" | {{S2|38}}
+| {{tribeicon|manu}} camp
+| {{Ep|3802}}
+| [[File:S38 lauren t.png|60px|link=Lauren O'Connell]]<br />[[Lauren O'Connell]]
+| [[File:S38 chris t.png|60px|link=Chris Underwood]]<br />[[Chris Underwood]]
+| {{Ep|3813}}
+| {{yn|n}}<br />negated 1 vote<br />[3-2-'''1''']
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|kama}} camp
+| {{Ep|3803}}
+| [[File:S38 aubry t.png|60px|link=Aubry Bracco]]<br />[[Aubry Bracco]]
+| None
+| colspan="3" |Voted out while in possession in {{Ep|3805}}
+| style="text-align: left;" |
+* Even though Aubry remained in the game due to the {{dab|Edge of Extinction|twist}} twist, her idol was voided after she was voted out.<ref>{{cite web|url=https://ew.com/tv/2019/03/21/survivor-jeff-probst-edge-of-extinction-double-tribal-council/ |title=Jeff Probst dissects the Survivor double Tribal Council |work=Entertainment Weekly |last=Ross |first=Dalton |date=March 21, 2019 |accessdate=March 21, 2019}}</ref>
+|-
+| {{tribeicon|lesu}} camp
+| {{Ep|3805}}
+| [[File:S38 kelley t.png|60px|link=Kelley Wentworth]]<br />[[Kelley Wentworth]]
+| None
+| colspan="3" |Voted out while in possession in {{Ep|3809}}
+| style="text-align: left;" |
+* Even though Kelley remained in the game due to the Edge of Extinction twist, her idol was voided after she was voted out.
+|-
+|given to {{dab|Edge of Extinction|twist}} returnee
+| {{Ep|3806}}
+| [[File:S38 rick t.png|60px|link=Rick Devens]]<br />[[Rick Devens]]
+| [[File:S38 david t.png|60px|link=David Wright]]<br />[[David Wright]]
+| {{Ep|3808}}
+| {{yn|n}}<br />negated 1 vote<br />[9-1-'''1''']
+| None
+| style="text-align: left;" |
+* This was a two-part idol. After returning from the Edge of Extinction, Rick was granted two idol halves. He was instructed to give one half to another castaway, and if they both survived the first merge Tribal Council, they could combine the halves to make a regular idol. He chose to give half to David, and they both survived Tribal Council.
+* David gave his half of the idol back to Rick at Tribal Council on Day 23, enabling Rick to form a regular idol, which he then played for David.
+|-
+| rowspan="2" | {{tribeicon|vata}}â€‹â€‹â€‹â€‹ camp
+| {{Ep|3811}}
+| [[File:S38 rick t.png|60px|link=Rick Devens]]<br />[[Rick Devens]]
+| None
+| {{Ep|3811}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-3-1]
+| [[File:S38 ron bw.png|60px|link=Ron Clark]]<br />[[Ron Clark]]
+| style="text-align: left;" |
+* This was either the rehidden Kama or Lesu idol, it is unknown which because both were removed from play at previous Tribal Councils.
+|-
+| {{Ep|3812}}
+| [[File:S38 rick t.png|60px|link=Rick Devens]]<br />[[Rick Devens]]
+| None
+| {{Ep|3813}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-2-1]
+| [[File:S38 victoria bw.png|60px|link=Victoria Baamonde]]<br />[[Victoria Baamonde]]
+| style="text-align: left;" |
+* None
+|-
+| given to {{dab|Edge of Extinction|twist}} returnee
+| {{Ep|3813}}
+| [[File:S38 chris t.png|60px|link=Chris Underwood]]<br />[[Chris Underwood]]
+| None
+| {{Ep|3813}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-2]
+| [[File:S38 lauren bw.png|60px|link=Lauren O'Connell]]<br />[[Lauren O'Connell]]
+| style="text-align: left;" |
+* This was a two-part idol. After returning from the Edge of Extinction, Chris was granted two idol halves. He was instructed to give one half to another castaway, and if they both survived the following Tribal Council, they could combine the halves to make a regular idol. He chose to give half to Rick, and they both survived Tribal Council.
+* Rick gave his half of the idol back to Chris on Day 37, enabling Chris to form a regular idol, which he then played for himself.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| {{tribeicon|vata}}â€‹ camp
+| {{Ep|3813}}
+| [[File:S38 rick t.png|60px|link=Rick Devens]]<br />[[Rick Devens]]
+| [[File:S38 gavin t.png|60px|link=Gavin Whitson]]<br />[[Gavin Whitson]]
+| {{Ep|3813}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="12" | {{S2|39}}
+| {{tribeicon|lairo}} camp
+| {{Ep|3902}}
+| [[File:S39 chelsea t.png|60px|link=Chelsea Walker]]<br />[[Chelsea Walker]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|3904}}
+| style="text-align: left;" |
+* None
+|-
+| rowspan="2" | {{dab|Island of the Idols|twist}}
+| {{Ep|3902}}
+| [[File:S39 kellee t.png|60px|link=Kellee Kim]]<br />[[Kellee Kim]]
+| [[File:S39 dean t.png|60px|link=Dean Kowalski]]<br />[[Dean Kowalski]]
+| {{Ep|3907}}
+| {{yn|y}}<br />negated 5 votes<br />['''5'''-2]
+| [[File:S39 jack bw.png|60px|link=Jack Nichting]]<br />[[Jack Nichting]]
+| style="text-align: left;" |
+* This idol was initially only good for the next two Tribal Councils Kellee would attend if she correctly answered four out of five questions about [[Rob Mariano|Rob]] and [[Sandra Diaz-Twine|Sandra]]'s personal lives, but after she hesitated over taking the test, Rob decreased the goal to three correct answers and increased the value of the idol to three Tribal Councils. Kellee then won the test and the idol.
+* This idol was played "by default" at the last time it could be played.
+|-
+| {{Ep|3903}}
+| [[File:S39 vince t.png|60px|link=Vince Moua]]<br />[[Vince Moua]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|3903}}
+| style="text-align: left;" |
+* This idol was only good for the next two Tribal Councils Vince would attend if he could sneak into the other tribe's camp and get fire without getting caught, which he successfully did.
+|-
+| {{tribeicon|vokai}} camp
+| {{Ep|3904}}
+| [[File:S39 jamal t.png|60px|link=Jamal Shipman]]<br />[[Jamal Shipman]]
+| [[File:S39 noura t.png|60px|link=Noura Salman]]<br />[[Noura Salman]]
+| {{Ep|3907}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|lairo}} camp
+| {{Ep|3908}}
+| [[File:S39 kellee t.png|60px|link=Kellee Kim]]<br />[[Kellee Kim]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|3908}}
+| style="text-align: left;" |
+* None
+|-
+| rowspan="3" | {{tribeicon|lumuwaku}}â€‹ camp
+| {{Ep|3908}}
+| [[File:S39 kellee t.png|60px|link=Kellee Kim]]<br />[[Kellee Kim]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|3908}}
+| style="text-align: left;" |
+* This was the rehidden Vokai idol.
+|-
+| {{Ep|3908}}
+| [[File:S39 janet t.png|60 px|link=Janet Carbin]]<br />[[Janet Carbin]]
+| None
+| {{Ep|3908}}
+| {{yn|n}}<br />negated 2 votes<br />[6-3-'''2''']
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{Ep|3909}}
+| [[File:S39 karishma t.png|60 px|link=Karishma Patel]]<br />[[Karishma Patel]]
+| None
+| {{Ep|3910}}
+| {{yn|y}}<br />negated 7 votes<br />['''7'''-1-1]
+| [[File:S39 elizabeth bw.png|60px|link=Elizabeth Beisel]]<br />[[Elizabeth Beisel]]
+| style="text-align: left;" |
+* This idol play resulted in a tie between Elizabeth and Janet. Elizabeth was voted out on the revote.
+|-
+| {{dab|Island of the Idols|twist}}
+| {{Ep|3910}}
+| [[File:S39 lauren t.png|60 px|link=Lauren Beck]]<br />[[Lauren Beck]]
+| None
+| {{Ep|3910}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was only good for the next two Tribal Councils Lauren would attend if she could correctly predict who would win the next Immunity Challenge. She originally had to choose one person, but after she hesitated over taking the test, Rob allowed her to choose two people instead of one. She chose Elizabeth and Noura. Noura won, granting Lauren the idol.
+|-
+| rowspan="2" | {{tribeicon|lumuwaku}}â€‹ camp
+| {{Ep|3911}}
+| [[File:S39 elaine t.png|60 px|link=Elaine Stott]]<br />[[Elaine Stott]]
+| None
+| {{Ep|3911}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{Ep|3912}}
+| [[File:S39 janet t.png|60 px|link=Janet Carbin]]<br />[[Janet Carbin]]
+| None
+| {{Ep|3913}}
+| {{yn|n}}<br />[[Idol Nullifier|nullified]]<br />['''4'''-1]
+| None
+| style="text-align: left;" |
+* This idol was played "by default" at the last time idols could be played.
+* Janet successfully played an idol on herself, but [[Dean Kowalski]] played an [[Idol Nullifier]], cancelling out her idol.
+|-
+| new {{tribeicon|lumuwaku}}â€‹ camp<br />(formerly {{dab|Island of the Idols|twist}})
+| {{Ep|3913}}
+| [[File:S39 dean t.png|60 px|link=Dean Kowalski]]<br />[[Dean Kowalski]]
+| None
+| colspan="3" |Expired in {{Ep|3913}}
+| style="text-align: left;" |
+* Dean was immune the last time idols could be played.
+|-
+| rowspan="10" | {{S2|40}}
+| {{dab|Edge of Extinction|twist}}
+| {{Ep|4001}}
+| [[File:S40 natalie t.png|60 px|link=Natalie Anderson]]<br />[[Natalie Anderson]]
+| [[File:S40 sandra t.png|60 px|link=Sandra Diaz-Twine]] â†’ [[File:S40 denise t.png|60 px|link=Denise Stapley]]<br />[[Sandra Diaz-Twine]] â†’ [[Denise Stapley]]
+| {{Ep|4006}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-1]
+|rowspan=2| [[File:S40 sandra bw.png|60 px|link=Sandra Diaz-Twine]]<br />Sandra Diaz-Twine
+| style="text-align: left;" |
+* Natalie found this idol on the Edge of Extinction and was required to sell it to a member of the tribe that lost the next Immunity Challenge. She sold it to Sandra, who purchased it for one [[Fire Token]]. Sandra then sold the idol to Denise in exchange for one Fire Token before Tribal Council on Day 16.
+* This idol was only good for the next three Tribal Councils the owner would attend and was unknowingly played "by default" at the last time it could be played.
+|-
+| {{tribeicon|sele}} camp
+| {{Ep|4002}}
+| [[File:S40 denise t.png|60 px|link=Denise Stapley]]<br />[[Denise Stapley]]
+| [[File:S40 jeremy t.png|60 px|link=Jeremy Collins]]<br />[[Jeremy Collins]]
+| {{Ep|4006}}
+| {{yn|n}}<br />negated 0 votes
+| style="text-align: left;" |
+* This is a two-part idol. Denise was required to give half of it to another tribe member before sundown, and the idol could only gain full power if the two halves were combined. Denise gave half of the idol to [[Adam Klein]], who later gave it back to Denise before Tribal Council on Day 6.
+* While technically "unsuccessful", this was part of a double idol play by Denise on Jeremy and herself, and the latter idol was successful.
+|-
+| {{tribeicon|dakal}} camp
+| {{Ep|4002}}
+| [[File:S40 kim t.png|60 px|link=Kim Spradlin-Wolfe]]<br />[[Kim Spradlin-Wolfe]]
+| [[File:S40 denise t.png|60 px|link=Denise Stapley]]<br />[[Denise Stapley]]
+| {{Ep|4010}}
+| {{yn|n}}<br />negated 2 votes<br />[5-2-'''2''']
+| None
+| style="text-align: left;" |
+* This is a two-part idol. Kim was required to give half of it to another tribe member before sundown, and the idol could only gain full power if the two halves were combined. Kim gave half of the idol to [[Sophie Clarke]], who later gave it back to Kim before the [[Tribe Switch]] on Day 12.
+|-
+| {{tribeicon|yara}} camp
+| {{Ep|4005}}
+| [[File:S40 sophie t.png|60 px|link=Sophie Clarke]]<br />[[Sophie Clarke]]
+| None
+| colspan="3" |Voted out while in possession in {{Ep|4011}}
+| style="text-align: left;" |
+* This is a two-part idol. Sophie was required to give half of it to another tribe member before sundown, and the idol could only gain full power if the two halves were combined. Sophie gave half of the idol to [[Sarah Lacina]], who gave it back to Sophie before Tribal Council on Day 14.
+* Even though Sophie remained in the game due to the Edge of Extinction twist, her idol was voided after she was voted out.
+|-
+| rowspan="2" |purchased from {{dab|Edge of Extinction|twist}} menu
+| {{Ep|4008}}
+| [[File:S40 natalie t.png|60 px|link=Natalie Anderson]]<br />[[Natalie Anderson]]
+| None
+| {{Ep|4014}}
+| {{yn|y}}<br />negated 4 votes<br />['''4'''-2]
+| [[File:S40 denise bw.png|60 px|link=Denise Stapley]]<br />[[Denise Stapley]]
+| style="text-align: left;" |
+* Natalie purchased this idol for three Fire Tokens before the first Edge of Extinction re-entry [[duel]], and would gain full power if she re-entered the main game. She lost the first duel and returned to the Edge of Extinction, but the idol was not voided, and gained full power after she won the second re-entry duel.<ref name="S40EoEIdols">{{cite web|url=https://ew.com/tv/survivor-host-jeff-probst-explains-why-idols-are-not-at-tribal-council/ |title=Survivor host Jeff Probst explains why idols are not at Tribal Council |work=Entertainment Weekly |last=Ross |first=Dalton |date=April 9, 2020 |accessdate=April 9, 2020}}</ref>
+|-
+| {{Ep|4008}}
+| [[File:S40 rob t.png|60 px|link=Rob Mariano]]<br />[[Rob Mariano]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4014}}
+| style="text-align: left;" |
+* Rob purchased this idol for three Fire Tokens before the first Edge of Extinction re-entry duel, and would gain full power if he re-entered the main game. He lost the first duel and returned to the Edge of Extinction, but the idol was not voided, and could have gained full power if he won the second duel.<ref name="S40EoEIdols" /> He was unable to win the second duel, rendering the idol null.
+|-
+| rowspan="2" | {{tribeicon|koru}} camp
+| {{Ep|4011}}
+| [[File:S40 tony t.png|60 px|link=Tony Vlachos]]<br />[[Tony Vlachos]]
+| None
+| {{Ep|4014}}
+| {{yn|n}}<br />negated 0 votes
+| rowspan="2" | [[File:S40 denise bw.png|60 px|link=Denise Stapley]]<br />[[Denise Stapley]]
+| style="text-align: left;" |
+* This was either the rehidden Dakal or Sele idol, it is unknown which because both were removed from play at previous Tribal Councils.
+* While Tony received no votes, the idol prevented him from being vulnerable during the vote restart, as other idol plays had rendered the first vote null.
+|-
+| {{Ep|4012}}
+| [[File:S40 ben t.png|60 px|link=Ben Driebergen]]<br />[[Ben Driebergen]]
+| None
+| {{Ep|4014}}
+| {{yn|y}}<br />negated 2 votes<br />[4-'''2''']
+| style="text-align: left;" |
+* This was the rehidden Yara idol.
+|-
+| purchased from {{dab|Edge of Extinction|twist}} menu
+| {{Ep|4013}}
+| [[File:S40 natalie t.png|60 px|link=Natalie Anderson]]<br />[[Natalie Anderson]]
+| [[File:S40 tyson t.png|60 px|link=Tyson Apostol]]<br />[[Tyson Apostol]]
+| colspan="3" |Eliminated while in possession in {{Ep|4014}}
+| style="text-align: left;" |
+* Natalie purchased this idol for six Fire Tokens before the second Edge of Extinction re-entry duel, and would gain full power if she re-entered the main game. Because she already had an idol that she purchased prior to the first re-entry duel, and was only allowed to re-enter with one idol, she chose to give this idol to Tyson. He lost to Natalie in the second duel, rendering the idol null.
+|-
+| {{tribeicon|koru}} camp
+| {{Ep|4014}}
+| [[File:S40 natalie t.png|60 px|link=Natalie Anderson]]<br />[[Natalie Anderson]]
+| None
+| {{Ep|4014}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was played "by default" at the last time idols could be played.
+|}
+==={{S2|41}} to {{S2|50}}===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Hiding Place
+! Episode Found
+! Found By
+! Given To
+! Episode Used
+! Successful?
+! Victim
+! Pertinent Notes
+|-
+|-
+| rowspan="4" | {{S2|41}}
+| {{tribeicon|yase}} camp
+| {{Ep|4102}}
+| [[File:S41 xander t.png|60 px|link=Xander Hastings]]<br />[[Xander Hastings]]
+| [[File:S41 tiffany t.png|60 px|link=Tiffany Seely]] â†’ [[File:S41 xander t.png|60 px|link=Xander Hastings]]<br />[[Tiffany Seely]] â†’ Xander Hastings
+| {{Ep|4113}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was a three-way shared Immunity Idol as part of a "[[Beware Advantage]]" that had to be activated by having all three secret phrases said at the same Immunity Challenge. All three idols were activated at the Immunity Challenge on Day 11.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan=2|{{tribeicon|ua}} camp
+| {{Ep|4103}}
+| [[File:S41 brad t.png|60px|link=Brad Reese]]<br />[[Brad Reese]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4103}}
+| rowspan="2" style="text-align: left;" |
+* The idol was initially found by Brad. However, he was voted out before all three idols were found and activated, so this idol was rehidden upon his departure due to the nature of the shared idols.
+* The rehidden idol was later found by [[Genie Chen]], who chose not to claim it and had to put it back in its hiding spot.
+* This idol was a three-way shared Immunity Idol as part of a "Beware Advantage" that had to be activated by having all three secret phrases said at the same Immunity Challenge. All three idols were activated at the Immunity Challenge on Day 11.
+|-
+| {{Ep|4105}}
+| [[File:S41 shan t.png|60 px|link=Shan Smith]]<br />[[Shan Smith]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4110}}
+|-
+| {{tribeicon|luvu}} camp
+| {{Ep|4105}}
+| [[File:S41 naseer t.png|60 px|link=Naseer Muttalif]]<br />[[Naseer Muttalif]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4109}}
+| style="text-align: left;" |
+* This idol was a three-way shared Immunity Idol as part of a "Beware Advantage" that had to be activated by having all three secret phrases said at the same Immunity Challenge. All three idols were activated at the Immunity Challenge on Day 11.
+* Naseer was not shown to have found and be in possession of this idol until the other two players said their activation phrases at the Day 11 Immunity Challenge. A flashback was then shown of him finding the idol.
+|-
+| rowspan="5" | {{S2|42}}
+| Day 1 Reward Challenge
+| {{Ep|4201}}
+| [[File:S42 lindsay t.png|60px|link=Lindsay Dolashewich]]<br />[[Lindsay Dolashewich]]
+| None
+| colspan="3" |Expired in {{Ep|4212}}
+| style="text-align: left;" |
+* This idol was the last possible power of the [[Advantage Amulet]], which would be activated when only one amulet holder remained in the game. The idol gained power after [[Drea Wheeler]] was voted out on Day 21. 
+* In line with the mechanics of the amulet, the idol could be played until the final six. However, Lindsay was immune the last time it could be played.
+|-
+| {{tribeicon|vati}} camp
+| {{Ep|4202}}
+| [[File:S42 mike t.png|60px|link=Mike Turner]]<br />[[Mike Turner]]
+| {{nowrap| [[File:S42 omar t.png|60px|link=Omar Zaheer]] â†’ [[File:S42 mike t.png|60px|link=Mike Turner]] â†’ [[File:S42 maryanne t.png|60 px|link=Maryanne Oketch]]<br />[[Omar Zaheer]] â†’ Mike Turner â†’ [[Maryanne Oketch]]}}
+| {{Ep|4213}}
+| {{Yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was a three-way shared Immunity Idol as part of a "Beware Advantage" that had to be activated by having all three secret phrases said at the same Immunity Challenge. All three idols were activated at the Immunity Challenge on Day 11.
+* This idol was played "by default" by Mike (who was immune) for Maryanne at the last time idols could be played.
+|-
+| {{tribeicon|taku}} camp
+| {{Ep|4203}}
+| [[File:S42 maryanne t.png|60 px|link=Maryanne Oketch]]<br />[[Maryanne Oketch]]
+| None
+| {{Ep|4209}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was a three-way shared Immunity Idol as part of a "Beware Advantage" that had to be activated by having all three secret phrases said at the same Immunity Challenge. All three idols were activated at the Immunity Challenge on Day 11.
+* As it was played before voting, it de facto prevented Maryanne from receiving any votes.
+|-
+| {{tribeicon|ika}} camp
+| {{Ep|4205}}
+| [[File:S42 drea t.png|60 px|link=Drea Wheeler]]<br />[[Drea Wheeler]]
+| None
+| {{Ep|4209}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was a three-way shared Immunity Idol as part of a "Beware Advantage" that had to be activated by having all three secret phrases said at the same Immunity Challenge. All three idols were activated at the Immunity Challenge on Day 11.
+* As it was played before voting, it de facto prevented Drea from receiving any votes.
+|-
+| {{tribeicon|kulakula}} camp
+| {{Ep|4210}}
+| [[File:S42 maryanne t.png|60 px|link=Maryanne Oketch]]<br />[[Maryanne Oketch]]
+| None
+| colspan="3" |Expired in {{Ep|4213}}
+| style="text-align: left;" |
+* This is either the rehidden Ika or Taku idol; it is unknown which because both were removed from play at the previous Tribal Council.
+* Maryanne was given Mike's Hidden Immunity Idol and did not need to play her idol the last time it could be played.
+|-
+| rowspan="4" | {{S2|43}}
+| Day 2 [[Summit|Journey]]
+| {{Ep|4301}}
+| [[File:S43 gabler t.png|60 px|link=Mike Gabler]]<br />[[Mike Gabler]]
+| None
+| colspan="3" |Expired in {{Ep|4306}}
+| style="text-align: left;" |
+* This idol was only good for the next two Tribal Councils Gabler would attend. Gabler was immune the last time it could be played.
+|-
+| {{tribeicon|vesi}} camp
+| {{Ep|4302}}
+| [[File:S43 cody t.png|60 px|link=Cody Assenmacher]]<br />[[Cody Assenmacher]]
+| {{nowrap| [[File:S43 jesse t.png|60 px|link=Jesse Lopez]] â†’ [[File:S43 cody t.png|60 px|link=Cody Assenmacher]] â†’ [[File:S43 jesse t.png|60 px|link=Jesse Lopez]] â†’  [[File:S43 owen t.png|60 px|link=Owen Knight]]<br />[[Jesse Lopez]] â†’ Cody Assenmacher â†’ Jesse Lopez â†’ [[Owen Knight]]}}
+| {{Ep|4312}}
+| {{Yn|n}}<br />negated 1 vote<br />[4-1-'''1''']
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage" that had to be activated by obtaining specific beads from each of the finder's tribemates. Cody obtained all the required beads on Day 5.
+|-
+| {{tribeicon|coco}} camp
+| {{Ep|4303}}
+| [[File:S43 karla t.png|60 px|link=Karla Cruz Godoy]]<br />[[Karla Cruz Godoy]]
+| None
+| {{Ep|4312}}
+| {{Yn|n}}<br />negated 1 vote<br />[4-'''1'''-1]
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage" that had to be activated by obtaining specific beads from each of the finder's tribemates. Karla obtained all the required beads on Day 6.
+|-
+| {{tribeicon|baka}} camp
+| {{Ep|4305}}
+| [[File:S43 jeanine t.png|60 px|link=Jeanine Zheng]]<br />[[Jeanine Zheng]]
+| [[File:S43 dwight t.png|60 px|link=Dwight Moore]] â†’ [[File:S43 jesse t.png|60 px|link=Jesse Lopez]]<br />[[Dwight Moore]] â†’ [[Jesse Lopez]]
+| {{Ep|4313}}
+| {{Yn|n}}<br />negated 1 vote<br />[4-'''1''']
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage" that had to be activated by obtaining specific beads from each of the finder's tribemates. Jeanine obtained all the required beads on Day 10.
+* Jesse was not shown to have received and be in possession of this idol until the start of the episode after the Tribal Council that Dwight was voted out, making it seem initially that Dwight was eliminated with the idol in his possession. A flashback was then shown of Dwight giving Jesse the idol.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="8" | {{S2|44}}
+| {{tribeicon|ratu}} camp
+| {{Ep|4401}}
+| [[File:S44 brandon t.png|60 px|link=Brandon Cottom]]<br />[[Brandon Cottom]]
+| None
+| {{Ep|4401}}
+| {{yn|y}}<br />negated 2 votes<br />['''2'''-1]
+| [[File:S44 maddy bw.png|60 px|link=Maddy Pomilla]]<br />[[Maddy Pomilla]]
+| style="text-align: left;" |
+* Being used on Day 3, this idol was used the earliest of any idol in ''Survivor'' history. It is also the only idol to be played during a season premiere.
+|-
+| {{tribeicon|soka}} camp
+| {{Ep|4402}}
+| [[File:S44 danny t.png|60 px|link=Danny Massa]]<br />[[Danny Massa]]
+| [[File:S44 frannie t.png|60 px|link=Frannie Marin]]<br />[[Frannie Marin]]
+| {{Ep|4408}}
+| {{yn|y}}<br />negated 6 votes<br />['''6'''-4]
+| [[File:S44 brandon bw.png|60 px|link=Brandon Cottom]]<br />[[Brandon Cottom]]
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|tika}} camp
+| {{Ep|4402}}
+| [[File:S44 carolyn t.png|60 px|link=Carolyn Wiger]]<br />[[Carolyn Wiger]]
+| [[File:S44 carson t.png|60 px|link=Carson Garrett]]<br />[[Carson Garrett]]
+| {{Ep|4411}}
+| {{yn|n}}<br />negated 2 votes<br />[3-2-'''2''']
+| None
+| style="text-align: left;" |
+* None
+|-
+| {{tribeicon|ratu}} camp
+| {{Ep|4403}}
+| [[File:S44 matthew t.png|60 px|link=Matthew Grinstead-Mayle]]<br />[[Matthew Grinstead-Mayle]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4405}}
+| style="text-align: left;" |
+* Matthew found the idol on Day 4, which would have been during the events of {{Ep|4402}}.
+* This is the first idol to be "flushed" by a [[quit]].
+|-
+| rowspan="3" |Day 8 [[Summit|Journey]]
+| rowspan="3" | {{Ep|4404}}
+| [[File:S44 carson t.png|60 px|link=Carson Garrett]]<br />[[Carson Garrett]]
+| None
+| colspan="3" |Expired in {{Ep|4405}}
+| style="text-align: left;" |
+* This idol was only good until the start of the individual phase of the game. Carson was immune the last time it could be played.
+|-
+| [[File:S44 jaime t.png|60 px|link=Jaime Lynn Ruiz]]<br />[[Jaime Lynn Ruiz]]
+| None
+| colspan="3" |Expired in {{Ep|4405}}
+| style="text-align: left;" |
+* This idol was only good until the start of the individual phase of the game. Jaime was immune the last time it could be played.
+|-
+| [[File:S44 josh t.png|60 px|link=Josh Wilder]]<br />[[Josh Wilder]]
+| None
+| {{Ep|4404}}
+| {{Yn|y}}<br />negated 2 votes<br />['''2'''-2]
+| [[File:S44 sarah bw.png|60 px|link=Sarah Wade]]<br />[[Sarah Wade]]
+| style="text-align: left;" |
+* This idol was only good until the start of the individual phase of the game.
+|-
+| {{tribeicon|vava}} camp
+| {{Ep|4409}}
+| [[File:S44 heidi t.png|60px|link=Heidi Lagares-Greenblatt]]<br />[[Heidi Lagares-Greenblatt]]
+| None
+| {{Ep|4412}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This was either the rehidden Ratu or Soka idol, it is unknown which because both had previously been removed from play.
+|-
+| rowspan="5" | {{S2|45}}
+| {{tribeicon|reba}} camp
+| {{Ep|4503}}
+| [[File:S45 austin t.png|60 px|link=Austin Li Coon]]<br />[[Austin Li Coon]]
+| [[File:S45 julie t.png|60 px|link=Julie Alley]]<br />[[Julie Alley]]
+| {{Ep|4511}}
+| {{yn|y}}<br />negated 6 votes<br />['''6'''-1]
+| [[File:S45 emily bw.png|60 px|link=Emily Flippen]]<br />[[Emily Flippen]]
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Austin found the idol on Day 6.
+* This idol was only good for Austin's next Tribal Council. Austin was given the opportunity to sacrifice his vote at one Tribal Council to extend the idol's power until the start of the individual phase of the game, and to sacrifice his vote at a second Tribal Council to extend the idol's power until the final five. Austin ended up sacrificing his vote at his next two Tribal Councils.
+|-
+| {{tribeicon|lulu}} camp
+| {{Ep|4502}}
+| [[File:S45 sabiyah t.png|60 px|link=Sabiyah Broderick]]<br />[[Sabiyah Broderick]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4503}}
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Sabiyah found the idol on Day 5 but had to activate it by melting the wax encasing it, which she did on Day 7.
+* This idol was only good for Sabiyah's next Tribal Council. Sabiyah was given the opportunity to sacrifice her vote at one Tribal Council to extend the idol's power until the start of the individual phase of the game, and to sacrifice her vote at a second Tribal Council to extend the idol's power until the final five.
+|-
+| Day 11 [[Summit|Journey]]
+| {{Ep|4505}}
+| [[File:S45 austin t.png|60px|link=Austin Li Coon]]<br />[[Austin Li Coon]]
+| None
+| {{Ep|4512}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was the last possible power of the [[Advantage Amulet]], which would be activated when only one amulet holder remained in the game. The idol gained power after [[Kellie Nalbandian]] was voted out on Day 16.
+* This idol was played "by default" at the last time it could be played.
+|-
+| {{tribeicon|lulu}} camp
+| {{Ep|4506}}
+| [[File:S45 bruce t.png|60 px|link=Bruce Perreault]]<br />[[Bruce Perreault]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4510}}
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Bruce found the idol on Day 12.
+|-
+| {{tribeicon|dakuwaqa}} camp
+| {{Ep|4512}}
+| [[File:S45 jake t.png|60 px|link=Jake O'Kane]]<br />[[Jake O'Kane]]
+| [[File:S45 katurah t.png|60 px|link=Katurah Topps]]<br />[[Katurah Topps]]
+| {{Ep|4513}}
+| {{Yn|n}}<br />negated 1 vote<br />[2-1-1-'''1''']
+| None
+| style="text-align: left;" |
+* This was either the rehidden Lulu or Reba idol, it is unknown which because both were removed from play at previous Tribal Councils.
+* This idol was played "by default" by Jake for Katurah at the last time idols could be played.
+|-
+| rowspan="5" | {{S2|46}}
+| {{tribeicon|yanu}} camp
+| {{Ep|4601}}
+| [[File:S46 tiffany t.png|60 px|link=Tiffany Nicole Ervin]]<br />[[Tiffany Nicole Ervin]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4610}}
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Tiffany found the idol on Day 3.
+|-
+| {{tribeicon|siga}} camp
+| {{Ep|4603}}
+| [[File:S46 jem t.png|60 px|link=Jem Hussain-Adams]]<br />[[Jem Hussain-Adams]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4605}}
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Jem found the Beware Advantage on Day 2, which would have been during the events of {{Ep|4601}}. She later found the idol on Day 11.
+|-
+| {{tribeicon|nami}} camp
+| {{Ep|4605}}
+| [[File:S46 hunter t.png|60 px|link=Hunter McKnight]]<br />[[Hunter McKnight]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4609}}
+| style="text-align: left;" |
+* The idol was initially found by [[Randen Montalvo]]. However, he was evacuated before he could activate the idol, so this idol was rehidden upon his departure.
+* This idol was part of a "Beware Advantage". Hunter found the idol on Day 12.
+|-
+| rowspan="2" | {{tribeicon|nuinui}} camp
+| {{Ep|4611}}
+| [[File:S46 venus t.png|60 px|link=Venus Vafa]]<br />[[Venus Vafa]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4611}}
+| style="text-align: left;" |
+* None
+|-
+| {{Ep|4612}}
+| [[File:S46 q t.png|60 px|link=Q Burdette]]<br />[[Q Burdette]]
+| None
+| colspan="3" |Eliminated while in possession in {{Ep|4612}}
+| style="text-align: left;" |
+* None
+|-
+| rowspan="8" | {{S2|47}}
+| {{tribeicon|tuku}} camp
+| {{Ep|4701}}
+| [[File:S47 gabe t.png|60 px|link=Gabe Ortis]]<br />[[Gabe Ortis]]
+| None
+| {{Ep|4702}}
+| {{Yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Gabe found the idol on Day 3.
+* This idol was only good for the holder's next Tribal Council, but Gabe was given the opportunity to relinquish his first idol to find an idol that was good for the next three Tribal Councils. After he found the second idol, he was given the same offer, but to find an idol that was good until the final five. Gabe opted to keep the second idol.
+|-
+| {{tribeicon|lavo}} camp
+| {{Ep|4702}}
+| [[File:S47 rome t.png|60 px|link=Rome Cooney]]<br />[[Rome Cooney]]
+| None
+| {{Ep|4703}}
+| {{Yn|n}}<br />negated 1 vote<br />[3-1-1-'''1''']
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Rome found the idol on Day 4.
+* This idol was only good for the holder's next Tribal Council, but Rome was given the opportunity to relinquish his first idol to find an idol that was good for the next three Tribal Councils. Rome chose to keep the first idol.
+|-
+| {{tribeicon|gata}} camp
+| {{Ep|4702}}
+| [[File:S47 sam t.png|60 px|link=Sam Phalen]]<br />[[Sam Phalen]]
+| None
+| colspan="3" |Expired in {{Ep|4705}}
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Sam found the idol on Day 5.
+* This idol was only good for the holder's next Tribal Council, but Sam was given the opportunity to relinquish his first idol to find an idol that was good for the next three Tribal Councils. Sam chose to keep the first idol.
+* Sam did not play the idol the only time it could be played.
+|-
+| {{tribeicon|tuku}} camp
+| {{Ep|4704}}
+| [[File:S47 sue t.png|60 px|link=Sue Smey]]<br />[[Sue Smey]]
+| None
+| {{Ep|4713}}
+| {{Yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Sue found the idol on Day 8.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="3" |Day 8 [[Summit|Journey]]
+| rowspan="3" | {{Ep|4704}}
+| [[File:S47 andy t.png|60px|link=Andy Rueda]]<br />[[Andy Rueda]]
+| rowspan="3" | [[File:S47 teeny t.png|60px|link=Teeny Chirichillo]]<br />Teeny Chirichillo
+| rowspan="3" | {{Ep|4706}}
+| rowspan="3" | {{Yn|n}}<br />negated 0 votes
+| rowspan="3" |None
+| rowspan="3" style="text-align: left;" |
+* Every remaining holder of the [[Advantage Amulet|Amulet Idol]] had to play their amulets together to protect one person. By the time the amulets were played, all three holders were still in the game and agreed to play it on Teeny.
+|-
+| [[File:S47 caroline t.png|60px|link=Caroline Vidmar]]<br />[[Caroline Vidmar]]
+|-
+| [[File:S47 teeny t.png|60px|link=Teeny Chirichillo]]<br />[[Teeny Chirichillo]]
+|-
+| {{tribeicon|beka}} camp
+| {{Ep|4708}}
+| [[File:S47 rachel t.png|60 px|link=Rachel LaMont]]<br />[[Rachel LaMont]]
+| None
+| {{Ep|4713}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-2]
+| [[File:S47 andy bw.png|60 px|link=Andy Rueda]]<br />[[Andy Rueda]]
+| style="text-align: left;" |
+* This idol was found due to a clue hidden in food at the [[Survivor Auction]].
+|-
+| rowspan="3"| {{S2|48}}
+| {{tribeicon|vula}} camp
+| {{Ep|4801}}
+| [[File:S48 saiounia t.png|60 px|link=Saiounia Hughley]]<br />[[Saiounia Hughley]]
+| None
+| {{Ep|4802}}
+| {{Yn|n}}<br />negated 1 vote<br />[3-'''1''']
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Saiounia found the idol on Day 2.
+|-
+| {{tribeicon|civa}} camp
+| {{Ep|4802}}
+| [[File:S48 kyle t.png|60 px|link=Kyle Fraser]]<br />[[Kyle Fraser]]
+| None
+| {{Ep|4804}}
+| {{yn|y}}<br />negated 3 votes<br />['''3'''-3]
+| [[File:S48 thomas bw.png|60 px|link=Thomas Krottinger]]<br />[[Thomas Krottinger]]
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Kyle found the idol on Day 4.
+|-
+| {{tribeicon|lagi}} camp
+| {{Ep|4802}}
+| [[File:S48 star t.png|60 px|link=Star Toomey]]<br />[[Star Toomey]]
+| [[File:S48 eva t.png|60 px|link=Eva Erickson]]<br />[[Eva Erickson]]
+| {{Ep|4813}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Star found the idol on Day 11.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| rowspan="4"| {{S2|49}}
+| {{tribeicon|kele}} camp
+| {{Ep|4902}}
+| [[File:S49 alex t.png|60px|link=Alex Moore]]<br />[[Alex Moore]]
+| None
+| {{Ep|4903}}
+| {{Yn|n}}<br />negated 1 vote<br />[2-'''1''']
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage". Alex found the idol on Day 5.
+|-
+| {{tribeicon|hina}} camp
+| {{Ep|4904}}
+| [[File:S49 rizo t.png|60px|link=Rizo Velovic]]<br />[[Rizo Velovic]]
+| None
+| {{Ep|4913}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage" originally hidden at the [[Uli]] camp. Rizo found the idol on Day 8.
+* This idol was played "by default" at the last time idols could be played.
+|-
+| {{tribeicon|lewatu}} camp
+| {{Ep|4907}}
+| [[File:S49 mc t.png|60px|link=MC Chukwujekwu]]<br />[[MC Chukwujekwu]]
+| None
+| {{Ep|4907}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was part of a "Beware Advantage" originally hidden at the [[Hina]] camp. MC found the idol on Day 14.
+|-
+| {{tribeicon|lewatu}} camp
+| {{Ep|4908}}
+| [[File:S49 kristina t.png|60px|link=Kristina Mills]]<br />[[Kristina Mills]]
+| [[File:S49 steven t.png|60px|link=Steven Ramm]]<br />[[Steven Ramm]]
+| {{Ep|4910}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* None
+|-
+| rowspan="4"| {{S2|50}}
+| {{tribeicon|vatu}} camp
+| {{Ep|5001}}
+| [[File:S50 genevieve t.png|60px|link=Genevieve Mushaluk]]<br />[[Genevieve Mushaluk]]
+| [[File:S50 ozzy t.png|60px|link=Ozzy Lusth]]<br />[[Ozzy Lusth]]
+| colspan="3" |Eliminated while in possession in {{Ep|5011}}
+| style="text-align: left;" |
+* This idol was a {{wp|Billie Eilish}} Boomerang Idol. Upon finding it, Geneveieve had to will it to someone on an opposing tribe. She chose to will it to Ozzy, who is not allowed to transfer it or play it on another person. If Ozzy gets voted out with the idol in his possession, it then returns back to Genevieve so long as she is still in the game.
+|-
+| {{tribeicon|cila}} camp
+| {{Ep|5002}}
+| [[File:S50 christian t.png|60px|link=Christian Hubicki]]<br />[[Christian Hubicki]]
+| [[File:S50 aubry t.png|60px|link=Aubry Bracco]]<br />[[Aubry Bracco]]
+| {{Ep|5007}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was a {{wp|Billie Eilish}} Boomerang Idol. Upon finding it, Christian had to will it to someone on an opposing tribe. He chose to will it to Aubry, who is not allowed to transfer it or play it on another person. If Aubry gets voted out with the idol in her possession, it then returns back to Christian so long as he is still in the game.
+|-
+| {{tribeicon|kalo}} camp
+| {{Ep|5004}}
+| [[File:S50 genevieve t.png|60px|link=Genevieve Mushaluk]]<br />[[Genevieve Mushaluk]]
+| [[File:S50 rizo t.png|60px|link=Rizo Velovic]]<br />[[Rizo Velovic]]
+| {{Ep|5013}}
+| {{yn|n}}<br />negated 0 votes
+| None
+| style="text-align: left;" |
+* This idol was a {{wp|Billie Eilish}} Boomerang Idol. Upon finding it, Genevieve had to will it to someone on an opposing tribe. She chose to will it to Rizo, who is not allowed to transfer it or play it on another person. If Rizo gets voted out with the idol in his possession, it then returns back to Genevieve so long as she is still in the game.
+|-
+| {{tribeicon|manulevu}} [[Tribal Council]]
+| {{Ep|5010}}
+| [[File:S50 rick t.png|60px|link=Rick Devens]]<br />[[Rick Devens]]
+| None
+| {{Ep|5011}}
+| {{yn|y}}<br />negated 2<br />votes<br />['''2'''-2-2]
+| [[File:S50 emily bw.png|60px|link=Emily Flippen]]<br />[[Emily Flippen]]
+| style="text-align: left;" |
+* This idol was part of a "{{wp|MrBeast}} Super Beware Advantage". At the Day 19 Tribal Council, Rick volunteered to participate in a coin toss. If he correctly called his choice of heads or tails, he would earn this idol, alongside Individual Immunity at the same Tribal, and would double the season prize to $2 million. If he was incorrect, he would be [[Do or Die (twist)|instantly eliminated]]. He correctly called heads and earned the idol, among the other rewards.
+* First idol in the series to be acquired at Tribal Council.
+|}
+==={{S2|51}} to present===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! Season
+! Hiding Place
+! Episode Found
+! Found By
+! Given To
+! Episode Used
+! Successful?
+! Victim
+! Pertinent Notes
+|-
+|-
+| {{S2|51}}
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| style="text-align: left;" |
+|-
+|}
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Twists]]
+[[Category:Gameplay]]
+[[Category:Objects]]
+[[Category:Strategy]]
+[[Category:Survivor (U.S.)]]
+[[Category:Survivor (franchise)]]

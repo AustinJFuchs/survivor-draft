@@ -200,6 +200,8 @@ export interface BadgeInput {
   milestones: Milestones;
   /** slug → count of individual immunity wins (from the ledger). */
   immunityWins: Record<string, number>;
+  /** slug → idols + advantages found. */
+  advantagesFound?: Record<string, number>;
   contestantName: (slug: string) => string;
 }
 
@@ -293,6 +295,15 @@ export function computeBadges(inp: BadgeInput): Record<string, Badge[]> {
   }
   const maxImm = Math.max(0, ...imm.values());
   if (maxImm >= 2) for (const [d, n] of imm) if (n === maxImm) give(d, { id: "immunity-hoarder", emoji: "🏆", name: "Immunity Hoarder", rule: "Most individual immunity wins across the roster", detail: `${n} necklaces` });
+
+  // Idol Whisperer — most idols/advantages found across the roster (min 2).
+  const adv = new Map<string, number>();
+  for (const [slug, n] of Object.entries(inp.advantagesFound ?? {})) {
+    const d = drafterOf(slug);
+    if (d && n > 0) adv.set(d, (adv.get(d) ?? 0) + n);
+  }
+  const maxAdv = Math.max(0, ...adv.values());
+  if (maxAdv >= 2) for (const [d, n] of adv) if (n === maxAdv) give(d, { id: "idol-whisperer", emoji: "🗿", name: "Idol Whisperer", rule: "Most idols and advantages found across the roster", detail: `${n} found` });
 
   return out;
 }

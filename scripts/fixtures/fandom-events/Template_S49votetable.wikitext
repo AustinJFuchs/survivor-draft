@@ -1,0 +1,323 @@
+ {| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+! colspan="2"| 
+! colspan="4"| Original Tribes
+! colspan="2"| Dissolved Tribes
+! Expanded<br />Tribes
+! colspan="11"| Merged Tribe
+|-
+! colspan="2"| Episode
+! [[Act One of a Horror Film|1]]
+! [[Cinema|2]]
+! colspan="2"| [[Lovable Losers|3]]
+! [[Go Kick Rocks, Bro|4]]
+! [[I'm a Wolf, Baby|5]]
+! [[The Devil's Shoes|6]]
+! [[Blood Will Be Drawn|7]]
+! [[Hot Grim Reaper|8]]
+! [[If You're Loyal to All, You're Loyal to None|9]]
+! [[Huge Dose of Bamboozle|10]]
+! [[Cherry On Top|11]]
+! [[The Die Is Cast|12]]
+! colspan="5"| [[A Fever Dream|13]]
+|-
+! colspan="2"| Voted Out
+| {{tribebox|kele|[[File:S49 nicole t.png|50px|link=Nicole Mazullo]]<br />Nicole}}
+| {{tribebox|kele|[[File:S49 annie t.png|50px|link=Annie Davis]]<br />Annie}}
+| {{tribebox|kele|[[File:S49 jake t.png|50px|link=Jake Latimer]]<br />Jake}}
+| {{tribebox|kele|[[File:S49 jeremiah t.png|50px|link=Jeremiah Ing]]<br />Jeremiah}}
+| {{tribebox|hina|[[File:S49 matt t.png|50px|link=Matt Williams]]<br />Matt}}
+| {{tribebox|hina|[[File:S49 jason t.png|50px|link=Jason Treul]]<br />Jason}}
+| {{tribebox|kele|[[File:S49 shannon t.png|50px|link=Shannon Fairweather]]<br />Shannon}}
+| {{tribebox|lewatu|[[File:S49 nate t.png|50px|link=Nate Moore]]<br />Nate}}
+| {{tribebox|lewatu|[[File:S49 mc t.png|50px|link=MC Chukwujekwu]]<br />MC}}
+| {{tribebox|lewatu|[[File:S49 alex t.png|50px|link=Alex Moore]]<br />Alex}}
+| {{tribebox|lewatu|[[File:S49 jawan t.png|50px|link=Jawan Pitts]]<br />Jawan}}
+| {{tribebox|lewatu|[[File:S49 sophie t.png|50px|link=Sophie Segreti]]<br />Sophie}}
+| {{tribebox|lewatu|[[File:S49 steven t.png|50px|link=Steven Ramm]]<br />Steven}}
+| {{tribebox|lewatu|[[File:S49 kristina t.png|50px|link=Kristina Mills]]<br />Kristina}}
+| {{tribebox|lewatu|[[File:S49 rizo t.png|50px|link=Rizo Velovic]]<br />Rizo}}
+| {{tribebox|lewatu|[[File:S49 sage t.png|50px|link=Sage Ahrens-Nichols]]<br />Sage}}
+| {{tribebox|lewatu|[[File:S49 sophi t.png|50px|link=Sophi Balerdi]]<br />Sophi}}
+| {{tribebox|lewatu|[[File:S49 savannah t.png|50px|link=Savannah Louie]]<br />Savannah}}
+|-
+! colspan="2"| Vote
+| 5-1
+| 4-1
+| No vote{{sup|[[#endnote jake|1]]}}
+| 2-0{{sup|[[#endnote idol|2]]}}
+| 4-2-1
+| 5-1
+| 3-1
+| 7-4{{sup|[[#endnote idol|3]]}}
+| 4-1
+| 6-2-1
+| 5-3-1{{sup|[[#endnote idol|3]]}}
+| 6-1
+| 4-1
+| 4-1{{sup|[[#endnote idol|3]]}}
+| No vote{{sup|[[#endnote firemaking|7]]}}
+|colspan="3"| 5-2-1
+|- style="line-height:normal;"
+| rowspan="2" align="left" {{tribebox2|lewatu}}{{tribeicon1|uli}}{{tribeicon1|hina}}{{tribeicon1|hina}}
+| rowspan="2" align="left"| Savannah
+| rowspan="2"| â€”
+| rowspan="2"| â€”
+| rowspan="2"| â€”
+| rowspan="2"| â€”
+| rowspan="2" {{tribebox|hina|Jason}}
+| rowspan="2" {{tribebox|hina|Jason}}
+| rowspan="2"| â€”
+| rowspan="2" {{tribebox|lewatu|Steven}}
+| rowspan="2" {{tribebox|none|''None''}}{{sup|[[#endnote advantage|<font color=white>4</font>]]}}
+| rowspan="2" {{tribebox|lewatu|Alex}}
+| {{tribebox|lewatu|Jawan}}
+| rowspan="2" {{tribebox|lewatu|Sophie}}
+| rowspan="2" {{tribebox|none|''None''}}{{sup|[[#endnote block|<font color=white>6</font>]]}}
+| rowspan="2" {{tribebox|lewatu|Kristina}}
+| rowspan="2" |â€”
+! rowspan="4" colspan="3" |Jury Vote
+|- style="line-height:normal;"
+| {{tribebox|lewatu|Jawan}}{{sup|[[#endnote extra|<font color={{textsub|lewatu}}>5</font>]]}}
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|kele}}{{tribeicon1|hina}}{{tribeicon1|hina}}
+| align="left"| Sophi
+| {{tribebox|kele|Nicole}}
+| {{tribebox|kele|Annie}}
+| â€”
+| {{tribebox|kele|Jeremiah}}
+| {{tribebox|hina|Jason}}
+| {{tribebox|hina|Jason}}
+| â€”
+| {{tribebox|lewatu|Steven}}
+| â€”
+| {{tribebox|lewatu|Alex}}
+| {{tribebox|lewatu|Jawan}}
+| {{tribebox|lewatu|Sophie}}
+| {{tribebox|lewatu|Steven}}
+| {{tribebox|lewatu|Kristina}}
+| â€”
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|uli}}{{tribeicon1|kele}}{{tribeicon1|kele}}
+| align="left"| Sage
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|kele|Shannon}}
+| {{tribebox|lewatu|Nate}}
+| {{tribebox|lewatu|MC}}
+| {{tribebox|lewatu|Alex}}
+| {{tribebox|lewatu|Savannah}}
+| {{tribebox|lewatu|Sophie}}
+| {{tribebox|lewatu|Steven}}
+| {{tribebox|lewatu|Kristina}}
+| â€”
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|uli}}{{tribeicon1|hina}}{{tribeicon1|hina}}
+| align="left"| Rizo
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|hina|Matt}}
+| {{tribebox|hina|Jason}}
+| â€”
+| {{tribebox|lewatu|Steven}}
+| {{tribebox|lewatu|MC}}
+| {{tribebox|lewatu|Alex}}
+| {{tribebox|lewatu|Jawan}}
+| {{tribebox|lewatu|Sophie}}
+| {{tribebox|lewatu|Steven}}
+| {{tribebox|lewatu|Kristina}}
+| {{tribebox|status|''Eliminated''}}
+|
+|
+| {{tribebox|lewatu|Savannah}}
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|hina}}{{tribeicon1|kele}}{{tribeicon1|uli}}
+| align="left"| Kristina
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|lewatu|Nate}}
+| â€”
+| {{tribebox|lewatu|Sophi}}
+| {{tribebox|lewatu|Rizo}}
+| {{tribebox|lewatu|Sophie}}
+| {{tribebox|lewatu|Steven}}
+| {{tribebox|lewatu|Sage}}
+| colspan="1" {{tribebox|out}}
+|
+| {{tribebox|lewatu|Sophi}}
+|
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|hina}}{{tribeicon1|kele}}{{tribeicon1|kele}}
+| align="left"| Steven
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|kele|Shannon}}
+| {{tribebox|lewatu|Nate}}
+| â€”
+| {{tribebox|lewatu|Sophi}}
+| {{tribebox|lewatu|Savannah}}
+| {{tribebox|lewatu|Sophie}}
+| {{tribebox|lewatu|Sophi}}
+| colspan="2" {{tribebox|out}}
+|
+|
+| {{tribebox|lewatu|Savannah}}
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|hina}}{{tribeicon1|kele}}{{tribeicon1|uli}}
+| align="left"| Sophie
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|lewatu|Nate}}
+| {{tribebox|lewatu|MC}}
+| {{tribebox|lewatu|Alex}}
+| {{tribebox|lewatu|Jawan}}
+| {{tribebox|lewatu|Savannah}}
+| colspan="3" {{tribebox|out}}
+|
+|
+| {{tribebox|lewatu|Savannah}}
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|uli}}{{tribeicon1|hina}}{{tribeicon1|kele}}
+| align="left"| Jawan
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|hina|Matt}}
+| {{tribebox|hina|Jason}}
+| {{tribebox|kele|Shannon}}
+| {{tribebox|lewatu|Nate}}
+| {{tribebox|lewatu|MC}}
+| {{tribebox|lewatu|Alex}}
+| {{tribebox|lewatu|Savannah}}
+| colspan="4" {{tribebox|out}}
+| {{tribebox|lewatu|Sage}}
+|
+|
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|kele}}{{tribeicon1|kele}}{{tribeicon1|uli}}
+| align="left"| Alex
+| {{tribebox|kele|Nicole}}
+| {{tribebox|kele|Annie}}
+| â€”
+| {{tribebox|kele|Jeremiah}}
+| â€”
+| â€”
+| â€”
+| {{tribebox|lewatu|Nate}}
+| â€”
+| {{tribebox|lewatu|Rizo}}
+| colspan="5" {{tribebox|out}}
+|
+|
+| {{tribebox|lewatu|Savannah}}
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|hina}}{{tribeicon1|kele}}{{tribeicon1|hina}}
+| align="left"| MC
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|lewatu|Nate}}
+| {{tribebox|lewatu|Sophie}}
+| colspan="6" {{tribebox|out}}
+|
+| {{tribebox|lewatu|Sophi}}
+|
+|-
+| align="left" {{tribebox2|lewatu}}{{tribeicon1|uli}}{{tribeicon1|hina}}{{tribeicon1|uli}}
+| align="left"| Nate
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|hina|Matt}}
+| {{tribebox|hina|Jason}}
+| â€”
+| {{tribebox|lewatu|Steven}}
+| colspan="7" {{tribebox|out}}
+|
+|
+| {{tribebox|lewatu|Savannah}}
+|-
+| align="left" {{tribebox2|kele}}{{tribeicon1|uli}}{{tribeicon1|kele}}
+| align="left"| Shannon
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|kele|Jawan}}
+| colspan="11" {{tribebox|out}}
+|-
+| align="left" {{tribebox2|hina}}{{tribeicon1|hina}}
+| align="left"| Jason
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|hina|Matt}}
+| {{tribebox|hina|Rizo}}
+| colspan="12" {{tribebox|out}}
+|-
+| align="left" {{tribebox2|hina}}{{tribeicon1|hina}}
+| align="left"| Matt
+| â€”
+| â€”
+| â€”
+| â€”
+| {{tribebox|hina|Nate}}
+| colspan="13" {{tribebox|out}}
+|-
+| align="left" {{tribebox2|kele}}
+| align="left"| Jeremiah
+| {{tribebox|kele|Nicole}}
+| {{tribebox|kele|Annie}}
+| â€”
+| {{tribebox|kele|<s>Alex</s>}}
+| colspan="14" {{tribebox|out}}
+|-
+| align="left" {{tribebox2|kele}}
+| align="left"| Jake
+| {{tribebox|kele|Nicole}}
+| {{tribebox|kele|Annie}}
+| {{tribebox|status|''Evacuated''}}
+| colspan="15" {{tribebox|out}}
+|-
+| align="left" {{tribebox2|kele}}
+| align="left"| Annie
+| {{tribebox|kele|Nicole}}
+| {{tribebox|kele|Sophi}}
+| colspan="16" {{tribebox|out}}
+|-
+| align="left" {{tribebox2|kele}}
+| align="left"| Nicole
+| {{tribebox|kele|Annie}}
+| colspan="17" {{tribebox|out}}
+|-
+| colspan="100%" align="left" style="width:50px"| '''Notes:'''
+{{refbegin}}{{note|jake|1}} Jake was evacuated due to a snake bite. No vote occurred for his removal.<br />{{note|idol|2}} A Hidden Immunity Idol was played, negating all votes against its user.<br />{{note|idol|3}} A Hidden Immunity Idol was played; however, no votes were cast against its user.<br />{{note|advantage|4}} This castaway banked their vote, abstaining from the vote in exchange for an Extra Vote that can be played at a future Tribal Council.<br />{{note|extra|5}} This castaway played an Extra Vote advantage, allowing them to vote twice at Tribal Council.<br />{{note|block|6}} This castaway's vote was blocked by a Vote Blocker.<br />{{note|firemaking|7}} Instead of a traditional vote, the winner of the Immunity Challenge, Sophi, would choose someone to take with them to the Final Three. She chose Sage. The remaining two castaways would compete in a fire-making challenge to determine the last finalist.{{refend}}
+|}

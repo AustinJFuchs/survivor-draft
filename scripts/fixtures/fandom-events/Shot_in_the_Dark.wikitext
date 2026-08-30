@@ -1,0 +1,247 @@
+{{Gameplay
+| name            = Shot in the Dark
+| image           = Shot_in_the_Dark.png
+| description     = A die which gives a player in trouble a chance at safety
+| seasonsappeared = '''United States'''<br>{{S2|41}} - present<br>'''Finland'''<br>{{S2|9fi}}<br>'''QuÃ©bec'''<br>{{S2|4qc}}
+}}
+The '''Shot in the Dark''', also known as the '''Dice of Fate''' in the Finnish version and the '''Roll of the Die''' in the Quebecois version, is a game mechanic first introduced in {{S|41}}. The mechanic gives castaways a one-in-six chance to be safe in exchange for their vote in Tribal Council.
+==Overview==
+Prior to its introduction, the concept of a luck-based method of negating all votes received at tribal council was first seen with the [[Advantage#50/50 Coin|50/50 Coin]] in the season prior, {{S|40}}.
+
+At the start of the game, each castaway receives a six-sided die. If a player perceives certain trouble at [[Tribal Council]], they may invoke the Shot in the Dark at any point until the final seven (or final six in {{S|42}}). To do so, the player will not vote and instead insert their die in a smaller urn next to the regular voting [[urn]], after which the player will randomly select one of many rolled-up parchments from a container. The player takes their selected scroll to their seat until the host returns with the voting urn. When the host asks if someone wants to play an [[advantage]] or a [[Hidden Immunity Idol]], the player(s) who used the Shot in the Dark must present their still-unopened scroll; if it reads "Safe", then all votes cast against them will be negated, similar to how a regular idol is played. If the scroll reads "Not Safe", all votes cast against the player will remain valid and the gamble is considered unsuccessful.
+
+According to Executive Producer Matt Van Wagenen, the odds of each player obtaining immunity, regardless of who "rolled" first or who had already selected a "Safe" scroll, will remain the same.<ref>https://twitter.com/TheRealChrissyH/status/1441000778559377412</ref> Prior to the [[merge]], the urn contained six scrolls, with only one reading "Safe". When the tribes merged with twelve players, the number of scrolls also increased to twelve, with two reading "Safe" to maintain the same odds as in the pre-merge phase of the game.
+
+In order to invoke the Shot in the Dark, the player ''must'' have a freely-castable vote to begin with. In other words, players who have lost, stolen, or otherwise had no control of  their vote by any means are not eligible to play the advantage until their penalty is lifted. It is unclear how this restriction would interact with the Goodwill Advantage introduced in {{S|45}}. Additionally, like the Hidden Immunity Idol, the player must physically be in possession of the Shot in the Dark die at Tribal Council, failing which they will be unable to play it.
+
+In an episode of ''[[Rob Has a Podcast]]'', [[Maryanne Oketch]] has stated that a player in possession of multiple Shots in the Dark may only play one die at each Tribal Council, but may play as many dice as they come to possess over the course of the season.<ref>https://robhasawebsite.com/survivor45-episode2-knowitalls/ (1:14:00)</ref>
+==Appearance==
+The Shot in the Dark die is presented as a carved six-sided die, symbolizing the one-in-six shot of success. In practice, rather than being rolled, a player intending to use their die would simply cast it in a box at the voting booth at Tribal Council before randomly selecting a scroll from the urn.
+==Strategy==
+Described by host [[Jeff Probst]] as a "Hail Mary" move, when a player is in certain danger of being voted out with no available options left, the die can be used as a last resort. With nothing to lose except their vote at Tribal Council, a player may be able to change the direction of the vote, despite the odds of having a favorable outcome being slim.<ref>https://heavy.com/entertainment/survivor/season-41-jeff-probst-shot-in-the-dark/</ref>
+
+The introduction of the Shot in the Dark forced alliances to be more discreet in their strategy such that their target was not alerted to play their die. Additionally, castaways are more incentivized to [[Split Vote|split votes]] or cast throwaway votes as contingencies in case a Shot in the Dark is successfully played.
+
+On the other hand, as is with the case of flushing idols, players may consider inciting paranoia to encourage a "safe" target to play (and waste) their Shot in the Dark, removing their ability to potentially save themselves at a later date.
+
+Given that the Shot in the Dark prevents one from casting a vote, players may strategically "waste" their Shot in the Dark even without any threat of elimination. This presumably prevents them from showing their cards and potentially burning bridges with other tribe members.<ref>{{Ep|4401}}, {{S|44}}.</ref> This may also allow a player also holding a [[Hidden Immunity Idol]] to gauge the reactions of their tribemates before deciding to play their idol. Players may also turn over their Shot in the Dark to another player as collateral or as a show of trust.<ref>{{Ep|4502}}, {{S|45}}.</ref>
+
+==Twist History==
+===Survivor 41===
+The twist was initially introduced by Jeff at the inaugural Immunity Challenge on Day 3, though no one opted to use it throughout the pre-merge portion of the game.
+
+The first castaway to use their Shot in the Dark was [[Sydney Segal]] at the Day 14 Tribal Council, feeling uneasy after the live Tribal Council that had ensued. Her scroll ultimately came up as "Not Safe", and she was voted out in a 5-4-3 plurality vote.
+
+At the Day 21 Tribal Council, the game only had seven remaining players, which was the last point the Shot in the Dark can be used. No one used their die, retiring the game mechanic for the season.
+
+===Survivor 42===
+The twist was once again introduced by Jeff at the inaugural Immunity Challenge on Day 3. After the [[Ika]] tribe lost this Immunity Challenge, [[Zach Wurtenberger]] used his Shot in the Dark at that night's Tribal Council. His scroll came up as "Not Safe", and he was unanimously voted out in a 5-0 vote.
+
+On Day 5, when the [[Taku]] tribe lost the second Immunity Challenge, [[Marya Sherron]] used her Shot in the Dark. Her scroll came up as "Not Safe", and she was unanimously voted out in a 4-0 vote. Additionally, this was the first time that Jeff, and not the user, revealed the contents of the scroll.
+
+On Day 9, Ika lost the fourth Immunity Challenge. At Tribal Council, [[Swati Goel]] used her Shot in the Dark. Her scroll came up as "Not Safe", and she was voted out in a 3-1 vote. Like with Marya, Jeff revealed the contents of her scroll.
+
+On Day 17, the [[Kula Kula]] tribe was split into two teams of five for the [[Split Tribal Council]]. At the blue team's Tribal Council, [[Drea Wheeler]] and [[Maryanne Oketch]] played their idols before the votes, granting them immunity. Verbally, the rest of the team agreed that they would be unanimously voting against [[Tori Meehan]]. Without any votes being formally cast, Tori played her Shot in the Dark; should it work, [[Lindsay Dolashewich]] would then be voted out by default. Jeff revealed that Tori's scroll came up as "Not Safe", and she was voted out in a 4-0 vote.
+
+As opposed to ''Survivor 41'', the Shot in the Dark could be played up until the final six Tribal Council on Day 23; nobody opted to play their Shot in the Dark then, hence ending the mechanic for the season.
+===Survivor 43===
+The Shot in the Dark was not invoked until the final seven Tribal Council on Day 21 by [[Sami Layadi]], but his scroll came up as "Not Safe", and he was unanimously voted out in a 6-0 vote.
+===Survivor 44===
+On Day 3, [[Jaime Lynn Ruiz]] and [[Matthew Grinstead-Mayle]] both played their Shots in the Dark at [[Ratu]]'s first Tribal Council. Matthew's scroll came up "Not Safe", while Jaime became the first person whose scroll showed "Safe". Their plays prompted [[Brandon Cottom]] to play his [[Hidden Immunity Idol]], which negated two votes and caused [[Maddy Pomilla]] to be eliminated in a 1-0 vote.
+
+On Day 7, [[Claire Rafson]] played her Shot in the Dark at [[Soka]]'s first Tribal Council. Her scroll came up "Not Safe", and she was voted out in a unanimous 4-0 vote.
+===Survivor 45===
+On Day 13, [[Kaleb Gebrewold]] played his Shot in the Dark at the final thirteen Tribal Council. His scroll came up as "Safe", negating all 11 votes cast against him, with [[Austin Li Coon]] having abstained from the vote. On the vote restart, [[J. Maya]] was voted out, 10-1.
+
+On Day 16, [[Jake O'Kane]] played his Shot in the Dark at the final ten Tribal Council. His scroll came up as "Not Safe" and the 3 votes he received remained valid. Ultimately, [[Kellie Nalbandian]] was voted out, 5-3.
+===Survivor 46===
+On Day 13, [[Moriah Gaynor]] played her Shot in the Dark at the final thirteen Tribal Council. Her scroll came up as "Not Safe" and she was voted out in a 10-1 vote.
+
+=== Survivor 47 ===
+On Day 15, [[Rachel LaMont]] played her Shot in the Dark at the final eleven Tribal Council. Her scroll came up as "Not Safe", but she did not receive any votes. Instead, there was a 4-4-1 tie between [[Sam Phalen]] and [[Sierra Wright]]; in the revote, Sierra was voted out 8-1 over Sam.
+
+At the Day 18 [[Immunity Challenge]], the eight players who had not yet played their Shot in the Dark all agreed to give them up in exchange for a bag of rice.
+
+=== Survivor 48 ===
+On Day 3, [[Stephanie Berger]] played her Shot in the Dark at [[Vula]]'s first Tribal Council. Her scroll came up as "Not Safe", and she was voted out in a 4-1 vote.
+
+On Day 7, [[Mary Zheng]] used her Shot in the Dark at Vula's third Tribal Council. Her scroll came up as "Safe", negating 2 votes cast against her, resulting in a [[Null Vote|null vote]] since [[Justin Pioppi]] had lost his right to vote. The vote restart resulted in a 1-1 tie between Justin and [[Saiounia Hughley]]. Nobody changed their vote on the revote, leading to a deadlock. [[Cedrek McFadden]] was the only person eligible to vote in the consensus tiebreaker and he chose to vote out Justin, eliminating him from the game.
+
+=== Survivor 50: In the Hands of the Fans ===
+On Day 13, [[Genevieve Mushaluk]] played her Shot in the Dark at [[Manulevu]]'s second Tribal Council during the [[The Blood Moon|Blood Moon]] twist. Her scroll came up as "Not Safe", and she was voted out in a unanimous 4-0 vote.
+
+On Day 15, [[Dee Valladares]] used her Shot in the Dark at the final fourteen Tribal Council. Her scroll came up as "Not Safe", and she was voted out in an 8-4-1 vote.
+
+At the Day 16 Immunity Challenge, Jeff Probst announced that, due to the [[Tied Destinies (twist)|Double Duo]] twist, if any player used their Shot in the Dark at Tribal Council, its outcome would affect both its player and their partner. At that night's Tribal Council, [[Coach Wade]] played his Shot in the Dark for himself and his partner, [[Chrissy Hofbeck]]. His scroll came up as "Not Safe", and both Chrissy and Coach were voted out in a 10-1-1 vote.
+
+On Day 22, [[Rick Devens]] played his Shot in the Dark at the final six Tribal Council. His scroll came up as "Not Safe", and he was voted out unanimously 6-0.
+
+===Summary===
+{| class="wikitable" style="margin:auto; text-align:center; font-size: 8pt; line-height:18px;"
+! Season
+! Episode
+! Took Gamble
+! Result
+! Correct?
+! colspan="2"|Voted Out
+|-
+| {{S|41}}
+| {{Ep|4107}}
+| {{tribebox-pt|none|S41 sydney t.png|60px|Sydney Segal}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 5 votes<br />['''5'''-4-3]
+| colspan="2" {{tribebox-pt|none|S41 sydney bw.png|60px|Sydney Segal}}
+|-
+| rowspan="4" |{{S|42}}
+| {{Ep|4201}}
+| {{tribebox-pt|ika|S42 zach t.png|60px|Zach Wurtenberger}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 5 votes<br />['''5'''-0]
+| colspan="2" {{tribebox-pt|ika|S42 zach bw.png|60px|Zach Wurtenberger}}
+|-
+| {{Ep|4202}}
+| {{tribebox-pt|taku|S42 marya t.png|60px|Marya Sherron}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 4 votes<br />['''4'''-0]
+| colspan="2" {{tribebox-pt|taku|S42 marya bw.png|60px|Marya Sherron}}
+|-
+| {{Ep|4204}}
+| {{tribebox-pt|ika|S42 swati t.png|60px|Swati Goel}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 3 votes<br />['''3'''-1]
+| colspan="2" {{tribebox-pt|ika|S42 swati bw.png|60px|Swati Goel}}
+|-
+| {{Ep|4209}}
+| {{tribebox-pt|kulakula|S42 tori t.png|60px|Tori Meehan}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 4 votes<br />['''4'''-0]
+| colspan="2" {{tribebox-pt|kulakula|S42 tori bw.png|60px|Tori Meehan}}
+|-
+| {{S|43}}
+| {{Ep|4311}}
+| {{tribebox-pt|gaia|S43 sami t.png|60px|Sami Layadi}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 6 votes<br />['''6'''-0]
+| colspan="2" {{tribebox-pt|gaia|S43 sami bw.png|60px|Sami Layadi}}
+|-
+| rowspan="3"|{{S|44}}
+| rowspan="2"|{{Ep|4401}}
+| {{tribebox-pt|ratu|S44 jaime t.png|60px|Jaime Lynn Ruiz}}
+| {{tribebox|yes}} {{yn|y}}<br />Safe<br />(negated 0 votes)
+| {{tribebox|no}} {{yn|n}}<br />received 0 votes
+| rowspan="2" colspan="2" {{tribebox-pt|ratu|S44 maddy bw.png|60px|Maddy Pomilla}}
+|-
+| {{tribebox-pt|ratu|S44 matthew t.png|60px|Matthew Grinstead-Mayle}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|no}} {{yn|n}}<br />received 0 votes
+|-
+| {{Ep|4403}}
+| {{tribebox-pt|soka|S44 claire t.png|60px|Claire Rafson}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 4 votes<br />['''4'''-0]
+| colspan="2" {{tribebox-pt|soka|S44 claire bw.png|60px|Claire Rafson}}
+|-
+| rowspan="2"|{{S|45}}
+| {{Ep|4506}}
+| {{tribebox-pt|none|S45 kaleb t.png|60px|Kaleb Gebrewold}}
+| {{tribebox|yes}} {{yn|y}}<br />Safe<br />(negated 11 votes)
+| {{tribebox|yes}} {{yn|y}}<br />received 11 votes<br />['''11'''-0]
+| colspan="2" {{tribebox-pt|none|S45 jmaya bw.png|60px|J. Maya}}
+|-
+| {{Ep|4508}}
+| {{tribebox-pt|dakuwaqa|S45 jake t.png|60px|Jake O'Kane}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|no}} {{yn|n}}<br />received 3 votes<br />[5-'''3''']
+| colspan="2" {{tribebox-pt|dakuwaqa|S45 kellie bw.png|60px|Kellie Nalbandian}}
+|-
+| {{S|46}}
+| {{Ep|4606}}
+| {{tribebox-pt|none|S46 moriah t.png|60px|Moriah Gaynor}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 10 votes<br />['''10'''-1]
+| colspan="2" {{tribebox-pt|none|S46 moriah bw.png|60px|Moriah Gaynor}}
+|-
+| {{S|47}}
+| {{Ep|4708}}
+| {{tribebox-pt|beka|S47 rachel t.png|60px|Rachel LaMont}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|no}} {{yn|n}}<br />received 0 votes
+| colspan="2" {{tribebox-pt|beka|S47 sierra bw.png|60px|Sierra Wright}}
+|-
+| rowspan="2"|{{S|48}}
+| {{Ep|4801}}
+| {{tribebox-pt|vula|S48 stephanie t.png|60px|Stephanie Berger}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 4 votes<br />['''4'''-1]
+| colspan="2" {{tribebox-pt|vula|S48 stephanie bw.png|60px|Stephanie Berger}}
+|-
+| {{Ep|4803}}
+| {{tribebox-pt|vula|S48 mary t.png|60px|Mary Zheng}}
+| {{tribebox|yes}} {{yn|y}}<br />Safe<br />(negated 2 votes)
+| {{tribebox|yes}} {{yn|y}}<br />received 2 votes<br />['''2'''-0]
+| colspan="2" {{tribebox-pt|vula|S48 justin bw.png|60px|Justin Pioppi}}
+|-
+| rowspan="4"|{{S2|50}}
+| {{Ep|5006}}
+| {{tribebox-pt|manulevu|S50 genevieve t.png|60px|Genevieve Mushaluk}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 4 votes<br />['''4'''-0]
+| colspan="2" {{tribebox-pt|manulevu|S50 genevieve bw.png|60px|Genevieve Mushaluk}}
+|-
+| {{Ep|5007}}
+| {{tribebox-pt|manulevu|S50 dee t.png|60px|Dee Valladares}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 8 votes<br />['''8'''-4-1]
+| colspan="2" {{tribebox-pt|manulevu|S50 dee bw.png|60px|Dee Valladares}}
+|-
+| {{Ep|5008}}
+| {{tribebox-pt|manulevu|S50 coach t.png|60px|Coach Wade}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 10 votes<br />['''10'''-1-1]
+| {{tribebox-pt|manulevu|S50 chrissy bw.png|60px|Chrissy Hofbeck}}
+| {{tribebox-pt|manulevu|S50 coach bw.png|60px|Coach Wade}}
+|-
+| {{Ep|5012}}
+| {{tribebox-pt|manulevu|S50 rick t.png|60px|Rick Devens}}
+| {{tribebox|no}} {{yn|n}}<br />Not Safe
+| {{tribebox|yes}} {{yn|y}}<br />received 6 votes<br />['''6'''-0]
+| colspan="2" {{tribebox-pt|manulevu|S50 rick bw.png|60px|Rick Devens}}
+|}
+
+==Gallery==
+<gallery orientation="none">
+Sydney shot in the dark.jpg|[[Sydney Segal|Sydney]] draws the "Not Safe" scroll.
+Zachattribal.jpeg|[[Zach Wurtenberger|Zach]] shows the "Not Safe" scroll.
+swati shot in the dark.jpg|[[Swati Goel|Swati]] plays her Shot in the Dark.
+Tori Shot in the Dark.jpg|[[Tori Meehan|Tori]] plays her Shot in the Dark.
+sami shot in the dark.jpg|[[Sami Layadi|Sami]] plays his Shot in the Dark.
+s44 safe shot in the dark.jpg|Jeff Probst revealing the first successful Shot in the Dark play.
+S45e06 tribal council.jpg|The castaways react to [[Kaleb Gebrewold|Kaleb]]'s Shot in the Dark play in {{S|45}}.
+S48e03 mary sitd.jpg|[[Mary Zheng|Mary]] announcing she played her Shot in the Dark.
+</gallery>
+
+==Trivia==
+* Until {{S|44}}, every contestant to play the Shot in the Dark had been eliminated at that same Tribal Council.
+**[[Jaime Lynn Ruiz]] and [[Matthew Grinstead-Mayle]] were the first two contestants to play their Shot in the Dark and not be eliminated at that same Tribal Council.
+***Jaime was the first contestant to successfully play their Shot in the Dark.
+***Matthew was the first contestant to unsuccessfully play their Shot in the Dark but not receive enough votes to be eliminated at that same Tribal Council, and the first to do so and not receive any votes at all.
+* [[Kaleb Gebrewold]] was the first contestant to successfully play their Shot in the Dark and negate votes cast against them. By extension, he is the first contestant to negate a majority of the votes by playing his Shot in the Dark.
+* [[Mary Zheng]] was the first female contestant to successfully play her Shot in the Dark and negate votes cast against them.
+* [[Jake O'Kane]] is the first player to play his Shot in the Dark unsuccessfully and receive votes, but not be voted out.
+* [[Swati Goel]] was the first contestant to have played the Shot in the Dark after previously casting a vote in their season.
+* [[Emily Flippen]] was the first contestant to give away her Shot in the Dark die.
+* In ''Survivor 42'', [[Vati]] was the only tribe of which no members played their Shot in the Dark.
+* Each of the Shot in the Dark bags bears the emblem of that season's [[merge]]d tribe.
+* [[Rachel LaMont]] was the first contestant to play their Shot in the Dark whilst having a [[Hidden Immunity Idol]] in their possession.
+** Rachel is also the first [[Sole Survivor]] to play their Shot in the Dark.
+* {{S2|49}} is the first season to have no castaways use their Shot in the Dark.
+* [[Genevieve Mushaluk]] was the first contestant to play the Shot in the Dark as a [[Returning Players|returning player.]]
+** [[Coach Wade]] is the first pre-new era contestant to play the Shot in the Dark, and by extension the first person who debuted prior to the Shot in the Dark to play it.
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Gameplay]]
+[[Category:Twists]]
+[[Category:Survivor (U.S.)]]
+[[Category:Survivor (franchise)]]

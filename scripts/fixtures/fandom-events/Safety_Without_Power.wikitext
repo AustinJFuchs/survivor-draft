@@ -1,0 +1,94 @@
+{{twist
+| image=safety without power.jpeg 
+| description= The ability to leave [[Tribal Council]] prior to the votes being cast
+| seasonsappeared={{S2|39}}<br />{{S2|40}}<br />{{S2|45}}<br />{{S2|47}}<br />{{S2|48}}
+}}The '''Safety Without Power''' is an [[advantage]] that allows players to leave [[Tribal Council]] before the votes are cast, gaining immunity at the cost of their vote.
+
+==Overview==
+Before the votes are cast, the holder must announce their intention to use this advantage. Upon handing the advantage to Jeff, the holder may then grab their torch and leave Tribal Council. As they are no longer present for the vote, the holder cannot cast a vote at that Tribal Council, but in turn cannot be voted out.
+
+The Safety Without Power cannot nullify the use of another advantage.<ref>{{cite web|url=https://ew.com/tv/survivor-jeff-probst-winners-at-war-tony-vlachos-episode-11-interview/ |title=Jeff Probst on Tony's three days of Survivor dominance |work=Entertainment Weekly |last=Ross |first=Dalton |date=April 23, 2020 |accessdate=April 23, 2020}}</ref>
+
+==Strategy==
+The main use of the Safety Without Power advantage is to protect the holder from being voted out. This is especially true for players who are on the bottom strategically, as losing their vote may be a small drawback if it would not have changed the outcome of the vote regardless.
+
+For players not on the bottom, however, using the advantage can be an active detriment. Unlike a [[Hidden Immunity Idol]], which can be used to grant safety and break close votes in the user's favor, the Safety Without Power resulting in the loss of a contestant's vote can severely harm the capabilities of an alliance, possibly putting them in the minority and leaving them open to a [[pagonging]] at the hands of an opposing alliance.
+
+The other drawback of the Safety Without Power is its user being required to leave Tribal Council. Though the holder will know who was voted out after the other contestants return to camp, they will not know the events that transpired after their departure, potentially resulting in the loss of crucial information if the holder has no allies to fill them in on what they missed.
+
+==History==
+===Island of the Idols===
+On Day 17, [[Janet Carbin]] was selected by random draw to visit the [[Island of the Idols (twist)|Island of the Idols]]. There, she was greeted by mentors [[Rob Mariano]] and [[Sandra Diaz-Twine]], who gave her the chance to play a game for the chance to win the Safety Without Power advantage. Janet ultimately declined the offer, with the advantage never entering play.
+===Winners at War===
+The first time the Safety Without Power entered play was on Day 5 of {{S2|40}}. [[Natalie Anderson]] found the Safety Without Power on the {{Dab-twist|Edge of Extinction}}, which could be used until there were ten contestants remaining in the game. She was instructed to sell the advantage to a player in the main game for one [[Fire Token]]; she chose to send it to her friend and ally [[Jeremy Collins]], who purchased the advantage. Jeremy ultimately used the advantage at the Day 25 Tribal Council, saving himself from elimination at the hands of the opposing alliance, but leaving his alliance exposed and resulting in [[Tyson Apostol]]'s elimination.
+===Survivor 45===
+On Day 4, [[Bruce Perreault]] of [[Belo]], [[Brandon Donlon]] of [[Lulu]], and [[Drew Basile]] of [[Reba]] were selected to go on a [[Summit|journey]]. After taking time to get to know each other, the three men parted ways to each find a matching game with a box containing an advantage that could be opened by completing it. While Bruce elected not to play the game and Brandon played the game but lost, Drew managed to win the game and obtained the Safety Without Power advantage, which could be used at any Tribal Council until the final ten. Upon reaching the final ten Tribal Council, Drew elected not to play his advantage, leaving it to expire unused.
+===Survivor 47===
+During the reward on Day 13, [[Sol Yi]] found the [[Advantage Menu|Take Your Pick]] advantage, which he was instructed to send to one person on the losing team during the [[Group Tribal Council]]; the recipient could then choose between Safety Without Power or a [[Vote Blocker]], either of which were only valid for that Tribal Council. Sol chose to send it to [[Rachel LaMont]], who chose Safety Without Power and left Tribal Council where she was the only original [[Gata]] member against five [[Tuku]] members. This forced Tuku to turn on each other and led to [[Tiyana Hallums]] being voted out unanimously.
+===Survivor 48===
+After winning the reward on Day 15, [[Eva Erickson]] found a scroll directing her to sneak out at camp the next night. When she did, she found a table informing her that she had won an [[Extra Vote]], but that she could risk it for a one-in-two chance at getting the Safety Without Power advantage. She took the gamble and won the advantage, which she could use until the final seven Tribal Council. Eva ultimately let the advantage expire unused.
+
+===Summary===
+{| class="wikitable" style="margin:auto; text-align:center; font-size:8pt; line-height:18px;"
+!Season
+!Location
+!Episode Acquired
+!Original Owner
+!Given To
+!Episode Used
+|-
+|{{S2|39}}
+|[[Island of the Idols]]
+|{{Ep|3907}}
+| colspan="3" |''Not chosen''
+|-
+|{{S2|40}}
+|[[Edge of Extinction (twist)|Edge of Extinction]]
+|{{Ep|4002}}
+|{{nowrap|[[File:S40 jeremy t.png|60px|link=Jeremy Collins]]<br />[[Jeremy Collins]]}}
+|None
+|{{Ep|4010}} 
+|-
+|{{S2|45}}
+|Day 4 [[Summit]]
+|{{Ep|4502}}
+|{{nowrap|[[File:S45 drew t.png|60px|link=Drew Basile]]<br />[[Drew Basile]]}}
+| None
+| Expired in {{Ep|4508}}
+|-
+|{{S2|47}}
+|{{tribehl2|beka}} camp<br /><small>([[Advantage Menu|Take Your Pick]])</small>
+|{{Ep|4707}}
+|{{nowrap|[[File:S47 rachel t.png|60px|link=Rachel LaMont]]<br />[[Rachel LaMont]]}}
+| None
+|"Our Pickle on Blast"
+|-
+|{{S2|48}}
+| {{tribehl2|niunai}} camp
+|{{Ep|4809}}
+|{{nowrap|[[File:S48 eva t.png|60px|link=Eva Erickson]]<br />[[Eva Erickson]]}}
+| None
+| Expired in {{Ep|4811}}
+|}
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{GameplayNav}}
+[[Category:Gameplay]]
+[[Category:Objects]]
+[[Category:Survivor (U.S.)]]
+[[Category:Twists]]
+[[Category:Survivor (franchise)]]
+[[Category:Survivor: Island of the Idols]]
+[[Category:Survivor: Winners at War]]
+[[Category:Survivor 45]]
+[[Category:Survivor 47]]
+[[Category:Survivor 48]]
+[[Category:Australian Survivor]]
+[[Category:Australian Survivor: Champions v Contenders (2019)]]
+[[Category:Australian Survivor: Brains v Brawn]]
+[[Category:Australian Survivor: Blood v Water]]
+[[Category:Australian Survivor: Brains v Brawns II]]
+[[Category:Australian Survivor: Redemption]]

@@ -3,6 +3,7 @@ import { contestantBySlug, data, drafterColor } from "../data";
 import { simulate } from "../lib/analysis";
 import { ChevronIcon } from "./icons";
 import { Photo } from "./ui";
+import { useMeContext } from "../lib/me";
 
 /** Parse/format the scenario in the URL hash query: #/standings?boots=a,b&merge=1&winner=c */
 function readScenario(): { boots: string[]; mergeNow: boolean; winner?: string } {
@@ -43,6 +44,9 @@ export default function WhatIf({ onOpen }: { onOpen: (slug: string) => void }) {
   );
   const current = new Map(data.standings.map((s) => [s.drafterId, s]));
   const dirty = boots.length > 0 || mergeNow || !!winner;
+  const { me } = useMeContext();
+  const mine = me ? rows.find((r) => r.drafterId === me) : undefined;
+  const mineDelta = mine ? mine.total - (current.get(me!)?.total ?? 0) : 0;
 
   const toggleBoot = (slug: string) => {
     setBoots((b) => (b.includes(slug) ? b.filter((x) => x !== slug) : [...b, slug]));
@@ -144,6 +148,14 @@ export default function WhatIf({ onOpen }: { onOpen: (slug: string) => void }) {
             </label>
           </div>
 
+          {mine && dirty && (
+            <div className="rounded-lg bg-torch-500/10 border border-torch-500/30 px-3 py-2 text-sm flex items-center justify-between">
+              <span>
+                ★ You'd be <span className="font-semibold">{mine.rank}{mine.tied ? " (tied)" : ""}</span> with {mine.total} pts
+              </span>
+              <span className={mineDelta > 0 ? "text-palm-400" : mineDelta < 0 ? "text-ember-500" : "text-sand-400"}>{mineDelta > 0 ? `+${mineDelta}` : mineDelta}</span>
+            </div>
+          )}
           <ol className="space-y-1.5">
             {rows.map((r) => {
               const now = current.get(r.drafterId);

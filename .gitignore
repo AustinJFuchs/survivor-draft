@@ -10,3 +10,4 @@ public/photos/*/originals/
 
 # Generated at build time
 public/cards/
+public/api/

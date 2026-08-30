@@ -16,7 +16,9 @@ export default defineConfig({
       injectRegister: null,
       workbox: {
         globPatterns: ["**/*.{js,css,html,svg,webmanifest}", "icons/*.png"],
-        globIgnores: ["cards/**", "photos/**"],
+        globIgnores: ["cards/**", "photos/**", "api/**"],
+        // Only the app shell is an SPA route; anything else (widget page, JSON, images) is real.
+        navigateFallbackDenylist: [/\/widget\.html/, /\/api\//, /\/cards\//, /\/photos\//, /\.(json|png|jpg|xml|txt)$/],
         // Photos and cards are fetched on demand and cached after first use.
         runtimeCaching: [
           { urlPattern: /\/photos\//, handler: "CacheFirst", options: { cacheName: "photos", expiration: { maxEntries: 80, maxAgeSeconds: 60 * 60 * 24 * 30 } } },

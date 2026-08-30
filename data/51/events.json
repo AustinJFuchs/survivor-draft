@@ -1,0 +1,10 @@
+{
+  "syncedAt": "2026-08-30T17:26:59.035Z",
+  "events": [],
+  "claude": {
+    "sourceHash": "3b38348f837c",
+    "generatedAt": "2026-08-30T17:26:59.034Z",
+    "model": "claude-opus-5"
+  },
+  "warnings": []
+}

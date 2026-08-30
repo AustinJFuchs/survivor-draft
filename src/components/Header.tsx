@@ -1,5 +1,6 @@
-import { data } from "../data";
+import { data, drafterById, drafterColor } from "../data";
 import { daysUntil, formatDate } from "../lib/format";
+import { useMeContext } from "../lib/me";
 import { FlameIcon } from "./icons";
 
 function stat() {
@@ -21,9 +22,16 @@ function stat() {
   };
 }
 
-export default function Header() {
+export default function Header({ onOpenDrafter }: { onOpenDrafter: (id: string) => void }) {
   const { season } = data;
   const s = stat();
+  const { me } = useMeContext();
+  const meDrafter = me ? drafterById.get(me) : undefined;
+  const myTeam = meDrafter && (
+    <button onClick={() => onOpenDrafter(meDrafter.id)} className="chip cursor-pointer" style={{ color: drafterColor(meDrafter.id) }} aria-label="My team">
+      ★ My team
+    </button>
+  );
   return (
     <header className="relative overflow-hidden">
       {/* Mobile: one compact line that scrolls away with the page. */}
@@ -35,10 +43,13 @@ export default function Header() {
           </div>
           {season.subtitle && <div className="text-lagoon-400 font-display text-sm tracking-[0.18em] leading-none mt-0.5">{season.subtitle}</div>}
         </div>
-        <div className="card px-3 py-1.5 text-right shrink-0">
-          <div className="text-[9px] uppercase tracking-widest text-sand-400 leading-none">{s.label}</div>
-          <div className="font-display text-lg text-torch-400 leading-tight">{s.big}</div>
-          <div className="text-[10px] text-sand-300 leading-none">{s.small}</div>
+        <div className="flex items-center gap-2 shrink-0">
+          {myTeam}
+          <div className="card px-3 py-1.5 text-right">
+            <div className="text-[9px] uppercase tracking-widest text-sand-400 leading-none">{s.label}</div>
+            <div className="font-display text-lg text-torch-400 leading-tight">{s.big}</div>
+            <div className="text-[10px] text-sand-300 leading-none">{s.small}</div>
+          </div>
         </div>
       </div>
 
@@ -53,10 +64,13 @@ export default function Header() {
             {season.subtitle && <span className="block text-lagoon-400 text-3xl tracking-[0.15em] mt-1">{season.subtitle}</span>}
           </h1>
         </div>
-        <div className="card px-4 py-3 text-right">
-          <div className="text-xs uppercase tracking-widest text-sand-400">{s.label}</div>
-          <div className="font-display text-3xl text-torch-400 leading-none mt-1">{s.big}</div>
-          <div className="text-xs text-sand-300 mt-1">{s.small}</div>
+        <div className="flex items-center gap-3">
+          {myTeam}
+          <div className="card px-4 py-3 text-right">
+            <div className="text-xs uppercase tracking-widest text-sand-400">{s.label}</div>
+            <div className="font-display text-3xl text-torch-400 leading-none mt-1">{s.big}</div>
+            <div className="text-xs text-sand-300 mt-1">{s.small}</div>
+          </div>
         </div>
       </div>
     </header>

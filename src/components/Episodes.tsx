@@ -6,6 +6,7 @@ import { DrafterChip, Photo, SectionTitle } from "./ui";
 import ShareButton from "./ShareButton";
 import VotingMatrix from "./VotingMatrix";
 import RundownCard from "./RundownCard";
+import TorchWall, { eventGlyph } from "./TorchWall";
 
 export default function Episodes({ onOpen }: { onOpen: (slug: string) => void }) {
   const aired = data.episodes.filter((e) => e.aired || e.eliminations.length > 0).sort((a, b) => b.number - a.number);
@@ -33,6 +34,8 @@ export default function Episodes({ onOpen }: { onOpen: (slug: string) => void })
       )}
 
       {aired.length === 0 && <div className="card p-5 text-sm text-sand-300">No episodes yet. Recaps, boots, and Jeff's commentary land here after each Wednesday.</div>}
+
+      <TorchWall onOpen={onOpen} />
 
       <ol className="space-y-2.5 sm:space-y-4">
         {aired.map((ep) => {
@@ -113,6 +116,33 @@ export default function Episodes({ onOpen }: { onOpen: (slug: string) => void })
                       </dl>
                     )}
                     {ep.synopsis && !ep.commentary && <p className="text-sm text-sand-300">{ep.synopsis}</p>}
+                    {ep.events.length > 0 && (
+                      <div>
+                        <h4 className="text-xs uppercase tracking-widest text-sand-400 mb-1">Idols & advantages</h4>
+                        <ul className="space-y-1 text-sm">
+                          {ep.events.map((e) => {
+                            const g = eventGlyph(e);
+                            const c = contestantBySlug.get(e.contestantSlug ?? "");
+                            return (
+                              <li key={e.id} className="flex gap-2">
+                                <span>{g.glyph}</span>
+                                <span>
+                                  {c ? (
+                                    <button onClick={() => onOpen(c.slug)} className="font-semibold hover:text-torch-400">
+                                      {c.shortName}
+                                    </button>
+                                  ) : (
+                                    e.contestant
+                                  )}{" "}
+                                  <span className="text-sand-200">{g.label}</span>
+                                  {e.day ? <span className="text-sand-400"> · Day {e.day}</span> : null}
+                                </span>
+                              </li>
+                            );
+                          })}
+                        </ul>
+                      </div>
+                    )}
                   </div>
 
                   <div className="space-y-4">

@@ -1,9 +1,22 @@
-import { data } from "../data";
+import { useState } from "react";
+import { data, drafterColor } from "../data";
 import { formatDateTime } from "../lib/format";
+import { meLink, useMeContext } from "../lib/me";
 import { SectionTitle } from "./ui";
 
 export default function Rules({ theme, onToggleTheme }: { theme: "dark" | "light"; onToggleTheme: () => void }) {
   const { season } = data;
+  const { me, setMe } = useMeContext();
+  const [copied, setCopied] = useState<string | null>(null);
+  const copy = async (id: string) => {
+    try {
+      await navigator.clipboard.writeText(meLink(id));
+      setCopied(id);
+      setTimeout(() => setCopied(null), 1500);
+    } catch {
+      /* ignore */
+    }
+  };
   const { scoring, handicap } = season;
   const drafters = [...season.drafters].sort((a, b) => a.draftPosition - b.draftPosition);
   return (
@@ -71,6 +84,64 @@ export default function Rules({ theme, onToggleTheme }: { theme: "dark" | "light
         </div>
       )}
 
+      <div className="card p-4 sm:p-5 text-sm space-y-2">
+        <h3 className="font-display text-2xl">Who are you?</h3>
+        <p className="text-sand-300 text-xs">Pick yourself and this device highlights your team everywhere. Each drafter has a personal link you can text them.</p>
+        <div className="flex flex-wrap gap-1.5">
+          {season.drafters.map((d) => (
+            <button key={d.id} onClick={() => setMe(me === d.id ? undefined : d.id)} className={`chip cursor-pointer ${me === d.id ? "bg-sand-100 !text-night-950 border-sand-100" : ""}`} style={me === d.id ? undefined : { color: drafterColor(d.id) }}>
+              {me === d.id ? "★ " : ""}
+              {d.name}
+            </button>
+          ))}
+          {me && (
+            <button onClick={() => setMe(undefined)} className="chip text-sand-400 cursor-pointer">
+              Not me
+            </button>
+          )}
+        </div>
+        <ul className="text-xs text-sand-400 space-y-0.5">
+          {season.drafters.map((d) => (
+            <li key={d.id} className="flex items-center gap-2">
+              <span style={{ color: drafterColor(d.id) }}>{d.name}</span>
+              <code className="text-sand-300 truncate">?me={d.id}</code>
+              <button onClick={() => copy(d.id)} className="chip cursor-pointer text-sand-300">
+                {copied === d.id ? "Copied" : "Copy link"}
+              </button>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div className="card p-4 sm:p-5 text-sm space-y-1">
+        <h3 className="font-display text-2xl">Widgets & data</h3>
+        <p className="text-sand-300 text-xs">
+          Standings on your home screen: iPhone via the free <span className="text-sand-100">Scriptable</span> app, Android via any web-widget app or KWGT.
+        </p>
+        <ul className="text-xs text-sand-300 space-y-0.5">
+          <li>
+            <a className="underline" href={`${import.meta.env.BASE_URL}widget.html`} target="_blank" rel="noreferrer">
+              widget.html
+            </a>{" "}
+            — chrome-less standings page (pin it with a web-widget app)
+          </li>
+          <li>
+            <a className="underline" href="https://github.com/AustinJFuchs/survivor-draft/blob/main/docs/widgets.md" target="_blank" rel="noreferrer">
+              Setup guide + Scriptable script
+            </a>
+          </li>
+          <li>
+            <a className="underline" href={`${import.meta.env.BASE_URL}api/standings.json`} target="_blank" rel="noreferrer">
+              api/standings.json
+            </a>{" "}
+            ·{" "}
+            <a className="underline" href={`${import.meta.env.BASE_URL}api/season.json`} target="_blank" rel="noreferrer">
+              api/season.json
+            </a>
+          </li>
+        </ul>
+      </div>
+
       <div className="card p-4 sm:p-5 text-sm flex items-center justify-between gap-3">
         <div>
           <h3 className="font-display text-2xl">Appearance</h3>
@@ -95,6 +166,7 @@ export default function Rules({ theme, onToggleTheme }: { theme: "dark" | "light
           <li>👑 Kingmaker · drafted the Sole Survivor</li>
           <li>⚖️ Jury Duty · most jurors</li>
           <li>🏆 Immunity Hoarder · most individual immunity wins</li>
+          <li>🗿 Idol Whisperer · most idols & advantages found</li>
         </ul>
       </div>
 

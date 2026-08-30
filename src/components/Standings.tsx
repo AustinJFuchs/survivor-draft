@@ -9,6 +9,8 @@ import ShareButton from "./ShareButton";
 import { Photo, Points, SectionTitle, StatusPill } from "./ui";
 import WhatIf from "./WhatIf";
 import RundownCard from "./RundownCard";
+import ReviewCard from "./ReviewCard";
+import { useMeContext } from "../lib/me";
 
 export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: string) => void; onOpenDrafter: (id: string) => void }) {
   const { season, standings } = data;
@@ -17,6 +19,7 @@ export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: st
   const [open, setOpen] = useState<Record<string, boolean>>({});
   const toggle = (id: string) => setOpen((o) => ({ ...o, [id]: !o[id] }));
   const statsOf = (id: string) => data.drafterStats.find((s) => s.drafterId === id);
+  const { me } = useMeContext();
 
   return (
     <section className="space-y-4 sm:space-y-5">
@@ -31,7 +34,7 @@ export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: st
         Standings
       </SectionTitle>
 
-      {data.latestRundown && <RundownCard rundown={data.latestRundown} onOpenDrafter={onOpenDrafter} />}
+      {data.review ? <ReviewCard onOpen={onOpen} onOpenDrafter={onOpenDrafter} /> : data.latestRundown && <RundownCard rundown={data.latestRundown} onOpenDrafter={onOpenDrafter} />}
 
       <div className="card p-3 sm:p-5 flex items-center gap-3 sm:gap-5 border-torch-500/40 bg-gradient-to-r from-torch-600/20 to-transparent">
         <div className="text-2xl sm:text-3xl">🏆</div>
@@ -57,7 +60,7 @@ export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: st
           const st = statsOf(s.drafterId);
           const proj = st?.projection;
           return (
-            <li key={s.drafterId} className="card overflow-hidden" style={{ borderLeftColor: color, borderLeftWidth: 4 }}>
+            <li key={s.drafterId} className={`card overflow-hidden ${me === s.drafterId ? "me-glow" : ""}`} style={{ borderLeftColor: color, borderLeftWidth: 4, ["--me" as string]: color }}>
               <div className="p-3 sm:p-4">
                 <div className="flex items-center gap-2.5 sm:gap-4">
                   <div className="font-display text-3xl sm:text-5xl w-8 sm:w-14 text-center leading-none" style={{ color }}>
@@ -68,6 +71,7 @@ export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: st
                     <div className="flex items-center gap-2 flex-wrap">
                       <button onClick={() => onOpenDrafter(s.drafterId)} className="font-display text-2xl sm:text-3xl leading-none hover:text-torch-400 transition text-left">
                         {s.name}
+                        {me === s.drafterId && <span className="text-sm text-torch-400 ml-1.5">★ you</span>}
                       </button>
                       {st && <BadgeRow badges={st.badges} />}
                     </div>

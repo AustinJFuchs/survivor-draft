@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { data, drafterById, drafterColor } from "../data";
 import { useIsMobile } from "../lib/useMediaQuery";
+import { useMeContext } from "../lib/me";
 import type { ContestantView } from "../lib/types";
 import { ContestantCard, DrafterChip, Photo, SectionTitle, StatusPill, TribeBadge } from "./ui";
 
@@ -22,6 +23,7 @@ function matches(c: ContestantView, q: string): boolean {
 
 export default function Cast({ onOpen }: { onOpen: (slug: string) => void }) {
   const isMobile = useIsMobile();
+  const { me } = useMeContext();
   const [filter, setFilter] = useState<Filter>("all");
   const [sort, setSort] = useState<"name" | "points" | "pick">("name");
   const [view, setView] = useState<View>(isMobile ? "list" : "grid");
@@ -136,10 +138,11 @@ export default function Cast({ onOpen }: { onOpen: (slug: string) => void }) {
         />
         <div className="flex flex-wrap items-center gap-1.5">
           {chip("all", "All")}
+          {me && chip(`d:${me}`, "★ Mine", drafterColor(me))}
           {data.seasonStarted && chip("active", "In the game")}
           {data.seasonStarted && chip("eliminated", "Out")}
           <span className="w-px h-5 bg-sand-300/20 mx-0.5" />
-          {data.season.drafters.map((d) => chip(`d:${d.id}`, d.name, drafterColor(d.id)))}
+          {data.season.drafters.filter((d) => d.id !== me).map((d) => chip(`d:${d.id}`, d.name, drafterColor(d.id)))}
           <span className="flex-1" />
           {seg(
             group,

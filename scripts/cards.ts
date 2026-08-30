@@ -10,7 +10,7 @@ import { join } from "node:path";
 import satori from "satori";
 import { Resvg } from "@resvg/resvg-js";
 import type { SeasonData, ContestantView } from "../src/lib/types";
-import { buildSeasonData, loadInputs } from "./build-data";
+import { applyDemo, buildSeasonData, loadInputs } from "./build-data";
 import { ROOT, SEASON } from "./lib/paths";
 
 const W = 1080;
@@ -196,6 +196,25 @@ function draftCard(data: SeasonData): Node {
   );
 }
 
+function recapCard(data: SeasonData): Node {
+  const r = data.review!;
+  const champs = r.champion.map((id) => data.season.drafters.find((d) => d.id === id)?.name ?? id).join(" & ");
+  const mvp = r.mvp ? data.contestants.find((c) => c.slug === r.mvp) : undefined;
+  const mvpUri = mvp ? photoDataUri(mvp) : undefined;
+  return frame(
+    data,
+    "Season Recap",
+    r.headline,
+    h(
+      "div",
+      { style: { display: "flex", alignItems: "center", gap: 24, background: C.card, borderRadius: 22, padding: 24, marginBottom: 22 } },
+      h("div", { style: { display: "flex", flexDirection: "column", flex: 1 } }, h("div", { style: display(30, C.torch4, { letterSpacing: 4 }) }, "CHAMPION"), h("div", { style: display(96, C.sand) }, champs), h("div", { style: body(24, C.sand3) }, data.season.prize.description)),
+      mvpUri ? h("div", { style: { display: "flex", flexDirection: "column", alignItems: "center", gap: 6 } }, h("div", { style: { width: 140, height: 180, borderRadius: 14, overflow: "hidden", display: "flex" } }, h("img", { src: mvpUri, width: 140, height: 180, style: { objectFit: "cover", objectPosition: "top" } })), h("div", { style: body(20, C.sand4) }, `MVP · ${mvp!.shortName}`)) : null,
+    ),
+    standingsBlock(data),
+  );
+}
+
 function episodeCard(data: SeasonData, ep: SeasonData["episodes"][number]): Node {
   const boots = ep.eliminations.map((e) => data.contestants.find((c) => c.slug === e.contestantSlug)).filter((c): c is ContestantView => !!c);
   const line = ep.commentary?.bullets[0] ?? ep.commentary?.recap.split(/(?<=[.!?])\s+/)[0] ?? "";
@@ -241,13 +260,15 @@ async function render(node: Node, file: string, fonts: { name: string; data: Buf
 
 async function main() {
   mkdirSync(OUT, { recursive: true });
-  const data = buildSeasonData(loadInputs());
+  // `--demo [--final]` renders from the same fabricated state build-data uses, for visual checks.
+  const data = buildSeasonData(process.argv.includes("--demo") ? applyDemo(loadInputs()) : loadInputs());
   const fonts = [
     { name: "Bebas Neue", data: readFileSync(join(FONTS, "BebasNeue-Regular.ttf")), weight: 400 as const },
     { name: "Inter", data: readFileSync(join(FONTS, "Inter-Regular.woff")), weight: 400 as const },
     { name: "Inter", data: readFileSync(join(FONTS, "Inter-SemiBold.woff")), weight: 600 as const },
   ];
   await render(standingsCard(data), "standings.png", fonts);
+  if (data.review) await render(recapCard(data), "recap.png", fonts);
   if (data.draft.picks.length) await render(draftCard(data), "draft.png", fonts);
   for (const ep of data.episodes.filter((e) => e.eliminations.length > 0)) {
     await render(episodeCard(data, ep), `ep-${ep.number}.png`, fonts);
