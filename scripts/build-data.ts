@@ -24,7 +24,7 @@ import type {
 } from "../src/lib/types";
 import { computeHistory, computeStandings, scoreContestants, sortEliminations } from "../src/lib/scoring";
 import { GRADES_EARLY_UNTIL, computeBadges, computeGrades, computePaths, computeProjection, weekSummaries } from "../src/lib/analysis";
-import type { DrafterStats } from "../src/lib/types";
+import type { DrafterStats, TeamSummary } from "../src/lib/types";
 import { DATA_DIR, GENERATED_DIR, dataPath, readJson, writeJson } from "./lib/paths";
 
 export interface BuildInputs {
@@ -35,6 +35,7 @@ export interface BuildInputs {
   overrides: Overrides;
   commentary: Commentary[];
   profiles: Record<string, Profile>;
+  teams: Record<string, TeamSummary>;
 }
 
 export function loadInputs(): BuildInputs {
@@ -51,7 +52,8 @@ export function loadInputs(): BuildInputs {
     }
   }
   const profiles = readJson<Record<string, Profile>>(dataPath("profiles.json"), {});
-  return { season, contestants, draft, scraped, overrides, commentary, profiles };
+  const teams = readJson<Record<string, TeamSummary>>(dataPath("teams.json"), {});
+  return { season, contestants, draft, scraped, overrides, commentary, profiles, teams };
 }
 
 export function buildSeasonData(inp: BuildInputs): SeasonData {
@@ -295,7 +297,8 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
   const paths = computePaths({ drafters: season.drafters, picks, contestantSlugs, eliminations, milestones, scoring: season.scoring, handicap: season.handicap });
   const drafterStats: DrafterStats[] = season.drafters.map((d) => {
     const mine = picks.filter((p) => p.drafterId === d.id);
-    const g = computeGrades(mine, rankOf, contestants.length);
+    // Grades are meaningless before the first boot (everyone is tied at rank 1).
+    const g = eliminations.length > 0 ? computeGrades(mine, rankOf, contestants.length) : { grades: [] as ReturnType<typeof computeGrades>["grades"] };
     const weeks = weekSummaries(history, d.id);
     const best = weeks.length ? weeks.reduce((a, b) => (b.delta > a.delta ? b : a)) : undefined;
     const worst = weeks.length ? weeks.reduce((a, b) => (b.delta < a.delta ? b : a)) : undefined;
@@ -321,11 +324,22 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
   tribeNames.forEach((t, i) => (tribeColors[t] = TRIBE_PALETTE[i % TRIBE_PALETTE.length]!));
   Object.assign(tribeColors, overrides.tribeColors ?? {});
 
+  // ----- team summaries: generated + overrides -----
+  const teams: Record<string, TeamSummary> = {};
+  for (const d of season.drafters) {
+    const gen = inp.teams[d.id];
+    const ov = overrides.teams?.[d.id];
+    if (!gen && !ov?.summary) continue;
+    const base: TeamSummary = gen ?? { drafterId: d.id, nickname: "", summary: "", bullets: [], generatedAt: "", model: "manual", sourceHash: "" };
+    teams[d.id] = ov ? { ...base, ...ov, edited: true } : base;
+  }
+
   return {
     season,
     contestants,
     drafterStats,
     tribeColors,
+    teams,
     draft: { ...draft, picks },
     episodes,
     eliminations,

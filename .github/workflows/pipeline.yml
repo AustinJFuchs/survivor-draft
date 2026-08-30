@@ -76,6 +76,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run profiles
 
+      - name: Generate team summaries (only when a team's situation changed)
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run teams
+
       - name: Commit scraped data & commentary
         if: ${{ github.event_name != 'push' }}
         run: |

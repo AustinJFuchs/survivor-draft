@@ -18,7 +18,8 @@
     "test": "tsx --test scripts/lib/wikipedia.test.ts src/lib/scoring.test.ts src/lib/analysis.test.ts",
     "report": "tsx scripts/report.ts",
     "profiles": "tsx scripts/profiles.ts",
-    "cards": "tsx scripts/cards.ts"
+    "cards": "tsx scripts/cards.ts",
+    "teams": "tsx scripts/teams.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",

@@ -141,6 +141,16 @@ what-if simulator which runs the same engine in the browser.
 - Light theme = token swap under `html[data-theme="light"]`; dark default; toggle in the footer and
   Rules; stored in `localStorage`.
 
+## Team summaries
+- `scripts/teams.ts` → `data/51/teams.json`: per drafter, Jeff-voiced (second person) team
+  **nickname**, ~70-word paragraph, and three bullets (Carrying the load / Cause for concern /
+  Watch for). Inputs are engine facts (standing, outlook, grades, badges, roster with profiles);
+  the model narrates, never computes. Source hash covers roster status, standings and grades, so it
+  regenerates when the team's situation changes (≈ weekly in-season). Runs in the pipeline after
+  profiles. Edits in `overrides.teams[drafterId]` survive.
+- Shown at the top of the drafter sheet beneath a computed strip (still in, avg age, tribe split, top
+  scorer, GPA); the nickname also appears under the drafter's name on Standings.
+
 ## Admin
 - Local only: `/episode-update` skill (`.claude/skills/episode-update/SKILL.md`) guides
   corrections, fun facts, quotes, commentary edits; shows the leaderboard diff; commits and pushes.

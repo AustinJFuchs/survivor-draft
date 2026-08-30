@@ -68,6 +68,7 @@ export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: st
                       </button>
                       {st && <BadgeRow badges={st.badges} />}
                     </div>
+                    {data.teams[s.drafterId]?.nickname && <div className="text-[11px] sm:text-xs italic text-sand-300 leading-tight">{data.teams[s.drafterId]!.nickname}</div>}
                     <div className="text-[11px] sm:text-xs text-sand-400 mt-1 flex flex-wrap gap-x-2">
                       <span>
                         {s.remaining} of {picks.length} still in

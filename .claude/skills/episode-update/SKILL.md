@@ -28,6 +28,8 @@ You maintain `data/51/overrides.json` (human-owned; always wins over `scraped.js
      `npm run summarize -- --episode N --force` (needs `ANTHROPIC_API_KEY`).
    - Castaway "About" blurbs: edit `profiles[slug].summary` / `.bullets` in overrides, or
      regenerate one with `npm run profiles -- --slug <slug> --force`.
+   - Team summaries (drafter sheet): edit `teams[drafterId].nickname` / `.summary` / `.bullets`
+     in overrides, or regenerate with `npm run teams -- --drafter <id> --force`.
 4. **Write the override.** Shapes (all optional, merged by slug/episode):
    ```json
    {

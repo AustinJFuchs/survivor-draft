@@ -38,6 +38,12 @@ export default function DrafterSheet({ id, onClose, onOpen }: { id: string; onCl
     startY.current = null;
   };
   const proj = stats.projection;
+  const team = data.teams[id];
+  const ages = roster.map((c) => c.age);
+  const avgAge = ages.length ? Math.round(ages.reduce((a, b) => a + b, 0) / ages.length) : undefined;
+  const tribeCounts = new Map<string, number>();
+  for (const c of roster) if (c.tribes.current) tribeCounts.set(c.tribes.current, (tribeCounts.get(c.tribes.current) ?? 0) + 1);
+  const topScorer = [...roster].sort((a, b) => b.points.total - a.points.total)[0];
 
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-stretch sm:justify-end" role="dialog" aria-modal="true" aria-label={d.name}>
@@ -69,6 +75,60 @@ export default function DrafterSheet({ id, onClose, onOpen }: { id: string; onCl
               <div className="font-display text-5xl leading-none">{standing.total}</div>
               <div className="text-[11px] text-sand-400">pts{standing.dropped ? ` · raw ${standing.rawTotal}` : ""}</div>
             </div>
+          </div>
+
+          <div className="card p-3 space-y-2">
+            <div className="flex flex-wrap gap-x-3 gap-y-1 text-[11px] text-sand-400">
+              <span>
+                <span className="text-sand-100 font-semibold">{standing.remaining}</span> of {roster.length} still in
+              </span>
+              {avgAge !== undefined && (
+                <span>
+                  avg age <span className="text-sand-100 font-semibold">{avgAge}</span>
+                </span>
+              )}
+              {tribeCounts.size > 0 && (
+                <span>
+                  {[...tribeCounts.entries()].map(([t, n]) => `${n} ${t}`).join(" / ")}
+                </span>
+              )}
+              {topScorer && data.seasonStarted && (
+                <span>
+                  top scorer{" "}
+                  <button className="text-sand-100 font-semibold underline decoration-sand-400/40" onClick={() => onOpen(topScorer.slug)}>
+                    {topScorer.shortName}
+                  </button>{" "}
+                  ({topScorer.points.total})
+                </span>
+              )}
+              {stats.gpa !== undefined && (
+                <span>
+                  GPA <span className="text-sand-100 font-semibold">{stats.gpa.toFixed(2)}</span>
+                </span>
+              )}
+            </div>
+            {team ? (
+              <>
+                <div className="flex items-baseline gap-2 flex-wrap">
+                  <span className="text-xl">🎙️</span>
+                  <div className="font-display text-2xl leading-none">Jeff on “{team.nickname}”</div>
+                </div>
+                <p className="text-sm text-sand-100">{team.summary}</p>
+                {team.bullets.length > 0 && (
+                  <ul className="space-y-1 text-sm">
+                    {team.bullets.map((b, i) => (
+                      <li key={i} className="flex gap-2">
+                        <span className="text-torch-400 shrink-0">{b.label}:</span>
+                        <span className="text-sand-200">{b.text}</span>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+                <div className="text-[10px] text-sand-400">{team.edited ? "Edited" : "AI-generated in Probst's voice"} · refreshes when the team's situation changes</div>
+              </>
+            ) : (
+              <p className="text-sm text-sand-400">Jeff's team notes are on their way.</p>
+            )}
           </div>
 
           {stats.badges.length > 0 && (

@@ -207,8 +207,22 @@ export interface Profile {
   edited?: boolean;
 }
 
+/** Jeff-voiced team summary per drafter, regenerated when the team's situation changes. */
+export interface TeamSummary {
+  drafterId: string;
+  nickname: string;
+  summary: string;
+  bullets: { label: string; text: string }[];
+  generatedAt: string;
+  model: string;
+  sourceHash: string;
+  edited?: boolean;
+}
+
 /** Human-owned corrections. Every field optional; anything present wins. */
 export interface Overrides {
+  /** Edit or replace a generated team summary. */
+  teams?: Record<string, Partial<Pick<TeamSummary, "nickname" | "summary" | "bullets">>>;
   /** Edit or replace a generated profile. */
   profiles?: Record<string, Partial<Pick<Profile, "summary" | "bullets">>>;
   contestants?: Record<string, Partial<Omit<Contestant, "slug">>>;
@@ -392,6 +406,8 @@ export interface DrafterStats {
 
 export interface SeasonData {
   drafterStats: DrafterStats[];
+  /** drafterId → team summary (generated + overrides). */
+  teams: Record<string, TeamSummary>;
   /** Tribe name → CSS colour; auto palette unless overridden. */
   tribeColors: Record<string, string>;
   season: SeasonConfig;
