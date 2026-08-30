@@ -16,7 +16,8 @@
     "photos": "tsx scripts/fetch-photos.ts",
     "check": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.scripts.json --noEmit",
     "test": "tsx --test scripts/lib/wikipedia.test.ts src/lib/scoring.test.ts",
-    "report": "tsx scripts/report.ts"
+    "report": "tsx scripts/report.ts",
+    "profiles": "tsx scripts/profiles.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",

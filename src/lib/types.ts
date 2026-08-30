@@ -195,8 +195,22 @@ export interface Commentary {
   edited?: boolean;
 }
 
+/** Claude-written "who is this person" blurb, generated once from the questionnaire + bio. */
+export interface Profile {
+  slug: string;
+  summary: string;
+  bullets: string[];
+  generatedAt: string;
+  model: string;
+  /** Hash of the source text; a changed questionnaire triggers regeneration. */
+  sourceHash: string;
+  edited?: boolean;
+}
+
 /** Human-owned corrections. Every field optional; anything present wins. */
 export interface Overrides {
+  /** Edit or replace a generated profile. */
+  profiles?: Record<string, Partial<Pick<Profile, "summary" | "bullets">>>;
   contestants?: Record<string, Partial<Omit<Contestant, "slug">>>;
   tribes?: Record<string, Partial<ContestantTribes>>;
   /** Replace/add elimination records by contestant slug. */
@@ -268,6 +282,7 @@ export interface ContestantView extends Contestant {
   /** Group-chat quotes linked to this castaway. */
   quotes: Quote[];
   ageOnDayOne?: number;
+  profile?: Profile;
 }
 
 export interface ContestantPoints {

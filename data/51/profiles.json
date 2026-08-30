@@ -1,0 +1,275 @@
+{
+  "aaliyah-puglia": {
+    "slug": "aaliyah-puglia",
+    "summary": "Aaliyah is a 24-year-old chef who has spent her life adapting to new places and new people, from South Jersey to Miami to Providence. She's drawn to Survivor because it lets everyday people do a lot with a little, and she wants the title. Confident, wise, and a little sporadic.",
+    "bullets": [
+      "Chef from Gloucester City, NJ, now living in Providence, RI",
+      "Moved to Miami at 13 with little warning, then to Rhode Island for college knowing no one",
+      "Identifies with Yam Yam's loud-but-calculated humor; hopes to play calm and multi-angled like Cirie",
+      "First known Survivor contestant raised by same-sex parents"
+    ],
+    "generatedAt": "2026-08-30T07:48:50.004Z",
+    "model": "claude-opus-5",
+    "sourceHash": "bc2566da3003"
+  },
+  "alexis-levine": {
+    "slug": "alexis-levine",
+    "summary": "Alexis is a criminal defense attorney from Atlanta who spends her working life defending people the system stacks against. She's outgoing, thoughtful and determined, proudest of ten years of sobriety, and inspired daily by her daughter Lyla. She wants alliance partners who think nothing like her.",
+    "bullets": [
+      "Ten years sober — the accomplishment she names first",
+      "Iranian on her father's side; hopes to visit Iran one day",
+      "Gardens, reads, and walks with her husband, daughter and two poodles",
+      "Names Kyle Fraser, Rachel and Parvati as her Survivor touchstones"
+    ],
+    "generatedAt": "2026-08-30T07:48:53.742Z",
+    "model": "claude-opus-5",
+    "sourceHash": "4be44e4e6113"
+  },
+  "ana-sani": {
+    "slug": "ana-sani",
+    "summary": "Ana is a Toronto voice actress who has built a career on persistence, lending her voice to more than 60 animated shows. She describes herself as goofy, ambitious and chaotic, and she loves games enough to relish a setting where lying is part of the fun. She plays for her mom, a fellow Survivor fan.",
+    "bullets": [
+      "Voiced over 60 animated shows, plus commercials, audiobooks and video games",
+      "Honors degree in Political Science, fascinated by why powerful people act as they do",
+      "Admires Tony's chaos and calls Ricard a severely underrated strategy mastermind",
+      "Pet peeves: transition lenses, subway door-blockers and cheaters of any kind"
+    ],
+    "generatedAt": "2026-08-30T07:49:01.580Z",
+    "model": "claude-opus-5",
+    "sourceHash": "08cbab624efe"
+  },
+  "brady-booker": {
+    "slug": "brady-booker",
+    "summary": "Brady is a 27-year-old pro wrestler from La Salle, Illinois, now living in Knoxville. He grew up watching Survivor with his family and loves competition, the outdoors, and being pushed to his limit. Enthusiastic and intense, he values trust above all and says he's comfortable being uncomfortable.",
+    "bullets": [
+      "Wrestling means long days on little sleep, food, and plenty of politicking",
+      "Wants to play like Jonathan: laid-back provider until it's time to strike",
+      "Hunts, fishes, hikes, camps, lifts, runs trails, and trains jujitsu",
+      "Did gymnastics all through his youth sports years"
+    ],
+    "generatedAt": "2026-08-30T07:49:09.522Z",
+    "model": "claude-opus-5",
+    "sourceHash": "54019780040c"
+  },
+  "carter-krull": {
+    "slug": "carter-krull",
+    "summary": "Carter is a 24-year-old livestock farmer from Rock Rapids, Iowa, who treats life like a bucket list worth checking off. He's adventurous, competitive and determined, crediting his parents for teaching him to work hard and chase what he wants. He values trust and keeping allies in the loop.",
+    "bullets": [
+      "Started a moving company with a buddy, named MOVE MOVE MOVE",
+      "Builds epoxy river tables, inspired by his house-building Grandpa Shaffer",
+      "Opened a snow cone truck, which he says put him in a tropical mood",
+      "The youngest man competing on Survivor 51"
+    ],
+    "generatedAt": "2026-08-30T07:49:13.119Z",
+    "model": "claude-opus-5",
+    "sourceHash": "7a4e777f6d8b"
+  },
+  "cristian-chavez": {
+    "slug": "cristian-chavez",
+    "summary": "Cristian is a 26-year-old head of HR from Salt Lake City who calls himself fun, chaotic, and loud. He loves competition and wants to be pushed past his breaking point. A dad who bakes, reads philosophy, and feeds ducks, he's warm on the surface and cutthroat underneath.",
+    "bullets": [
+      "Earned his master's degree at 21",
+      "Grew up doing homemade Survivor challenges built by his dad",
+      "Wants to play like a mix of Tai, Cirie, Tony and Carolyn",
+      "Was an alternate for Survivor 47; strongly dislikes worms"
+    ],
+    "generatedAt": "2026-08-30T07:49:16.386Z",
+    "model": "claude-opus-5",
+    "sourceHash": "cbaee4182f3b"
+  },
+  "danny-kilby": {
+    "slug": "danny-kilby",
+    "summary": "Kilby is a 30-year-old game designer from Mount Forest who calls Survivor the biggest dream of his life. He met his girlfriend and his best friends through the show's fan community. Wacky, chaotic and playful, he wants alliance partners whose real laugh he knows.",
+    "bullets": [
+      "First in his family to graduate high school and university, with straight A's",
+      "Proudest of his mom, a teen mom who earned her degree after he did",
+      "Hobbies include Lego, improv, WWE events, karaoke and Blood on the Clocktower",
+      "Finished 18th on the second real-life season of Sequester"
+    ],
+    "generatedAt": "2026-08-30T07:49:20.786Z",
+    "model": "claude-opus-5",
+    "sourceHash": "d0cd8a13a07f"
+  },
+  "devin-way": {
+    "slug": "devin-way",
+    "summary": "Devin is a 33-year-old actor from Lufkin, Texas, now living in Los Angeles, and he's thrilled just to be here. He's charming, playful and loyal, drawn to the game's joy the way Rick Devens plays it. Loyalty and honesty keep him close; a single lie sends him looking elsewhere.",
+    "bullets": [
+      "Number 7 of 13 siblings",
+      "Plays Dungeons & Dragons weekly — roll the dice, figure it out",
+      "Line dances, does spoken word, sings karaoke, reads comics",
+      "Names his grandma MoeMoe as his biggest inspiration"
+    ],
+    "generatedAt": "2026-08-30T07:49:24.813Z",
+    "model": "claude-opus-5",
+    "sourceHash": "a0ac2a8d0f2b"
+  },
+  "eric-macksoud": {
+    "slug": "eric-macksoud",
+    "summary": "Eric is a mental health counselor from Rhode Island who sees Survivor as a celebration of what makes people tick. He's animated and empathic, drawn to quick, genuine bonds and honest conversations. He wants an alliance partner who doubles as a confidant and best friend.",
+    "bullets": [
+      "Community theater regular who makes fast friends with every new cast",
+      "Passed his LMHC licensing exam on the fourth try and stayed proud of it",
+      "Trained in Muay Thai and swam competitively from age 8 through college",
+      "Plays electric guitar, watches horror movies, pets his cats"
+    ],
+    "generatedAt": "2026-08-30T07:49:28.328Z",
+    "model": "claude-opus-5",
+    "sourceHash": "15d238d24471"
+  },
+  "jelly-loblack": {
+    "slug": "jelly-loblack",
+    "summary": "Angelica \"Jelly\" Loblack is a sociology professor who grew up watching Survivor with family, and now sees the game as the social experiment she trained for. She earned her PhD before turning 30, values transparent, creative allies, and credits her grandmother as her greatest inspiration.",
+    "bullets": [
+      "Sociologist who calls her ethnographic training her greatest weapon",
+      "Of Afro-Caribbean and Choctaw descent, from Garland, Texas",
+      "Once won most comedic mascot at mascot camp as Webber the Bear",
+      "Can't stand loud eaters or black-and-white thinkers"
+    ],
+    "generatedAt": "2026-08-30T07:49:05.846Z",
+    "model": "claude-opus-5",
+    "sourceHash": "701e27409238"
+  },
+  "jenna-doore": {
+    "slug": "jenna-doore",
+    "summary": "Jenna is a wedding photographer from Ohio who has watched Survivor since she was seven. She built her business from a camera bought with babysitting money, and she pairs a warm, artistic exterior with a strategic streak. Empathetic, determined, and energetic, she plays for the people cheering her on.",
+    "bullets": [
+      "Bought her first camera at 15; shot her first wedding at 18",
+      "Slipped a 'Survivor Clause' into five years of wedding contracts",
+      "Gave away 154 poems in exchange for people's dreams",
+      "Writes poetry, runs, and never turns down an adventurous hike"
+    ],
+    "generatedAt": "2026-08-30T07:49:32.099Z",
+    "model": "claude-opus-5",
+    "sourceHash": "b8b251771611"
+  },
+  "kristin-flickinger": {
+    "slug": "kristin-flickinger",
+    "summary": "Kristin has been applying to Survivor since the middle of season one, and she arrives at 49 as the oldest player of the season. She grew up in the Idaho mountains and built a career serving the LGBTQ+ community in moments of crisis. Determined and joyful, she's here for adventure, competition, and a little mischief.",
+    "bullets": [
+      "Created an intergenerational culinary program for LGBTQ+ youth and seniors",
+      "Carries rocks in her bra, chosen to match her mood and meetings",
+      "Wants an alliance partner up for mischief — \"Papaya bandits, anyone?\"",
+      "Says she decided long ago to be her own inspiration"
+    ],
+    "generatedAt": "2026-08-30T07:49:35.954Z",
+    "model": "claude-opus-5",
+    "sourceHash": "b063a480aa46"
+  },
+  "lewis-kelly": {
+    "slug": "lewis-kelly",
+    "summary": "Lewis is a 28-year-old farmer from Dublin who now lives in Puerto Rico with his wife, Andrea, in a school bus they renovated together. Applying for Survivor was his way of celebrating becoming a US citizen. He's cheeky and charming, ready to cause chaos, and smarter than he lets on.",
+    "bullets": [
+      "Lists lying among his favorite hobbies, along with travel",
+      "Traveled to North Korea: no phones, hard beds, no idea what's coming",
+      "Calls Andrea his biggest inspiration and the reason he'd be any good",
+      "Says every public blunder of his is probably deliberate"
+    ],
+    "generatedAt": "2026-08-30T07:49:39.722Z",
+    "model": "claude-opus-5",
+    "sourceHash": "4335d38253e7"
+  },
+  "linnea-capobianco": {
+    "slug": "linnea-capobianco",
+    "summary": "Linnea is a 25-year-old entrepreneur from Kearny, New Jersey, who runs her own business in New York City. She sees her time on earth as limited and says yes to anything uncomfortable that helps her grow. Rational, outgoing, and optimistic, she values calm heads over paranoid ones.",
+    "bullets": [
+      "Studied and worked in D.C., where networking was everything",
+      "Shoots street photography, does Lagree, and goes to jazz shows",
+      "Gets uncontrollable laughing fits at the worst possible moments",
+      "Inspired by war photographer Lynsey Addario, a voice for the voiceless"
+    ],
+    "generatedAt": "2026-08-30T07:49:42.931Z",
+    "model": "claude-opus-5",
+    "sourceHash": "e3b6480784f4"
+  },
+  "maggie-nestor": {
+    "slug": "maggie-nestor",
+    "summary": "Maggie is a West Virginia farmer who has been watching Survivor since she was 15 and calls this the opportunity of a lifetime. She describes herself as joyful, intentional, and redneck, and she's proudest of the life she and her husband built with their three kids. She wants alliance partners who are creative, open, and bold.",
+    "bullets": [
+      "First Survivor contestant living in West Virginia during filming",
+      "Mom of three; credits Jesus as her biggest inspiration",
+      "Hobbies include farming, fishing, hunting, pole vaulting, and playing guitar",
+      "Identifies most with Parvati, though she's not sure how she'll play"
+    ],
+    "generatedAt": "2026-08-30T07:49:46.294Z",
+    "model": "claude-opus-5",
+    "sourceHash": "ca9392739f7f"
+  },
+  "mike-pinsky": {
+    "slug": "mike-pinsky",
+    "summary": "Mike is a New York baseball executive who has loved Survivor since playing it in apartment hallways at age 8. He values information above all, credits his late mom's belief that everyone has something to offer, and brings warmth, strategy, and real enthusiasm to the beach.",
+    "bullets": [
+      "Yankees exec who evaluates players from a desk, itching to compete himself",
+      "Proposed to his wife Becky using a Jeff Probst catchphrase",
+      "Claims to be the best home cook you'll ever meet; hates under-seasoned food",
+      "Pickup basketball, tennis, improv comedy, and a dachshund named Pookie"
+    ],
+    "generatedAt": "2026-08-30T07:49:50.177Z",
+    "model": "claude-opus-5",
+    "sourceHash": "fba135144ea6"
+  },
+  "ori-jean-charles": {
+    "slug": "ori-jean-charles",
+    "summary": "Ori is a 27-year-old personal trainer from Spring Valley who plays for his family above all. He drove eight hours home every weekend during college while his mom recovered, and had the best football season of his career doing it. Warm, direct, and allergic to hesitation.",
+    "bullets": [
+      "Transferred from Louisville to Maine to be closer to his mom after her injury",
+      "First in his family to earn a degree, then added a master's",
+      "Was first chair violin in his sixth grade orchestra",
+      "Loves food, travel, and being the best-dressed guy in the room"
+    ],
+    "generatedAt": "2026-08-30T07:49:54.431Z",
+    "model": "claude-opus-5",
+    "sourceHash": "8737ddce13c2"
+  },
+  "patt-cannaday": {
+    "slug": "patt-cannaday",
+    "summary": "Patt is a federal prosecutor from Tampa who now calls Washington, DC home, and who describes himself as goofy, loyal, and intense. He's drawn to challenge and adventure, and credits friendship for getting him through the ones he's unprepared for. He wants an alliance partner willing to take risks and get into shenanigans with him.",
+    "bullets": [
+      "Boxes, skydives, hikes, and hosts dramatic reading nights",
+      "A three-hour hike in Brazil turned into six hours and a climb",
+      "Proudest accomplishment is his marriage to his husband",
+      "Has never heard his parents yell — at anyone"
+    ],
+    "generatedAt": "2026-08-30T07:49:57.862Z",
+    "model": "claude-opus-5",
+    "sourceHash": "3ec73c00920e"
+  },
+  "rob-antonson": {
+    "slug": "rob-antonson",
+    "summary": "Rob is a Rhode Island dad of three and an airline gate agent who calls himself a total city boy, not an outdoors type. He wants to show his kids that stepping out of your comfort zone can pay off. Competitive, funny and loving, he plans to be a social chameleon.",
+    "bullets": [
+      "Says Survivor chaos is just another busy Friday at the airport",
+      "Coaches his sons in baseball, football and soccer",
+      "Reality TV junkie: Housewives, Traitors, Love Island, The Challenge",
+      "Oldest male contestant on Survivor 51"
+    ],
+    "generatedAt": "2026-08-30T07:50:01.299Z",
+    "model": "claude-opus-5",
+    "sourceHash": "b82f39119655"
+  },
+  "sharonda-cox": {
+    "slug": "sharonda-cox",
+    "summary": "Sharonda is an OB/GYN resident from Pompano Beach who credits her single-parent household and her grandparents' sacrifices for her work ethic. She's playing to show kids from tough starts what's possible, and to meet a bolder version of herself. Warm, steady, and used to putting in the work.",
+    "bullets": [
+      "Identifies with Cirie — surprised by what she can accomplish",
+      "Was first chair in orchestra and played violin at Disney",
+      "Wants alliance partners who are loyal but can pivot before tribal",
+      "Fishes, reads, and watches sports with her husband"
+    ],
+    "generatedAt": "2026-08-30T07:50:04.936Z",
+    "model": "claude-opus-5",
+    "sourceHash": "23dd47769b1a"
+  },
+  "thien-an-nguyen": {
+    "slug": "thien-an-nguyen",
+    "summary": "An Nguyen, who goes by Thien An, is a 24-year-old medical student from Fort Worth who has wanted to play since she started watching. She's quick-witted, empathetic, and outgoing, drawn to the raw connection and the outdoors. She credits her generous mom and bold dad as her rocks and role models.",
+    "bullets": [
+      "Youngest contestant competing on Survivor 51",
+      "Learned outdoor and survival skills early as a kid in Boy Scouts",
+      "Back-to-back all-around intramural champion, standing 5 feet strong",
+      "Runs marathons on a whim and makes insultingly low Catan trades"
+    ],
+    "generatedAt": "2026-08-30T07:48:57.413Z",
+    "model": "claude-opus-5",
+    "sourceHash": "57fbff626de5"
+  }
+}

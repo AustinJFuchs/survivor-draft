@@ -153,7 +153,7 @@ export default function ContestantSheet({ slug, onClose, onOpen }: { slug: strin
               <div>
                 <div className="text-xs uppercase tracking-widest text-sand-400">Points</div>
                 <div className="text-[11px] text-sand-400">
-                  {c.rank ? `${ordinal(c.rank)} of ${data.contestants.length} castaways` : ""}
+                  {data.seasonStarted && c.rank ? `${ordinal(c.rank)} of ${data.contestants.length} castaways` : "Season hasn't started"}
                 </div>
               </div>
               <div className="font-display text-3xl" style={{ color: drafterColor(c.drafterId) }}>
@@ -289,8 +289,8 @@ export default function ContestantSheet({ slug, onClose, onOpen }: { slug: strin
             </div>
           )}
 
-          {/* Questionnaire */}
-          {c.extras?.qa && c.extras.qa.length > 0 && <QA items={c.extras.qa} who={c.shortName} />}
+          {/* About: Claude-written summary + bullets; full questionnaire tucked behind a toggle */}
+          {(c.profile || (c.extras?.qa && c.extras.qa.length > 0)) && <About c={c} />}
 
           {/* Fun facts */}
           {c.funFacts.length > 0 && (
@@ -348,26 +348,48 @@ function Sparkline({ values, color }: { values: number[]; color: string }) {
   );
 }
 
-function QA({ items, who }: { items: { question: string; answer: string }[]; who: string }) {
+function About({ c }: { c: ContestantView }) {
   const [open, setOpen] = useState(false);
-  const shown = open ? items : items.slice(0, 3);
+  const qa = c.extras?.qa ?? [];
+  const p = c.profile;
   return (
     <div>
-      <h4 className="text-xs uppercase tracking-widest text-sand-400 mb-1">Get to know {who}</h4>
-      <dl className="space-y-2.5 text-sm">
-        {shown.map((q, idx) => (
-          <div key={idx}>
-            <dt className="text-sand-400">{q.question}</dt>
-            <dd className="text-sand-100">{q.answer}</dd>
-          </div>
-        ))}
-      </dl>
-      {items.length > 3 && (
-        <button onClick={() => setOpen((o) => !o)} className="chip text-sand-300 cursor-pointer mt-2">
-          {open ? "Show less" : `Show all ${items.length}`}
-        </button>
+      <h4 className="text-xs uppercase tracking-widest text-sand-400 mb-1">About {c.shortName}</h4>
+      {p ? (
+        <>
+          <p className="text-sm text-sand-100">{p.summary}</p>
+          {p.bullets.length > 0 && (
+            <ul className="mt-2 space-y-1 text-sm text-sand-200">
+              {p.bullets.map((b, i) => (
+                <li key={i} className="flex gap-2">
+                  <span className="text-torch-400">•</span>
+                  <span>{b}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+          <div className="text-[10px] text-sand-400 mt-1">{p.edited ? "Edited" : "AI summary"} of the pre-season questionnaire (Survivor Wiki / EW)</div>
+        </>
+      ) : (
+        <p className="text-sm text-sand-400">Summary coming soon.</p>
       )}
-      <div className="text-[10px] text-sand-400 mt-1">Pre-season questionnaire via Survivor Wiki / EW</div>
+      {qa.length > 0 && (
+        <div className="mt-2">
+          <button onClick={() => setOpen((o) => !o)} className="chip text-sand-300 cursor-pointer" aria-expanded={open}>
+            {open ? "Hide the full questionnaire" : `Read the full questionnaire (${qa.length})`}
+          </button>
+          {open && (
+            <dl className="mt-3 space-y-2.5 text-sm border-l-2 border-sand-300/15 pl-3">
+              {qa.map((q, idx) => (
+                <div key={idx}>
+                  <dt className="text-sand-400">{q.question}</dt>
+                  <dd className="text-sand-100">{q.answer}</dd>
+                </div>
+              ))}
+            </dl>
+          )}
+        </div>
+      )}
     </div>
   );
 }

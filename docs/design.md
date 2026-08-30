@@ -57,6 +57,14 @@ Scoring is computed at build time by `src/lib/scoring.ts` (pure; unit-tested).
   block automated fetching.
 - Human edits go in `overrides.commentary["N"]` and survive regeneration.
 
+## Castaway profiles
+- `scripts/profiles.ts` asks `claude-opus-5` for a 2–3 sentence summary + 3–4 bullets per castaway
+  from the Survivor Wiki questionnaire, bio, and trivia → `data/51/profiles.json` (machine-owned).
+  Generated once; regenerated only when the source text's hash changes or with `--force`. Runs in the
+  pipeline after the summarizer. Edits go in `overrides.profiles[slug]` and survive regeneration.
+- The sheet shows the summary/bullets under "About ⟨name⟩"; the full questionnaire is collapsed
+  behind "Read the full questionnaire".
+
 ## Pipeline & hosting
 - Public GitHub repo `survivor-draft` → GitHub Pages (`/survivor-draft/` base path).
 - `.github/workflows/pipeline.yml`: daily 9 AM ET, plus Wed 11 PM / Thu 1 AM / Thu 3 AM ET during the

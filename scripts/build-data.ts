@@ -14,6 +14,7 @@ import type {
   LedgerRow,
   Milestones,
   Overrides,
+  Profile,
   Quote,
   ScrapedData,
   SeasonConfig,
@@ -31,6 +32,7 @@ export interface BuildInputs {
   scraped: ScrapedData;
   overrides: Overrides;
   commentary: Commentary[];
+  profiles: Record<string, Profile>;
 }
 
 export function loadInputs(): BuildInputs {
@@ -46,7 +48,8 @@ export function loadInputs(): BuildInputs {
       commentary.push(readJson<Commentary>(join(dir, f)));
     }
   }
-  return { season, contestants, draft, scraped, overrides, commentary };
+  const profiles = readJson<Record<string, Profile>>(dataPath("profiles.json"), {});
+  return { season, contestants, draft, scraped, overrides, commentary, profiles };
 }
 
 export function buildSeasonData(inp: BuildInputs): SeasonData {
@@ -278,6 +281,7 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
       mentions,
       quotes: (overrides.quotes ?? []).filter((q) => q.contestantSlug === c.slug),
       ageOnDayOne,
+      profile: mergeProfile(inp.profiles[c.slug], overrides.profiles?.[c.slug], c.slug),
     };
   });
 
@@ -296,6 +300,13 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
     notes: overrides.notes ?? [],
     seasonStarted: eliminations.length > 0,
   };
+}
+
+function mergeProfile(generated: Profile | undefined, override: Partial<Pick<Profile, "summary" | "bullets">> | undefined, slug: string): Profile | undefined {
+  if (!generated && !override?.summary) return undefined;
+  const base: Profile = generated ?? { slug, summary: "", bullets: [], generatedAt: "", model: "manual", sourceHash: "" };
+  if (!override) return base;
+  return { ...base, ...override, edited: true };
 }
 
 /**
