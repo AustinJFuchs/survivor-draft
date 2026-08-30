@@ -224,6 +224,8 @@ export interface Overrides {
   commentary?: Record<string, Partial<Commentary>>;
   /** Free-form notes shown on the Rules tab. */
   notes?: string[];
+  /** Tribe name → CSS colour, e.g. { "Savu": "#e0453a" }. */
+  tribeColors?: Record<string, string>;
 }
 
 // ---------- Merged/derived model consumed by the app ----------
@@ -323,7 +325,75 @@ export interface EpisodeView extends EpisodeInfo {
   quotes: Quote[];
 }
 
+// ---------- Drafter analysis (grades, badges, projections, paths) ----------
+
+export type Grade = "A" | "B" | "C" | "D" | "F";
+
+export interface PickGrade {
+  pick: DraftPick;
+  contestantSlug: string;
+  /** Points rank among all castaways (1 = best). */
+  rank: number;
+  /** rank − overall pick; negative = outperformed the slot. */
+  gap: number;
+  grade: Grade;
+}
+
+export interface Badge {
+  id: string;
+  emoji: string;
+  name: string;
+  /** One-line rule, shown in the tap/hover explainer. */
+  rule: string;
+  /** Optional detail specific to this award ("lost Brady in Ep 2"). */
+  detail?: string;
+}
+
+export interface Projection {
+  /** Survival + bonus points this roster could still earn. */
+  onTable: number;
+  /** Current counted total + onTable (under the best-N rule). */
+  maxPossible: number;
+  /** False when even the best case can't reach the current leader's total. */
+  alive: boolean;
+  leaderTotal: number;
+}
+
+export interface Paths {
+  active: boolean;
+  remaining: number;
+  scenarios: number;
+  /** Scenarios this drafter wins outright (ties count as half). */
+  wins: number;
+  /** Castaways whose victory clinches it for this drafter regardless of the other finalists. */
+  clinch: string[];
+  /** Castaways whose victory keeps this drafter alive in at least one scenario. */
+  live: string[];
+}
+
+export interface WeekSummary {
+  episode: number;
+  delta: number;
+}
+
+export interface DrafterStats {
+  drafterId: string;
+  grades: PickGrade[];
+  gpa?: number;
+  gradesEarly: boolean;
+  steal?: PickGrade;
+  reach?: PickGrade;
+  badges: Badge[];
+  bestWeek?: WeekSummary;
+  worstWeek?: WeekSummary;
+  projection: Projection;
+  paths: Paths;
+}
+
 export interface SeasonData {
+  drafterStats: DrafterStats[];
+  /** Tribe name → CSS colour; auto palette unless overridden. */
+  tribeColors: Record<string, string>;
   season: SeasonConfig;
   contestants: ContestantView[];
   draft: DraftConfig;

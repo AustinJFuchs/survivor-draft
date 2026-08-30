@@ -7,7 +7,7 @@ import { ContestantCard, Photo, Points, SectionTitle, StatusPill, TribeBadge } f
 
 type Mode = "drafter" | "pick";
 
-export default function Rosters({ onOpen }: { onOpen: (slug: string) => void }) {
+export default function Rosters({ onOpen, onOpenDrafter }: { onOpen: (slug: string) => void; onOpenDrafter: (id: string) => void }) {
   const isMobile = useIsMobile();
   const [mode, setMode] = useState<Mode>(data.seasonStarted ? "drafter" : "pick");
   const { standings, season, draft } = data;
@@ -58,10 +58,10 @@ export default function Rosters({ onOpen }: { onOpen: (slug: string) => void }) 
             return (
               <div key={s.drafterId}>
                 <div className="flex items-baseline justify-between mb-2">
-                  <h3 className="font-display text-2xl sm:text-3xl" style={{ color: drafterColor(s.drafterId) }}>
+                  <button onClick={() => onOpenDrafter(s.drafterId)} className="font-display text-2xl sm:text-3xl text-left hover:text-torch-400 transition" style={{ color: drafterColor(s.drafterId) }}>
                     {s.name}
                     <span className="text-sand-400 text-base sm:text-lg ml-2">#{s.rank}</span>
-                  </h3>
+                  </button>
                   <div className="text-right">
                     <Points n={s.total} className="text-2xl sm:text-3xl" />
                     {s.dropped && (

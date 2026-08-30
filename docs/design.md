@@ -103,6 +103,44 @@ Scoring is computed at build time by `src/lib/scoring.ts` (pure; unit-tested).
   iframes into `dist/` and open it through `vite preview` — the only way to get a true phone-width
   render from the Chrome extension.
 
+## Analysis features (third grilling session, 2026-08-30)
+All computed in `src/lib/analysis.ts` (pure, unit-tested) at build time into `drafterStats`, except the
+what-if simulator which runs the same engine in the browser.
+- **What if…** (Standings, collapsed): tap castaways in boot order, toggle "merge now" / a winner; live
+  re-rank with deltas; scenario encoded in the hash (`#/standings?boots=a,b&merge=1&winner=c`) so it
+  can be shared. Available pre-season.
+- **Draft grades**: rank-vs-pick gap normalised by field size → A–F; GPA per drafter; Steal / Reach;
+  labelled "early" until 5 eliminations.
+- **Drafter sheet** (`#/drafter/<id>`): badges with rules, outlook (points on the table, best case,
+  alive/eliminated from contention, finale scenario wins), report card, best/worst week, chart with
+  the drafter highlighted.
+- **Badges** (emoji in a ring; tap → popover, hover on desktop): First Blood, Untouchable (no losses
+  after 3+ boots), Torch Collector, Merge Machine, Leftover Luck, Comeback, Wire-to-Wire, Kingmaker,
+  Jury Duty, Immunity Hoarder. Listed on the Rules tab.
+- **Paths to victory** (Standings, collapsed; post-merge, ≤14 remaining, no winner yet): enumerates
+  every final-three + winner; per drafter wins/scenarios, clinch list, live list.
+- **Projections**: best case = every living castaway survives to the final three and one wins, capped
+  by the best-N rule; "eliminated from contention" when that can't reach the leader.
+- **Voting matrix** (Episodes, collapsed): voters × Tribal Councils from the scraped vote records,
+  sticky name column, cells coloured by the target's drafter, elimination column highlighted.
+- **Tribe view**: Cast grouping toggle (All / By tribe / By drafter) once tribes are known; auto
+  palette, overridable via `overrides.tribeColors`.
+- **Cast search**: name, nickname, occupation, hometown, tribe, drafter.
+
+## Share cards
+- `scripts/cards.ts` renders 1080×1350 PNGs at build time with satori + resvg (fonts vendored in
+  `scripts/fonts/`): `cards/standings.png` (also the `og:image`), `cards/draft.png`, `cards/ep-N.png`.
+  Output is gitignored; CI builds it fresh. `VITE_SITE_URL` (set by the workflow) makes the
+  `og:image` absolute.
+- Share buttons use the Web Share API with files (phones → Messages), falling back to opening the PNG.
+
+## PWA & theme
+- `vite-plugin-pwa` (prompt mode): precache app shell; photos cache-first, cards network-first.
+  `UpdateToast` shows "New version — tap to refresh" from the service worker, and "Updated after Ep N"
+  when this device sees a newer build.
+- Light theme = token swap under `html[data-theme="light"]`; dark default; toggle in the footer and
+  Rules; stored in `localStorage`.
+
 ## Admin
 - Local only: `/episode-update` skill (`.claude/skills/episode-update/SKILL.md`) guides
   corrections, fun facts, quotes, commentary edits; shows the leaderboard diff; commits and pushes.

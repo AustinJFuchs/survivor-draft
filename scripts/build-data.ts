@@ -23,6 +23,8 @@ import type {
   VoteRecord,
 } from "../src/lib/types";
 import { computeHistory, computeStandings, scoreContestants, sortEliminations } from "../src/lib/scoring";
+import { GRADES_EARLY_UNTIL, computeBadges, computeGrades, computePaths, computeProjection, weekSummaries } from "../src/lib/analysis";
+import type { DrafterStats } from "../src/lib/types";
 import { DATA_DIR, GENERATED_DIR, dataPath, readJson, writeJson } from "./lib/paths";
 
 export interface BuildInputs {
@@ -285,9 +287,45 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
     };
   });
 
+  // ----- drafter analysis -----
+  const contestantName = (slug: string) => contestants.find((c) => c.slug === slug)?.shortName ?? slug;
+  const immunityWins: Record<string, number> = {};
+  for (const c of contestants) immunityWins[c.slug] = c.ledger.filter((r) => r.immunity).length;
+  const badgesByDrafter = computeBadges({ drafters: season.drafters, picks, standings, history, eliminations, milestones, immunityWins, contestantName });
+  const paths = computePaths({ drafters: season.drafters, picks, contestantSlugs, eliminations, milestones, scoring: season.scoring, handicap: season.handicap });
+  const drafterStats: DrafterStats[] = season.drafters.map((d) => {
+    const mine = picks.filter((p) => p.drafterId === d.id);
+    const g = computeGrades(mine, rankOf, contestants.length);
+    const weeks = weekSummaries(history, d.id);
+    const best = weeks.length ? weeks.reduce((a, b) => (b.delta > a.delta ? b : a)) : undefined;
+    const worst = weeks.length ? weeks.reduce((a, b) => (b.delta < a.delta ? b : a)) : undefined;
+    return {
+      drafterId: d.id,
+      grades: g.grades,
+      gpa: g.gpa,
+      gradesEarly: eliminations.length < GRADES_EARLY_UNTIL,
+      steal: g.steal,
+      reach: g.reach,
+      badges: badgesByDrafter[d.id] ?? [],
+      bestWeek: best,
+      worstWeek: worst && worst !== best ? worst : undefined,
+      projection: computeProjection({ drafterId: d.id, picks, standings, eliminations, milestones, totalContestants: contestants.length, scoring: season.scoring, handicap: season.handicap, points }),
+      paths: paths[d.id]!,
+    };
+  });
+
+  // ----- tribe colours: auto palette, overridable -----
+  const TRIBE_PALETTE = ["#e0453a", "#2bb5a8", "#fbbf24", "#c084fc", "#4fae4a", "#60a5fa", "#ff8a2b", "#f472b6"];
+  const tribeNames = [...new Set(contestants.flatMap((c) => c.tribes.history))].sort();
+  const tribeColors: Record<string, string> = {};
+  tribeNames.forEach((t, i) => (tribeColors[t] = TRIBE_PALETTE[i % TRIBE_PALETTE.length]!));
+  Object.assign(tribeColors, overrides.tribeColors ?? {});
+
   return {
     season,
     contestants,
+    drafterStats,
+    tribeColors,
     draft: { ...draft, picks },
     episodes,
     eliminations,

@@ -1,20 +1,32 @@
 import { useState } from "react";
 import { contestantBySlug, data, drafterColor } from "../data";
 import { daysUntil, formatDate, ordinal } from "../lib/format";
+import { BadgeRow, Popover } from "./Badges";
 import Chart from "./Chart";
 import { ChevronIcon } from "./icons";
+import Paths from "./Paths";
+import ShareButton from "./ShareButton";
 import { Photo, Points, SectionTitle, StatusPill } from "./ui";
+import WhatIf from "./WhatIf";
 
-export default function Standings({ onOpen }: { onOpen: (slug: string) => void }) {
+export default function Standings({ onOpen, onOpenDrafter }: { onOpen: (slug: string) => void; onOpenDrafter: (id: string) => void }) {
   const { season, standings } = data;
   const days = daysUntil(season.premiereDate);
   const gone = data.eliminations.length;
   const [open, setOpen] = useState<Record<string, boolean>>({});
   const toggle = (id: string) => setOpen((o) => ({ ...o, [id]: !o[id] }));
+  const statsOf = (id: string) => data.drafterStats.find((s) => s.drafterId === id);
 
   return (
     <section className="space-y-4 sm:space-y-5">
-      <SectionTitle sub={data.seasonStarted ? `${gone} eliminated · ${data.contestants.length - gone} remaining` : "Everyone starts at zero"}>
+      <SectionTitle
+        sub={
+          <span className="inline-flex items-center gap-2">
+            {data.seasonStarted ? `${gone} eliminated · ${data.contestants.length - gone} remaining` : "Everyone starts at zero"}
+            <ShareButton card="standings.png" title={`${season.name} standings`} />
+          </span>
+        }
+      >
         Standings
       </SectionTitle>
 
@@ -39,30 +51,56 @@ export default function Standings({ onOpen }: { onOpen: (slug: string) => void }
           const color = drafterColor(s.drafterId);
           const picks = data.contestants.filter((c) => c.drafterId === s.drafterId).sort((a, b) => b.points.total - a.points.total);
           const isOpen = !!open[s.drafterId];
+          const st = statsOf(s.drafterId);
+          const proj = st?.projection;
           return (
             <li key={s.drafterId} className="card overflow-hidden" style={{ borderLeftColor: color, borderLeftWidth: 4 }}>
-              <button onClick={() => toggle(s.drafterId)} className="w-full text-left p-3 sm:p-4" aria-expanded={isOpen}>
+              <div className="p-3 sm:p-4">
                 <div className="flex items-center gap-2.5 sm:gap-4">
                   <div className="font-display text-3xl sm:text-5xl w-8 sm:w-14 text-center leading-none" style={{ color }}>
                     {s.rank}
                     {s.tied && <span className="text-[10px] sm:text-sm block text-sand-400">tie</span>}
                   </div>
                   <div className="flex-1 min-w-0">
-                    <div className="font-display text-2xl sm:text-3xl leading-none">{s.name}</div>
-                    <div className="text-[11px] sm:text-xs text-sand-400 mt-1">
-                      {s.remaining} of {picks.length} still in
-                      {s.dropped && (
-                        <>
-                          {" "}
-                          · best {season.handicap.countBest} count · raw {s.rawTotal}
-                        </>
+                    <div className="flex items-center gap-2 flex-wrap">
+                      <button onClick={() => onOpenDrafter(s.drafterId)} className="font-display text-2xl sm:text-3xl leading-none hover:text-torch-400 transition text-left">
+                        {s.name}
+                      </button>
+                      {st && <BadgeRow badges={st.badges} />}
+                    </div>
+                    <div className="text-[11px] sm:text-xs text-sand-400 mt-1 flex flex-wrap gap-x-2">
+                      <span>
+                        {s.remaining} of {picks.length} still in
+                        {s.dropped && (
+                          <>
+                            {" "}
+                            · best {season.handicap.countBest} count · raw {s.rawTotal}
+                          </>
+                        )}
+                      </span>
+                      {data.seasonStarted && proj && (
+                        <Popover
+                          label="Outlook"
+                          trigger={
+                            <span className={proj.alive ? "text-sand-400 underline decoration-dotted" : "text-ember-500 underline decoration-dotted"}>
+                              {proj.alive ? `${proj.onTable} on the table` : "out of contention"}
+                            </span>
+                          }
+                        >
+                          <span className="block text-sand-100 font-semibold">{proj.alive ? "Still in contention" : "Eliminated from contention"}</span>
+                          <span className="block text-sand-300 mt-0.5">
+                            Best case {proj.maxPossible} pts if every remaining castaway reaches the end and one wins. Leader has {proj.leaderTotal}.
+                          </span>
+                        </Popover>
                       )}
                     </div>
                   </div>
                   <Points n={s.total} className="text-3xl sm:text-5xl" />
-                  <ChevronIcon open={isOpen} width={18} height={18} className="text-sand-400 shrink-0" />
+                  <button onClick={() => toggle(s.drafterId)} aria-expanded={isOpen} aria-label="Show roster" className="p-1 -mr-1">
+                    <ChevronIcon open={isOpen} width={18} height={18} className="text-sand-400 shrink-0" />
+                  </button>
                 </div>
-                <div className="mt-2.5 sm:mt-3 flex gap-1.5">
+                <button onClick={() => toggle(s.drafterId)} className="mt-2.5 sm:mt-3 flex gap-1.5 w-full text-left" aria-hidden>
                   {picks.map((c) => {
                     const dropped = s.dropped === c.slug;
                     return (
@@ -78,8 +116,8 @@ export default function Standings({ onOpen }: { onOpen: (slug: string) => void }
                       </div>
                     );
                   })}
-                </div>
-              </button>
+                </button>
+              </div>
               {isOpen && (
                 <ul className="border-t border-sand-300/10 divide-y divide-sand-300/10">
                   {picks.map((c) => {
@@ -113,6 +151,11 @@ export default function Standings({ onOpen }: { onOpen: (slug: string) => void }
                       </li>
                     );
                   })}
+                  <li className="px-3 py-2 text-xs">
+                    <button onClick={() => onOpenDrafter(s.drafterId)} className="chip cursor-pointer" style={{ color }}>
+                      Open {s.name}'s page →
+                    </button>
+                  </li>
                 </ul>
               )}
             </li>
@@ -128,6 +171,8 @@ export default function Standings({ onOpen }: { onOpen: (slug: string) => void }
         </div>
       )}
 
+      <WhatIf onOpen={onOpen} />
+      <Paths onOpen={onOpen} />
       {data.seasonStarted && <Chart />}
     </section>
   );

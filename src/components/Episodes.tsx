@@ -3,6 +3,8 @@ import { contestantBySlug, data, drafterById, drafterColor } from "../data";
 import { formatDate } from "../lib/format";
 import { ChevronIcon } from "./icons";
 import { DrafterChip, Photo, SectionTitle } from "./ui";
+import ShareButton from "./ShareButton";
+import VotingMatrix from "./VotingMatrix";
 
 export default function Episodes({ onOpen }: { onOpen: (slug: string) => void }) {
   const aired = data.episodes.filter((e) => e.aired || e.eliminations.length > 0).sort((a, b) => b.number - a.number);
@@ -37,7 +39,8 @@ export default function Episodes({ onOpen }: { onOpen: (slug: string) => void })
           const bootNames = ep.eliminations.map((e) => contestantBySlug.get(e.contestantSlug)?.shortName ?? e.contestantSlug);
           return (
             <li key={ep.number} className="card overflow-hidden">
-              <button onClick={() => toggle(ep.number)} className="w-full text-left p-3 sm:p-5 flex items-center gap-2.5 sm:gap-4" aria-expanded={isOpen}>
+              <div className="flex items-center gap-2 pr-3 sm:pr-5">
+              <button onClick={() => toggle(ep.number)} className="flex-1 min-w-0 text-left p-3 sm:p-5 flex items-center gap-2.5 sm:gap-4" aria-expanded={isOpen}>
                 <div className="font-display text-2xl sm:text-3xl text-torch-400 shrink-0">Ep {ep.number}</div>
                 <div className="min-w-0 flex-1">
                   <div className="font-display text-lg sm:text-2xl leading-tight truncate">{ep.title ? `“${ep.title}”` : "Untitled"}</div>
@@ -52,6 +55,8 @@ export default function Episodes({ onOpen }: { onOpen: (slug: string) => void })
                 </div>
                 <ChevronIcon open={isOpen} width={20} height={20} className="text-sand-400 shrink-0" />
               </button>
+              {ep.eliminations.length > 0 && <ShareButton card={`ep-${ep.number}.png`} title={`Survivor 51 · Episode ${ep.number}`} label="" />}
+              </div>
 
               {isOpen && (
                 <div className="border-t border-sand-300/10 p-3 sm:p-5 grid gap-5 md:grid-cols-[1fr_1.4fr]">
@@ -174,6 +179,7 @@ export default function Episodes({ onOpen }: { onOpen: (slug: string) => void })
           );
         })}
       </ol>
+      <VotingMatrix />
     </section>
   );
 }

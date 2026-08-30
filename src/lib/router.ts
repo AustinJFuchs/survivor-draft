@@ -5,6 +5,7 @@ export type Tab = "standings" | "rosters" | "cast" | "episodes" | "rules";
 export interface Route {
   tab: Tab;
   contestant?: string;
+  drafter?: string;
 }
 
 const TABS: Tab[] = ["standings", "rosters", "cast", "episodes", "rules"];
@@ -20,6 +21,7 @@ const LEGACY: Record<string, Tab> = {
 export function parseHash(hash: string, fallback: Tab): Route {
   const parts = hash.replace(/^#\/?/, "").split("/").filter(Boolean);
   if (parts[0] === "contestant" && parts[1]) return { tab: "cast", contestant: decodeURIComponent(parts[1]) };
+  if (parts[0] === "drafter" && parts[1]) return { tab: "standings", drafter: decodeURIComponent(parts[1]) };
   const raw = parts[0] ?? "";
   const tab = TABS.includes(raw as Tab) ? (raw as Tab) : (LEGACY[raw] ?? fallback);
   return { tab };
@@ -33,7 +35,7 @@ export function useHashRoute(fallback: Tab): [Route, (r: Route) => void] {
     return () => window.removeEventListener("hashchange", onChange);
   }, [fallback]);
   const navigate = (r: Route) => {
-    const hash = r.contestant ? `#/contestant/${encodeURIComponent(r.contestant)}` : `#/${r.tab}`;
+    const hash = r.contestant ? `#/contestant/${encodeURIComponent(r.contestant)}` : r.drafter ? `#/drafter/${encodeURIComponent(r.drafter)}` : `#/${r.tab}`;
     if (window.location.hash !== hash) window.location.hash = hash;
     else setRoute(r);
   };

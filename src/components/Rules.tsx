@@ -2,7 +2,7 @@ import { data } from "../data";
 import { formatDateTime } from "../lib/format";
 import { SectionTitle } from "./ui";
 
-export default function Rules() {
+export default function Rules({ theme, onToggleTheme }: { theme: "dark" | "light"; onToggleTheme: () => void }) {
   const { season } = data;
   const { scoring, handicap } = season;
   const drafters = [...season.drafters].sort((a, b) => a.draftPosition - b.draftPosition);
@@ -70,6 +70,33 @@ export default function Rules() {
           </ul>
         </div>
       )}
+
+      <div className="card p-4 sm:p-5 text-sm flex items-center justify-between gap-3">
+        <div>
+          <h3 className="font-display text-2xl">Appearance</h3>
+          <p className="text-sand-400 text-xs">Remembered on this device.</p>
+        </div>
+        <button onClick={onToggleTheme} className="chip text-sand-100 cursor-pointer text-sm px-3 py-1">
+          {theme === "dark" ? "☀️ Switch to light" : "🌙 Switch to dark"}
+        </button>
+      </div>
+
+      <div className="card p-4 sm:p-5 text-sm space-y-1">
+        <h3 className="font-display text-2xl">Badges</h3>
+        <p className="text-sand-300 text-xs">Awarded automatically after each episode. Tap a badge on the standings to see its rule.</p>
+        <ul className="grid sm:grid-cols-2 gap-x-4 gap-y-1 text-xs text-sand-300 mt-1">
+          <li>🩸 First Blood · first drafter to lose a castaway</li>
+          <li>🛡️ Untouchable · no castaway lost yet, after 3+ boots</li>
+          <li>🔥 Torch Collector · most castaways voted out</li>
+          <li>🤝 Merge Machine · whole roster made the merge</li>
+          <li>🎟️ Leftover Luck · the leftover outscores a drafted pick</li>
+          <li>📈 Comeback · last place to first</li>
+          <li>🏁 Wire-to-Wire · led after every elimination</li>
+          <li>👑 Kingmaker · drafted the Sole Survivor</li>
+          <li>⚖️ Jury Duty · most jurors</li>
+          <li>🏆 Immunity Hoarder · most individual immunity wins</li>
+        </ul>
+      </div>
 
       <div className="card p-4 sm:p-5 text-xs text-sand-400 space-y-1">
         <h3 className="font-display text-xl text-sand-200">Where the data comes from</h3>
