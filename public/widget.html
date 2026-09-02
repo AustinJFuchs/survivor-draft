@@ -31,7 +31,7 @@
 <script>
   // Reads the site's public JSON endpoint. Works in any "web widget" app or as a
   // home-screen shortcut; refreshes every 30 minutes while open.
-  const colors = ["#ff7a59", "#4fd1c5", "#c084fc", "#fbbf24", "#a3e635", "#60a5fa"];
+  const colors = ["#ff7a59", "#ff69b4", "#c084fc", "#fbbf24", "#a3e635", "#60a5fa"];
   async function load() {
     try {
       const res = await fetch("api/standings.json?t=" + Date.now(), { cache: "no-store" });

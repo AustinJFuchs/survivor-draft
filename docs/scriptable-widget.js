@@ -6,7 +6,7 @@
 const URL = "https://austinjfuchs.github.io/survivor-draft/api/standings.json";
 const ME = "";
 
-const colors = ["#ff7a59", "#4fd1c5", "#c084fc", "#fbbf24", "#a3e635", "#60a5fa"];
+const colors = ["#ff7a59", "#ff69b4", "#c084fc", "#fbbf24", "#a3e635", "#60a5fa"];
 const req = new Request(URL + "?t=" + Date.now());
 const d = await req.loadJSON();
 
