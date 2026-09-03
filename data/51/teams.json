@@ -2,24 +2,24 @@
   "austin": {
     "drafterId": "austin",
     "nickname": "Livestock and Lenses",
-    "summary": "Austin, you picked 5th and turned the turn into a wall of warmth — an entrepreneur, a wedding photographer, a livestock farmer, and a mental health counselor, all four still in the game, 4 of 4. Nobody's played a beat yet: 0 counted points, rank 1 (tied) of 5, and the leader has 0 too. That means 114 points still on the table and a roster built on calm heads and genuine bonds. Buckle up.",
+    "summary": "Austin, drafting fifth means you waited, and then you struck twice — Linnea at #5 and Jenna at #6, back-to-back. Nobody has scored yet; you sit at rank 1 (tied) of 5 with 0 counted points, all 4 of 4 still in the game, and 114 points still on the table. Your build is people-people: an entrepreneur, a photographer, a farmer, a counselor. Calm heads, warm hearts, real grit. I love it.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Linnea came off the board at pick #5 as your headliner — rational, outgoing, optimistic, a woman who says yes to anything uncomfortable that helps her grow."
+        "text": "Linnea Capobianco is your headliner at pick #5 — rational, outgoing, optimistic, a 25-year-old entrepreneur who says yes to anything uncomfortable and prefers calm heads over paranoid ones."
       },
       {
         "label": "Cause for concern",
-        "text": "Carter at pick #15 and Eric at pick #16 are your late-round swings, and neither has had a single moment to prove the value yet."
+        "text": "Nothing has gone wrong yet — but Carter at #15 and Eric at #16 came late in the snake, and this whole roster leans on charm and connection in a game that eventually asks somebody to swing the axe."
       },
       {
         "label": "Watch for",
-        "text": "Tribes are still TBA, so the first thing to watch is where these four land and whether Eric finds that confidant-and-best-friend alliance he's hunting for."
+        "text": "Tribes are still TBA, so watch where these four land — Jenna's lifelong-fan strategy and Eric's bond-fast theater energy could look very different depending on who they wake up next to."
       }
     ],
-    "generatedAt": "2026-08-30T14:29:19.911Z",
+    "generatedAt": "2026-09-03T11:03:33.274Z",
     "model": "claude-opus-5",
-    "sourceHash": "d93f23fab6d1"
+    "sourceHash": "e19d75f0d0d3"
   },
   "kylie": {
     "drafterId": "kylie",
@@ -45,25 +45,25 @@
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "Briefcases and Boarding Passes",
-    "summary": "Tami, you had the first pick in the snake and you didn't blink — you took the sociology professor who's been studying this game her whole life. Around her you built a courtroom, a front office, a departure gate and a delivery room. Nobody has scored yet — you're rank 1 (tied) of 5 with 0 counted points, all 5 still in the game, and 114 points still on the table. Doors are open. Let's play.",
+    "nickname": "Degrees and Dugouts",
+    "summary": "Tami, you had first crack at the whole board and you took the sociology professor who's been studying this game her entire life. Then you stacked a federal prosecutor, a baseball executive, a gate agent with Boston Rob swagger, and an OB/GYN resident behind her. Nobody's played a minute — you're rank 1 (tied) of 5 with 0 counted points, 5 of 5 still in the game, and 114 points still on the table. That's a brainy, likable, loud roster. Let's get to it!",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Angelica \"Jelly\" Loblack went pick #1 for a reason — a PhD before 30, curious, multifaceted and passionate, walking into the social experiment she literally trained for."
+        "text": "Angelica \"Jelly\" Loblack went pick #1 for a reason — a PhD before 30, curious, multifaceted and passionate, and she calls this game the social experiment she trained for."
       },
       {
         "label": "Cause for concern",
-        "text": "Sharonda Cox came to you at pick #21 as a leftover, meaning four other drafters looked right past a charismatic, resilient OB/GYN resident who knows how to grind through long nights."
+        "text": "Rob Antonson at pick #20 calls himself a total city boy who's not an outdoors type, so he's leaning entirely on those social skills, and Sharonda Cox came to you at pick #21 as a leftover."
       },
       {
         "label": "Watch for",
-        "text": "Every tribe is still TBA, so keep your eyes on whether Patt's shenanigans and Mike's hunger for information land on the same beach — that's your engine or your headache."
+        "text": "Every tribe on your roster is still TBA, so the first thing to watch is where these five land and whether Patt finds the risk-taking partner in shenanigans he's asking for."
       }
     ],
-    "generatedAt": "2026-08-30T14:29:50.523Z",
+    "generatedAt": "2026-09-03T11:03:22.068Z",
     "model": "claude-opus-5",
-    "sourceHash": "ff53b07924c4"
+    "sourceHash": "dde1c3caee9d"
   },
   "taylor": {
     "drafterId": "taylor",

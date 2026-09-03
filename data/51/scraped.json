@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-31T19:18:56.953Z",
+  "syncedAt": "2026-09-03T11:02:57.135Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -85,6 +85,7 @@
   },
   "extras": {
     "aaliyah-puglia": {
+      "birthdate": "2001-04-21",
       "threeWords": [
         "confident",
         "wise",
@@ -541,7 +542,7 @@
         },
         {
           "question": "Which previous player do you identify with the most? Who do you think you will play most like?",
-          "answer": "When I saw Dominick Abbate on Ghost Island, it felt like I was looking into a mirror and seeing where I’ll be in a few years. He’s a charming, slightly sassy East Coast Italian American like me, and his game is definitely forming a strong bond with a pal that got him to the end and almost the win. He was also honest and upfront with his feelings, which I also plan on being with others as I go far in the game. Like Dom, I also plan on taking calculated risks that will advance me and get me to where I need to go."
+          "answer": "When I saw [[Domenick Abbate|Dominick [sic] Abbate]] on Ghost Island, it felt like I was looking into a mirror and seeing where I’ll be in a few years. He’s a charming, slightly sassy East Coast Italian American like me, and his game is definitely forming a strong bond with a pal that got him to the end and almost the win. He was also honest and upfront with his feelings, which I also plan on being with others as I go far in the game. Like Dom, I also plan on taking calculated risks that will advance me and get me to where I need to go."
         },
         {
           "question": "What will you value in an alliance partner?",
@@ -581,6 +582,7 @@
       ]
     },
     "jelly-loblack": {
+      "birthdate": "1996-08-12",
       "threeWords": [
         "curious",
         "multifaceted",
@@ -1121,7 +1123,7 @@
         }
       ],
       "trivia": [
-        "Rob is the oldest male contestant on Survivor 51."
+        "Rob is the oldest man to compete on Survivor 51."
       ],
       "pageUrl": "https://survivor.fandom.com/wiki/Rob_Antonson",
       "photos": [
@@ -1132,6 +1134,7 @@
       ]
     },
     "sharonda-cox": {
+      "birthdate": "1991-09-30",
       "threeWords": [
         "charismatic",
         "resilient",

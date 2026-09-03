@@ -1,12 +1,10 @@
 {
-  "syncedAt": "2026-08-31T19:19:01.165Z",
+  "syncedAt": "2026-09-03T11:03:00.273Z",
   "events": [],
   "claude": {
     "sourceHash": "3b38348f837c",
     "generatedAt": "2026-08-30T17:26:59.034Z",
     "model": "claude-opus-5"
   },
-  "warnings": [
-    "ANTHROPIC_API_KEY not set — skipped Claude extraction of Open Era twists"
-  ]
+  "warnings": []
 }
