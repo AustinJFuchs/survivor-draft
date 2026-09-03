@@ -9,6 +9,7 @@ import { createHash } from "node:crypto";
 import type { Review, SeasonData } from "../src/lib/types";
 import { buildSeasonData, loadInputs } from "./build-data";
 import { dataPath, readJson, writeJson } from "./lib/paths";
+import { anthropicKey, skipNotice } from "./lib/anthropic-key";
 import { rundownSource } from "./rundown";
 
 const MODEL = "claude-opus-5";
@@ -49,8 +50,11 @@ async function main() {
     console.log(prompt);
     return;
   }
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) throw new Error("ANTHROPIC_API_KEY is not set");
+  const apiKey = anthropicKey();
+  if (!apiKey) {
+    skipNotice("the season-in-review column");
+    return;
+  }
   const client = new Anthropic({ apiKey });
   const params = {
     model: MODEL,

@@ -10,6 +10,7 @@ import { createHash } from "node:crypto";
 import type { Rundown, SeasonData } from "../src/lib/types";
 import { buildSeasonData, loadInputs } from "./build-data";
 import { dataPath, readJson, writeJson } from "./lib/paths";
+import { anthropicKey, skipNotice } from "./lib/anthropic-key";
 
 const MODEL = "claude-opus-5";
 const MAX_TOKENS = 1600;
@@ -89,8 +90,11 @@ async function main() {
     console.log(`Rundown for ${key === "0" ? "pre-season" : `episode ${key}`} is up to date.`);
     return;
   }
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey && !args.dry) throw new Error("ANTHROPIC_API_KEY is not set");
+  const apiKey = anthropicKey();
+  if (!apiKey && !args.dry) {
+    skipNotice("Jeff's State of the Draft");
+    return;
+  }
   if (args.dry) {
     console.log(prompt(src, episode === undefined));
     return;

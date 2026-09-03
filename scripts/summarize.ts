@@ -20,6 +20,7 @@ import type { Commentary, EpisodeView, SeasonData } from "../src/lib/types";
 import { buildSeasonData, loadInputs } from "./build-data";
 import { fetchText } from "./lib/http";
 import { DATA_DIR, dataPath, readJson, writeJson } from "./lib/paths";
+import { anthropicKey, skipNotice } from "./lib/anthropic-key";
 
 const MODEL = "claude-opus-5";
 const MAX_TOKENS = 2500;
@@ -265,8 +266,11 @@ async function main() {
     console.log("No aired episodes with eliminations to summarize.");
     return;
   }
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey && !args.dry) throw new Error("ANTHROPIC_API_KEY is not set");
+  const apiKey = anthropicKey();
+  if (!apiKey && !args.dry) {
+    skipNotice("Probst commentary");
+    return;
+  }
   const client = args.dry ? null : new Anthropic({ apiKey });
   for (const ep of targets) {
     const file = join(DATA_DIR, "commentary", `ep-${ep.number}.json`);

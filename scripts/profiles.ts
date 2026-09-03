@@ -11,6 +11,7 @@ import Anthropic from "@anthropic-ai/sdk";
 import { createHash } from "node:crypto";
 import type { Contestant, Profile, ScrapedData } from "../src/lib/types";
 import { dataPath, readJson, writeJson } from "./lib/paths";
+import { anthropicKey, skipNotice } from "./lib/anthropic-key";
 
 const MODEL = "claude-opus-5";
 const MAX_TOKENS = 1200;
@@ -74,8 +75,11 @@ async function main() {
   }
   console.log(`${todo.length} profile(s) to generate: ${todo.map((c) => c.slug).join(", ")}`);
 
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey && !args.dry) throw new Error("ANTHROPIC_API_KEY is not set");
+  const apiKey = anthropicKey();
+  if (!apiKey && !args.dry) {
+    skipNotice("profile generation");
+    return;
+  }
   const client = args.dry ? null : new Anthropic({ apiKey });
 
   for (const c of todo) {

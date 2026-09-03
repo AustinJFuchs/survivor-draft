@@ -16,6 +16,7 @@ import { fetchWikitext, FANDOM_API } from "./lib/http";
 import { NameMatcher } from "./lib/names";
 import { dataPath, readJson, writeJson } from "./lib/paths";
 import { plain, stripInvisible } from "./lib/wikitext";
+import { anthropicKey } from "./lib/anthropic-key";
 
 interface EventsFile {
   syncedAt: string;
@@ -69,7 +70,7 @@ async function main() {
     const notes = [...voteTable.matchAll(/\{\{note\|[^}]*\}\}([^\n]*)/g)].map((m) => plain(m[1]!)).join("\n");
     const source = `${plain(stripInvisible(twists))}\n\n${notes}`.trim();
     const hash = createHash("sha1").update(source).digest("hex").slice(0, 12);
-    const apiKey = process.env.ANTHROPIC_API_KEY;
+    const apiKey = anthropicKey();
     if (source.length > 40 && apiKey && claudeMeta?.sourceHash !== hash) {
       const known = events.map((e) => `${e.contestant} ${e.type} ep${e.episode ?? "?"} ${e.advantage ?? ""}`).join("\n");
       const client = new Anthropic({ apiKey });

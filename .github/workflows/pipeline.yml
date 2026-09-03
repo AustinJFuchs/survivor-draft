@@ -55,6 +55,17 @@ jobs:
 
       - run: npm ci --no-audit --no-fund
 
+      - name: Check for the Anthropic key
+        if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$(printf '%s' "$ANTHROPIC_API_KEY" | tr -d '[:space:]')" ]; then
+            echo "::warning::ANTHROPIC_API_KEY secret is missing or blank — every Claude step will skip and the site will keep its existing commentary."
+          else
+            echo "ANTHROPIC_API_KEY is present."
+          fi
+
       - name: Scrape Wikipedia + Survivor Wiki
         if: ${{ github.event_name != 'push' && inputs.skip_scrape != true }}
         run: npm run scrape
@@ -100,8 +111,10 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run review
 
+      # !cancelled() so a failure in a generation step above still commits the
+      # scrape — otherwise every later run re-scrapes and re-fails on the same drift.
       - name: Commit scraped data & commentary
-        if: ${{ github.event_name != 'push' }}
+        if: ${{ !cancelled() && github.event_name != 'push' }}
         run: |
           git config user.name "survivor-draft-bot"
           git config user.email "actions@users.noreply.github.com"

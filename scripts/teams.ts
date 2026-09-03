@@ -11,6 +11,7 @@ import { createHash } from "node:crypto";
 import type { SeasonData, TeamSummary } from "../src/lib/types";
 import { buildSeasonData, loadInputs } from "./build-data";
 import { dataPath, readJson, writeJson } from "./lib/paths";
+import { anthropicKey, skipNotice } from "./lib/anthropic-key";
 
 const MODEL = "claude-opus-5";
 const MAX_TOKENS = 1200;
@@ -86,8 +87,11 @@ async function main() {
     return;
   }
   console.log(`${todo.length} team summar${todo.length === 1 ? "y" : "ies"} to generate: ${todo.map((d) => d.id).join(", ")}`);
-  const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey && !args.dry) throw new Error("ANTHROPIC_API_KEY is not set");
+  const apiKey = anthropicKey();
+  if (!apiKey && !args.dry) {
+    skipNotice("team summaries");
+    return;
+  }
   const client = args.dry ? null : new Anthropic({ apiKey });
 
   for (const d of todo) {
