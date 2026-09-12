@@ -32,7 +32,7 @@ const C = {
   torch4: "#ffb347",
   lagoon: "#4fd1c5",
   ember: "#e0453a",
-  drafters: ["#4fd1c5", "#ff69b4", "#c084fc", "#fbbf24", "#a3e635", "#60a5fa"],
+  drafters: ["#fbbf24", "#ff69b4", "#c084fc", "#fb923c", "#a3e635", "#60a5fa"],
 };
 
 type Node = { type: string; props: Record<string, unknown> };
