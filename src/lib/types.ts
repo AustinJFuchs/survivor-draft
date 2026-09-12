@@ -483,6 +483,8 @@ export interface DrafterStats {
 }
 
 export interface SeasonData {
+  /** Plain-English record of every change to the site's data. */
+  runLog: RunLog;
   drafterStats: DrafterStats[];
   /** drafterId → team summary (generated + overrides). */
   teams: Record<string, TeamSummary>;
@@ -508,4 +510,32 @@ export interface SeasonData {
   notes: string[];
   /** True once at least one elimination has been recorded. */
   seasonStarted: boolean;
+}
+
+// ---------- Update log ----------
+
+/** One recorded change to the site's data — a pipeline sync or a hand edit. */
+export interface RunLogEntry {
+  /** Commit sha when known, else the run's timestamp. Backfill is idempotent on this. */
+  id: string;
+  at: string; // ISO
+  source: "pipeline" | "manual";
+  /** One or two sentences describing what changed. */
+  summary: string;
+  /** Every individual change behind the summary, for the expandable detail. */
+  details: string[];
+  /** Latest episode with an elimination at the time; absent = pre-season. */
+  episode?: number;
+  /** True when this entry reports trouble (a skipped step, a scrape warning). */
+  trouble?: boolean;
+  commit?: string;
+  commitSubject?: string;
+}
+
+export interface RunLog {
+  entries: RunLogEntry[];
+  /** When the pipeline last looked, whether or not anything changed. */
+  lastCheckedAt?: string;
+  /** Runs since the newest entry that found nothing worth logging. */
+  quietChecks: number;
 }

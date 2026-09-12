@@ -188,6 +188,30 @@ what-if simulator which runs the same engine in the browser.
   pick/bust of the year by rank-vs-pick gap). Replaces the rundown at the top of Standings; final
   report cards + badges inside; `cards/recap.png` with a Share button. `overrides.review` edits.
 
+## Update log
+- `scripts/lib/runlog.ts` snapshots `data/51/` into comparable **facts** (no timestamps) and turns
+  two snapshots into one or two sentences; `scripts/runlog.ts` is the CLI. Deterministic, not
+  Claude-written: the page is receipts, and it has to keep working on the weeks the key is missing.
+- Why facts and not a git diff: `scrape.ts` and `events.ts` rewrite `syncedAt` on every run, so a
+  file-level diff reports news every morning. A run whose content matches earns no entry — it only
+  bumps `quietChecks`, which the page shows as "last checked N ago · N quiet checks since".
+- One entry per *content* change, bot or hand, tagged `pipeline` / `manual`. Sentence 1 is what
+  changed (categories with counts, never 40 items); sentence 2 is the consequence — standings
+  movement from the scoring engine, else what Claude regenerated. Trouble (a skipped step, a scrape
+  warning) outranks both and gets a ⚠ clause; a warning *clearing* is worth a row on its own. A data
+  file appearing for the first time reads as a feature landing ("team summaries arrived"), which
+  suppresses the phrase that would repeat it. The earliest commit is the genesis row.
+- `npm run runlog -- --backfill` rebuilds the whole log from `git log -- data/` via `git show`,
+  using the same code path as the live run, so history and future agree and it can be re-run.
+  `data/51/runlog.json` holds the entries plus the `state` snapshot; `build-data.ts` strips `state`
+  and puts the rest on `SeasonData.runLog` (so it rides into `api/season.json`, no new endpoint).
+- Pipeline step sits before the commit step with the same `!cancelled()` guard, so a run that lost
+  a generation step still records what was skipped. `/episode-update` runs it before a hand commit.
+- Page: `#/log`, full-page, **not** in the tab bar (five columns, hard-wired); Rules stays lit while
+  you're on it. Rows grouped under episode headings, newest group open, older collapsed; each row
+  has an Automatic/By hand chip, a collapsed list of every individual change, and a commit link.
+  Linked from the bottom of Rules and from the footer's "Synced from Wikipedia" timestamp.
+
 ## Public JSON & widgets
 - `build-data.ts` writes `public/api/standings.json` (tiny) and `public/api/season.json` (everything)
   on every build; GitHub Pages serves them CORS-open. `public/widget.html` is a chrome-less standings

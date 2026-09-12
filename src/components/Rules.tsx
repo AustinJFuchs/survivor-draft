@@ -178,6 +178,17 @@ export default function Rules({ theme, onToggleTheme }: { theme: "dark" | "light
           applied by hand when a source is wrong.
         </p>
         <p>{data.syncedAt ? `Last synced ${formatDateTime(data.syncedAt)}.` : "Not synced yet."}</p>
+        <p>
+          <a
+            href="#/log"
+            className="text-sand-200 underline decoration-dotted hover:text-torch-400 transition"
+          >
+            See everything that's changed →
+          </a>{" "}
+          <span className="text-sand-400/80">
+            {data.runLog.entries.length} {data.runLog.entries.length === 1 ? "update" : "updates"}, in plain English.
+          </span>
+        </p>
         {data.warnings.length > 0 && (
           <details className="mt-2">
             <summary className="cursor-pointer">Pipeline warnings ({data.warnings.length})</summary>

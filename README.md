@@ -11,6 +11,7 @@ npm run build       # rebuild data, typecheck, production build → dist/
 npm run scrape      # Wikipedia + Survivor Wiki → data/51/scraped.json
 npm run summarize   # Probst commentary for new episodes (needs ANTHROPIC_API_KEY)
 npm run data        # merge data/ → src/generated/season.json
+npm run runlog      # record what changed since the last run (--backfill rebuilds from git)
 npm run photos      # downscale public/photos/51/*.jpg (needs Node ≥ 20)
 npm test            # parser + scoring tests
 ```
@@ -23,7 +24,7 @@ commits the data, and redeploys. If something's wrong, run `/episode-update` in 
 ## Layout
 
 - `data/51/` — hand-maintained config (`season`, `contestants`, `draft`, `sources`), machine-owned
-  `scraped.json`, human-owned `overrides.json`, generated `commentary/`.
+  `scraped.json`, human-owned `overrides.json`, generated `commentary/` and `runlog.json`.
 - `scripts/` — scrape, summarize, build-data, fetch-photos, plus parsers in `scripts/lib/`.
 - `src/` — the React app. `src/lib/scoring.ts` is the scoring engine.
 - `.github/workflows/pipeline.yml` — schedule + deploy.

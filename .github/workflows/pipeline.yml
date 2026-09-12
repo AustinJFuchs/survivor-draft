@@ -111,6 +111,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: npm run review
 
+      # Same !cancelled() guard as the commit below: a run that lost a generation
+      # step still gets its entry, so the log says what was skipped instead of
+      # quietly leaving the week blank.
+      - name: Record what changed in the update log
+        if: ${{ !cancelled() && github.event_name != 'push' }}
+        run: npm run runlog
+
       # !cancelled() so a failure in a generation step above still commits the
       # scrape — otherwise every later run re-scrapes and re-fails on the same drift.
       - name: Commit scraped data & commentary

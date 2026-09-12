@@ -1,0 +1,508 @@
+{
+  "entries": [
+    {
+      "id": "2f5b532",
+      "at": "2026-08-30T06:04:14.000Z",
+      "source": "manual",
+      "summary": "The site went live — 21 castaways, the scoring rules, and an empty draft board.",
+      "details": [
+        "21 castaways on the cast sheet",
+        "Scoring rules, handicap, and prize recorded",
+        "Draft board with 0 picks entered"
+      ],
+      "commit": "2f5b532",
+      "commitSubject": "Survivor 51 draft site: scoring engine, Wikipedia/Survivor Wiki scraper, Probst summarizer, React frontend, pipeline, admin skill"
+    },
+    {
+      "id": "6cf8f57",
+      "at": "2026-08-30T06:23:51.000Z",
+      "source": "manual",
+      "summary": "The draft was entered — all 21 picks.",
+      "details": [
+        "Draft picks: 0 → 21"
+      ],
+      "commit": "6cf8f57",
+      "commitSubject": "data: enter Survivor 51 draft picks; don't flag a dropped pick when tied at the cut"
+    },
+    {
+      "id": "d14d26f",
+      "at": "2026-08-30T06:32:20.000Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up.",
+      "details": [
+        "\"3 words\" updated for Jenna"
+      ],
+      "commit": "d14d26f",
+      "commitSubject": "data: sync 2026-08-30 06:32 UTC"
+    },
+    {
+      "id": "a8e220d",
+      "at": "2026-08-30T07:40:35.000Z",
+      "source": "manual",
+      "summary": "The wiki filled in 15 birthdays and 21 castaways' wiki entries got touched up.",
+      "details": [
+        "Questionnaire updated for Aaliyah",
+        "1 wiki photo added for Aaliyah",
+        "Birthday added for Alexis",
+        "Questionnaire updated for Alexis",
+        "1 wiki photo added for Alexis",
+        "Birthday added for Ana",
+        "Questionnaire updated for Ana",
+        "1 wiki photo added for Ana",
+        "Birthday added for Brady",
+        "Questionnaire updated for Brady",
+        "1 wiki photo added for Brady",
+        "Birthday added for Carter",
+        "Questionnaire updated for Carter",
+        "1 wiki photo added for Carter",
+        "Birthday added for Cristian",
+        "Questionnaire updated for Cristian",
+        "1 wiki photo added for Cristian",
+        "Birthday added for Kilby",
+        "Questionnaire updated for Kilby",
+        "1 wiki photo added for Kilby",
+        "Birthday added for Devin",
+        "Questionnaire updated for Devin",
+        "1 wiki photo added for Devin",
+        "Birthday added for Eric",
+        "Questionnaire updated for Eric",
+        "1 wiki photo added for Eric",
+        "Questionnaire updated for Jelly",
+        "1 wiki photo added for Jelly",
+        "Birthday added for Jenna",
+        "Questionnaire updated for Jenna",
+        "1 wiki photo added for Jenna",
+        "Birthday added for Kristin",
+        "Questionnaire updated for Kristin",
+        "1 wiki photo added for Kristin",
+        "Birthday added for Lewis",
+        "Questionnaire updated for Lewis",
+        "1 wiki photo added for Lewis",
+        "Birthday added for Linnea",
+        "Questionnaire updated for Linnea",
+        "1 wiki photo added for Linnea",
+        "Questionnaire updated for Maggie",
+        "1 wiki photo added for Maggie",
+        "Birthday added for Mike",
+        "Questionnaire updated for Mike",
+        "1 wiki photo added for Mike",
+        "Birthday added for Ori",
+        "Questionnaire updated for Ori",
+        "1 wiki photo added for Ori",
+        "Questionnaire updated for Patt",
+        "1 wiki photo added for Patt",
+        "Birthday added for Rob",
+        "Questionnaire updated for Rob",
+        "1 wiki photo added for Rob",
+        "Questionnaire updated for Sharonda",
+        "1 wiki photo added for Sharonda",
+        "Questionnaire updated for Thien An",
+        "1 wiki photo added for Thien An"
+      ],
+      "commit": "a8e220d",
+      "commitSubject": "sheet: rank & contribution, draft neighbours, episode ledger with votes, sparkline, Jeff mentions, linked quotes, EW questionnaire, birthday/alliances, wiki gallery; voting-history voter parsing"
+    },
+    {
+      "id": "18eaff1",
+      "at": "2026-08-30T07:51:26.000Z",
+      "source": "manual",
+      "summary": "Castaway profiles arrived — Claude wrote a short bio for all 21.",
+      "details": [
+        "Castaway profiles shipped (profiles.json)",
+        "Profile written for Aaliyah",
+        "Profile written for Alexis",
+        "Profile written for Ana",
+        "Profile written for Brady",
+        "Profile written for Carter",
+        "Profile written for Cristian",
+        "Profile written for Kilby",
+        "Profile written for Devin",
+        "Profile written for Eric",
+        "Profile written for Jelly",
+        "Profile written for Jenna",
+        "Profile written for Kristin",
+        "Profile written for Lewis",
+        "Profile written for Linnea",
+        "Profile written for Maggie",
+        "Profile written for Mike",
+        "Profile written for Ori",
+        "Profile written for Patt",
+        "Profile written for Rob",
+        "Profile written for Sharonda",
+        "Profile written for Thien An"
+      ],
+      "commit": "18eaff1",
+      "commitSubject": "sheet: Claude-written About summary + bullets per castaway; questionnaire collapsed behind a toggle; profiles step in pipeline"
+    },
+    {
+      "id": "51215df",
+      "at": "2026-08-30T14:30:10.000Z",
+      "source": "manual",
+      "summary": "Team summaries arrived — Jeff sized up all 5 drafts.",
+      "details": [
+        "Team summaries shipped (teams.json)",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim"
+      ],
+      "commit": "51215df",
+      "commitSubject": "drafter sheet: Jeff-voiced team summaries with nicknames; nickname on standings; grades hidden until first boot"
+    },
+    {
+      "id": "51c7b21",
+      "at": "2026-08-30T15:08:24.000Z",
+      "source": "manual",
+      "summary": "Jeff's State of the Draft arrived.",
+      "details": [
+        "Jeff's State of the Draft shipped (rundowns.json)",
+        "State of the Draft written (pre-season)"
+      ],
+      "commit": "51c7b21",
+      "commitSubject": "standings: Jeff's State of the Draft — weekly comparison of all five drafts, archived per episode, headline on the share card"
+    },
+    {
+      "id": "93707df",
+      "at": "2026-08-30T17:31:32.000Z",
+      "source": "manual",
+      "summary": "Idol & advantage tracking arrived.",
+      "details": [
+        "Idol & advantage tracking shipped (events.json)"
+      ],
+      "commit": "93707df",
+      "commitSubject": "features: idol & advantage tracker (wiki tables + Claude for twists), torch wall, 'that's me' mode, season in review + recap card, public JSON endpoints + widgets; SW fallback deny-list; readJson fallback fix"
+    },
+    {
+      "id": "9cfff0a",
+      "at": "2026-08-31T19:19:03.000Z",
+      "source": "pipeline",
+      "summary": "The wiki filled in 1 birthday. ⚠ Claude was unreachable, so extraction of Open Era twists was skipped.",
+      "details": [
+        "Birthday added for Thien An",
+        "⚠ ANTHROPIC_API_KEY not set — skipped Claude extraction of Open Era twists"
+      ],
+      "trouble": true,
+      "commit": "9cfff0a",
+      "commitSubject": "data: sync 2026-08-31 19:19 UTC"
+    },
+    {
+      "id": "60c30a6",
+      "at": "2026-09-03T11:03:51.000Z",
+      "source": "pipeline",
+      "summary": "The wiki filled in 3 birthdays and 2 castaways' wiki entries got touched up. Claude is working again.",
+      "details": [
+        "Birthday added for Aaliyah",
+        "Questionnaire updated for Eric",
+        "Birthday added for Jelly",
+        "Trivia updated for Rob",
+        "Birthday added for Sharonda",
+        "Profile rewritten for Eric",
+        "Profile rewritten for Rob",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Tami",
+        "State of the Draft rewritten (pre-season)",
+        "Resolved: ANTHROPIC_API_KEY not set — skipped Claude extraction of Open Era twists"
+      ],
+      "commit": "60c30a6",
+      "commitSubject": "data: sync 2026-09-03 11:03 UTC"
+    },
+    {
+      "id": "a07e11b",
+      "at": "2026-09-06T15:54:30.000Z",
+      "source": "pipeline",
+      "summary": "The wiki filled in 1 birthday.",
+      "details": [
+        "Birthday added for Patt"
+      ],
+      "commit": "a07e11b",
+      "commitSubject": "data: sync 2026-09-06 15:54 UTC"
+    }
+  ],
+  "state": {
+    "files": [
+      "contestants.json",
+      "draft.json",
+      "events.json",
+      "overrides.json",
+      "profiles.json",
+      "rundowns.json",
+      "scraped.json",
+      "season.json",
+      "sources.json",
+      "teams.json"
+    ],
+    "seasonName": "Survivor 51",
+    "contestants": 21,
+    "picks": 21,
+    "episodes": {
+      "1": {
+        "title": "Permanent Uncertainty",
+        "airDate": "2026-09-23"
+      }
+    },
+    "eliminations": [],
+    "merged": [],
+    "finalists": [],
+    "tribes": {},
+    "votes": 0,
+    "extras": {
+      "aaliyah-puglia": {
+        "birthdate": "2001-04-21",
+        "threeWords": "6c5c1a20b167",
+        "trivia": "cb13d5fcf627",
+        "qa": "0cb596f18b50",
+        "photos": 1,
+        "alliances": 0
+      },
+      "alexis-levine": {
+        "birthdate": "1992-03-27",
+        "threeWords": "e799d7ca5500",
+        "qa": "da987ecb2a47",
+        "photos": 1,
+        "alliances": 0
+      },
+      "ana-sani": {
+        "birthdate": "1991-09-14",
+        "threeWords": "8b77250d050b",
+        "qa": "e60d62dd05d8",
+        "photos": 1,
+        "alliances": 0
+      },
+      "brady-booker": {
+        "birthdate": "1998-12-10",
+        "threeWords": "71f7b4fb99af",
+        "qa": "d45c7903979f",
+        "photos": 1,
+        "alliances": 0
+      },
+      "carter-krull": {
+        "birthdate": "2001-05-20",
+        "threeWords": "4a7fee5fc36a",
+        "trivia": "cf3d347ab71b",
+        "qa": "ca44d5f2cddb",
+        "photos": 1,
+        "alliances": 0
+      },
+      "cristian-chavez": {
+        "birthdate": "2000-05-10",
+        "threeWords": "6a473d14090b",
+        "trivia": "8e0da425b65c",
+        "qa": "1e9a66da2f09",
+        "photos": 1,
+        "alliances": 0
+      },
+      "danny-kilby": {
+        "birthdate": "1996-02-11",
+        "threeWords": "27f2b1fe35f8",
+        "trivia": "f5508ac54cb2",
+        "qa": "a0930bbc6501",
+        "photos": 1,
+        "alliances": 0
+      },
+      "devin-way": {
+        "birthdate": "1992-05-31",
+        "threeWords": "e4f8afbfe0a9",
+        "qa": "4985473c1095",
+        "photos": 1,
+        "alliances": 0
+      },
+      "eric-macksoud": {
+        "birthdate": "1991-10-05",
+        "threeWords": "5a210f3c4fef",
+        "qa": "108d3a027534",
+        "photos": 1,
+        "alliances": 0
+      },
+      "jelly-loblack": {
+        "birthdate": "1996-08-12",
+        "threeWords": "e08dfee01ec3",
+        "trivia": "b7beb06f45cd",
+        "qa": "89d8d8df131f",
+        "photos": 1,
+        "alliances": 0
+      },
+      "jenna-doore": {
+        "birthdate": "1995-04-27",
+        "threeWords": "4023a392b640",
+        "qa": "6ea9435c4821",
+        "photos": 1,
+        "alliances": 0
+      },
+      "kristin-flickinger": {
+        "birthdate": "1977-04-05",
+        "threeWords": "a729d1d36214",
+        "trivia": "b56ec3643959",
+        "qa": "03f8834f03ba",
+        "photos": 1,
+        "alliances": 0
+      },
+      "lewis-kelly": {
+        "birthdate": "1997-10-03",
+        "threeWords": "979a3cd4c89a",
+        "qa": "fb7b2a2af3f6",
+        "photos": 1,
+        "alliances": 0
+      },
+      "linnea-capobianco": {
+        "birthdate": "2000-04-29",
+        "threeWords": "706e3fba831d",
+        "qa": "1e87cd2de9d6",
+        "photos": 1,
+        "alliances": 0
+      },
+      "maggie-nestor": {
+        "threeWords": "af5b396d7e6f",
+        "trivia": "06a92343dd96",
+        "qa": "f5508fd22cb0",
+        "photos": 1,
+        "alliances": 0
+      },
+      "mike-pinsky": {
+        "birthdate": "1993-05-10",
+        "threeWords": "8de39432348c",
+        "qa": "b5b500625481",
+        "photos": 1,
+        "alliances": 0
+      },
+      "ori-jean-charles": {
+        "birthdate": "1998-12-31",
+        "threeWords": "75c9e0ed1233",
+        "qa": "4c3b6a2bbe53",
+        "photos": 1,
+        "alliances": 0
+      },
+      "patt-cannaday": {
+        "birthdate": "1992-12-08",
+        "threeWords": "c3d0e847dd2a",
+        "qa": "2ecaf4abc425",
+        "photos": 1,
+        "alliances": 0
+      },
+      "rob-antonson": {
+        "birthdate": "1985-11-18",
+        "threeWords": "1369729110d5",
+        "trivia": "0eaa8fbc7862",
+        "qa": "c4cacbed876d",
+        "photos": 1,
+        "alliances": 0
+      },
+      "sharonda-cox": {
+        "birthdate": "1991-09-30",
+        "threeWords": "539670f32cc1",
+        "qa": "c79065a0df4a",
+        "photos": 1,
+        "alliances": 0
+      },
+      "thien-an-nguyen": {
+        "birthdate": "2001-08-22",
+        "threeWords": "16c3d4ac71fc",
+        "trivia": "2d0ed7f85302",
+        "qa": "547e35f50464",
+        "photos": 1,
+        "alliances": 0
+      }
+    },
+    "commentary": {},
+    "profiles": {
+      "aaliyah-puglia": "dd96c713e590",
+      "alexis-levine": "7013c1013378",
+      "ana-sani": "dc6f8bcc5e86",
+      "brady-booker": "52a1c951da21",
+      "carter-krull": "14c750415390",
+      "cristian-chavez": "d61b77ae7f98",
+      "danny-kilby": "aeae64af9bad",
+      "devin-way": "42e7d526b391",
+      "eric-macksoud": "c3912c4189c9",
+      "jelly-loblack": "9ff09fce8e6b",
+      "jenna-doore": "8eeda3e2baed",
+      "kristin-flickinger": "ffacce0b5707",
+      "lewis-kelly": "3ee570a78c35",
+      "linnea-capobianco": "c56bb415bdcf",
+      "maggie-nestor": "240eac0a1964",
+      "mike-pinsky": "0f3abaf60512",
+      "ori-jean-charles": "b657746cf6c5",
+      "patt-cannaday": "8f576e45238f",
+      "rob-antonson": "9f286d0b9f8d",
+      "sharonda-cox": "894c52bc88e2",
+      "thien-an-nguyen": "96692fdbd957"
+    },
+    "teams": {
+      "austin": "ec12de9ac219",
+      "kylie": "0643bf303fce",
+      "tami": "d7b3f9108395",
+      "taylor": "b9bda09fa898",
+      "tim": "c066a92aec90"
+    },
+    "rundowns": {
+      "0": "25c56d9c2abf"
+    },
+    "events": [],
+    "overrides": {
+      "notes": 0,
+      "quotes": 0,
+      "funFacts": 0,
+      "corrections": 1
+    },
+    "warnings": [],
+    "standings": [
+      {
+        "drafterId": "austin",
+        "total": 0,
+        "rank": 1
+      },
+      {
+        "drafterId": "kylie",
+        "total": 0,
+        "rank": 1
+      },
+      {
+        "drafterId": "tami",
+        "total": 0,
+        "rank": 1
+      },
+      {
+        "drafterId": "taylor",
+        "total": 0,
+        "rank": 1
+      },
+      {
+        "drafterId": "tim",
+        "total": 0,
+        "rank": 1
+      }
+    ],
+    "names": {
+      "aaliyah-puglia": "Aaliyah",
+      "alexis-levine": "Alexis",
+      "thien-an-nguyen": "Thien An",
+      "ana-sani": "Ana",
+      "jelly-loblack": "Jelly",
+      "brady-booker": "Brady",
+      "carter-krull": "Carter",
+      "cristian-chavez": "Cristian",
+      "danny-kilby": "Kilby",
+      "devin-way": "Devin",
+      "eric-macksoud": "Eric",
+      "jenna-doore": "Jenna",
+      "kristin-flickinger": "Kristin",
+      "lewis-kelly": "Lewis",
+      "linnea-capobianco": "Linnea",
+      "maggie-nestor": "Maggie",
+      "mike-pinsky": "Mike",
+      "ori-jean-charles": "Ori",
+      "patt-cannaday": "Patt",
+      "rob-antonson": "Rob",
+      "sharonda-cox": "Sharonda"
+    },
+    "drafterNames": {
+      "tami": "Tami",
+      "taylor": "Taylor",
+      "kylie": "Kylie",
+      "tim": "Tim",
+      "austin": "Austin"
+    }
+  },
+  "quietChecks": 0,
+  "lastCheckedAt": "2026-09-11T16:49:47.000Z"
+}

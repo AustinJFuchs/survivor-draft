@@ -57,8 +57,10 @@ You maintain `data/51/overrides.json` (human-owned; always wins over `scraped.js
    to the user and wait for a yes.
 6. **Prune stale overrides.** For each override elimination/tribe that now equals the scraped
    value, tell the user it's redundant and offer to delete it.
-7. **Commit & push** with a message like `data: ep 3 — Brady out, Kylie quote` on `main`.
-   The push triggers the pipeline, which rebuilds and deploys.
+7. **Log it, then commit & push.** Run `npm run runlog` first so the change is recorded as a
+   hand edit rather than being swept into the next automatic run, then commit with a message like
+   `data: ep 3 — Brady out, Kylie quote` on `main`. The push triggers the pipeline, which rebuilds
+   and deploys.
 
 ## Guardrails
 

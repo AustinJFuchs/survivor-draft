@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 
-export type Tab = "standings" | "rosters" | "cast" | "episodes" | "rules";
+/** "log" is a real route but not a tab — it is reached from Rules, not the tab bar. */
+export type Tab = "standings" | "rosters" | "cast" | "episodes" | "rules" | "log";
 
 export interface Route {
   tab: Tab;
@@ -8,7 +9,7 @@ export interface Route {
   drafter?: string;
 }
 
-const TABS: Tab[] = ["standings", "rosters", "cast", "episodes", "rules"];
+const TABS: Tab[] = ["standings", "rosters", "cast", "episodes", "rules", "log"];
 
 /** Old hashes from the first version keep working. */
 const LEGACY: Record<string, Tab> = {

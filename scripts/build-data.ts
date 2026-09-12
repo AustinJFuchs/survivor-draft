@@ -16,6 +16,7 @@ import type {
   Overrides,
   Profile,
   Quote,
+  RunLog,
   ScrapedData,
   SeasonConfig,
   SeasonData,
@@ -40,6 +41,7 @@ export interface BuildInputs {
   rundowns: Record<string, Rundown>;
   events: GameEvent[];
   review?: Review;
+  runLog: RunLog;
 }
 
 export function loadInputs(): BuildInputs {
@@ -60,7 +62,9 @@ export function loadInputs(): BuildInputs {
   const rundowns = readJson<Record<string, Rundown>>(dataPath("rundowns.json"), {});
   const events = readJson<{ events?: GameEvent[] }>(dataPath("events.json"), {}).events ?? [];
   const review = readJson<Review | undefined>(dataPath("review.json"), undefined);
-  return { season, contestants, draft, scraped, overrides, commentary, profiles, teams, rundowns, events, review };
+  // `state` is the snapshot the next run diffs against; the app only needs the entries.
+  const { state: _state, ...runLog } = readJson<RunLog & { state?: unknown }>(dataPath("runlog.json"), { entries: [], quietChecks: 0 });
+  return { season, contestants, draft, scraped, overrides, commentary, profiles, teams, rundowns, events, review, runLog };
 }
 
 export function buildSeasonData(inp: BuildInputs): SeasonData {
@@ -381,6 +385,7 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
   const review = inp.review ? (overrides.review ? { ...inp.review, ...overrides.review, edited: true } : inp.review) : undefined;
 
   return {
+    runLog: inp.runLog,
     season,
     contestants,
     drafterStats,

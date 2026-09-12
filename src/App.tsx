@@ -12,6 +12,7 @@ import ContestantSheet from "./components/ContestantSheet";
 import DrafterSheet from "./components/DrafterSheet";
 import Episodes from "./components/Episodes";
 import Rules from "./components/Rules";
+import RunLog from "./components/RunLog";
 import UpdateToast from "./components/UpdateToast";
 
 export default function App() {
@@ -27,12 +28,14 @@ export default function App() {
     window.scrollTo({ top: 0 });
   };
   const toggleTheme = () => setTheme(theme === "dark" ? "light" : "dark");
+  // The update log has no tab of its own, so Rules stays lit while you're on it.
+  const navTab: Tab = route.tab === "log" ? "rules" : route.tab;
 
   return (
     <MeContext.Provider value={{ me, setMe }}>
     <div className="min-h-dvh flex flex-col pb-[calc(64px+env(safe-area-inset-bottom))] sm:pb-0">
       <Header onOpenDrafter={openDrafter} />
-      <TopTabs active={route.tab} onSelect={select} />
+      <TopTabs active={navTab} onSelect={select} />
 
       <main className="mx-auto w-full max-w-6xl px-3 sm:px-4 py-3 sm:py-8 flex-1">
         {route.tab === "standings" && <Standings onOpen={openContestant} onOpenDrafter={openDrafter} />}
@@ -40,11 +43,15 @@ export default function App() {
         {route.tab === "cast" && <Cast onOpen={openContestant} />}
         {route.tab === "episodes" && <Episodes onOpen={openContestant} />}
         {route.tab === "rules" && <Rules theme={theme} onToggleTheme={toggleTheme} />}
+        {route.tab === "log" && <RunLog onBack={() => select("rules")} />}
       </main>
 
       <footer className="mx-auto max-w-6xl w-full px-4 py-5 text-[11px] sm:text-xs text-sand-400/80 flex flex-wrap gap-x-4 gap-y-1 justify-between items-center">
         <span>
-          {data.syncedAt ? `Synced from Wikipedia ${formatDateTime(data.syncedAt)}` : "Not yet synced"} · built {formatDateTime(data.builtAt)}
+          <button onClick={() => select("log")} className="underline decoration-dotted hover:text-sand-200 transition cursor-pointer">
+            {data.syncedAt ? `Synced from Wikipedia ${formatDateTime(data.syncedAt)}` : "Not yet synced"}
+          </button>{" "}
+          · built {formatDateTime(data.builtAt)}
         </span>
         <span className="flex items-center gap-3">
           <button onClick={toggleTheme} className="chip cursor-pointer" aria-label="Toggle light/dark theme">
@@ -54,7 +61,7 @@ export default function App() {
         </span>
       </footer>
 
-      <BottomTabs active={route.tab} onSelect={select} />
+      <BottomTabs active={navTab} onSelect={select} />
       <UpdateToast />
       {route.contestant && <ContestantSheet slug={route.contestant} onClose={closeSheet} onOpen={openContestant} />}
       {route.drafter && <DrafterSheet id={route.drafter} onClose={closeSheet} onOpen={openContestant} />}
