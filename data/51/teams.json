@@ -89,24 +89,24 @@
   },
   "tim": {
     "drafterId": "tim",
-    "nickname": "The Charm Farm",
-    "summary": "Tim, you drafted with a theme and I respect it. Two farmers, an actor, and a medical student — dirt under the nails and charisma to burn. Lewis at #4, Maggie at #7, Devin at #14, Thien An at #17: all four in the game, zero counted points, and you're tied at rank 1 of 5 with 114 points still on the table. Nobody's ahead of you. Nobody's behind. Tribes TBA — and that's the fun part.",
+    "nickname": "Two Farmers and a Bus",
+    "summary": "Tim, you went agriculture-heavy and unapologetic about it — two farmers, an actor, and a medical student, all four still in the game. You're sitting at rank 1 (tied) of 5 with 0 counted points, which is exactly where everybody starts, and there are 114 points still on the table. Charm runs deep on this roster, from the school bus in Puerto Rico to West Virginia. Tribes are TBA. Now we wait.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Lewis Kelly is your headliner at pick #4 — cheeky, devilish, charming, a Dublin-born farmer living in a renovated school bus in Puerto Rico and smarter than he lets on."
+        "text": "Lewis Kelly at pick #4 is your headliner — cheeky, devilish, charming, and selling the idea that every blunder is deliberate."
       },
       {
         "label": "Cause for concern",
-        "text": "Devin says loyalty and honesty keep him close but a single lie sends him looking elsewhere — on Survivor, that clock starts ticking day one."
+        "text": "Devin says a single lie sends him looking elsewhere, and on Survivor the lies arrive early and often."
       },
       {
         "label": "Watch for",
-        "text": "Two farmers on one roster — watch whether Lewis and Maggie land on the same tribe and whether Thien An's quick wit turns those early camp connections into real alliances."
+        "text": "Tribe assignments are still TBA, so watch whether Maggie finds those creative, open, bold partners she's asking for and whether Thien An's empathy turns into real connections fast."
       }
     ],
-    "generatedAt": "2026-08-30T14:29:09.791Z",
+    "generatedAt": "2026-09-14T18:16:53.290Z",
     "model": "claude-opus-5",
-    "sourceHash": "71461eedc29c"
+    "sourceHash": "abdc72916f60"
   }
 }

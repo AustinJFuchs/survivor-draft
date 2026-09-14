@@ -217,6 +217,18 @@
       ],
       "commit": "a07e11b",
       "commitSubject": "data: sync 2026-09-06 15:54 UTC"
+    },
+    {
+      "id": "2026-09-14T18:17:10.396Z",
+      "at": "2026-09-14T18:17:10.396Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile, 1 team summary refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Trivia updated for Lewis",
+        "Profile rewritten for Lewis",
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (pre-season)"
+      ]
     }
   ],
   "state": {
@@ -340,6 +352,7 @@
       "lewis-kelly": {
         "birthdate": "1997-10-03",
         "threeWords": "979a3cd4c89a",
+        "trivia": "c7567e6deee0",
         "qa": "fb7b2a2af3f6",
         "photos": 1,
         "alliances": 0
@@ -417,7 +430,7 @@
       "jelly-loblack": "9ff09fce8e6b",
       "jenna-doore": "8eeda3e2baed",
       "kristin-flickinger": "ffacce0b5707",
-      "lewis-kelly": "3ee570a78c35",
+      "lewis-kelly": "5fb1bac269cb",
       "linnea-capobianco": "c56bb415bdcf",
       "maggie-nestor": "240eac0a1964",
       "mike-pinsky": "0f3abaf60512",
@@ -432,10 +445,10 @@
       "kylie": "0643bf303fce",
       "tami": "d7b3f9108395",
       "taylor": "b9bda09fa898",
-      "tim": "c066a92aec90"
+      "tim": "52d5628aea81"
     },
     "rundowns": {
-      "0": "25c56d9c2abf"
+      "0": "d2a141e1c703"
     },
     "events": [],
     "overrides": {
@@ -503,6 +516,6 @@
       "austin": "Austin"
     }
   },
-  "quietChecks": 2,
-  "lastCheckedAt": "2026-09-13T16:45:31.980Z"
+  "lastCheckedAt": "2026-09-14T18:17:10.396Z",
+  "quietChecks": 0
 }
