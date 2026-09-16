@@ -229,6 +229,18 @@
         "Team summary refreshed for Tim",
         "State of the Draft rewritten (pre-season)"
       ]
+    },
+    {
+      "id": "2026-09-16T17:24:04.205Z",
+      "at": "2026-09-16T17:24:04.205Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile, 1 team summary refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Bio updated for Brady",
+        "Profile rewritten for Brady",
+        "Team summary refreshed for Taylor",
+        "State of the Draft rewritten (pre-season)"
+      ]
     }
   ],
   "state": {
@@ -283,6 +295,7 @@
       },
       "brady-booker": {
         "birthdate": "1998-12-10",
+        "bio": "ef178c5d9e19",
         "threeWords": "71f7b4fb99af",
         "qa": "d45c7903979f",
         "photos": 1,
@@ -421,7 +434,7 @@
       "aaliyah-puglia": "dd96c713e590",
       "alexis-levine": "7013c1013378",
       "ana-sani": "dc6f8bcc5e86",
-      "brady-booker": "52a1c951da21",
+      "brady-booker": "26dc069f753d",
       "carter-krull": "14c750415390",
       "cristian-chavez": "d61b77ae7f98",
       "danny-kilby": "aeae64af9bad",
@@ -444,11 +457,11 @@
       "austin": "ec12de9ac219",
       "kylie": "0643bf303fce",
       "tami": "d7b3f9108395",
-      "taylor": "b9bda09fa898",
+      "taylor": "d1657874a1a7",
       "tim": "52d5628aea81"
     },
     "rundowns": {
-      "0": "d2a141e1c703"
+      "0": "9094bf8f1ecf"
     },
     "events": [],
     "overrides": {
@@ -516,6 +529,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-15T17:24:47.709Z",
-  "quietChecks": 1
+  "lastCheckedAt": "2026-09-16T17:24:04.205Z",
+  "quietChecks": 0
 }

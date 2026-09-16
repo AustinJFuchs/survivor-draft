@@ -2,44 +2,44 @@
   "0": {
     "key": "0",
     "eliminations": 0,
-    "headline": "Twenty-one picks, zero points, five rosters itching for fire",
-    "overview": "Nobody has been voted out, so all five drafts sit at 0 pts with 114 on the table — this week is purely about construction. Austin owned the back-to-back turn twice, stacking picks #5 and #6, then #15 and #16, building a tidy themed four. Kylie spread hers evenly across every round. Tami used the first overall pick and her snake bookend, then inherited leftover #21 for a five-deep roster where only her best 4 count. Taylor front-loaded with #2 and closed with a wrestler. Tim went farmer, farmer, and never blinked.",
+    "headline": "Twenty-one names, zero votes cast, five very different bets",
+    "overview": "Everybody sits on 0 points with 114 on the table, so the only thing to judge tonight is taste. Austin bunched picks #5, #6, #15 and #16 into a back-to-back double dip — livestock and lenses, exactly as advertised. Kylie went professional muscle from Aaliyah at #3 down to Kilby at #18. Tami opened the entire draft with Jelly at #1, then stacked five bodies knowing only her best four count. Taylor cornered the drama market with crisis management, a trainer, a voice actress and a pro wrestler. Tim just quietly took two farmers, an actor and a medical student.",
     "lines": [
       {
         "drafterId": "austin",
-        "text": "Austin turned the end of the snake into a shopping spree — Linnea and Jenna at #5 and #6, Carter and Eric at #15 and #16, four names, one very neat package."
+        "text": "Austin owned the turn with Linnea at #5 and Jenna at #6, then doubled again at #15 and #16 for Carter and Eric — a roster built in two matched pairs."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie's board reads like a boardroom gone feral: a chef at #3, Head of HR at #8, a criminal defense attorney at #13, and a game designer at #18 — one pick in every round, no wasted motion."
+        "text": "Kylie grabbed Aaliyah third overall and kept hiring: HR at #8, a criminal defense attorney at #13, a game designer at #18 — that's a boardroom that knows how to read a room."
       },
       {
         "drafterId": "tami",
-        "text": "Tami opened the whole draft with Jelly at #1, doubled up at #10 and #11, and then leftover #21 handed her Sharonda — five castaways, best 4 count, the only roster with a spare tire."
+        "text": "Tami had the first pick of the entire draft and spent it on Jelly, then used the snake's belly at #10, #11, #20 and the #21 leftover to carry five castaways when only four count."
       },
       {
         "drafterId": "taylor",
-        "text": "Taylor grabbed 49-year-old Kristin at #2 and then built around motion — Ori, Ana, and Brady at #19 — crisis, cardio and chaos, exactly as advertised."
+        "text": "Taylor took 49-year-old Kristin at #2 and then assembled a physical, loud, camera-ready four with Ori, Ana and Brady at #19 — the Crisis Cage Match name is doing honest work."
       },
       {
         "drafterId": "tim",
-        "text": "Tim took Lewis at #4 and Maggie at #7 and committed fully to the soil before adding Devin and Thien An — the most single-minded draft on the beach."
+        "text": "Tim opened with Lewis at #4, went right back to the field for Maggie at #7, and closed with Devin and Thien An — no gimmicks, just people who work."
       }
     ],
     "awards": [
       {
         "label": "Boldest draft",
-        "drafterId": "tim",
-        "text": "Spending picks #4 and #7 on two farmers is a theme you can't walk back, Tim, and I respect the swagger."
+        "drafterId": "tami",
+        "text": "Taking the #21 leftover and stretching to five castaways with Rob at #20 is a swing nobody else was willing to take."
       },
       {
         "label": "Safest draft",
-        "drafterId": "kylie",
-        "text": "One pick per round at #3, #8, #13 and #18 — Kylie built the most evenly spaced roster in the draft."
+        "drafterId": "tim",
+        "text": "Two farmers, an actor and a medical student is the least flashy roster on the board and probably the hardest to knock over."
       }
     ],
-    "generatedAt": "2026-09-14T18:17:09.739Z",
+    "generatedAt": "2026-09-16T17:24:03.377Z",
     "model": "claude-opus-5",
-    "sourceHash": "574d6f370d4c"
+    "sourceHash": "0efaaf389b97"
   }
 }

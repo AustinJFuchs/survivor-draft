@@ -40,16 +40,16 @@
   },
   "brady-booker": {
     "slug": "brady-booker",
-    "summary": "Brady is a 27-year-old pro wrestler from La Salle, Illinois, now living in Knoxville. He grew up watching Survivor with his family and loves competition, the outdoors, and being pushed to his limit. Enthusiastic and intense, he values trust above all and says he's comfortable being uncomfortable.",
+    "summary": "Brady Booker wrestles professionally as Bodhi Hayward, a job built on long days, little sleep, and winning people over. He grew up watching Survivor with his family and loves the outdoors, competition, and being pushed to his limit. Enthusiastic and intense, he values trust above all and is comfortable being uncomfortable.",
     "bullets": [
-      "Wrestling means long days on little sleep, food, and plenty of politicking",
-      "Wants to play like Jonathan: laid-back provider until it's time to strike",
-      "Hunts, fishes, hikes, camps, lifts, runs trails, and trains jujitsu",
-      "Did gymnastics all through his youth sports years"
+      "Pro wrestler from La Salle, Illinois, now living in Knoxville",
+      "Did gymnastics throughout his youth sports years",
+      "Hunts, fishes, hikes, camps, lifts, trail runs, and trains jujitsu",
+      "Credits his parents, who built a life from very little"
     ],
-    "generatedAt": "2026-08-30T07:49:09.522Z",
+    "generatedAt": "2026-09-16T17:23:39.156Z",
     "model": "claude-opus-5",
-    "sourceHash": "54019780040c"
+    "sourceHash": "cae5e0a71fec"
   },
   "carter-krull": {
     "slug": "carter-krull",
