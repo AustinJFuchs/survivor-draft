@@ -241,6 +241,18 @@
         "Team summary refreshed for Taylor",
         "State of the Draft rewritten (pre-season)"
       ]
+    },
+    {
+      "id": "2026-09-21T18:24:16.745Z",
+      "at": "2026-09-21T18:24:16.745Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile, 1 team summary refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Questionnaire updated for Ori",
+        "Profile rewritten for Ori",
+        "Team summary refreshed for Taylor",
+        "State of the Draft rewritten (pre-season)"
+      ]
     }
   ],
   "state": {
@@ -394,7 +406,7 @@
       "ori-jean-charles": {
         "birthdate": "1998-12-31",
         "threeWords": "75c9e0ed1233",
-        "qa": "4c3b6a2bbe53",
+        "qa": "5af80a6cc27c",
         "photos": 1,
         "alliances": 0
       },
@@ -447,7 +459,7 @@
       "linnea-capobianco": "c56bb415bdcf",
       "maggie-nestor": "240eac0a1964",
       "mike-pinsky": "0f3abaf60512",
-      "ori-jean-charles": "b657746cf6c5",
+      "ori-jean-charles": "138079bbdc28",
       "patt-cannaday": "8f576e45238f",
       "rob-antonson": "9f286d0b9f8d",
       "sharonda-cox": "894c52bc88e2",
@@ -457,11 +469,11 @@
       "austin": "ec12de9ac219",
       "kylie": "0643bf303fce",
       "tami": "d7b3f9108395",
-      "taylor": "d1657874a1a7",
+      "taylor": "e414afd5fa11",
       "tim": "52d5628aea81"
     },
     "rundowns": {
-      "0": "9094bf8f1ecf"
+      "0": "635052266722"
     },
     "events": [],
     "overrides": {
@@ -529,6 +541,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-20T16:39:12.575Z",
-  "quietChecks": 7
+  "lastCheckedAt": "2026-09-21T18:24:16.745Z",
+  "quietChecks": 0
 }

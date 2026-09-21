@@ -2,44 +2,44 @@
   "0": {
     "key": "0",
     "eliminations": 0,
-    "headline": "Twenty-one names, zero votes cast, five very different bets",
-    "overview": "Everybody sits on 0 points with 114 on the table, so the only thing to judge tonight is taste. Austin bunched picks #5, #6, #15 and #16 into a back-to-back double dip — livestock and lenses, exactly as advertised. Kylie went professional muscle from Aaliyah at #3 down to Kilby at #18. Tami opened the entire draft with Jelly at #1, then stacked five bodies knowing only her best four count. Taylor cornered the drama market with crisis management, a trainer, a voice actress and a pro wrestler. Tim just quietly took two farmers, an actor and a medical student.",
+    "headline": "Five drafts, zero points, one hundred fourteen up for grabs",
+    "overview": "Pre-season, and the scoreboard is a beautiful blank slate: five drafts, zero points apiece, every castaway still breathing, and 114 on the table for all of them. Tami, drafting first in the snake, opened with Jelly at #1 and stacked five bodies including the leftover Sharonda at #21, though only her best four count. Taylor grabbed Kristin at #2, Kylie took Aaliyah at #3, Tim scooped Lewis at #4, and Austin, picking last, doubled up immediately with Linnea and Jenna at #5 and #6. Different shapes, identical starting line. Let's see whose blueprint holds.",
     "lines": [
       {
         "drafterId": "austin",
-        "text": "Austin owned the turn with Linnea at #5 and Jenna at #6, then doubled again at #15 and #16 for Carter and Eric — a roster built in two matched pairs."
+        "text": "Austin sat at the back of the snake and cashed in with back-to-back picks Linnea and Jenna, then closed with Carter and Eric for a 4-of-4 roster nobody can call thin."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie grabbed Aaliyah third overall and kept hiring: HR at #8, a criminal defense attorney at #13, a game designer at #18 — that's a boardroom that knows how to read a room."
+        "text": "Kylie's \"Chef, Counsel & Chaos\" runs Aaliyah at #3, Cristian, Alexis and Kilby — a chef, an HR head, a defense attorney and a game designer, which sounds less like a tribe and more like a hostage negotiation."
       },
       {
         "drafterId": "tami",
-        "text": "Tami had the first pick of the entire draft and spent it on Jelly, then used the snake's belly at #10, #11, #20 and the #21 leftover to carry five castaways when only four count."
+        "text": "Tami used the first overall pick on Jelly and then quietly hoarded five castaways through Rob at #20 and Sharonda at #21, knowing only her best four will ever count."
       },
       {
         "drafterId": "taylor",
-        "text": "Taylor took 49-year-old Kristin at #2 and then assembled a physical, loud, camera-ready four with Ori, Ana and Brady at #19 — the Crisis Cage Match name is doing honest work."
+        "text": "Taylor went crisis management at #2 with Kristin, 49, then layered in Ori, Ana and Brady the pro wrestler — chokeslams and voice acting, all still in."
       },
       {
         "drafterId": "tim",
-        "text": "Tim opened with Lewis at #4, went right back to the field for Maggie at #7, and closed with Devin and Thien An — no gimmicks, just people who work."
+        "text": "Tim took Lewis at #4 and Maggie at #7 — two farmers, no apologies — then balanced the barn with Devin and Thien An."
       }
     ],
     "awards": [
       {
         "label": "Boldest draft",
         "drafterId": "tami",
-        "text": "Taking the #21 leftover and stretching to five castaways with Rob at #20 is a swing nobody else was willing to take."
+        "text": "Tami is carrying five castaways when only four score, betting that depth beats precision."
       },
       {
         "label": "Safest draft",
         "drafterId": "tim",
-        "text": "Two farmers, an actor and a medical student is the least flashy roster on the board and probably the hardest to knock over."
+        "text": "Tim built \"Two Farmers and a Bus\" on Lewis, Maggie, Devin and Thien An — no gimmicks, all four still in."
       }
     ],
-    "generatedAt": "2026-09-16T17:24:03.377Z",
+    "generatedAt": "2026-09-21T18:24:15.890Z",
     "model": "claude-opus-5",
-    "sourceHash": "0efaaf389b97"
+    "sourceHash": "0833481f9f8d"
   }
 }
