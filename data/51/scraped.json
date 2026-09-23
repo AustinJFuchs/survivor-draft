@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-22T17:26:56.113Z",
+  "syncedAt": "2026-09-23T17:35:40.460Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -71,7 +71,7 @@
       "number": 1,
       "title": "Permanent Uncertainty",
       "airDate": "2026-09-23",
-      "aired": false
+      "aired": true
     }
   ],
   "eliminations": [],

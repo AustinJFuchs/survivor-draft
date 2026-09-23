@@ -1,9 +1,9 @@
 {
-  "syncedAt": "2026-09-22T17:26:59.762Z",
+  "syncedAt": "2026-09-23T17:35:49.997Z",
   "events": [],
   "claude": {
-    "sourceHash": "3b38348f837c",
-    "generatedAt": "2026-08-30T17:26:59.034Z",
+    "sourceHash": "602fceeee184",
+    "generatedAt": "2026-09-23T17:35:49.996Z",
     "model": "claude-opus-5"
   },
   "warnings": []
