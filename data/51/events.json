@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-24T08:15:34.065Z",
+  "syncedAt": "2026-09-24T09:44:31.961Z",
   "events": [
     {
       "id": "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
@@ -43,8 +43,8 @@
     }
   ],
   "claude": {
-    "sourceHash": "b90bf3e7e603",
-    "generatedAt": "2026-09-24T08:15:34.065Z",
+    "sourceHash": "c9b6557d4533",
+    "generatedAt": "2026-09-24T09:44:31.961Z",
     "model": "claude-opus-5"
   },
   "warnings": []

@@ -277,6 +277,23 @@
         "Kylie: 1st → 5th, 0 → 3 pts"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-09-24T09:45:33.952Z",
+      "at": "2026-09-24T09:45:33.952Z",
+      "source": "pipeline",
+      "summary": "2 castaways' wiki entries got touched up. Claude rewrote 2 castaway profiles, 3 team summaries refreshed, and a new State of the Draft went up.",
+      "details": [
+        "Trivia updated for Lewis",
+        "\"3 words\" updated for Ori",
+        "Profile rewritten for Lewis",
+        "Profile rewritten for Ori",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 1)"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -428,7 +445,7 @@
       "lewis-kelly": {
         "birthdate": "1997-10-03",
         "threeWords": "979a3cd4c89a",
-        "trivia": "c7567e6deee0",
+        "trivia": "8deea8c16c4f",
         "qa": "fb7b2a2af3f6",
         "photos": 1,
         "alliances": 0
@@ -456,7 +473,7 @@
       },
       "ori-jean-charles": {
         "birthdate": "1998-12-31",
-        "threeWords": "75c9e0ed1233",
+        "threeWords": "672631b112b8",
         "qa": "5af80a6cc27c",
         "photos": 1,
         "alliances": 0
@@ -506,25 +523,26 @@
       "jelly-loblack": "9ff09fce8e6b",
       "jenna-doore": "8eeda3e2baed",
       "kristin-flickinger": "ffacce0b5707",
-      "lewis-kelly": "5fb1bac269cb",
+      "lewis-kelly": "6db5a5115986",
       "linnea-capobianco": "c56bb415bdcf",
       "maggie-nestor": "240eac0a1964",
       "mike-pinsky": "0f3abaf60512",
-      "ori-jean-charles": "138079bbdc28",
+      "ori-jean-charles": "8c66d5b44307",
       "patt-cannaday": "8f576e45238f",
       "rob-antonson": "9f286d0b9f8d",
       "sharonda-cox": "894c52bc88e2",
       "thien-an-nguyen": "96692fdbd957"
     },
     "teams": {
-      "austin": "ec12de9ac219",
+      "austin": "206864de552e",
       "kylie": "d3f17524ef9d",
       "tami": "ca5c3a807439",
-      "taylor": "bf9f4b80852f",
-      "tim": "52d5628aea81"
+      "taylor": "5e32091d155d",
+      "tim": "305c58d7f8fd"
     },
     "rundowns": {
-      "0": "635052266722"
+      "0": "635052266722",
+      "1": "9e2ebfad0d1c"
     },
     "events": [
       "hidden-immunity-idol-history-rob-antonson-idol-found-x",
@@ -596,6 +614,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-24T08:16:39.362Z",
+  "lastCheckedAt": "2026-09-24T09:45:33.952Z",
   "quietChecks": 0
 }

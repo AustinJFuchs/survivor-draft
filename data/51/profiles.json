@@ -157,16 +157,16 @@
   },
   "lewis-kelly": {
     "slug": "lewis-kelly",
-    "summary": "Lewis is a 28-year-old farmer from Dublin who now lives in Puerto Rico with his wife, Andrea, in a school bus they renovated together. Becoming a US citizen pushed him to apply, and he plays up being rough around the edges while insisting the blunders are deliberate. Cheeky, devilish, charming.",
+    "summary": "Lewis is a 28-year-old farmer from Dublin who now lives in Puerto Rico with his wife, Andrea, in a school bus they renovated together. Becoming a US citizen pushed him to apply, and he arrives cheeky, charming, and happy to cause a little chaos. He says he's smarter than people take him for.",
     "bullets": [
-      "The first Irish castaway to compete on Survivor",
-      "Lists lying among his favorite hobbies, alongside travel",
-      "Says a trip to North Korea prepared him for isolation and uncertainty",
-      "Credits his wife, Andrea, as his biggest inspiration and his edge in the game"
+      "The first Irish castaway ever to play Survivor",
+      "Traveled to North Korea, and calls it decent practice for isolation",
+      "Lists lying among his favorite hobbies, right beside traveling",
+      "Credits his wife Andrea as his inspiration and his edge"
     ],
-    "generatedAt": "2026-09-14T18:16:43.474Z",
+    "generatedAt": "2026-09-24T09:44:42.216Z",
     "model": "claude-opus-5",
-    "sourceHash": "729301011052"
+    "sourceHash": "afca883bee96"
   },
   "linnea-capobianco": {
     "slug": "linnea-capobianco",
@@ -209,16 +209,16 @@
   },
   "ori-jean-charles": {
     "slug": "ori-jean-charles",
-    "summary": "Ori is a 27-year-old personal trainer and former pro athlete from Spring Valley, New York, who plays for his family above all. He's driven, direct, and impatient with anyone who hesitates. Off the island, he's a foodie who loves to travel and takes pride in being the best-dressed guy in the room.",
+    "summary": "Ori is a 27-year-old personal trainer from Spring Valley who plays for his family, full stop. A former Division I football player who drove eight hours home most weekends, he's the first in his family to earn a degree — and now they all have one. Confident, hardworking, and allergic to hesitation.",
     "bullets": [
-      "Drove 8 hours home every weekend after 5am lifts to help his mom",
-      "First in his family to earn a college degree — then added a master's",
-      "Was First Chair violin in his 6th grade orchestra",
-      "Dreams of winning so he can retire his mom, his best friend"
+      "Transferred from Louisville to Maine to be closer to his injured mom",
+      "Broke an NCAA Division I record during that same stretch",
+      "First in his family to graduate college, then added a master's",
+      "Was first chair violin in his sixth grade orchestra"
     ],
-    "generatedAt": "2026-09-21T18:23:49.098Z",
+    "generatedAt": "2026-09-24T09:44:46.176Z",
     "model": "claude-opus-5",
-    "sourceHash": "5e23a8e87d44"
+    "sourceHash": "8927a9a051e1"
   },
   "patt-cannaday": {
     "slug": "patt-cannaday",
