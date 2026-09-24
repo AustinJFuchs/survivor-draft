@@ -46,44 +46,44 @@
     "key": "1",
     "episode": 1,
     "eliminations": 1,
-    "headline": "Four tied at the top, one draft already bleeding",
-    "overview": "One episode in and this thing is a logjam — Austin, Tami, Taylor and Tim all sit at 4 points with a perfect roster and 110 on the table, which means nobody has separated and everybody still believes. Austin and Tim lead the classroom with a 3.75 draft GPA; Tami's Advanced Degrees Alliance is deepest at 5 of 5 still in with only her best 4 counting; Taylor's 3.5 GPA keeps pace. And then there's Kylie, holding 3 points, 3 of 4 still in, 85 on the table, and the very first scar of Survivor 51. Advantage: everyone but one.",
+    "headline": "Four drafts unscathed, one already bleeding after night one",
+    "overview": "One episode in and the scoreboard is basically a four-way tie at the top: Austin, Tami, Taylor and Tim all banked 4 points and all still have every castaway breathing, each with 110 on the table. Austin and Tim share the best draft GPA at 3.75, Tami sits at 3.6 with a fifth body in Sharonda thanks to that leftover pick #21, and Taylor's 3.5 rides on Savu muscle. Then there's Kylie — 3 points, 3 of 4 still in, 85 on the table, GPA 3, and the First Blood badge nobody wants. Savu's immunity win protected a lot of rosters. Kylie's didn't get the memo.",
     "lines": [
       {
+        "drafterId": "austin",
+        "text": "Austin's \"Livestock and Lenses\" is flawless so far — 4 of 4 in, a 3.75 GPA, and Eric at #16 already grading out as the number one steal on his board."
+      },
+      {
         "drafterId": "tami",
-        "text": "Five for five and a leftover pick in Sharonda who graded out as a rank-1 steal — the Advanced Degrees Alliance has a cushion nobody else bought."
+        "text": "Tami's \"Advanced Degrees Alliance\" is the deepest thing on the board with 5 of 5 alive and Sharonda, the leftover pick #21, immediately looking like a rank 1 steal — only her best four count, and that's a luxury nobody else has."
       },
       {
         "drafterId": "taylor",
-        "text": "Crisis, Chaos and Chokeslams is 4 of 4 with Brady at #19 already stealing his way to rank 1 — the lowest GPA of the leaders, and it hasn't cost her a thing."
+        "text": "Taylor's \"Crisis, Chaos and Chokeslams\" is tied at 4 points with a 3.5 GPA, and Brady at #19 is already the steal that makes this roster louder than its draft position."
       },
       {
         "drafterId": "tim",
-        "text": "Two farmers, an actor and a medical student, a 3.75 draft GPA, and Thien An at #17 looking like a rank-1 heist — Farm-to-Stage Crew is quietly immaculate."
-      },
-      {
-        "drafterId": "austin",
-        "text": "Three Savu shirts under Savu immunity plus Eric at #16 grading as a rank-1 steal — Livestock and Lenses is sitting first on the board and knows it."
+        "text": "Tim's \"Toka Farmhands & Friends\" matches Austin's 3.75 GPA with all four in, and Thien An at #17 turning into a rank 1 steal means the farm is running clean."
       },
       {
         "drafterId": "kylie",
-        "text": "Chaos & Counsel earned the First Blood badge the hard way, losing Aaliyah at #3 — a reach that graded out rank 21 — though Kilby at #18 came back a rank-1 steal."
+        "text": "Kylie, \"Chaos & Counsel\" took the first hit of Survivor 51 — Aaliyah, a #3 pick now grading as a rank 21 reach, went out first, dropping Kylie to 3 points, 3 of 4, and only 85 on the table, though Kilby at #18 as a rank 1 steal is a real consolation."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
-        "drafterId": "austin",
-        "text": "Four points, 4 of 4 standing, a 3.75 GPA and three castaways wearing the immunity colors — Austin's board did everything it was asked to do."
+        "drafterId": "tami",
+        "text": "Five castaways, five survivors, and a leftover #21 pick in Sharonda already rated the top steal — Tami turned the scraps into insurance."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "kylie",
-        "text": "The very first name called at tribal was Aaliyah, Kylie's #3 pick, dropping her to 3 points with 85 on the table."
+        "text": "First Blood is a badge, but losing your #3 pick Aaliyah in episode one and watching 25 points leave the table is a rough way to earn it."
       }
     ],
-    "generatedAt": "2026-09-24T09:45:33.089Z",
+    "generatedAt": "2026-09-24T12:31:14.843Z",
     "model": "claude-opus-5",
-    "sourceHash": "d151bc5d67f1"
+    "sourceHash": "61afcbf459c5"
   }
 }

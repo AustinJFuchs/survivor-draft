@@ -294,6 +294,17 @@
         "State of the Draft written (Ep 1)"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-09-24T12:31:15.741Z",
+      "at": "2026-09-24T12:31:15.741Z",
+      "source": "pipeline",
+      "summary": "1 team summary refreshed and the State of the Draft was rewritten.",
+      "details": [
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (Ep 1)"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -339,6 +350,7 @@
       "jenna-doore": "Toka",
       "kristin-flickinger": "Savu",
       "ori-jean-charles": "Savu",
+      "lewis-kelly": "Toka",
       "danny-kilby": "Toka",
       "carter-krull": "Savu",
       "alexis-levine": "Savu",
@@ -538,11 +550,11 @@
       "kylie": "d3f17524ef9d",
       "tami": "ca5c3a807439",
       "taylor": "5e32091d155d",
-      "tim": "305c58d7f8fd"
+      "tim": "b0fb8f684e91"
     },
     "rundowns": {
       "0": "635052266722",
-      "1": "9e2ebfad0d1c"
+      "1": "e47e07722eae"
     },
     "events": [
       "hidden-immunity-idol-history-rob-antonson-idol-found-x",
@@ -614,6 +626,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-24T09:45:33.952Z",
+  "lastCheckedAt": "2026-09-24T12:31:15.741Z",
   "quietChecks": 0
 }
