@@ -92,16 +92,16 @@
   },
   "devin-way": {
     "slug": "devin-way",
-    "summary": "Devin is a 33-year-old actor from Lufkin, Texas, now living in Los Angeles, and he's thrilled just to be here. He's charming, playful and loyal, drawn to the game's joy the way Rick Devens plays it. Loyalty and honesty keep him close; a single lie sends him looking elsewhere.",
+    "summary": "Devin is a 33-year-old actor from Lufkin, Texas, now living in Los Angeles, who describes himself as charming, playful and loyal. He's the seventh of thirteen siblings and looks up to his grandmother, MoeMoe, for her strength and loyalty. He wants to play with Rick Devens' joy, and asks the same honesty he gives.",
     "bullets": [
-      "Number 7 of 13 siblings",
-      "Plays Dungeons & Dragons weekly — roll the dice, figure it out",
-      "Line dances, does spoken word, sings karaoke, reads comics",
-      "Names his grandma MoeMoe as his biggest inspiration"
+      "Plays Dungeons & Dragons weekly — believes any roll can be figured out",
+      "One of 13 siblings; also line dances, does karaoke and spoken word",
+      "Grandma MoeMoe is his biggest inspiration and his model for loyalty",
+      "Had the very first confessional of Survivor 51; motto is \"Ways Always Win\""
     ],
-    "generatedAt": "2026-08-30T07:49:24.813Z",
+    "generatedAt": "2026-09-24T08:15:46.645Z",
     "model": "claude-opus-5",
-    "sourceHash": "a0ac2a8d0f2b"
+    "sourceHash": "74ba0f6d1c50"
   },
   "eric-macksoud": {
     "slug": "eric-macksoud",

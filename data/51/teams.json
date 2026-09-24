@@ -23,69 +23,69 @@
   },
   "kylie": {
     "drafterId": "kylie",
-    "nickname": "Chef, Counsel & Chaos",
-    "summary": "Kylie, you drafted third and built a roster with range: a chef who adapts anywhere, an HR head who's warm on top and cutthroat underneath, an attorney who wants allies who think nothing like her, and a superfan game designer chasing the dream of his life. Nobody's played a beat yet — you sit at rank 1 (tied) of 5 with 0 counted points, 4 of 4 still in the game, 114 points still on the table. Everything's in front of you.",
+    "nickname": "Chaos & Counsel",
+    "summary": "Kylie, you took the very first punch of this season — Aaliyah, your pick #3, went home in Episode 1, and the First Blood badge is yours to wear. But look closer: three of your four are still in this game, all three grading out at A, and you banked +3 in Ep 1. You sit rank 5 of 5 with 3 counted points, the leader has 4, and 85 points are still on the table. That's nothing, Kylie. Nothing.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Aaliyah Puglia came off the board at pick #3 as your headliner — confident, wise, and a chef who's spent her life doing a lot with a little."
+        "text": "You've got a three-way tie at the top — Cristian, Alexis and Kilby each sitting on 1 pts and each ranked 1 of 21 — with Kilby at pick #18 as the outright steal of your draft."
       },
       {
         "label": "Cause for concern",
-        "text": "You've got \"chaotic\" listed twice on this roster in Cristian and Kilby, and chaos is a gorgeous thing until it's pointed at your own alliance."
+        "text": "Aaliyah at pick #3 finished 21 of 21 with 0 pts and a grade of F, the first torch snuffed this season and the reason you're wearing First Blood."
       },
       {
         "label": "Watch for",
-        "text": "Tribes are still TBA, so watch where Alexis lands — she's hunting alliance partners who think nothing like her, and that first division will tell you everything."
+        "text": "Cristian and Alexis are both on Savu while Kilby carries Toka alone — watch how that split plays out with 85 points still on the table."
       }
     ],
-    "generatedAt": "2026-08-30T14:29:01.730Z",
+    "generatedAt": "2026-09-24T08:16:24.447Z",
     "model": "claude-opus-5",
-    "sourceHash": "ea669e87403f"
+    "sourceHash": "9a15ec06fb2b"
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "Degrees and Dugouts",
-    "summary": "Tami, you had first crack at the whole board and you took the sociology professor who's been studying this game her entire life. Then you stacked a federal prosecutor, a baseball executive, a gate agent with Boston Rob swagger, and an OB/GYN resident behind her. Nobody's played a minute — you're rank 1 (tied) of 5 with 0 counted points, 5 of 5 still in the game, and 114 points still on the table. That's a brainy, likable, loud roster. Let's get to it!",
+    "nickname": "Advanced Degrees Alliance",
+    "summary": "Tami, you had first pick and you built a faculty lounge with a swagger problem — a sociology professor, a federal prosecutor, a baseball executive, a gate agent, and an OB/GYN resident. All 5 of 5 are still in the game, you're sitting at rank 1 (tied) of 5 with 4 counted points, and the leader has 4. Draft GPA of 3.6, best week Ep 1 (+4), and 110 points still on the table. Perfect start.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Angelica \"Jelly\" Loblack went pick #1 for a reason — a PhD before 30, curious, multifaceted and passionate, and she calls this game the social experiment she trained for."
+        "text": "Nobody's hogging the spotlight yet — all five are at 1 pts and rank 1 of 21 — but Sharonda at pick #21 is your steal of the draft, a leftover grading out at A."
       },
       {
         "label": "Cause for concern",
-        "text": "Rob Antonson at pick #20 calls himself a total city boy who's not an outdoors type, so he's leaning entirely on those social skills, and Sharonda Cox came to you at pick #21 as a leftover."
+        "text": "Your very first pick, Angelica \"Jelly\" Loblack at #1, grades out at a C while the other four all sit at A, so the top of your board has ground to make up."
       },
       {
         "label": "Watch for",
-        "text": "Every tribe on your roster is still TBA, so the first thing to watch is where these five land and whether Patt finds the risk-taking partner in shenanigans he's asking for."
+        "text": "Three of your five — Jelly, Patt, and Mike — are stacked on Toka, so watch how that tribe fares while Rob and Sharonda hold down Savu."
       }
     ],
-    "generatedAt": "2026-09-03T11:03:22.068Z",
+    "generatedAt": "2026-09-24T08:15:59.648Z",
     "model": "claude-opus-5",
-    "sourceHash": "dde1c3caee9d"
+    "sourceHash": "4b1729f675bc"
   },
   "taylor": {
     "drafterId": "taylor",
-    "nickname": "Crisis, Chaos and Chokeslams",
-    "summary": "Taylor, you were on the clock second, and you built a roster with range: a crisis manager, a former pro athlete, a voice actress, and a pro wrestler. Nobody has scored yet — you sit at rank 1 (tied) of 5 with 0 counted points, all 4 of 4 still in the game, and 114 points still on the table. That's a clean slate and a loaded table. Now we find out what these four are made of.",
+    "nickname": "Mischief and Muscle",
+    "summary": "Taylor, you drafted second and you came out swinging — all four of your players still in the game, 4 counted points, and a share of rank 1 (tied) of 5. Ep 1 gave you +4, your best week, and every single name on your card sits at 1 pts, rank 1 of 21. Draft GPA 3.5 this early is nothing to sneeze at. With 110 points still on the table, this is anybody's game!",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Kristin Flickinger, your pick #2, has been applying since the middle of season one and arrives at 49 as the oldest player of the season — determined, joyful, and the anchor of this group."
+        "text": "Nobody's carrying more than anybody here — Ori, Ana, Brady and Kristin are each sitting at 1 pts and rank 1 of 21, a perfectly balanced four-way haul."
       },
       {
         "label": "Cause for concern",
-        "text": "No losses yet, but Brady Booker came off the board way down at pick #19, and Ana Sani describes herself as chaotic — that's a lot of volume on one roster."
+        "text": "Kristin went at pick #2 and currently grades out at a C, the lone soft spot on a card otherwise stacked with A's."
       },
       {
         "label": "Watch for",
-        "text": "Tribe assignments are still TBA, so watch where Ori Jean-Charles lands — a direct, impatient hustler can be the engine of a tribe or a target on it."
+        "text": "Ana's tribe is still TBA while Kristin and Ori hold down Savu and Brady flies solo on Toka — where she lands is the storyline to track, along with whether your pick #19 steal Brady keeps justifying that late-round grab."
       }
     ],
-    "generatedAt": "2026-09-21T18:24:01.042Z",
+    "generatedAt": "2026-09-24T08:16:14.942Z",
     "model": "claude-opus-5",
-    "sourceHash": "b4a07f7941d8"
+    "sourceHash": "5267b5ce3a6b"
   },
   "tim": {
     "drafterId": "tim",

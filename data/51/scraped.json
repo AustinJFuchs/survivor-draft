@@ -1,66 +1,138 @@
 {
-  "syncedAt": "2026-09-23T17:35:40.460Z",
+  "syncedAt": "2026-09-24T08:15:26.289Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
   },
   "tribes": {
+    "aaliyah-puglia": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
     "rob-antonson": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "brady-booker": {
-      "history": []
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     },
     "patt-cannaday": {
-      "history": []
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     },
     "linnea-capobianco": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "cristian-chavez": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "sharonda-cox": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "jenna-doore": {
-      "history": []
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     },
     "kristin-flickinger": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "ori-jean-charles": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "lewis-kelly": {
       "history": []
     },
     "danny-kilby": {
-      "history": []
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     },
     "carter-krull": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "alexis-levine": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "jelly-loblack": {
-      "history": []
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     },
     "eric-macksoud": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
     },
     "maggie-nestor": {
-      "history": []
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     },
     "thien-an-nguyen": {
-      "history": []
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     },
     "mike-pinsky": {
-      "history": []
-    },
-    "aaliyah-puglia": {
-      "history": []
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     },
     "ana-sani": {
       "history": []
@@ -71,17 +143,34 @@
       "number": 1,
       "title": "Permanent Uncertainty",
       "airDate": "2026-09-23",
-      "aired": true
+      "aired": true,
+      "rewardWinners": "Savu; Toka",
+      "immunityWinners": "Savu"
     }
   ],
-  "eliminations": [],
+  "eliminations": [
+    {
+      "order": 1,
+      "contestantSlug": "aaliyah-puglia",
+      "day": 3,
+      "kind": "voted-out",
+      "placementText": "1st voted out",
+      "juryMember": false,
+      "episode": 1
+    }
+  ],
   "milestones": {
     "merged": [],
     "finalists": [],
-    "placements": {}
+    "placements": {
+      "aaliyah-puglia": 20
+    }
   },
   "extras": {
     "aaliyah-puglia": {
+      "challengeWins": 0,
+      "votesAgainst": 6,
+      "daysLasted": "3/26",
       "birthdate": "2001-04-21",
       "threeWords": [
         "confident",
@@ -114,6 +203,7 @@
       ]
     },
     "alexis-levine": {
+      "challengeWins": 1,
       "birthdate": "1992-03-27",
       "threeWords": [
         "outgoing",
@@ -171,6 +261,7 @@
       ]
     },
     "ana-sani": {
+      "challengeWins": 1,
       "birthdate": "1991-09-14",
       "threeWords": [
         "goofy",
@@ -286,6 +377,7 @@
       ]
     },
     "carter-krull": {
+      "challengeWins": 1,
       "birthdate": "2001-05-20",
       "threeWords": [
         "adventurous",
@@ -350,6 +442,7 @@
       ]
     },
     "cristian-chavez": {
+      "challengeWins": 1,
       "birthdate": "2000-05-10",
       "threeWords": [
         "fun",
@@ -514,6 +607,9 @@
           "answer": "Because “Ways Always Win”"
         }
       ],
+      "trivia": [
+        "Devin had the first confessional of Survivor 51."
+      ],
       "pageUrl": "https://survivor.fandom.com/wiki/Devin_Way",
       "photos": [
         {
@@ -523,6 +619,7 @@
       ]
     },
     "eric-macksoud": {
+      "challengeWins": 1,
       "birthdate": "1991-10-05",
       "threeWords": [
         "animated",
@@ -641,6 +738,7 @@
       ]
     },
     "jenna-doore": {
+      "votesAgainst": 2,
       "birthdate": "1995-04-27",
       "threeWords": [
         "empathetic",
@@ -698,6 +796,7 @@
       ]
     },
     "kristin-flickinger": {
+      "challengeWins": 1,
       "birthdate": "1977-04-05",
       "threeWords": [
         "determined",
@@ -805,6 +904,7 @@
       ]
     },
     "linnea-capobianco": {
+      "challengeWins": 1,
       "birthdate": "2000-04-29",
       "threeWords": [
         "rational",
@@ -970,6 +1070,7 @@
       ]
     },
     "ori-jean-charles": {
+      "challengeWins": 1,
       "birthdate": "1998-12-31",
       "threeWords": [
         "consistent",
@@ -1080,6 +1181,7 @@
       ]
     },
     "rob-antonson": {
+      "challengeWins": 1,
       "birthdate": "1985-11-18",
       "threeWords": [
         "competitive",
@@ -1140,6 +1242,7 @@
       ]
     },
     "sharonda-cox": {
+      "challengeWins": 1,
       "birthdate": "1991-09-30",
       "threeWords": [
         "charismatic",
@@ -1257,6 +1360,216 @@
       ]
     }
   },
-  "votes": {},
+  "votes": {
+    "alexis-levine": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "ana-sani": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "brady-booker": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "aaliyah-puglia"
+      }
+    ],
+    "carter-krull": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "cristian-chavez": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "devin-way": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "jenna-doore"
+      }
+    ],
+    "eric-macksoud": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "jelly-loblack": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "jenna-doore"
+      }
+    ],
+    "jenna-doore": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 2,
+        "voters": [
+          "devin-way",
+          "jelly-loblack"
+        ],
+        "tally": "6–2",
+        "votedForText": "None"
+      }
+    ],
+    "danny-kilby": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "aaliyah-puglia"
+      }
+    ],
+    "kristin-flickinger": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "lewis-kelly": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "linnea-capobianco": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "maggie-nestor": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "aaliyah-puglia"
+      }
+    ],
+    "mike-pinsky": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "aaliyah-puglia"
+      }
+    ],
+    "ori-jean-charles": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "patt-cannaday": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "aaliyah-puglia"
+      }
+    ],
+    "rob-antonson": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "sharonda-cox": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      }
+    ],
+    "thien-an-nguyen": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "aaliyah-puglia"
+      }
+    ],
+    "aaliyah-puglia": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 6,
+        "voters": [
+          "brady-booker",
+          "danny-kilby",
+          "maggie-nestor",
+          "mike-pinsky",
+          "patt-cannaday",
+          "thien-an-nguyen"
+        ],
+        "tally": "6–2",
+        "votedForText": "None"
+      }
+    ]
+  },
   "warnings": []
 }

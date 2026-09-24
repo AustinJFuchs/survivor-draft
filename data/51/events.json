@@ -1,9 +1,50 @@
 {
-  "syncedAt": "2026-09-23T17:35:49.997Z",
-  "events": [],
+  "syncedAt": "2026-09-24T08:15:34.065Z",
+  "events": [
+    {
+      "id": "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
+      "type": "shot-in-the-dark",
+      "contestant": "Aaliyah Puglia",
+      "source": {
+        "page": "Shot in the Dark",
+        "url": "https://survivor.fandom.com/wiki/Shot_in_the_Dark"
+      },
+      "extracted": "table",
+      "episode": 1,
+      "outcome": "fail",
+      "detail": "no n Not Safe",
+      "contestantSlug": "aaliyah-puglia"
+    },
+    {
+      "id": "shot-in-the-dark-jenna-doore-shot-in-the-dark-1",
+      "type": "shot-in-the-dark",
+      "contestant": "Jenna Doore",
+      "source": {
+        "page": "Shot in the Dark",
+        "url": "https://survivor.fandom.com/wiki/Shot_in_the_Dark"
+      },
+      "extracted": "table",
+      "episode": 1,
+      "outcome": "fail",
+      "detail": "no n Not Safe",
+      "contestantSlug": "jenna-doore"
+    },
+    {
+      "id": "hidden-immunity-idol-history-rob-antonson-idol-found-x",
+      "type": "idol-found",
+      "contestant": "Rob Antonson",
+      "source": {
+        "page": "Hidden Immunity Idol/History",
+        "url": "https://survivor.fandom.com/wiki/Hidden_Immunity_Idol/History"
+      },
+      "extracted": "table",
+      "detail": "Found at Savu camp",
+      "contestantSlug": "rob-antonson"
+    }
+  ],
   "claude": {
-    "sourceHash": "602fceeee184",
-    "generatedAt": "2026-09-23T17:35:49.996Z",
+    "sourceHash": "b90bf3e7e603",
+    "generatedAt": "2026-09-24T08:15:34.065Z",
     "model": "claude-opus-5"
   },
   "warnings": []

@@ -253,6 +253,30 @@
         "Team summary refreshed for Taylor",
         "State of the Draft rewritten (pre-season)"
       ]
+    },
+    {
+      "id": "2026-09-24T08:16:39.362Z",
+      "at": "2026-09-24T08:16:39.362Z",
+      "source": "pipeline",
+      "summary": "Ep 1 aired and Aaliyah was voted out. Austin, Tami, Taylor, and Tim are tied at the top and Kylie slid to 5th.",
+      "details": [
+        "Aaliyah voted out in Ep 1",
+        "Tribe Toka: Aaliyah, Brady, Patt, Jenna, Kilby, Jelly, Maggie, Thien An, Mike",
+        "Tribe Savu: Rob, Linnea, Cristian, Sharonda, Kristin, Ori, Carter, Alexis, Eric",
+        "Vote records: 0 → 21",
+        "Trivia updated for Devin",
+        "Profile rewritten for Devin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "3 game events added",
+        "Austin: 1st → 1st, 0 → 4 pts",
+        "Tami: 1st → 1st, 0 → 4 pts",
+        "Taylor: 1st → 1st, 0 → 4 pts",
+        "Tim: 1st → 1st, 0 → 4 pts",
+        "Kylie: 1st → 5th, 0 → 3 pts"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -277,11 +301,37 @@
         "airDate": "2026-09-23"
       }
     },
-    "eliminations": [],
+    "eliminations": [
+      {
+        "slug": "aaliyah-puglia",
+        "kind": "voted-out",
+        "episode": 1,
+        "jury": false
+      }
+    ],
     "merged": [],
     "finalists": [],
-    "tribes": {},
-    "votes": 0,
+    "tribes": {
+      "aaliyah-puglia": "Toka",
+      "rob-antonson": "Savu",
+      "brady-booker": "Toka",
+      "patt-cannaday": "Toka",
+      "linnea-capobianco": "Savu",
+      "cristian-chavez": "Savu",
+      "sharonda-cox": "Savu",
+      "jenna-doore": "Toka",
+      "kristin-flickinger": "Savu",
+      "ori-jean-charles": "Savu",
+      "danny-kilby": "Toka",
+      "carter-krull": "Savu",
+      "alexis-levine": "Savu",
+      "jelly-loblack": "Toka",
+      "eric-macksoud": "Savu",
+      "maggie-nestor": "Toka",
+      "thien-an-nguyen": "Toka",
+      "mike-pinsky": "Toka"
+    },
+    "votes": 21,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -340,6 +390,7 @@
       "devin-way": {
         "birthdate": "1992-05-31",
         "threeWords": "e4f8afbfe0a9",
+        "trivia": "3234bae1bc39",
         "qa": "4985473c1095",
         "photos": 1,
         "alliances": 0
@@ -450,7 +501,7 @@
       "carter-krull": "14c750415390",
       "cristian-chavez": "d61b77ae7f98",
       "danny-kilby": "aeae64af9bad",
-      "devin-way": "42e7d526b391",
+      "devin-way": "0fa8cfb90f0f",
       "eric-macksoud": "c3912c4189c9",
       "jelly-loblack": "9ff09fce8e6b",
       "jenna-doore": "8eeda3e2baed",
@@ -467,15 +518,19 @@
     },
     "teams": {
       "austin": "ec12de9ac219",
-      "kylie": "0643bf303fce",
-      "tami": "d7b3f9108395",
-      "taylor": "e414afd5fa11",
+      "kylie": "d3f17524ef9d",
+      "tami": "ca5c3a807439",
+      "taylor": "bf9f4b80852f",
       "tim": "52d5628aea81"
     },
     "rundowns": {
       "0": "635052266722"
     },
-    "events": [],
+    "events": [
+      "hidden-immunity-idol-history-rob-antonson-idol-found-x",
+      "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
+      "shot-in-the-dark-jenna-doore-shot-in-the-dark-1"
+    ],
     "overrides": {
       "notes": 0,
       "quotes": 0,
@@ -486,28 +541,28 @@
     "standings": [
       {
         "drafterId": "austin",
-        "total": 0,
-        "rank": 1
-      },
-      {
-        "drafterId": "kylie",
-        "total": 0,
+        "total": 4,
         "rank": 1
       },
       {
         "drafterId": "tami",
-        "total": 0,
+        "total": 4,
         "rank": 1
       },
       {
         "drafterId": "taylor",
-        "total": 0,
+        "total": 4,
         "rank": 1
       },
       {
         "drafterId": "tim",
-        "total": 0,
+        "total": 4,
         "rank": 1
+      },
+      {
+        "drafterId": "kylie",
+        "total": 3,
+        "rank": 5
       }
     ],
     "names": {
@@ -541,6 +596,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-23T17:35:52.646Z",
-  "quietChecks": 2
+  "lastCheckedAt": "2026-09-24T08:16:39.362Z",
+  "quietChecks": 0
 }
