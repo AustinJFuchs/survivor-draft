@@ -46,44 +46,44 @@
     "key": "1",
     "episode": 1,
     "eliminations": 1,
-    "headline": "Four drafts unscathed, one already bleeding after night one",
-    "overview": "One episode in and the scoreboard is basically a four-way tie at the top: Austin, Tami, Taylor and Tim all banked 4 points and all still have every castaway breathing, each with 110 on the table. Austin and Tim share the best draft GPA at 3.75, Tami sits at 3.6 with a fifth body in Sharonda thanks to that leftover pick #21, and Taylor's 3.5 rides on Savu muscle. Then there's Kylie — 3 points, 3 of 4 still in, 85 on the table, GPA 3, and the First Blood badge nobody wants. Savu's immunity win protected a lot of rosters. Kylie's didn't get the memo.",
+    "headline": "Four tied at the top, one draft already bleeding",
+    "overview": "Twenty castaways remain, one torch is snuffed, and the scoreboard is basically a four-way logjam. Austin, Tami, Taylor and Tim all banked 4 pts (+4 this episode) with a full roster standing and 110 on the table apiece. Austin and Tim share the best draft GPA at 3.75, Tami sits at 3.6, Taylor at 3.5, and Tami alone can lean on 5 of 5 still in with only her best 4 counting. Then there's Kylie: 3 pts, 3 of 4 still in, GPA 3, and just 85 on the table. First blood hurts.",
     "lines": [
       {
         "drafterId": "austin",
-        "text": "Austin's \"Livestock and Lenses\" is flawless so far — 4 of 4 in, a 3.75 GPA, and Eric at #16 already grading out as the number one steal on his board."
+        "text": "Livestock and Lenses is spotless — 4 of 4 still in, a 3.75 draft GPA, and Eric at #16 grading out as a rank 1 steal."
       },
       {
         "drafterId": "tami",
-        "text": "Tami's \"Advanced Degrees Alliance\" is the deepest thing on the board with 5 of 5 alive and Sharonda, the leftover pick #21, immediately looking like a rank 1 steal — only her best four count, and that's a luxury nobody else has."
+        "text": "The Advanced Degrees Alliance went 5 of 5 with Sharonda, the leftover #21 pick, already a rank 1 steal — that's homework paying off."
       },
       {
         "drafterId": "taylor",
-        "text": "Taylor's \"Crisis, Chaos and Chokeslams\" is tied at 4 points with a 3.5 GPA, and Brady at #19 is already the steal that makes this roster louder than its draft position."
+        "text": "Crisis, Chaos and Chokeslams is tied at 4 pts with the lowest GPA of the leaders at 3.5, but Brady at #19 is a rank 1 steal that closes the gap fast."
       },
       {
         "drafterId": "tim",
-        "text": "Tim's \"Toka Farmhands & Friends\" matches Austin's 3.75 GPA with all four in, and Thien An at #17 turning into a rank 1 steal means the farm is running clean."
+        "text": "Barnyard Bus Broadway matches Austin's 3.75 GPA, kept all four alive, and snagged Thien An at #17 as a rank 1 steal."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie, \"Chaos & Counsel\" took the first hit of Survivor 51 — Aaliyah, a #3 pick now grading as a rank 21 reach, went out first, dropping Kylie to 3 points, 3 of 4, and only 85 on the table, though Kilby at #18 as a rank 1 steal is a real consolation."
+        "text": "Chaos & Counsel earns the First Blood badge nobody wants — Aaliyah went at #3 and finished the night rank 21, dropping Kylie to 3 pts and 85 on the table."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tami",
-        "text": "Five castaways, five survivors, and a leftover #21 pick in Sharonda already rated the top steal — Tami turned the scraps into insurance."
+        "text": "Five castaways drafted, five castaways standing, and the very last pick on the board graded out as a rank 1 steal."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "kylie",
-        "text": "First Blood is a badge, but losing your #3 pick Aaliyah in episode one and watching 25 points leave the table is a rough way to earn it."
+        "text": "Spending pick #3 on Aaliyah and watching her become the first voted out is the definition of a reach that stings."
       }
     ],
-    "generatedAt": "2026-09-24T12:31:14.843Z",
+    "generatedAt": "2026-09-24T17:39:57.499Z",
     "model": "claude-opus-5",
-    "sourceHash": "61afcbf459c5"
+    "sourceHash": "f735ac43aed6"
   }
 }

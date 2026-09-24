@@ -305,6 +305,22 @@
         "State of the Draft rewritten (Ep 1)"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-09-24T17:39:58.057Z",
+      "at": "2026-09-24T17:39:58.057Z",
+      "source": "pipeline",
+      "summary": "2 castaways' wiki entries got touched up. Claude rewrote 2 castaway profiles, 2 team summaries refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Trivia updated for Carter",
+        "Trivia updated for Lewis",
+        "Profile rewritten for Carter",
+        "Profile rewritten for Lewis",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (Ep 1)"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -395,7 +411,7 @@
       "carter-krull": {
         "birthdate": "2001-05-20",
         "threeWords": "4a7fee5fc36a",
-        "trivia": "cf3d347ab71b",
+        "trivia": "b045fccf1658",
         "qa": "ca44d5f2cddb",
         "photos": 1,
         "alliances": 0
@@ -457,7 +473,7 @@
       "lewis-kelly": {
         "birthdate": "1997-10-03",
         "threeWords": "979a3cd4c89a",
-        "trivia": "8deea8c16c4f",
+        "trivia": "3eefa0937d43",
         "qa": "fb7b2a2af3f6",
         "photos": 1,
         "alliances": 0
@@ -527,7 +543,7 @@
       "alexis-levine": "7013c1013378",
       "ana-sani": "dc6f8bcc5e86",
       "brady-booker": "26dc069f753d",
-      "carter-krull": "14c750415390",
+      "carter-krull": "7365318d3773",
       "cristian-chavez": "d61b77ae7f98",
       "danny-kilby": "aeae64af9bad",
       "devin-way": "0fa8cfb90f0f",
@@ -535,7 +551,7 @@
       "jelly-loblack": "9ff09fce8e6b",
       "jenna-doore": "8eeda3e2baed",
       "kristin-flickinger": "ffacce0b5707",
-      "lewis-kelly": "6db5a5115986",
+      "lewis-kelly": "0e0b1f1e82df",
       "linnea-capobianco": "c56bb415bdcf",
       "maggie-nestor": "240eac0a1964",
       "mike-pinsky": "0f3abaf60512",
@@ -546,15 +562,15 @@
       "thien-an-nguyen": "96692fdbd957"
     },
     "teams": {
-      "austin": "206864de552e",
+      "austin": "e073e0e9d5ab",
       "kylie": "d3f17524ef9d",
       "tami": "ca5c3a807439",
       "taylor": "5e32091d155d",
-      "tim": "b0fb8f684e91"
+      "tim": "b23c3e6ae168"
     },
     "rundowns": {
       "0": "635052266722",
-      "1": "e47e07722eae"
+      "1": "1a5be4909181"
     },
     "events": [
       "hidden-immunity-idol-history-rob-antonson-idol-found-x",
@@ -626,6 +642,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-24T12:31:15.741Z",
+  "lastCheckedAt": "2026-09-24T17:39:58.057Z",
   "quietChecks": 0
 }

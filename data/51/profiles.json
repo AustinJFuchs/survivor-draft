@@ -53,16 +53,16 @@
   },
   "carter-krull": {
     "slug": "carter-krull",
-    "summary": "Carter is a 24-year-old livestock farmer from Rock Rapids, Iowa, who treats life like a bucket list worth checking off. He's adventurous, competitive and determined, crediting his parents for teaching him to work hard and chase what he wants. He values trust and keeping allies in the loop.",
+    "summary": "Carter is a 24-year-old livestock farmer from Rock Rapids, Iowa, who treats life like a bucket list worth checking off. He's adventurous, competitive and determined, with a builder's streak — moving company, snow cone truck, epoxy river tables. He values trust and communication above all, crediting his parents for teaching him to work hard and keep going.",
     "bullets": [
-      "Started a moving company with a buddy, named MOVE MOVE MOVE",
-      "Builds epoxy river tables, inspired by his house-building Grandpa Shaffer",
-      "Opened a snow cone truck, which he says put him in a tropical mood",
-      "The youngest man competing on Survivor 51"
+      "Youngest member of Savu and youngest man on Survivor 51",
+      "Co-founded a nationwide moving company called MOVE MOVE MOVE",
+      "Makes epoxy river tables, inspired by a grandpa who built his own house",
+      "Deal-breaker: chewing with your mouth open"
     ],
-    "generatedAt": "2026-08-30T07:49:13.119Z",
+    "generatedAt": "2026-09-24T17:39:16.834Z",
     "model": "claude-opus-5",
-    "sourceHash": "7a4e777f6d8b"
+    "sourceHash": "be5f3a5e6b23"
   },
   "cristian-chavez": {
     "slug": "cristian-chavez",
@@ -157,16 +157,16 @@
   },
   "lewis-kelly": {
     "slug": "lewis-kelly",
-    "summary": "Lewis is a 28-year-old farmer from Dublin who now lives in Puerto Rico with his wife, Andrea, in a school bus they renovated together. Becoming a US citizen pushed him to apply, and he arrives cheeky, charming, and happy to cause a little chaos. He says he's smarter than people take him for.",
+    "summary": "Lewis is a 28-year-old farmer from Dublin who now lives in Puerto Rico with his wife, Andrea, in a school bus they renovated together. Becoming a US citizen pushed him to apply, and he arrives cheeky and self-aware, happy to play the fool while thinking a few steps ahead.",
     "bullets": [
-      "The first Irish castaway ever to play Survivor",
-      "Traveled to North Korea, and calls it decent practice for isolation",
-      "Lists lying among his favorite hobbies, right beside traveling",
-      "Credits his wife Andrea as his inspiration and his edge"
+      "First Irish castaway to compete on Survivor",
+      "Lives in a school bus he and his wife renovated themselves",
+      "Calls lying a hobby and says snitches get their torches snuffed",
+      "Credits a trip to North Korea as practice for isolation and uncertainty"
     ],
-    "generatedAt": "2026-09-24T09:44:42.216Z",
+    "generatedAt": "2026-09-24T17:39:20.089Z",
     "model": "claude-opus-5",
-    "sourceHash": "afca883bee96"
+    "sourceHash": "7da6dc97e8da"
   },
   "linnea-capobianco": {
     "slug": "linnea-capobianco",

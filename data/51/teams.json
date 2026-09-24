@@ -2,24 +2,24 @@
   "austin": {
     "drafterId": "austin",
     "nickname": "Livestock and Lenses",
-    "summary": "Austin, you picked last in the snake and somehow walked away with a full house — 4 of 4 still in the game, 4 counted points, and a share of rank 1 of 5. Every single name on your roster is sitting at rank 1 of 21. Ep 1 gave you +4 and a draft GPA of 3.75. With 110 points still on the table and the leader at 4, you are right in the thick of it.",
+    "summary": "Austin, you drafted from the back of the snake and somehow walked away with a full house — four names, four still breathing, four points, and a share of first place. Every single one of your players sits at 1 pt, rank 1 of 21. That's not luck, that's balance. Ep 1 gave you +4 and nobody's given anything back. With 110 points still on the table and the leader at 4, you're right in the thick of it.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Nobody's carrying anybody — Linnea, Jenna, Carter and Eric each have 1 pts and each sit at rank 1 of 21, which is about as balanced a start as this game gives you."
+        "text": "Nobody's carrying anybody — Linnea, Jenna, Carter and Eric are all sitting at 1 pts and all ranked 1 of 21, and Eric at pick #16 is the steal that makes this roster hum."
       },
       {
         "label": "Cause for concern",
-        "text": "Linnea is your lone grade B in a lineup of A's, and three of your four — Linnea, Carter and Eric — are stacked together on Savu, so one rough tribal could hit you in bulk."
+        "text": "Linnea's the only B on a board of A's, so she's the one name on your card that hasn't fully separated herself yet."
       },
       {
         "label": "Watch for",
-        "text": "Eric at pick #16 was the steal of the draft, and I want to see whether that mental health counselor's read-the-room charm turns into real power on Savu's beach."
+        "text": "Three of your four — Linnea, Carter and Eric — wear Savu buffs, so how that tribe holds up will swing your board more than anything Jenna does over on Toka."
       }
     ],
-    "generatedAt": "2026-09-24T09:45:20.197Z",
+    "generatedAt": "2026-09-24T17:39:43.547Z",
     "model": "claude-opus-5",
-    "sourceHash": "514bacb31ef7"
+    "sourceHash": "e23cb94c5961"
   },
   "kylie": {
     "drafterId": "kylie",
@@ -89,24 +89,24 @@
   },
   "tim": {
     "drafterId": "tim",
-    "nickname": "Toka Farmhands & Friends",
-    "summary": "Tim, drafting fourth in the snake, you built a team that refuses to blink — 4 of 4 still in the game, 4 counted points, and a share of rank 1 of 5. Two farmers, an actor, and a medical student, three of them stacked on Toka. Your best week is Ep 1 (+4), your draft GPA sits at 3.75, and 110 points are still on the table. The leader has 4. That's you.",
+    "nickname": "Barnyard Bus Broadway",
+    "summary": "Tim, you drafted 4th and came away with two farmers, an actor, and a med student — and right now every single one of them is still in this game, 4 of 4. You're rank 1 (tied) of 5 with 4 counted points, and Ep 1 handed you your best week yet at +4. Thien An at pick #17 was the steal of the draft. Draft GPA: 3.75. Balanced, likable, dangerous.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Nobody's carrying anybody yet — Lewis, Maggie, Devin, and Thien An each have 1 pts and each sit rank 1 of 21, a perfectly balanced four-way push."
+        "text": "Nobody's hogging the spotlight — Lewis, Maggie, Devin and Thien An each sit at 1 pts, all tied at rank 1 of 21, which is exactly how you build a 4-point week."
       },
       {
         "label": "Cause for concern",
-        "text": "Lewis Kelly at pick #4 is your only grade B on the sheet, cheeky and devilish and happy to cause chaos — which cuts both ways out there."
+        "text": "Lewis Kelly is your only B on a roster full of A's, and Devin Way's tribe is still TBA, so you don't yet know what world he's walking into."
       },
       {
         "label": "Watch for",
-        "text": "Devin's tribe is still TBA while Lewis, Maggie, and Thien An are packed onto Toka, so watch whether that concentration becomes a power bloc or a shared cliff — and whether Thien An, your steal at pick #17, keeps justifying that A."
+        "text": "Three of your four — Lewis, Maggie and Thien An — are wearing Toka, so watch whether that farmer-and-med-student trio locks arms, with 110 points still on the table and the leader sitting on 4."
       }
     ],
-    "generatedAt": "2026-09-24T12:31:00.404Z",
+    "generatedAt": "2026-09-24T17:39:30.934Z",
     "model": "claude-opus-5",
-    "sourceHash": "1e98563afdaf"
+    "sourceHash": "0fcf241481b2"
   }
 }
