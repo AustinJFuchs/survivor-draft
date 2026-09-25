@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-24T17:39:00.184Z",
+  "syncedAt": "2026-09-25T17:38:00.409Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -150,6 +150,12 @@
       "aired": true,
       "rewardWinners": "Savu; Toka",
       "immunityWinners": "Savu"
+    },
+    {
+      "number": 2,
+      "title": "Weaponized Honesty",
+      "airDate": "2026-09-30",
+      "aired": false
     }
   ],
   "eliminations": [

@@ -1,6 +1,19 @@
 {
-  "syncedAt": "2026-09-24T17:39:03.989Z",
+  "syncedAt": "2026-09-25T17:38:03.651Z",
   "events": [
+    {
+      "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
+      "type": "idol-found",
+      "contestant": "Rob Antonson",
+      "source": {
+        "page": "Hidden Immunity Idol/History",
+        "url": "https://survivor.fandom.com/wiki/Hidden_Immunity_Idol/History"
+      },
+      "extracted": "table",
+      "episode": 1,
+      "detail": "Found at Savu camp",
+      "contestantSlug": "rob-antonson"
+    },
     {
       "id": "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
       "type": "shot-in-the-dark",
@@ -28,18 +41,6 @@
       "outcome": "fail",
       "detail": "no n Not Safe",
       "contestantSlug": "jenna-doore"
-    },
-    {
-      "id": "hidden-immunity-idol-history-rob-antonson-idol-found-x",
-      "type": "idol-found",
-      "contestant": "Rob Antonson",
-      "source": {
-        "page": "Hidden Immunity Idol/History",
-        "url": "https://survivor.fandom.com/wiki/Hidden_Immunity_Idol/History"
-      },
-      "extracted": "table",
-      "detail": "Found at Savu camp",
-      "contestantSlug": "rob-antonson"
     }
   ],
   "claude": {

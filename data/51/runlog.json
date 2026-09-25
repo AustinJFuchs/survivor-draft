@@ -321,6 +321,18 @@
         "State of the Draft rewritten (Ep 1)"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-09-25T17:38:13.088Z",
+      "at": "2026-09-25T17:38:13.088Z",
+      "source": "pipeline",
+      "summary": "1 episode joined the schedule. 1 idol or advantage logged.",
+      "details": [
+        "Ep 2 added — \"Weaponized Honesty\", airing 2026-09-30",
+        "1 game event added",
+        "1 game event removed"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -343,6 +355,10 @@
       "1": {
         "title": "Permanent Uncertainty",
         "airDate": "2026-09-23"
+      },
+      "2": {
+        "title": "Weaponized Honesty",
+        "airDate": "2026-09-30"
       }
     },
     "eliminations": [
@@ -573,7 +589,7 @@
       "1": "1a5be4909181"
     },
     "events": [
-      "hidden-immunity-idol-history-rob-antonson-idol-found-x",
+      "hidden-immunity-idol-history-rob-antonson-idol-found-1",
       "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
       "shot-in-the-dark-jenna-doore-shot-in-the-dark-1"
     ],
@@ -642,6 +658,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-24T17:39:58.057Z",
+  "lastCheckedAt": "2026-09-25T17:38:13.088Z",
   "quietChecks": 0
 }
