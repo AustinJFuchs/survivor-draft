@@ -1,81 +1,81 @@
 {
   "aaliyah-puglia": {
     "slug": "aaliyah-puglia",
-    "summary": "Aaliyah is a 24-year-old chef who has spent her life adapting to new places and new people, from South Jersey to Miami to Providence. She's drawn to Survivor because it lets everyday people do a lot with a little, and she wants the title. Confident, wise, and a little sporadic.",
+    "summary": "Aaliyah is a 24-year-old chef who has spent her life adapting — Jersey to Miami to Rhode Island to solo travel among strangers. She wants the title, and she came in ready to work angles. Confident and wise, with a sporadic streak she owns.",
     "bullets": [
-      "Chef from Gloucester City, NJ, now living in Providence, RI",
-      "Moved to Miami at 13 with little warning, then to Rhode Island for college knowing no one",
-      "Identifies with Yam Yam's loud-but-calculated humor; hopes to play calm and multi-angled like Cirie",
+      "Chef from Gloucester City, NJ, now living in Providence",
+      "Moved to Miami at 13 with little warning, then to college knowing no one",
+      "Identifies with Yam Yam, hoped to play like Cirie",
       "First known Survivor contestant raised by same-sex parents"
     ],
-    "generatedAt": "2026-08-30T07:48:50.004Z",
+    "generatedAt": "2026-09-26T16:49:46.437Z",
     "model": "claude-opus-5",
-    "sourceHash": "bc2566da3003"
+    "sourceHash": "603472ca2b19"
   },
   "alexis-levine": {
     "slug": "alexis-levine",
-    "summary": "Alexis is a criminal defense attorney from Atlanta who spends her working life defending people the system stacks against. She's outgoing, thoughtful and determined, proudest of ten years of sobriety, and inspired daily by her daughter Lyla. She wants alliance partners who think nothing like her.",
+    "summary": "Alexis is a criminal defense attorney from Atlanta who spends her days defending people against the government — work that keeps her thinking creatively from the bottom. Outgoing, thoughtful, and determined, she's proudest of ten years of sobriety and most inspired by her daughter, Lyla.",
     "bullets": [
-      "Ten years sober — the accomplishment she names first",
-      "Iranian on her father's side; hopes to visit Iran one day",
-      "Gardens, reads, and walks with her husband, daughter and two poodles",
-      "Names Kyle Fraser, Rachel and Parvati as her Survivor touchstones"
+      "Ten years sober, and counting it as her greatest accomplishment",
+      "Iranian on her dad's side; hopes to visit Iran one day",
+      "Wants an ally who thinks nothing like her — diversity as strategy",
+      "Unwinds with gardening, books, and long walks with her family and two poodles"
     ],
-    "generatedAt": "2026-08-30T07:48:53.742Z",
+    "generatedAt": "2026-09-26T16:49:49.916Z",
     "model": "claude-opus-5",
-    "sourceHash": "4be44e4e6113"
+    "sourceHash": "77467af4bbf6"
   },
   "ana-sani": {
     "slug": "ana-sani",
-    "summary": "Ana is a Toronto voice actress who has built a career on persistence, lending her voice to more than 60 animated shows. She describes herself as goofy, ambitious and chaotic, and she loves games enough to relish a setting where lying is part of the fun. She plays for her mom, a fellow Survivor fan.",
+    "summary": "Ana is a Toronto voice actress who has lent her voice to more than 60 animated shows, plus commercials, audiobooks and video games. She calls herself goofy, ambitious and chaotic, and she is playing for her mom, a fellow Survivor fan who fought cancer for 18 years. She likes games, and she likes winning them.",
     "bullets": [
-      "Voiced over 60 animated shows, plus commercials, audiobooks and video games",
-      "Honors degree in Political Science, fascinated by why powerful people act as they do",
-      "Admires Tony's chaos and calls Ricard a severely underrated strategy mastermind",
-      "Pet peeves: transition lenses, subway door-blockers and cheaters of any kind"
+      "Honors degree in political science, focused on political theory and power",
+      "Names Tony for chaos and Ricard for strategy as her Survivor touchstones",
+      "Gamer, pianist, coffee shop explorer and recently minted gym rat",
+      "Pet peeves: cheaters, transition lenses, and people who block the subway door"
     ],
-    "generatedAt": "2026-08-30T07:49:01.580Z",
+    "generatedAt": "2026-09-26T16:49:54.213Z",
     "model": "claude-opus-5",
-    "sourceHash": "08cbab624efe"
+    "sourceHash": "9e54d5c1f092"
   },
   "brady-booker": {
     "slug": "brady-booker",
-    "summary": "Brady Booker wrestles professionally as Bodhi Hayward, a job built on long days, little sleep, and winning people over. He grew up watching Survivor with his family and loves the outdoors, competition, and being pushed to his limit. Enthusiastic and intense, he values trust above all and is comfortable being uncomfortable.",
+    "summary": "Brady Booker wrestles professionally as Bodhi Hayward, a job built on long days, little sleep, and reading a room. He grew up watching Survivor with his family and loves the outdoors, competition, and being pushed to his limit. He values trust above all, and credits his parents for building a life from very little.",
     "bullets": [
       "Pro wrestler from La Salle, Illinois, now living in Knoxville",
       "Did gymnastics throughout his youth sports years",
-      "Hunts, fishes, hikes, camps, lifts, trail runs, and trains jujitsu",
-      "Credits his parents, who built a life from very little"
+      "Hunts, fishes, hikes, lifts, trail runs, and trains jujitsu",
+      "Says he is comfortable being uncomfortable"
     ],
-    "generatedAt": "2026-09-16T17:23:39.156Z",
+    "generatedAt": "2026-09-26T16:49:57.278Z",
     "model": "claude-opus-5",
-    "sourceHash": "cae5e0a71fec"
+    "sourceHash": "7858423bf737"
   },
   "carter-krull": {
     "slug": "carter-krull",
-    "summary": "Carter is a 24-year-old livestock farmer from Rock Rapids, Iowa, who treats life like a bucket list worth checking off. He's adventurous, competitive and determined, with a builder's streak — moving company, snow cone truck, epoxy river tables. He values trust and communication above all, crediting his parents for teaching him to work hard and keep going.",
+    "summary": "Carter is a 24-year-old livestock farmer from northwest Iowa with a habit of starting things — a snow cone truck, a moving company, epoxy river tables in the shop. He credits his parents for teaching him to work hard and keep chasing. Adventurous, competitive, and big on keeping his word.",
     "bullets": [
+      "Co-founded a cross-country moving company named MOVE MOVE MOVE",
       "Youngest member of Savu and youngest man on Survivor 51",
-      "Co-founded a nationwide moving company called MOVE MOVE MOVE",
-      "Makes epoxy river tables, inspired by a grandpa who built his own house",
-      "Deal-breaker: chewing with your mouth open"
+      "Builds epoxy river tables, inspired by his house-building Grandpa Shaffer",
+      "Will send you home for chewing with your mouth open"
     ],
-    "generatedAt": "2026-09-24T17:39:16.834Z",
+    "generatedAt": "2026-09-26T16:50:00.642Z",
     "model": "claude-opus-5",
-    "sourceHash": "be5f3a5e6b23"
+    "sourceHash": "bb25eb3d3c31"
   },
   "cristian-chavez": {
     "slug": "cristian-chavez",
-    "summary": "Cristian is a 26-year-old head of HR from Salt Lake City who calls himself fun, chaotic, and loud. He loves competition and wants to be pushed past his breaking point. A dad who bakes, reads philosophy, and feeds ducks, he's warm on the surface and cutthroat underneath.",
+    "summary": "Cristian is a 26-year-old head of HR from Salt Lake City who calls himself fun, chaotic and loud. He grew up running homemade Survivor challenges with his dad, earned a master's degree at 21, and is a devoted father whose biggest inspiration is his mom. He loves competition and wants a partner whose motives he can predict.",
     "bullets": [
+      "Was an alternate for Survivor 47",
       "Earned his master's degree at 21",
-      "Grew up doing homemade Survivor challenges built by his dad",
-      "Wants to play like a mix of Tai, Cirie, Tony and Carolyn",
-      "Was an alternate for Survivor 47; strongly dislikes worms"
+      "Bakes, studies philosophy, and feeds ducks in his free time",
+      "Loves animals, hates worms, and has a very loud laugh"
     ],
-    "generatedAt": "2026-08-30T07:49:16.386Z",
+    "generatedAt": "2026-09-26T16:50:03.605Z",
     "model": "claude-opus-5",
-    "sourceHash": "cbaee4182f3b"
+    "sourceHash": "f8a2105a64d7"
   },
   "danny-kilby": {
     "slug": "danny-kilby",
@@ -92,16 +92,16 @@
   },
   "devin-way": {
     "slug": "devin-way",
-    "summary": "Devin is a 33-year-old actor from Lufkin, Texas, now living in Los Angeles, who describes himself as charming, playful and loyal. He's the seventh of thirteen siblings and looks up to his grandmother, MoeMoe, for her strength and loyalty. He wants to play with Rick Devens' joy, and asks the same honesty he gives.",
+    "summary": "Devin is an actor from Lufkin, Texas, now living in Los Angeles, and he's simply thrilled to be here. He's charming, playful, and loyal, guided by his grandmother MoeMoe and a weekly D&D habit that taught him to roll the dice and figure it out.",
     "bullets": [
-      "Plays Dungeons & Dragons weekly — believes any roll can be figured out",
-      "One of 13 siblings; also line dances, does karaoke and spoken word",
-      "Grandma MoeMoe is his biggest inspiration and his model for loyalty",
-      "Had the very first confessional of Survivor 51; motto is \"Ways Always Win\""
+      "Seventh of 13 siblings — something you'd never guess looking at him",
+      "Plays Dungeons & Dragons weekly; also loves line dancing and karaoke",
+      "Wants Rick Devens' joy, identifies with Joe's integrity and family love",
+      "Had the very first confessional of Survivor 51"
     ],
-    "generatedAt": "2026-09-24T08:15:46.645Z",
+    "generatedAt": "2026-09-26T16:50:08.120Z",
     "model": "claude-opus-5",
-    "sourceHash": "74ba0f6d1c50"
+    "sourceHash": "9fd24baf7907"
   },
   "eric-macksoud": {
     "slug": "eric-macksoud",

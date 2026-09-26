@@ -333,6 +333,35 @@
         "1 game event removed"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-09-26T16:50:57.190Z",
+      "at": "2026-09-26T16:50:57.190Z",
+      "source": "pipeline",
+      "summary": "7 castaways' wiki entries got touched up. Claude rewrote 7 castaway profiles, 4 team summaries refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Bio updated for Aaliyah",
+        "Questionnaire updated for Aaliyah",
+        "Questionnaire updated for Alexis",
+        "Questionnaire updated for Ana",
+        "Questionnaire updated for Brady",
+        "Questionnaire updated for Carter",
+        "Questionnaire updated for Cristian",
+        "Questionnaire updated for Devin",
+        "Profile rewritten for Aaliyah",
+        "Profile rewritten for Alexis",
+        "Profile rewritten for Ana",
+        "Profile rewritten for Brady",
+        "Profile rewritten for Carter",
+        "Profile rewritten for Cristian",
+        "Profile rewritten for Devin",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (Ep 1)"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -396,23 +425,24 @@
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
+        "bio": "9af6e30f9b09",
         "threeWords": "6c5c1a20b167",
         "trivia": "cb13d5fcf627",
-        "qa": "0cb596f18b50",
+        "qa": "534f0268e86e",
         "photos": 1,
         "alliances": 0
       },
       "alexis-levine": {
         "birthdate": "1992-03-27",
         "threeWords": "e799d7ca5500",
-        "qa": "da987ecb2a47",
+        "qa": "a7505800781c",
         "photos": 1,
         "alliances": 0
       },
       "ana-sani": {
         "birthdate": "1991-09-14",
         "threeWords": "8b77250d050b",
-        "qa": "e60d62dd05d8",
+        "qa": "e70327e759d8",
         "photos": 1,
         "alliances": 0
       },
@@ -420,7 +450,7 @@
         "birthdate": "1998-12-10",
         "bio": "ef178c5d9e19",
         "threeWords": "71f7b4fb99af",
-        "qa": "d45c7903979f",
+        "qa": "2cc42f03772a",
         "photos": 1,
         "alliances": 0
       },
@@ -428,7 +458,7 @@
         "birthdate": "2001-05-20",
         "threeWords": "4a7fee5fc36a",
         "trivia": "b045fccf1658",
-        "qa": "ca44d5f2cddb",
+        "qa": "f412ab424734",
         "photos": 1,
         "alliances": 0
       },
@@ -436,7 +466,7 @@
         "birthdate": "2000-05-10",
         "threeWords": "6a473d14090b",
         "trivia": "8e0da425b65c",
-        "qa": "1e9a66da2f09",
+        "qa": "591587a9d2b0",
         "photos": 1,
         "alliances": 0
       },
@@ -452,7 +482,7 @@
         "birthdate": "1992-05-31",
         "threeWords": "e4f8afbfe0a9",
         "trivia": "3234bae1bc39",
-        "qa": "4985473c1095",
+        "qa": "84246fe05788",
         "photos": 1,
         "alliances": 0
       },
@@ -555,14 +585,14 @@
     },
     "commentary": {},
     "profiles": {
-      "aaliyah-puglia": "dd96c713e590",
-      "alexis-levine": "7013c1013378",
-      "ana-sani": "dc6f8bcc5e86",
-      "brady-booker": "26dc069f753d",
-      "carter-krull": "7365318d3773",
-      "cristian-chavez": "d61b77ae7f98",
+      "aaliyah-puglia": "359c1220c172",
+      "alexis-levine": "5b271985fee4",
+      "ana-sani": "936a05352d21",
+      "brady-booker": "8384f92bf0c9",
+      "carter-krull": "7120d94e4a09",
+      "cristian-chavez": "03fc58a2200c",
       "danny-kilby": "aeae64af9bad",
-      "devin-way": "0fa8cfb90f0f",
+      "devin-way": "e67fa11228e2",
       "eric-macksoud": "c3912c4189c9",
       "jelly-loblack": "9ff09fce8e6b",
       "jenna-doore": "8eeda3e2baed",
@@ -578,15 +608,15 @@
       "thien-an-nguyen": "96692fdbd957"
     },
     "teams": {
-      "austin": "e073e0e9d5ab",
-      "kylie": "d3f17524ef9d",
+      "austin": "222a418bb191",
+      "kylie": "f20ee1083406",
       "tami": "ca5c3a807439",
-      "taylor": "5e32091d155d",
-      "tim": "b23c3e6ae168"
+      "taylor": "699be7a31ae7",
+      "tim": "9c79f93f7410"
     },
     "rundowns": {
       "0": "635052266722",
-      "1": "1a5be4909181"
+      "1": "3e667c433f37"
     },
     "events": [
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -658,6 +688,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-25T17:38:13.088Z",
+  "lastCheckedAt": "2026-09-26T16:50:57.190Z",
   "quietChecks": 0
 }

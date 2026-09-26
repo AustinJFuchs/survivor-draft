@@ -46,44 +46,44 @@
     "key": "1",
     "episode": 1,
     "eliminations": 1,
-    "headline": "Four tied at the top, one draft already bleeding",
-    "overview": "Twenty castaways remain, one torch is snuffed, and the scoreboard is basically a four-way logjam. Austin, Tami, Taylor and Tim all banked 4 pts (+4 this episode) with a full roster standing and 110 on the table apiece. Austin and Tim share the best draft GPA at 3.75, Tami sits at 3.6, Taylor at 3.5, and Tami alone can lean on 5 of 5 still in with only her best 4 counting. Then there's Kylie: 3 pts, 3 of 4 still in, GPA 3, and just 85 on the table. First blood hurts.",
+    "headline": "Four drafts untouched, one already bleeding after first vote",
+    "overview": "One episode in and the scoreboard is nearly a traffic jam — Austin, Tami, Taylor and Tim all sit at 4 pts with a clean +4 and 110 on the table, while Kylie stands alone at 3 pts with 85. Austin and Tim share the top draft GPA at 3.75, Tami's 3.6 and five bodies give her a safety net only she owns, Taylor's 3.5 squad is fully intact, and Kylie's 3 GPA took the first real hit when Aaliyah Puglia — the #3 pick — became the first person voted out. Savu's immunity kept a lot of rosters whole. The gap is small. The pressure is not.",
     "lines": [
       {
         "drafterId": "austin",
-        "text": "Livestock and Lenses is spotless — 4 of 4 still in, a 3.75 draft GPA, and Eric at #16 grading out as a rank 1 steal."
+        "text": "Austin's Barnyard Therapists are 4 of 4 alive with a 3.75 draft GPA and Eric at #16 already grading out as the number one steal on his board."
       },
       {
         "drafterId": "tami",
-        "text": "The Advanced Degrees Alliance went 5 of 5 with Sharonda, the leftover #21 pick, already a rank 1 steal — that's homework paying off."
+        "text": "Tami's Advanced Degrees Alliance is the only draft holding five castaways, all five still in, with leftover pick #21 Sharonda already her top steal — and only her best 4 count."
       },
       {
         "drafterId": "taylor",
-        "text": "Crisis, Chaos and Chokeslams is tied at 4 pts with the lowest GPA of the leaders at 3.5, but Brady at #19 is a rank 1 steal that closes the gap fast."
+        "text": "Mischief, Muscle and Microphones survived the night untouched at 4 of 4, with pro wrestler Brady at #19 flexing as Taylor's best value grab."
       },
       {
         "drafterId": "tim",
-        "text": "Barnyard Bus Broadway matches Austin's 3.75 GPA, kept all four alive, and snagged Thien An at #17 as a rank 1 steal."
+        "text": "Tim's Farmhands and Dice Rolls rolled clean — two farmers, 4 of 4 in, a 3.75 GPA, and Thien An at #17 looking like a bargain."
       },
       {
         "drafterId": "kylie",
-        "text": "Chaos & Counsel earns the First Blood badge nobody wants — Aaliyah went at #3 and finished the night rank 21, dropping Kylie to 3 pts and 85 on the table."
+        "text": "Chaos and Counsel earned the First Blood badge the hard way: Aaliyah at #3 was Kylie's reach and her loss, leaving her at 3 pts with 85 on the table."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tami",
-        "text": "Five castaways drafted, five castaways standing, and the very last pick on the board graded out as a rank 1 steal."
+        "text": "Five castaways, five still standing, a 3.6 GPA and the #21 leftover turning into her best pick — Tami's cushion is real."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "kylie",
-        "text": "Spending pick #3 on Aaliyah and watching her become the first voted out is the definition of a reach that stings."
+        "text": "Losing your #3 pick Aaliyah in the very first vote drops you to 3 of 4 and 85 on the table — that stings."
       }
     ],
-    "generatedAt": "2026-09-24T17:39:57.499Z",
+    "generatedAt": "2026-09-26T16:50:56.305Z",
     "model": "claude-opus-5",
-    "sourceHash": "f735ac43aed6"
+    "sourceHash": "994934ddeeff"
   }
 }
