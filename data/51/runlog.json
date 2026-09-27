@@ -362,10 +362,55 @@
         "State of the Draft rewritten (Ep 1)"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-09-27T17:24:17.979Z",
+      "at": "2026-09-27T17:24:17.979Z",
+      "source": "pipeline",
+      "summary": "Jeff's episode recaps arrived. 13 castaways' wiki entries got touched up, Claude rewrote 13 castaway profiles, and all 5 team summaries were refreshed.",
+      "details": [
+        "Jeff's episode recaps shipped (commentary)",
+        "Questionnaire updated for Kilby",
+        "Questionnaire updated for Eric",
+        "Questionnaire updated for Jelly",
+        "Questionnaire updated for Jenna",
+        "Questionnaire updated for Kristin",
+        "Questionnaire updated for Linnea",
+        "Trivia updated for Maggie",
+        "Questionnaire updated for Maggie",
+        "Questionnaire updated for Mike",
+        "Questionnaire updated for Ori",
+        "Questionnaire updated for Patt",
+        "Questionnaire updated for Rob",
+        "Questionnaire updated for Sharonda",
+        "Questionnaire updated for Thien An",
+        "Commentary written for Ep 1",
+        "Profile rewritten for Kilby",
+        "Profile rewritten for Eric",
+        "Profile rewritten for Jelly",
+        "Profile rewritten for Jenna",
+        "Profile rewritten for Kristin",
+        "Profile rewritten for Linnea",
+        "Profile rewritten for Maggie",
+        "Profile rewritten for Mike",
+        "Profile rewritten for Ori",
+        "Profile rewritten for Patt",
+        "Profile rewritten for Rob",
+        "Profile rewritten for Sharonda",
+        "Profile rewritten for Thien An",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (Ep 1)"
+      ],
+      "episode": 1
     }
   ],
   "state": {
     "files": [
+      "commentary",
       "contestants.json",
       "draft.json",
       "events.json",
@@ -474,7 +519,7 @@
         "birthdate": "1996-02-11",
         "threeWords": "27f2b1fe35f8",
         "trivia": "f5508ac54cb2",
-        "qa": "a0930bbc6501",
+        "qa": "88dc55900c8d",
         "photos": 1,
         "alliances": 0
       },
@@ -489,7 +534,7 @@
       "eric-macksoud": {
         "birthdate": "1991-10-05",
         "threeWords": "5a210f3c4fef",
-        "qa": "108d3a027534",
+        "qa": "e8c0d284f23c",
         "photos": 1,
         "alliances": 0
       },
@@ -497,14 +542,14 @@
         "birthdate": "1996-08-12",
         "threeWords": "e08dfee01ec3",
         "trivia": "b7beb06f45cd",
-        "qa": "89d8d8df131f",
+        "qa": "c58c1f6b825f",
         "photos": 1,
         "alliances": 0
       },
       "jenna-doore": {
         "birthdate": "1995-04-27",
         "threeWords": "4023a392b640",
-        "qa": "6ea9435c4821",
+        "qa": "602c86c8bdb1",
         "photos": 1,
         "alliances": 0
       },
@@ -512,7 +557,7 @@
         "birthdate": "1977-04-05",
         "threeWords": "a729d1d36214",
         "trivia": "b56ec3643959",
-        "qa": "03f8834f03ba",
+        "qa": "289a2803c835",
         "photos": 1,
         "alliances": 0
       },
@@ -527,35 +572,35 @@
       "linnea-capobianco": {
         "birthdate": "2000-04-29",
         "threeWords": "706e3fba831d",
-        "qa": "1e87cd2de9d6",
+        "qa": "24ff43f2a518",
         "photos": 1,
         "alliances": 0
       },
       "maggie-nestor": {
         "threeWords": "af5b396d7e6f",
-        "trivia": "06a92343dd96",
-        "qa": "f5508fd22cb0",
+        "trivia": "fdd21be1fb90",
+        "qa": "604032ca6694",
         "photos": 1,
         "alliances": 0
       },
       "mike-pinsky": {
         "birthdate": "1993-05-10",
         "threeWords": "8de39432348c",
-        "qa": "b5b500625481",
+        "qa": "b47fe8d83d9d",
         "photos": 1,
         "alliances": 0
       },
       "ori-jean-charles": {
         "birthdate": "1998-12-31",
         "threeWords": "672631b112b8",
-        "qa": "5af80a6cc27c",
+        "qa": "07619a424d17",
         "photos": 1,
         "alliances": 0
       },
       "patt-cannaday": {
         "birthdate": "1992-12-08",
         "threeWords": "c3d0e847dd2a",
-        "qa": "2ecaf4abc425",
+        "qa": "0a91d61ae07d",
         "photos": 1,
         "alliances": 0
       },
@@ -563,14 +608,14 @@
         "birthdate": "1985-11-18",
         "threeWords": "1369729110d5",
         "trivia": "0eaa8fbc7862",
-        "qa": "c4cacbed876d",
+        "qa": "01cb4121954b",
         "photos": 1,
         "alliances": 0
       },
       "sharonda-cox": {
         "birthdate": "1991-09-30",
         "threeWords": "539670f32cc1",
-        "qa": "c79065a0df4a",
+        "qa": "7a7714f77f76",
         "photos": 1,
         "alliances": 0
       },
@@ -578,12 +623,14 @@
         "birthdate": "2001-08-22",
         "threeWords": "16c3d4ac71fc",
         "trivia": "2d0ed7f85302",
-        "qa": "547e35f50464",
+        "qa": "d793cb763812",
         "photos": 1,
         "alliances": 0
       }
     },
-    "commentary": {},
+    "commentary": {
+      "1": "d00fa9aff259"
+    },
     "profiles": {
       "aaliyah-puglia": "359c1220c172",
       "alexis-levine": "5b271985fee4",
@@ -591,32 +638,32 @@
       "brady-booker": "8384f92bf0c9",
       "carter-krull": "7120d94e4a09",
       "cristian-chavez": "03fc58a2200c",
-      "danny-kilby": "aeae64af9bad",
+      "danny-kilby": "e616d7bf38a4",
       "devin-way": "e67fa11228e2",
-      "eric-macksoud": "c3912c4189c9",
-      "jelly-loblack": "9ff09fce8e6b",
-      "jenna-doore": "8eeda3e2baed",
-      "kristin-flickinger": "ffacce0b5707",
+      "eric-macksoud": "3eae504f28f2",
+      "jelly-loblack": "d287fc5ca5c2",
+      "jenna-doore": "844a5026ab38",
+      "kristin-flickinger": "47ec8c7423c9",
       "lewis-kelly": "0e0b1f1e82df",
-      "linnea-capobianco": "c56bb415bdcf",
-      "maggie-nestor": "240eac0a1964",
-      "mike-pinsky": "0f3abaf60512",
-      "ori-jean-charles": "8c66d5b44307",
-      "patt-cannaday": "8f576e45238f",
-      "rob-antonson": "9f286d0b9f8d",
-      "sharonda-cox": "894c52bc88e2",
-      "thien-an-nguyen": "96692fdbd957"
+      "linnea-capobianco": "0bc0fea9367b",
+      "maggie-nestor": "2348f7300cc1",
+      "mike-pinsky": "3a8c4f0e1adc",
+      "ori-jean-charles": "6f8ef76fb168",
+      "patt-cannaday": "6971e2f6cc0a",
+      "rob-antonson": "17b39c803108",
+      "sharonda-cox": "08f4c6be3a63",
+      "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "222a418bb191",
-      "kylie": "f20ee1083406",
-      "tami": "ca5c3a807439",
-      "taylor": "699be7a31ae7",
-      "tim": "9c79f93f7410"
+      "austin": "d5bedf262ba7",
+      "kylie": "551e383b64d8",
+      "tami": "a8d3ed23afe0",
+      "taylor": "14056845a726",
+      "tim": "f07a3da5ced3"
     },
     "rundowns": {
       "0": "635052266722",
-      "1": "3e667c433f37"
+      "1": "6be6b07f8e5d"
     },
     "events": [
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -688,6 +735,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-26T16:50:57.190Z",
+  "lastCheckedAt": "2026-09-27T17:24:17.979Z",
   "quietChecks": 0
 }
