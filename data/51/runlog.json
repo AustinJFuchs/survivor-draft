@@ -406,6 +406,17 @@
         "State of the Draft rewritten (Ep 1)"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-09-29T18:23:39.655Z",
+      "at": "2026-09-29T18:23:39.655Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile.",
+      "details": [
+        "Trivia updated for Aaliyah",
+        "Profile rewritten for Aaliyah"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -472,7 +483,7 @@
         "birthdate": "2001-04-21",
         "bio": "9af6e30f9b09",
         "threeWords": "6c5c1a20b167",
-        "trivia": "cb13d5fcf627",
+        "trivia": "fb8539a3320a",
         "qa": "534f0268e86e",
         "photos": 1,
         "alliances": 0
@@ -632,7 +643,7 @@
       "1": "d00fa9aff259"
     },
     "profiles": {
-      "aaliyah-puglia": "359c1220c172",
+      "aaliyah-puglia": "8657a41d0c1e",
       "alexis-levine": "5b271985fee4",
       "ana-sani": "936a05352d21",
       "brady-booker": "8384f92bf0c9",
@@ -735,6 +746,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-28T19:55:00.753Z",
-  "quietChecks": 1
+  "lastCheckedAt": "2026-09-29T18:23:39.655Z",
+  "quietChecks": 0
 }
