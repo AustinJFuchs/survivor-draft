@@ -417,6 +417,16 @@
         "Profile rewritten for Aaliyah"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-09-30T18:13:02.218Z",
+      "at": "2026-09-30T18:13:02.218Z",
+      "source": "pipeline",
+      "summary": "1 team summary refreshed.",
+      "details": [
+        "Team summary refreshed for Kylie"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -667,7 +677,7 @@
     },
     "teams": {
       "austin": "d5bedf262ba7",
-      "kylie": "551e383b64d8",
+      "kylie": "6feee09e127a",
       "tami": "a8d3ed23afe0",
       "taylor": "14056845a726",
       "tim": "f07a3da5ced3"
@@ -746,6 +756,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-29T18:23:39.655Z",
+  "lastCheckedAt": "2026-09-30T18:13:02.218Z",
   "quietChecks": 0
 }
