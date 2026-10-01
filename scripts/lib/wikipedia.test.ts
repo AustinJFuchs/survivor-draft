@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { parseContestantTable, parseEpisodeList, parsePlacement, parseSeasonSummary, parseVotingHistory } from "./wikipedia";
 import { parseContestantPage } from "./fandom";
+import { extractTables, parseTable, plain } from "./wikitext";
 
 const here = dirname(fileURLToPath(import.meta.url));
 const fixture = (name: string) => readFileSync(join(here, "..", "fixtures", name), "utf8");
@@ -42,6 +43,27 @@ test("S51 pre-season table: names present, tribes hidden (void) are not leaked",
     assert.equal(r.placementText, undefined);
   }
   assert.ok(rows.some((r) => r.name === 'Angelica "Jelly" Loblack'));
+});
+
+test("S51 after ep 2: a template ending in \"|}}\" doesn't end the table", () => {
+  // Ana's row is {{sortname|Ana|Sani|}}; the "|}" inside it used to truncate the table at row 2.
+  const rows = parseContestantTable(fixture("wikipedia-survivor-51-ep2.wikitext"));
+  assert.equal(rows.length, 21);
+  const ana = rows.find((r) => r.name === "Ana Sani")!;
+  assert.equal(ana.tribes.original, "Savu");
+  assert.equal(ana.placementText, "2nd voted out");
+  assert.equal(ana.day, 5);
+  const devin = rows.find((r) => r.name === "Devin Way")!;
+  assert.ok(devin.tribes.original, "rows after Ana still parse");
+  assert.ok(rows.every((r) => r.tribes.original), "every castaway has a tribe");
+});
+
+test("wikitable: multi-line template whose closing line starts with |}", () => {
+  const raw = ["{|", "|-", "| {{tooltip|a", "|}}", "| b", "|-", "| c", "| d", "|}"].join("\n");
+  const [table] = extractTables(raw);
+  const rows = parseTable(table!).rows;
+  assert.equal(rows.length, 2);
+  assert.equal(plain(rows[1]![1]!.raw), "d");
 });
 
 test("placement parsing", () => {

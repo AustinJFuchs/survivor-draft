@@ -198,7 +198,9 @@ export function extractTables(text: string): string[] {
     let depth = 0;
     let j = i;
     while (j < text.length) {
-      if (text.startsWith("{|", j)) depth++, (j += 2);
+      // Skip templates whole: "{{sortname|Ana|Sani|}}" contains "|}" but doesn't end the table.
+      if (text.startsWith("{{", j)) j = findTemplateEnd(text, j);
+      else if (text.startsWith("{|", j)) depth++, (j += 2);
       else if (text.startsWith("|}", j)) {
         depth--;
         j += 2;
@@ -226,9 +228,17 @@ export function parseTable(raw: string): Table {
   let caption: string | undefined;
   let cur: Cell[] | null = null;
   let nested = 0; // depth of tables nested inside a cell
+  let openTemplates = 0; // "{{" left unclosed by previous lines (multi-line template in a cell)
   for (let li = 1; li < lines.length; li++) {
     const line = lines[li]!;
     const trimmed = line.trim();
+    // Inside a multi-line template: the line is cell content, even if it starts with "|}" or "|".
+    if (openTemplates > 0) {
+      openTemplates = Math.max(0, openTemplates + templateDepthDelta(line));
+      if (cur && cur.length > 0) cur[cur.length - 1]!.raw += "\n" + line;
+      continue;
+    }
+    openTemplates = Math.max(0, templateDepthDelta(line));
     // A nested table inside a cell: keep its lines in the cell, don't parse them as ours.
     if (nested > 0) {
       if (trimmed.startsWith("{|")) nested++;
@@ -267,6 +277,11 @@ export function parseTable(raw: string): Table {
   // Drop rows that are empty (e.g. a trailing "|-").
   const nonEmpty = rows.filter((r) => r.length > 0);
   return { caption, rows: nonEmpty, grid: expandGrid(nonEmpty) };
+}
+
+/** Net "{{" minus "}}" on a line. */
+function templateDepthDelta(line: string): number {
+  return (line.match(/\{\{/g)?.length ?? 0) - (line.match(/\}\}/g)?.length ?? 0);
 }
 
 // Leading HTML-ish attributes: rowspan="2" align="left" style=text-align:left
