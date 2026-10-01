@@ -85,5 +85,49 @@
     "generatedAt": "2026-10-01T18:38:29.220Z",
     "model": "claude-opus-5",
     "sourceHash": "260397e34927"
+  },
+  "2": {
+    "key": "2",
+    "episode": 2,
+    "eliminations": 2,
+    "headline": "Three-way tie at the top, Toka's farmhands untouched",
+    "overview": "Two episodes in and we have a traffic jam at the top: Austin, Tami and Tim all sit on 8 pts with 106 on the table, and all three added +4 this episode. Austin and Tim sport identical 3.75 draft GPAs; Tami counters with 5 of 5 still breathing and an Idol Whisperer badge, even if only her best 4 count. Taylor sits fourth at 7 pts, 3 of 4 alive, 82 on the table after losing Ana. Kylie trails at 6 pts with the same 82 available, First Blood badge and all.",
+    "lines": [
+      {
+        "drafterId": "austin",
+        "text": "Four for four, a 3.75 GPA, and Eric at #16 turning into a rank-1 steal — Austin's 'Livestock and Lovebirds' is quietly flawless."
+      },
+      {
+        "drafterId": "tami",
+        "text": "Tami's the only one with 5 of 5 still in the game, and leftover pick #21 Sharonda already grades out as a rank-1 steal — that's the Idol Whisperer touch."
+      },
+      {
+        "drafterId": "tim",
+        "text": "An all-Toka roster on the night Toka wins immunity? Tim's 'Farmhands' got the easiest +4 of the week, with Thien An at #17 as the rank-1 steal."
+      },
+      {
+        "drafterId": "taylor",
+        "text": "Brady at #19 is a rank-1 steal, but Ana at #12 graded out as rank 20 and became the 2nd person voted out — that's the 2.5 GPA talking."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "First Blood is a badge nobody wants: Aaliyah went first at 0 pts, Kylie's 3-of-4 roster sits at 6 pts, and Kilby at #18 is the lifeline."
+      }
+    ],
+    "awards": [
+      {
+        "label": "Draft of the week",
+        "drafterId": "tim",
+        "text": "Loading up on Toka and watching Toka take immunity is the kind of draft night that pays its own bills."
+      },
+      {
+        "label": "Ouch of the week",
+        "drafterId": "taylor",
+        "text": "Ana at pick #12 graded as rank 20 and left the game second — the only roster to take a hit tonight."
+      }
+    ],
+    "generatedAt": "2026-10-01T23:49:41.137Z",
+    "model": "claude-opus-5",
+    "sourceHash": "655c938d00f8"
   }
 }

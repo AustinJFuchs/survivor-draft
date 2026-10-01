@@ -484,6 +484,28 @@
         "State of the Draft rewritten (Ep 1)"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-10-01T23:49:41.995Z",
+      "at": "2026-10-01T23:49:41.995Z",
+      "source": "pipeline",
+      "summary": "Ep 2 aired and Ana was voted out. Austin, Tami, and Tim are tied at the top and Taylor slid to 4th.",
+      "details": [
+        "Ana voted out in Ep 2",
+        "Tribe Savu: Ana, Rob, Linnea, Cristian, Sharonda, Kristin, Ori, Carter, Alexis, Eric",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 2)",
+        "Austin: 1st → 1st, 4 → 8 pts",
+        "Tami: 1st → 1st, 4 → 8 pts",
+        "Tim: 1st → 1st, 4 → 8 pts",
+        "Taylor: 1st → 4th, 4 → 7 pts",
+        "Kylie: 5th → 5th, 3 → 6 pts"
+      ],
+      "episode": 2
     }
   ],
   "state": {
@@ -519,12 +541,38 @@
         "kind": "voted-out",
         "episode": 1,
         "jury": false
+      },
+      {
+        "slug": "ana-sani",
+        "kind": "voted-out",
+        "episode": 2,
+        "jury": false
       }
     ],
     "merged": [],
     "finalists": [],
     "tribes": {
-      "aaliyah-puglia": "Toka"
+      "aaliyah-puglia": "Toka",
+      "ana-sani": "Savu",
+      "rob-antonson": "Savu",
+      "brady-booker": "Toka",
+      "patt-cannaday": "Toka",
+      "linnea-capobianco": "Savu",
+      "cristian-chavez": "Savu",
+      "sharonda-cox": "Savu",
+      "jenna-doore": "Toka",
+      "kristin-flickinger": "Savu",
+      "ori-jean-charles": "Savu",
+      "lewis-kelly": "Toka",
+      "danny-kilby": "Toka",
+      "carter-krull": "Savu",
+      "alexis-levine": "Savu",
+      "jelly-loblack": "Toka",
+      "eric-macksoud": "Savu",
+      "maggie-nestor": "Toka",
+      "thien-an-nguyen": "Toka",
+      "mike-pinsky": "Toka",
+      "devin-way": "Toka"
     },
     "votes": 42,
     "extras": {
@@ -717,15 +765,16 @@
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "ddb3af2c27b3",
-      "kylie": "ed47980a45c5",
-      "tami": "6611eb672ccc",
-      "taylor": "366ffdd69aa3",
-      "tim": "139433803e5c"
+      "austin": "31a8d7bf3ee5",
+      "kylie": "f2500d37cf03",
+      "tami": "775cca6c83d5",
+      "taylor": "f4e955e8918b",
+      "tim": "c62ae46dcab5"
     },
     "rundowns": {
       "0": "635052266722",
-      "1": "21af1fe535fd"
+      "1": "21af1fe535fd",
+      "2": "987bbe7e3993"
     },
     "events": [
       "claude-aaliyah-puglia-1-2",
@@ -746,27 +795,27 @@
     "standings": [
       {
         "drafterId": "austin",
-        "total": 4,
+        "total": 8,
         "rank": 1
       },
       {
         "drafterId": "tami",
-        "total": 4,
-        "rank": 1
-      },
-      {
-        "drafterId": "taylor",
-        "total": 4,
+        "total": 8,
         "rank": 1
       },
       {
         "drafterId": "tim",
-        "total": 4,
+        "total": 8,
         "rank": 1
       },
       {
+        "drafterId": "taylor",
+        "total": 7,
+        "rank": 4
+      },
+      {
         "drafterId": "kylie",
-        "total": 3,
+        "total": 6,
         "rank": 5
       }
     ],
@@ -801,6 +850,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-01T18:38:29.933Z",
+  "lastCheckedAt": "2026-10-01T23:49:41.995Z",
   "quietChecks": 0
 }

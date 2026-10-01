@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-01T18:37:58.165Z",
+  "syncedAt": "2026-10-01T23:48:22.249Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -13,7 +13,144 @@
       ]
     },
     "ana-sani": {
-      "history": []
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "rob-antonson": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "brady-booker": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "patt-cannaday": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "linnea-capobianco": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "cristian-chavez": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "sharonda-cox": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "jenna-doore": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "kristin-flickinger": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "ori-jean-charles": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "lewis-kelly": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "danny-kilby": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "carter-krull": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "alexis-levine": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "jelly-loblack": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "eric-macksoud": {
+      "original": "Savu",
+      "current": "Savu",
+      "history": [
+        "Savu"
+      ]
+    },
+    "maggie-nestor": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "thien-an-nguyen": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "mike-pinsky": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
+    },
+    "devin-way": {
+      "original": "Toka",
+      "current": "Toka",
+      "history": [
+        "Toka"
+      ]
     }
   },
   "episodes": [
@@ -44,13 +181,23 @@
       "placementText": "1st voted out",
       "juryMember": false,
       "episode": 1
+    },
+    {
+      "order": 2,
+      "contestantSlug": "ana-sani",
+      "day": 5,
+      "kind": "voted-out",
+      "placementText": "2nd voted out",
+      "juryMember": false,
+      "episode": 2
     }
   ],
   "milestones": {
     "merged": [],
     "finalists": [],
     "placements": {
-      "aaliyah-puglia": 2
+      "aaliyah-puglia": 21,
+      "ana-sani": 20
     }
   },
   "extras": {
