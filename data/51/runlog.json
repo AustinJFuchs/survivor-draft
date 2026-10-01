@@ -461,6 +461,16 @@
         "State of the Draft rewritten (Ep 1)"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-10-01T14:08:42.645Z",
+      "at": "2026-10-01T14:08:42.645Z",
+      "source": "pipeline",
+      "summary": "3 idol or advantages logged.",
+      "details": [
+        "3 game events added"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -705,6 +715,9 @@
       "1": "1a146641b64a"
     },
     "events": [
+      "claude-aaliyah-puglia-1-2",
+      "claude-lewis-kelly-1-0",
+      "claude-lewis-kelly-1-1",
       "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
       "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
@@ -775,6 +788,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-01T11:25:33.192Z",
+  "lastCheckedAt": "2026-10-01T14:08:42.645Z",
   "quietChecks": 0
 }

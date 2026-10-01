@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-01T11:25:01.993Z",
+  "syncedAt": "2026-10-01T14:08:39.760Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -43,6 +43,48 @@
       "contestantSlug": "jenna-doore"
     },
     {
+      "id": "claude-lewis-kelly-1-0",
+      "type": "other",
+      "contestant": "Lewis Kelly",
+      "contestantSlug": "lewis-kelly",
+      "episode": 1,
+      "advantage": "Exile Island",
+      "detail": "As the odd person out due to the odd number of players, Lewis was sent to Exile Island before rejoining the game.",
+      "source": {
+        "page": "Survivor 51 (wiki twists & footnotes)",
+        "url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      "extracted": "claude"
+    },
+    {
+      "id": "claude-lewis-kelly-1-1",
+      "type": "other",
+      "contestant": "Lewis Kelly",
+      "contestantSlug": "lewis-kelly",
+      "episode": 1,
+      "advantage": "Tribe reassignment",
+      "detail": "Lewis rejoined the game as a member of Toka, replacing Aaliyah and evening the tribes at 10-10.",
+      "source": {
+        "page": "Survivor 51 (wiki twists & footnotes)",
+        "url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      "extracted": "claude"
+    },
+    {
+      "id": "claude-aaliyah-puglia-1-2",
+      "type": "other",
+      "contestant": "Aaliyah Puglia",
+      "contestantSlug": "aaliyah-puglia",
+      "episode": 1,
+      "advantage": "Tribe reassignment",
+      "detail": "Aaliyah was replaced on Toka by Lewis when he returned from Exile Island.",
+      "source": {
+        "page": "Survivor 51 (wiki twists & footnotes)",
+        "url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      "extracted": "claude"
+    },
+    {
       "id": "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
       "type": "idol-found",
       "contestant": "Jelly Loblack",
@@ -57,8 +99,8 @@
     }
   ],
   "claude": {
-    "sourceHash": "aea5de5dccd3",
-    "generatedAt": "2026-10-01T09:54:17.470Z",
+    "sourceHash": "23492df3557f",
+    "generatedAt": "2026-10-01T14:08:39.759Z",
     "model": "claude-opus-5"
   },
   "warnings": []
