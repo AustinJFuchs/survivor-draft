@@ -5,7 +5,7 @@
       "id": "insidesurvivor",
       "name": "Inside Survivor",
       "homepage": "https://insidesurvivor.com/",
-      "listing": "https://insidesurvivor.com/category/survivor-51",
+      "listing": "https://insidesurvivor.com/tag/survivor-51",
       "match": "survivor-51.*(episode|recap)"
     },
     {
