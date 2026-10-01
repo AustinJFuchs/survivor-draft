@@ -448,6 +448,19 @@
         "1 game event added"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-10-01T11:25:33.192Z",
+      "at": "2026-10-01T11:25:33.192Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile, 1 team summary refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Trivia updated for Ana",
+        "Profile rewritten for Ana",
+        "Team summary refreshed for Taylor",
+        "State of the Draft rewritten (Ep 1)"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -512,6 +525,7 @@
         "birthdate": "1991-09-14",
         "bio": "6e0ad60a719b",
         "threeWords": "8b77250d050b",
+        "trivia": "5a245dd1ef37",
         "qa": "e70327e759d8",
         "photos": 1,
         "alliances": 0
@@ -659,7 +673,7 @@
     "profiles": {
       "aaliyah-puglia": "8657a41d0c1e",
       "alexis-levine": "5b271985fee4",
-      "ana-sani": "b77d509e341e",
+      "ana-sani": "7071af320a76",
       "brady-booker": "8384f92bf0c9",
       "carter-krull": "7120d94e4a09",
       "cristian-chavez": "03fc58a2200c",
@@ -683,12 +697,12 @@
       "austin": "ddb3af2c27b3",
       "kylie": "4e4d792431fc",
       "tami": "6611eb672ccc",
-      "taylor": "ce14f99b4e7d",
+      "taylor": "366ffdd69aa3",
       "tim": "139433803e5c"
     },
     "rundowns": {
       "0": "635052266722",
-      "1": "fc5db027af49"
+      "1": "1a146641b64a"
     },
     "events": [
       "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
@@ -761,6 +775,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-01T09:55:28.441Z",
+  "lastCheckedAt": "2026-10-01T11:25:33.192Z",
   "quietChecks": 0
 }

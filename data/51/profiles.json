@@ -27,16 +27,16 @@
   },
   "ana-sani": {
     "slug": "ana-sani",
-    "summary": "Ana is a Toronto voice actress with over 60 animated shows to her name and a political theory degree she rarely mentions. She calls herself goofy, ambitious and chaotic, and she came to Survivor to lean into her competitive side. She plays for her mom, a lifelong fan.",
+    "summary": "Ana is a Toronto voice actress who has lent her voice to more than 60 animated shows, plus commercials, audiobooks and video games. She calls herself goofy, ambitious and chaotic, loves games of all kinds, and plays for her mom, a fellow Survivor fan. Her game ended on Day 5 in 20th place.",
     "bullets": [
-      "Has voiced 60+ animated shows, plus commercials, audiobooks and video games",
-      "Honors degree in Political Science, fascinated by why powerful people act as they do",
-      "Blindsided on Day 5 after her name-throwing got back to Linnea and Sharonda",
-      "Pet peeves: transition lenses, subway door-blockers, and cheaters of any kind"
+      "Honors degree in Political Science, focused on political theory and power",
+      "Named Linnea and Sharonda, covered it up badly, and got blindsided",
+      "Gym rat, pianist, coffee shop explorer and League of Legends player",
+      "Pet peeves: transition lenses, subway door-blockers, and cheaters of all kinds"
     ],
-    "generatedAt": "2026-10-01T09:54:22.157Z",
+    "generatedAt": "2026-10-01T11:25:07.763Z",
     "model": "claude-opus-5",
-    "sourceHash": "6f9ef23c7055"
+    "sourceHash": "59d4dc027431"
   },
   "brady-booker": {
     "slug": "brady-booker",

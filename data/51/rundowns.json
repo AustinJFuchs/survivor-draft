@@ -46,44 +46,44 @@
     "key": "1",
     "episode": 1,
     "eliminations": 1,
-    "headline": "Four drafts tied at the top, one torch already snuffed",
-    "overview": "Family, the Open Era opened with a traffic jam at the top. Austin, Tami, Taylor and Tim all banked 4 points, all kept everybody breathing, and all still have 110 on the table — that's a four-way logjam after one single episode. Austin and Tim share the best draft GPA at 3.75, Taylor sits at 3.5, Tami at 3.6 with five bodies and only her best four counting, which is the cushion nobody else bought. Then there's Kylie at 3 points, 3 of 4 still in, 85 on the table, and the First Blood badge nobody wants framed.",
+    "headline": "Four tied at the top, one torch already snuffed",
+    "overview": "Family, after one episode this draft is a logjam — Austin, Tami, Taylor and Tim all sitting on 4 pts, all plus-four, all with 110 on the table and every single name still breathing. Austin and Tim share the top draft GPA at 3.75, Tami's five-deep roster at 3.6 means only her best 4 count, and Taylor's 3.5 crew came through clean. Then there's Kylie at 3 pts with a 3 GPA, 3 of 4 still in and 85 on the table, because Aaliyah went home first. One vote separated the pack. That's all it takes.",
     "lines": [
       {
         "drafterId": "austin",
-        "text": "Austin's cattle-and-cameras quartet went a perfect 4 of 4 with a 3.75 GPA, and Eric at #16 already grading out as his number one pick is exactly the kind of quiet theft that wins drafts."
+        "text": "Austin, a 3.75 GPA and Eric stolen at #16 to the top rank — that's cattle, cameras and counseling all paying rent."
       },
       {
         "drafterId": "tami",
-        "text": "Tami's got five torches burning, the Idol Whisperer badge, and leftover pick #21 Sharonda immediately playing like a first-rounder — the luxury of a spare body and she hasn't even needed it yet."
+        "text": "Tami, you grabbed Sharonda with leftover pick #21 and she's already a rank-1 steal — the Idol Whisperer badge is earning itself."
       },
       {
         "drafterId": "taylor",
-        "text": "Crisis Management Chaos lived up to the name — Brady took a comment about his aggression and turned it into a mission, and Taylor's #19 pick is now her top performer."
+        "text": "Taylor, Brady at #19 turned a whisper about aggression into a mission, and your 3.5 GPA roster is four-for-four intact."
       },
       {
         "drafterId": "tim",
-        "text": "Two Farmers and a Bus rolled out clean at 4 of 4 with a 3.75 GPA, Devin fought hard at Tribal, and Thien An at #17 is already Tim's best asset."
+        "text": "Tim, two farmers, a bus, a 3.75 GPA and Thien An as a #17 steal — quietly nobody's touched your names."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie took Aaliyah at #3 and watched her rank out at 21, the First Blood badge is hers, and 85 on the table means she's chasing from behind on night one."
+        "text": "Kylie, you wear First Blood for Aaliyah at #3 becoming rank 21, but Kilby at #18 is a rank-1 steal and 85 is still on the table."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
-        "drafterId": "tami",
-        "text": "Four points, five castaways still standing, and a #21 leftover grading as her best pick — Tami's depth is the story of episode one."
+        "drafterId": "austin",
+        "text": "Top GPA at 3.75, a rank-1 steal in Eric, and all four in — the cleanest night on the beach."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "kylie",
-        "text": "Spending pick #3 on Aaliyah and getting a rank-21 return in the very first episode is a torch-snuffing you feel in the standings."
+        "text": "The very first torch snuffed belonged to your #3 pick, and that's 3 pts instead of 4."
       }
     ],
-    "generatedAt": "2026-10-01T09:55:27.558Z",
+    "generatedAt": "2026-10-01T11:25:32.319Z",
     "model": "claude-opus-5",
-    "sourceHash": "2e2c81f3b3f6"
+    "sourceHash": "e02cc18f106e"
   }
 }
