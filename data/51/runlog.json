@@ -471,6 +471,19 @@
         "3 game events added"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-10-01T18:38:29.933Z",
+      "at": "2026-10-01T18:38:29.933Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile, 1 team summary refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Trivia updated for Aaliyah",
+        "Profile rewritten for Aaliyah",
+        "Team summary refreshed for Kylie",
+        "State of the Draft rewritten (Ep 1)"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -519,7 +532,7 @@
         "birthdate": "2001-04-21",
         "bio": "9af6e30f9b09",
         "threeWords": "6c5c1a20b167",
-        "trivia": "fb8539a3320a",
+        "trivia": "a0356c9e5763",
         "qa": "534f0268e86e",
         "photos": 1,
         "alliances": 0
@@ -681,7 +694,7 @@
       "1": "d00fa9aff259"
     },
     "profiles": {
-      "aaliyah-puglia": "8657a41d0c1e",
+      "aaliyah-puglia": "7fd3165dee72",
       "alexis-levine": "5b271985fee4",
       "ana-sani": "7071af320a76",
       "brady-booker": "8384f92bf0c9",
@@ -705,14 +718,14 @@
     },
     "teams": {
       "austin": "ddb3af2c27b3",
-      "kylie": "4e4d792431fc",
+      "kylie": "ed47980a45c5",
       "tami": "6611eb672ccc",
       "taylor": "366ffdd69aa3",
       "tim": "139433803e5c"
     },
     "rundowns": {
       "0": "635052266722",
-      "1": "1a146641b64a"
+      "1": "21af1fe535fd"
     },
     "events": [
       "claude-aaliyah-puglia-1-2",
@@ -788,6 +801,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-01T14:08:42.645Z",
+  "lastCheckedAt": "2026-10-01T18:38:29.933Z",
   "quietChecks": 0
 }

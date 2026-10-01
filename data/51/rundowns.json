@@ -47,43 +47,43 @@
     "episode": 1,
     "eliminations": 1,
     "headline": "Four tied at the top, one torch already snuffed",
-    "overview": "Family, after one episode this draft is a logjam — Austin, Tami, Taylor and Tim all sitting on 4 pts, all plus-four, all with 110 on the table and every single name still breathing. Austin and Tim share the top draft GPA at 3.75, Tami's five-deep roster at 3.6 means only her best 4 count, and Taylor's 3.5 crew came through clean. Then there's Kylie at 3 pts with a 3 GPA, 3 of 4 still in and 85 on the table, because Aaliyah went home first. One vote separated the pack. That's all it takes.",
+    "overview": "One episode in and the board is bunched tighter than a Toka shelter: Austin, Tami, Taylor and Tim are all deadlocked at 4 points, all rosters fully intact, all staring at 110 on the table. Tami's got the numbers game — five bodies, best four counting, plus an Idol Whisperer badge. Austin and Tim share the best draft GPA at 3.75, Tami's at 3.6, Taylor 3.5. And then there's Kylie, sitting fifth at 3 points with a 3 GPA, 3 of 4 still in, 85 on the table, and the First Blood badge nobody wants. Twenty remain. Game on, family.",
     "lines": [
       {
         "drafterId": "austin",
-        "text": "Austin, a 3.75 GPA and Eric stolen at #16 to the top rank — that's cattle, cameras and counseling all paying rent."
+        "text": "Cattle, Cameras & Counseling is perfect through one night, and that late steal of Eric at #16 already grades out as a rank 1 — a 3.75 GPA says Austin did his homework."
       },
       {
         "drafterId": "tami",
-        "text": "Tami, you grabbed Sharonda with leftover pick #21 and she's already a rank-1 steal — the Idol Whisperer badge is earning itself."
+        "text": "The Idol Whisperers have five castaways breathing, the leftover pick Sharonda at #21 grading as a rank 1 steal, and a badge on the wall — that's depth, family."
       },
       {
         "drafterId": "taylor",
-        "text": "Taylor, Brady at #19 turned a whisper about aggression into a mission, and your 3.5 GPA roster is four-for-four intact."
+        "text": "Voice, Muscle & Mischief got exactly what the team name promised when Brady, the #19 pick and a rank 1 steal, made it his personal mission at Toka."
       },
       {
         "drafterId": "tim",
-        "text": "Tim, two farmers, a bus, a 3.75 GPA and Thien An as a #17 steal — quietly nobody's touched your names."
+        "text": "Two Farmers and a Bus is rolling untouched at 4 points with a 3.75 GPA, and Thien An at #17 grading out rank 1 is the kind of value that wins seasons."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie, you wear First Blood for Aaliyah at #3 becoming rank 21, but Kilby at #18 is a rank-1 steal and 85 is still on the table."
+        "text": "Chaos and Counsel caught the first torch snuff when Aaliyah — the #3 pick that grades as a rank 21 reach — went out first, but Kilby at #18 is a rank 1 steal and 85 is still very much on the table."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
-        "drafterId": "austin",
-        "text": "Top GPA at 3.75, a rank-1 steal in Eric, and all four in — the cleanest night on the beach."
+        "drafterId": "tami",
+        "text": "Five castaways standing, only the best four counting, and a leftover pick grading as a rank 1 steal — Tami built herself a cushion before anyone else even noticed."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "kylie",
-        "text": "The very first torch snuffed belonged to your #3 pick, and that's 3 pts instead of 4."
+        "text": "Drafting Aaliyah at #3 and watching her torch get snuffed first is the harshest welcome this game hands out."
       }
     ],
-    "generatedAt": "2026-10-01T11:25:32.319Z",
+    "generatedAt": "2026-10-01T18:38:29.220Z",
     "model": "claude-opus-5",
-    "sourceHash": "e02cc18f106e"
+    "sourceHash": "260397e34927"
   }
 }

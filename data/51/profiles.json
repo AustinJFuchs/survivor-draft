@@ -1,16 +1,16 @@
 {
   "aaliyah-puglia": {
     "slug": "aaliyah-puglia",
-    "summary": "Aaliyah is a 24-year-old chef who grew up in South Jersey and now calls Providence home, after a life of moves she never saw coming. She describes herself as confident, wise and sporadic, and she came to Survivor wanting the title. Her game ended early, on Day 3, after a conversation traveled back to the person she named.",
+    "summary": "Aaliyah is a 24-year-old chef from Gloucester City, New Jersey, now living in Providence. She describes herself as confident, wise, and sporadic, and a life of sudden moves — Jersey to Miami at 13, then college in Rhode Island, then solo travel for work — has made her comfortable with change. She came for the title.",
     "bullets": [
-      "Moved from Jersey to Miami at 13, then to Rhode Island for college alone",
-      "Identifies with Yam Yam, hoped to play the multi-angle game of Cirie",
-      "First known contestant raised by same-sex parents",
-      "First woman, and first new player, to finish 21st"
+      "Chef who moved to Miami at 13 with little warning",
+      "Identifies with Yam Yam, hoped to play like Cirie",
+      "Voted out Day 3 in 21st place after her plan reached Brady",
+      "First known contestant raised by same-sex parents"
     ],
-    "generatedAt": "2026-09-29T18:23:25.703Z",
+    "generatedAt": "2026-10-01T18:38:05.674Z",
     "model": "claude-opus-5",
-    "sourceHash": "58717571ef09"
+    "sourceHash": "6899fcca0d7d"
   },
   "alexis-levine": {
     "slug": "alexis-levine",
