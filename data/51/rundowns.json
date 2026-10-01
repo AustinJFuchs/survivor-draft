@@ -90,44 +90,44 @@
     "key": "2",
     "episode": 2,
     "eliminations": 2,
-    "headline": "Three-way tie at the top, Toka's farmhands untouched",
-    "overview": "Two episodes in and we have a traffic jam at the top: Austin, Tami and Tim all sit on 8 pts with 106 on the table, and all three added +4 this episode. Austin and Tim sport identical 3.75 draft GPAs; Tami counters with 5 of 5 still breathing and an Idol Whisperer badge, even if only her best 4 count. Taylor sits fourth at 7 pts, 3 of 4 alive, 82 on the table after losing Ana. Kylie trails at 6 pts with the same 82 available, First Blood badge and all.",
+    "headline": "Three-way tie at the top, and one painful blindside",
+    "overview": "Family, we have a three-way logjam at 8 points — Austin, Tami and Tim all banked +4 and all still have 106 on the table. Austin's Savu-heavy build and Tim's all-Toka farmhands both sit at a 3.75 draft GPA with 4 of 4 standing; Tami counters with 5 of 5 bodies, a 3.6 GPA and the Idol Whisperer badge. Then there's the gap: Taylor at 7 with 3 of 4 and 82 on the table after losing Ana, and Kylie at 6, also 3 of 4, 82 on the table. Depth is king right now.",
     "lines": [
       {
         "drafterId": "austin",
-        "text": "Four for four, a 3.75 GPA, and Eric at #16 turning into a rank-1 steal — Austin's 'Livestock and Lovebirds' is quietly flawless."
+        "text": "Livestock and Lovebirds is 4 for 4 with Eric — a #16 steal now ranked 1 — somehow surviving three days as the consensus boot."
       },
       {
         "drafterId": "tami",
-        "text": "Tami's the only one with 5 of 5 still in the game, and leftover pick #21 Sharonda already grades out as a rank-1 steal — that's the Idol Whisperer touch."
+        "text": "Gavels and Gate Agents has 5 of 5 breathing, the Idol Whisperer badge, and Sharonda at pick #21 sitting pretty as the top steal of the draft."
       },
       {
         "drafterId": "tim",
-        "text": "An all-Toka roster on the night Toka wins immunity? Tim's 'Farmhands' got the easiest +4 of the week, with Thien An at #17 as the rank-1 steal."
+        "text": "The Toka Farmhands own the tribe that swept reward AND immunity, and Thien An at #17 is already your rank-1 value."
       },
       {
         "drafterId": "taylor",
-        "text": "Brady at #19 is a rank-1 steal, but Ana at #12 graded out as rank 20 and became the 2nd person voted out — that's the 2.5 GPA talking."
+        "text": "Crisis, Hustle & Headlocks took the hit when Ana talked herself right out of the game — a #12 pick grading out at rank 20 — but Brady played through a severed thumb tip and Kristin and Ori are still standing."
       },
       {
         "drafterId": "kylie",
-        "text": "First Blood is a badge nobody wants: Aaliyah went first at 0 pts, Kylie's 3-of-4 roster sits at 6 pts, and Kilby at #18 is the lifeline."
+        "text": "Chaos, Counsel & Code is last at 6 points with Aaliyah's #3 reach grading at rank 21, but Alexis ran the Savu blindside and Kilby at #18 is pure profit."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Loading up on Toka and watching Toka take immunity is the kind of draft night that pays its own bills."
+        "text": "All four Farmhands sit on the tribe that swept reward and immunity — that's 3.75 GPA and zero sweat at Tribal."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "taylor",
-        "text": "Ana at pick #12 graded as rank 20 and left the game second — the only roster to take a hit tonight."
+        "text": "Ana threw out her own name, the room took her up on it, and Taylor's 82 on the table is now the shortest ceiling in the family."
       }
     ],
-    "generatedAt": "2026-10-01T23:49:41.137Z",
+    "generatedAt": "2026-10-01T23:59:53.792Z",
     "model": "claude-opus-5",
-    "sourceHash": "655c938d00f8"
+    "sourceHash": "cfe08c2f730a"
   }
 }

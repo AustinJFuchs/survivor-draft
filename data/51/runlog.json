@@ -506,6 +506,17 @@
         "Kylie: 5th → 5th, 3 → 6 pts"
       ],
       "episode": 2
+    },
+    {
+      "id": "2026-10-01T23:59:54.678Z",
+      "at": "2026-10-01T23:59:54.678Z",
+      "source": "pipeline",
+      "summary": "Jeff recapped Ep 2 and the State of the Draft was rewritten.",
+      "details": [
+        "Commentary written for Ep 2",
+        "State of the Draft rewritten (Ep 2)"
+      ],
+      "episode": 2
     }
   ],
   "state": {
@@ -739,7 +750,8 @@
       }
     },
     "commentary": {
-      "1": "d00fa9aff259"
+      "1": "d00fa9aff259",
+      "2": "3d924c72a3de"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
@@ -774,7 +786,7 @@
     "rundowns": {
       "0": "635052266722",
       "1": "21af1fe535fd",
-      "2": "987bbe7e3993"
+      "2": "de019f81dc88"
     },
     "events": [
       "claude-aaliyah-puglia-1-2",
@@ -850,6 +862,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-01T23:49:41.995Z",
+  "lastCheckedAt": "2026-10-01T23:59:54.678Z",
   "quietChecks": 0
 }
