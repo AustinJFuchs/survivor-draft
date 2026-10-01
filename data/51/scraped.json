@@ -1,137 +1,11 @@
 {
-  "syncedAt": "2026-09-30T18:12:45.471Z",
+  "syncedAt": "2026-10-01T09:54:10.799Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
   },
   "tribes": {
     "aaliyah-puglia": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "rob-antonson": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "brady-booker": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "patt-cannaday": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "linnea-capobianco": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "cristian-chavez": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "sharonda-cox": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "jenna-doore": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "kristin-flickinger": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "ori-jean-charles": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "lewis-kelly": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "danny-kilby": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "carter-krull": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "alexis-levine": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "jelly-loblack": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "eric-macksoud": {
-      "original": "Savu",
-      "current": "Savu",
-      "history": [
-        "Savu"
-      ]
-    },
-    "maggie-nestor": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "thien-an-nguyen": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka"
-      ]
-    },
-    "mike-pinsky": {
       "original": "Toka",
       "current": "Toka",
       "history": [
@@ -156,7 +30,9 @@
       "number": 2,
       "title": "Weaponized Honesty",
       "airDate": "2026-09-30",
-      "aired": true
+      "aired": true,
+      "rewardWinners": "Toka",
+      "immunityWinners": "Toka"
     }
   ],
   "eliminations": [
@@ -174,7 +50,7 @@
     "merged": [],
     "finalists": [],
     "placements": {
-      "aaliyah-puglia": 20
+      "aaliyah-puglia": 2
     }
   },
   "extras": {
@@ -276,7 +152,10 @@
     },
     "ana-sani": {
       "challengeWins": 1,
+      "votesAgainst": 6,
+      "daysLasted": "5/26",
       "birthdate": "1991-09-14",
+      "bio": "Initially in a safe position due to Eric Macksoud annoying the whole tribe, Ana soon became a target after throwing out Linnea Capobianco and Sharonda Cox's names and poorly covering it up, which was soon relayed back to them. Believing the clear-cut plan was to vote out Eric, Ana was unaware Linnea and Sharonda cobbled up the numbers against her, finding herself blindsided on Day 5, placing 20th.",
       "threeWords": [
         "goofy",
         "ambitious",
@@ -333,6 +212,7 @@
       ]
     },
     "brady-booker": {
+      "challengeWins": 2,
       "birthdate": "1998-12-10",
       "bio": "Brady Booker, also known by his professional name Bodhi Hayward, is a castaway from Survivor 51.",
       "threeWords": [
@@ -517,6 +397,7 @@
       ]
     },
     "danny-kilby": {
+      "challengeWins": 2,
       "birthdate": "1996-02-11",
       "threeWords": [
         "wacky",
@@ -573,6 +454,7 @@
       ]
     },
     "devin-way": {
+      "challengeWins": 2,
       "birthdate": "1992-05-31",
       "threeWords": [
         "charming",
@@ -634,6 +516,7 @@
     },
     "eric-macksoud": {
       "challengeWins": 1,
+      "votesAgainst": 4,
       "birthdate": "1991-10-05",
       "threeWords": [
         "animated",
@@ -691,6 +574,7 @@
       ]
     },
     "jelly-loblack": {
+      "challengeWins": 2,
       "birthdate": "1996-08-12",
       "threeWords": [
         "curious",
@@ -752,6 +636,7 @@
       ]
     },
     "jenna-doore": {
+      "challengeWins": 2,
       "votesAgainst": 2,
       "birthdate": "1995-04-27",
       "threeWords": [
@@ -866,6 +751,7 @@
       ]
     },
     "lewis-kelly": {
+      "challengeWins": 2,
       "birthdate": "1997-10-03",
       "threeWords": [
         "cheeky",
@@ -977,6 +863,7 @@
       ]
     },
     "maggie-nestor": {
+      "challengeWins": 2,
       "threeWords": [
         "joyful",
         "intentional",
@@ -1033,6 +920,7 @@
       ]
     },
     "mike-pinsky": {
+      "challengeWins": 2,
       "birthdate": "1993-05-10",
       "threeWords": [
         "enthusiastic",
@@ -1144,6 +1032,7 @@
       ]
     },
     "patt-cannaday": {
+      "challengeWins": 2,
       "birthdate": "1992-12-08",
       "threeWords": [
         "goofy",
@@ -1247,7 +1136,8 @@
         }
       ],
       "trivia": [
-        "Rob is the oldest man to compete on Survivor 51."
+        "Rob is the oldest man to compete on Survivor 51.",
+        "Rob is the first contestant on Survivor to voluntarily attempt to vote for themselves. Christian Hubicki did so on Survivor 50, but was forced to as part of a disadvantage."
       ],
       "pageUrl": "https://survivor.fandom.com/wiki/Rob_Antonson",
       "photos": [
@@ -1316,6 +1206,7 @@
       ]
     },
     "thien-an-nguyen": {
+      "challengeWins": 2,
       "birthdate": "2001-08-22",
       "threeWords": [
         "quick-witted",
@@ -1384,15 +1275,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
-      }
-    ],
-    "ana-sani": [
+      },
       {
-        "episode": 1,
-        "day": 3,
+        "episode": 2,
+        "day": 5,
         "votesAgainst": 0,
         "voters": [],
-        "tally": "6–2"
+        "tally": "6–4",
+        "votedFor": "ana-sani"
       }
     ],
     "brady-booker": [
@@ -1403,6 +1293,13 @@
         "voters": [],
         "tally": "6–2",
         "votedFor": "aaliyah-puglia"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "carter-krull": [
@@ -1412,6 +1309,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "eric-macksoud"
       }
     ],
     "cristian-chavez": [
@@ -1421,6 +1326,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "ana-sani"
       }
     ],
     "devin-way": [
@@ -1431,6 +1344,13 @@
         "voters": [],
         "tally": "6–2",
         "votedFor": "jenna-doore"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "eric-macksoud": [
@@ -1440,6 +1360,19 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 4,
+        "voters": [
+          "carter-krull",
+          "ori-jean-charles",
+          "rob-antonson",
+          "ana-sani"
+        ],
+        "tally": "6–4",
+        "votedFor": "ana-sani"
       }
     ],
     "jelly-loblack": [
@@ -1450,6 +1383,13 @@
         "voters": [],
         "tally": "6–2",
         "votedFor": "jenna-doore"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "jenna-doore": [
@@ -1463,6 +1403,13 @@
         ],
         "tally": "6–2",
         "votedForText": "None"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "danny-kilby": [
@@ -1473,6 +1420,13 @@
         "voters": [],
         "tally": "6–2",
         "votedFor": "aaliyah-puglia"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "kristin-flickinger": [
@@ -1482,6 +1436,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "ana-sani"
       }
     ],
     "lewis-kelly": [
@@ -1492,6 +1454,13 @@
         "voters": [],
         "tally": "6–2",
         "votedForText": "Exiled"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "linnea-capobianco": [
@@ -1501,6 +1470,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "ana-sani"
       }
     ],
     "maggie-nestor": [
@@ -1511,6 +1488,13 @@
         "voters": [],
         "tally": "6–2",
         "votedFor": "aaliyah-puglia"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "mike-pinsky": [
@@ -1521,6 +1505,13 @@
         "voters": [],
         "tally": "6–2",
         "votedFor": "aaliyah-puglia"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "ori-jean-charles": [
@@ -1530,6 +1521,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "eric-macksoud"
       }
     ],
     "patt-cannaday": [
@@ -1540,6 +1539,13 @@
         "voters": [],
         "tally": "6–2",
         "votedFor": "aaliyah-puglia"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ],
     "rob-antonson": [
@@ -1549,6 +1555,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "eric-macksoud"
       }
     ],
     "sharonda-cox": [
@@ -1558,6 +1572,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "ana-sani"
       }
     ],
     "thien-an-nguyen": [
@@ -1568,6 +1590,37 @@
         "voters": [],
         "tally": "6–2",
         "votedFor": "aaliyah-puglia"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
+      }
+    ],
+    "ana-sani": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 6,
+        "voters": [
+          "alexis-levine",
+          "cristian-chavez",
+          "eric-macksoud",
+          "kristin-flickinger",
+          "linnea-capobianco",
+          "sharonda-cox"
+        ],
+        "tally": "6–4",
+        "votedFor": "eric-macksoud"
       }
     ],
     "aaliyah-puglia": [
@@ -1585,6 +1638,13 @@
         ],
         "tally": "6–2",
         "votedForText": "None"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
       }
     ]
   },

@@ -427,6 +427,27 @@
         "Team summary refreshed for Kylie"
       ],
       "episode": 1
+    },
+    {
+      "id": "2026-10-01T09:55:28.441Z",
+      "at": "2026-10-01T09:55:28.441Z",
+      "source": "pipeline",
+      "summary": "The voting table filled in and 2 castaways' wiki entries got touched up. Claude rewrote 2 castaway profiles, all 5 team summaries were refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Vote records: 21 → 42",
+        "Bio updated for Ana",
+        "Trivia updated for Rob",
+        "Profile rewritten for Ana",
+        "Profile rewritten for Rob",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (Ep 1)",
+        "1 game event added"
+      ],
+      "episode": 1
     }
   ],
   "state": {
@@ -467,27 +488,9 @@
     "merged": [],
     "finalists": [],
     "tribes": {
-      "aaliyah-puglia": "Toka",
-      "rob-antonson": "Savu",
-      "brady-booker": "Toka",
-      "patt-cannaday": "Toka",
-      "linnea-capobianco": "Savu",
-      "cristian-chavez": "Savu",
-      "sharonda-cox": "Savu",
-      "jenna-doore": "Toka",
-      "kristin-flickinger": "Savu",
-      "ori-jean-charles": "Savu",
-      "lewis-kelly": "Toka",
-      "danny-kilby": "Toka",
-      "carter-krull": "Savu",
-      "alexis-levine": "Savu",
-      "jelly-loblack": "Toka",
-      "eric-macksoud": "Savu",
-      "maggie-nestor": "Toka",
-      "thien-an-nguyen": "Toka",
-      "mike-pinsky": "Toka"
+      "aaliyah-puglia": "Toka"
     },
-    "votes": 21,
+    "votes": 42,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -507,6 +510,7 @@
       },
       "ana-sani": {
         "birthdate": "1991-09-14",
+        "bio": "6e0ad60a719b",
         "threeWords": "8b77250d050b",
         "qa": "e70327e759d8",
         "photos": 1,
@@ -628,7 +632,7 @@
       "rob-antonson": {
         "birthdate": "1985-11-18",
         "threeWords": "1369729110d5",
-        "trivia": "0eaa8fbc7862",
+        "trivia": "225801c2c878",
         "qa": "01cb4121954b",
         "photos": 1,
         "alliances": 0
@@ -655,7 +659,7 @@
     "profiles": {
       "aaliyah-puglia": "8657a41d0c1e",
       "alexis-levine": "5b271985fee4",
-      "ana-sani": "936a05352d21",
+      "ana-sani": "b77d509e341e",
       "brady-booker": "8384f92bf0c9",
       "carter-krull": "7120d94e4a09",
       "cristian-chavez": "03fc58a2200c",
@@ -671,22 +675,23 @@
       "mike-pinsky": "3a8c4f0e1adc",
       "ori-jean-charles": "6f8ef76fb168",
       "patt-cannaday": "6971e2f6cc0a",
-      "rob-antonson": "17b39c803108",
+      "rob-antonson": "f261cedea00a",
       "sharonda-cox": "08f4c6be3a63",
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "d5bedf262ba7",
-      "kylie": "6feee09e127a",
-      "tami": "a8d3ed23afe0",
-      "taylor": "14056845a726",
-      "tim": "f07a3da5ced3"
+      "austin": "ddb3af2c27b3",
+      "kylie": "4e4d792431fc",
+      "tami": "6611eb672ccc",
+      "taylor": "ce14f99b4e7d",
+      "tim": "139433803e5c"
     },
     "rundowns": {
       "0": "635052266722",
-      "1": "6be6b07f8e5d"
+      "1": "fc5db027af49"
     },
     "events": [
+      "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
       "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
       "shot-in-the-dark-jenna-doore-shot-in-the-dark-1"
@@ -756,6 +761,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-09-30T18:13:02.218Z",
+  "lastCheckedAt": "2026-10-01T09:55:28.441Z",
   "quietChecks": 0
 }
