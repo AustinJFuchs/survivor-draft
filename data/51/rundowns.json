@@ -129,5 +129,49 @@
     "generatedAt": "2026-10-01T23:59:53.792Z",
     "model": "claude-opus-5",
     "sourceHash": "cfe08c2f730a"
+  },
+  "3": {
+    "key": "3",
+    "episode": 3,
+    "eliminations": 4,
+    "headline": "Two torches snuffed, two drafts still perfect at sixteen",
+    "overview": "Episode 3 took two names off the board and both of them belonged to Tami — and yet she's still sitting at 15 points, third place, because depth is a beautiful thing. Up top it's a dead heat: Austin at 16 and Tim at 16, both 4 of 4 still in, both with 98 on the table, both wearing Untouchable and Wire-to-Wire. Taylor sits at 13 with 3 of 4 alive, Kylie at 12 with 3 of 4 alive, and 76 on the table apiece. The gap is real, family — but 39 days is a long time.",
+    "lines": [
+      {
+        "drafterId": "austin",
+        "text": "Cattle, Cameras, Counselors is 4 of 4 standing with a 3.75 GPA and Eric stolen at #16 — that's a draft board with zero regrets."
+      },
+      {
+        "drafterId": "tim",
+        "text": "The All-Toka Farmstand is matching Austin point for point at 16, Thien An was highway robbery at #17, and Devin just strolled home from Savu with an extra vote in his pocket."
+      },
+      {
+        "drafterId": "tami",
+        "text": "Tami lost Rob to a quit AND Patt to six votes in one night, dropped Rob's score, and STILL banked 15 points — the Advanced Degree Alliance has a fifth body and Sharonda at #21 is the steal of the draft."
+      },
+      {
+        "drafterId": "taylor",
+        "text": "The Savu Crisis Squad rode Savu's reward-and-immunity sweep to +6, but that Ana reach at #12 is still showing up as a 1 on the scoresheet."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "The Chaos HR Department holds the First Blood badge nobody wants, Aaliyah at #3 is sitting on 0 points, and Kilby survived five votes by a single ballot."
+      }
+    ],
+    "awards": [
+      {
+        "label": "Draft of the week",
+        "drafterId": "tim",
+        "text": "Four Toka names, four of them still breathing, +8 on the night, and 98 points still on the table — Tim built a farmstand that doesn't close."
+      },
+      {
+        "label": "Ouch of the week",
+        "drafterId": "tami",
+        "text": "Losing two castaways in one episode — one to a quit, one to a six-vote Tribal — is the kind of night that leaves a mark, even at 15 points."
+      }
+    ],
+    "generatedAt": "2026-10-08T10:14:16.144Z",
+    "model": "claude-opus-5",
+    "sourceHash": "30e181b11ea4"
   }
 }

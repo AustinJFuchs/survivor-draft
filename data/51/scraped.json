@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-07T19:08:48.502Z",
+  "syncedAt": "2026-10-08T10:12:29.352Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -26,14 +26,14 @@
         "Savu"
       ]
     },
-    "brady-booker": {
+    "patt-cannaday": {
       "original": "Toka",
       "current": "Toka",
       "history": [
         "Toka"
       ]
     },
-    "patt-cannaday": {
+    "brady-booker": {
       "original": "Toka",
       "current": "Toka",
       "history": [
@@ -79,6 +79,7 @@
       "original": "Savu",
       "current": "Savu",
       "history": [
+        "Savu",
         "Savu"
       ]
     },
@@ -91,9 +92,10 @@
     },
     "danny-kilby": {
       "original": "Toka",
-      "current": "Toka",
+      "current": "Dina",
       "history": [
-        "Toka"
+        "Toka",
+        "Dina"
       ]
     },
     "carter-krull": {
@@ -112,16 +114,18 @@
     },
     "jelly-loblack": {
       "original": "Toka",
-      "current": "Toka",
+      "current": "Savu",
       "history": [
-        "Toka"
+        "Toka",
+        "Savu"
       ]
     },
     "eric-macksoud": {
       "original": "Savu",
-      "current": "Savu",
+      "current": "Dina",
       "history": [
-        "Savu"
+        "Savu",
+        "Dina"
       ]
     },
     "maggie-nestor": {
@@ -174,7 +178,9 @@
       "number": 3,
       "title": "What I'm Smellin' is Stinky",
       "airDate": "2026-10-07",
-      "aired": true
+      "aired": true,
+      "rewardWinners": "Savu",
+      "immunityWinners": "Savu"
     }
   ],
   "eliminations": [
@@ -195,6 +201,24 @@
       "placementText": "2nd voted out",
       "juryMember": false,
       "episode": 2
+    },
+    {
+      "order": 3,
+      "contestantSlug": "rob-antonson",
+      "day": 6,
+      "kind": "quit",
+      "placementText": "Quit",
+      "juryMember": false,
+      "episode": 3
+    },
+    {
+      "order": 4,
+      "contestantSlug": "patt-cannaday",
+      "day": 7,
+      "kind": "voted-out",
+      "placementText": "3rd voted out",
+      "juryMember": false,
+      "episode": 3
     }
   ],
   "milestones": {
@@ -202,7 +226,9 @@
     "finalists": [],
     "placements": {
       "aaliyah-puglia": 21,
-      "ana-sani": 20
+      "ana-sani": 20,
+      "rob-antonson": 19,
+      "patt-cannaday": 18
     }
   },
   "extras": {
@@ -246,7 +272,7 @@
       ]
     },
     "alexis-levine": {
-      "challengeWins": 1,
+      "challengeWins": 2,
       "birthdate": "1992-03-27",
       "threeWords": [
         "outgoing",
@@ -492,7 +518,7 @@
       ]
     },
     "cristian-chavez": {
-      "challengeWins": 1,
+      "challengeWins": 2,
       "birthdate": "2000-05-10",
       "threeWords": [
         "fun",
@@ -554,6 +580,7 @@
     },
     "danny-kilby": {
       "challengeWins": 2,
+      "votesAgainst": 5,
       "birthdate": "1996-02-11",
       "threeWords": [
         "wacky",
@@ -671,7 +698,7 @@
       ]
     },
     "eric-macksoud": {
-      "challengeWins": 1,
+      "challengeWins": 2,
       "votesAgainst": 4,
       "birthdate": "1991-10-05",
       "threeWords": [
@@ -851,7 +878,7 @@
       ]
     },
     "kristin-flickinger": {
-      "challengeWins": 1,
+      "challengeWins": 2,
       "birthdate": "1977-04-05",
       "threeWords": [
         "determined",
@@ -961,7 +988,7 @@
       ]
     },
     "linnea-capobianco": {
-      "challengeWins": 1,
+      "challengeWins": 2,
       "birthdate": "2000-04-29",
       "threeWords": [
         "rational",
@@ -1130,7 +1157,7 @@
       ]
     },
     "ori-jean-charles": {
-      "challengeWins": 1,
+      "challengeWins": 2,
       "birthdate": "1998-12-31",
       "threeWords": [
         "consistent",
@@ -1189,6 +1216,8 @@
     },
     "patt-cannaday": {
       "challengeWins": 2,
+      "votesAgainst": 6,
+      "daysLasted": "7/26",
       "birthdate": "1992-12-08",
       "threeWords": [
         "goofy",
@@ -1243,6 +1272,8 @@
     },
     "rob-antonson": {
       "challengeWins": 1,
+      "votesAgainst": 0,
+      "daysLasted": "6/26",
       "birthdate": "1985-11-18",
       "threeWords": [
         "competitive",
@@ -1304,7 +1335,7 @@
       ]
     },
     "sharonda-cox": {
-      "challengeWins": 1,
+      "challengeWins": 2,
       "birthdate": "1991-09-30",
       "threeWords": [
         "charismatic",
@@ -1439,6 +1470,20 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ],
     "brady-booker": [
@@ -1456,6 +1501,21 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "danny-kilby"
       }
     ],
     "carter-krull": [
@@ -1473,6 +1533,21 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "eric-macksoud"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "patt-cannaday"
       }
     ],
     "cristian-chavez": [
@@ -1490,6 +1565,20 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ],
     "devin-way": [
@@ -1507,6 +1596,21 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "danny-kilby"
       }
     ],
     "eric-macksoud": [
@@ -1529,6 +1633,20 @@
         ],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ],
     "jelly-loblack": [
@@ -1546,6 +1664,21 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "danny-kilby"
       }
     ],
     "jenna-doore": [
@@ -1566,6 +1699,21 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "patt-cannaday"
       }
     ],
     "danny-kilby": [
@@ -1583,6 +1731,27 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 5,
+        "voters": [
+          "brady-booker",
+          "devin-way",
+          "jelly-loblack",
+          "mike-pinsky",
+          "patt-cannaday"
+        ],
+        "tally": "6–5",
+        "votedFor": "patt-cannaday"
       }
     ],
     "kristin-flickinger": [
@@ -1600,6 +1769,20 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ],
     "lewis-kelly": [
@@ -1617,6 +1800,21 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "patt-cannaday"
       }
     ],
     "linnea-capobianco": [
@@ -1634,6 +1832,20 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ],
     "maggie-nestor": [
@@ -1651,6 +1863,21 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "patt-cannaday"
       }
     ],
     "mike-pinsky": [
@@ -1668,6 +1895,21 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "danny-kilby"
       }
     ],
     "ori-jean-charles": [
@@ -1685,40 +1927,20 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "eric-macksoud"
-      }
-    ],
-    "patt-cannaday": [
-      {
-        "episode": 1,
-        "day": 3,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "6–2",
-        "votedFor": "aaliyah-puglia"
       },
       {
-        "episode": 2,
-        "day": 5,
+        "episode": 3,
+        "day": 6,
         "votesAgainst": 0,
         "voters": [],
-        "tally": "6–4"
-      }
-    ],
-    "rob-antonson": [
-      {
-        "episode": 1,
-        "day": 3,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "6–2"
+        "tally": "Quit"
       },
       {
-        "episode": 2,
-        "day": 5,
+        "episode": 3,
+        "day": 7,
         "votesAgainst": 0,
         "voters": [],
-        "tally": "6–4",
-        "votedFor": "eric-macksoud"
+        "tally": "6–5"
       }
     ],
     "sharonda-cox": [
@@ -1736,6 +1958,20 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ],
     "thien-an-nguyen": [
@@ -1753,6 +1989,92 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5",
+        "votedFor": "patt-cannaday"
+      }
+    ],
+    "patt-cannaday": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2",
+        "votedFor": "aaliyah-puglia"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 6,
+        "voters": [
+          "carter-krull",
+          "jenna-doore",
+          "danny-kilby",
+          "lewis-kelly",
+          "maggie-nestor",
+          "thien-an-nguyen"
+        ],
+        "tally": "6–5",
+        "votedFor": "danny-kilby"
+      }
+    ],
+    "rob-antonson": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "eric-macksoud"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit",
+        "votedForText": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ],
     "ana-sani": [
@@ -1777,6 +2099,20 @@
         ],
         "tally": "6–4",
         "votedFor": "eric-macksoud"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ],
     "aaliyah-puglia": [
@@ -1789,8 +2125,8 @@
           "danny-kilby",
           "maggie-nestor",
           "mike-pinsky",
-          "patt-cannaday",
-          "thien-an-nguyen"
+          "thien-an-nguyen",
+          "patt-cannaday"
         ],
         "tally": "6–2",
         "votedForText": "None"
@@ -1801,6 +2137,20 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
       }
     ]
   },

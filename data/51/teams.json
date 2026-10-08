@@ -1,112 +1,112 @@
 {
   "austin": {
     "drafterId": "austin",
-    "nickname": "Livestock and Lovebirds",
-    "summary": "Austin, you drafted 5th in the snake and somehow walked off with the whole board. Four for four still in the game, 8 counted points, tied for rank 1 of 5 — that is how you start a season. Episode 1 handed you +4, your Draft GPA sits at 3.75, and Eric at pick #16 looks like the steal of the entire draft. 106 points still on the table. Keep that buff on.",
+    "nickname": "Cattle, Cameras, Counselors",
+    "summary": "Austin, you picked fifth — last in line — and somehow you're sitting at rank 1 (tied) of 5 with 16 counted points and all 4 of 4 still breathing. Untouchable. Wire-to-Wire. A 3.75 draft GPA and Eric at pick #16 that frankly looks like larceny. Four boots so far, none of them yours. Ep 3 handed you +8, Ep 1 the modest +4. From the back of the snake to the front of the pack.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Nobody's carrying it alone — Linnea, Jenna, Carter, and Eric each have 2 pts and each rank 1 of 21, a perfectly balanced four-headed roster."
+        "text": "Nobody's carrying anybody — Linnea, Jenna, Carter and Eric are each sitting on 4 pts and each ranked 1 of 21, a perfectly balanced four-way engine."
       },
       {
         "label": "Cause for concern",
-        "text": "Three of your four — Linnea, Carter, and Eric — are stacked on Savu, so one rough tribal swing hits most of your team at once, and Linnea's B grade is the softest mark on the sheet."
+        "text": "Linnea's B grade is the only mark on an otherwise A-lined report card, and with 98 points still on the table and the leader at 16, nothing you've banked is safe yet."
       },
       {
         "label": "Watch for",
-        "text": "Jenna, your lone Toka and your only A-grade outsider from the Savu bloc, is the wedding photographer who's been planning this since she was seven — watch what that strategist does away from the pack."
+        "text": "Your four are spread across Savu, Toka and Dina — watch how that tribe-by-tribe exposure plays out as the numbers shrink."
       }
     ],
-    "generatedAt": "2026-10-01T23:49:27.518Z",
+    "generatedAt": "2026-10-08T10:14:03.870Z",
     "model": "claude-opus-5",
-    "sourceHash": "8651d4bdd29c"
+    "sourceHash": "ba15321d50b1"
   },
   "kylie": {
     "drafterId": "kylie",
-    "nickname": "Chaos, Counsel & Code",
-    "summary": "Kylie, you took the first punch of this season — Aaliyah went home Episode 1, you wear the First Blood badge, and you sit 5 of 5 with 6 counted points. But look closer: the leader has 8. Eight! And 82 points are still on the table with 3 of 4 of your people still breathing. A 3 draft GPA, three castaways tied at rank 1 of 21 — this is not a hole, it's a running start.",
+    "nickname": "The Chaos HR Department",
+    "summary": "Kylie, you took the first punch of this season — Aaliyah went home in Episode 1, and that First Blood badge is yours forever. But look closer: three of your four are still out there, all three tied at the top with 4 pts apiece, and your draft GPA of 3 says you knew what you were doing. You sit at 12 counted points, rank 5 of 5, with the leader at 16 and 76 points still on the table. That's nothing.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Cristian, Alexis and Kilby are locked together at 2 pts apiece, each ranked 1 of 21 with an A grade — three engines, no passengers."
+        "text": "Kilby at pick #18 is the steal of your draft — a game designer who's wanted this his whole life, sitting at 4 pts and rank 1 of 21, right alongside Cristian and Alexis."
       },
       {
         "label": "Cause for concern",
-        "text": "Aaliyah at pick #3 was the reach that stung, going out 1st in Ep 1 with 0 pts and a rank of 21 of 21."
+        "text": "Aaliyah at pick #3 was the reach that stung — first voted out, 0 pts, rank 21 of 21, grade F — and it's why Episode 1 was your worst week at +3."
       },
       {
         "label": "Watch for",
-        "text": "Kilby at pick #18 is your steal of the draft — a Survivor superfan on Toka thinking three steps ahead, and he's the storyline I'd keep my eyes glued to."
+        "text": "Your Savu pair, Cristian and Alexis, are sharing a tribe — keep an eye on whether that double-dip keeps delivering weeks like Ep 3's +6."
       }
     ],
-    "generatedAt": "2026-10-01T23:49:02.259Z",
+    "generatedAt": "2026-10-08T10:13:37.566Z",
     "model": "claude-opus-5",
-    "sourceHash": "f943a2fe3b68"
+    "sourceHash": "eb0224b319b7"
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "Gavels and Gate Agents",
-    "summary": "Tami, you had the first pick and you built a full house — all 5 of 5 still in the game, and you're sitting at rank 1 (tied) of 5 with 8 counted points. Prosecutor, baseball exec, gate agent, OB/GYN resident, sociology professor: every chair at this table is occupied. Ep 1 gave you your best week at +4, your draft GPA sits at 3.6, and your roster already owns the Idol Whisperer badge. That's a start.",
+    "nickname": "The Advanced Degree Alliance",
+    "summary": "Tami, you had the first pick in the snake and you built a brainy, credentialed crew — and right now you sit rank 3 of 5 with 15 counted points, one point behind a leader at 16. Raw 17, with Rob dropped under the best-4 rule. Three of your five are still in the game, Ep 3 gave you your best week at +7, and 76 points are still on the table. You are absolutely in this.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Sharonda, your leftover at pick #21, is the steal of the draft and sits at 2 pts, rank 1 of 21 — right alongside every other name you drafted."
+        "text": "Sharonda — your leftover at pick #21 — is tied at the top with 4 pts and ranks 1 of 21, an A grade and the steal that earned you the Leftover Luck badge."
       },
       {
         "label": "Cause for concern",
-        "text": "Angelica \"Jelly\" was your very first pick and she's the only C on an otherwise straight-A board, so that top slot hasn't separated itself yet."
+        "text": "Patt was the reach at pick #10, 3 pts and rank 18 of 21 with an F grade before going 3rd voted out in Ep 3, and Rob's 2 pts are the score getting dropped."
       },
       {
         "label": "Watch for",
-        "text": "With 2 idols and advantages already found across your roster and 106 points still on the table, watch whether your Toka trio keeps feeding that Idol Whisperer badge."
+        "text": "Jelly and Mike both sitting on 4 pts alongside Sharonda, plus that Idol Whisperer badge with 2 idols and advantages already found across your roster."
       }
     ],
-    "generatedAt": "2026-10-01T23:48:43.615Z",
+    "generatedAt": "2026-10-08T10:13:17.683Z",
     "model": "claude-opus-5",
-    "sourceHash": "9a10af6d8f0c"
+    "sourceHash": "5113045b8b0d"
   },
   "taylor": {
     "drafterId": "taylor",
-    "nickname": "Crisis, Hustle & Headlocks",
-    "summary": "Taylor, you drafted second and built a roster with grit: a crisis manager, a hustler, a pro wrestler. You sit rank 4 of 5 with 7 counted points, but the leader has 8 and there are 82 points still on the table — that's nothing, that's a stumble, not a fall. Your draft GPA is 2.5 with few eliminations so far, best week Ep 1 (+4), worst week Ep 2 (+3). You're in contention.",
+    "nickname": "The Savu Crisis Squad",
+    "summary": "Taylor, you drafted second and you built a team that refuses to quit. You sit rank 4 of 5 with 13 counted points, and the leader has just 16 — that's nothing out here. Three of your four are still in the game, your draft GPA is 2.5 this early, and Episode 3 handed you your best week at +6 after Episode 2 scraped by at +3. With 76 points still on the table, you are absolutely in contention.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Brady Booker, your pick #19 steal, sits at 2 pts and ranks 1 of 21 — and so do Kristin and Ori, giving you three players tied at the very top."
+        "text": "Kristin, Ori and Brady are each sitting on 4 pts and rank 1 of 21 — three A-and-C-graded engines pulling in the same direction."
       },
       {
         "label": "Cause for concern",
-        "text": "Ana Sani was the reach at pick #12 and went out 2nd in Ep 2, finishing with 1 pts and rank 20 of 21, leaving you 3 of 4 still in the game."
+        "text": "Ana at pick #12 is the reach that stung, going out 2nd on Day 5 with 1 pts, rank 20 of 21 and a grade F."
       },
       {
         "label": "Watch for",
-        "text": "Whether your Savu pair of Kristin and Ori can hold that top ranking while Brady works Toka from the other side of the map."
+        "text": "Brady at pick #19 is your steal of the draft over on Toka — watch whether that lone wolf keeps pace with your Savu pair."
       }
     ],
-    "generatedAt": "2026-10-01T23:48:52.519Z",
+    "generatedAt": "2026-10-08T10:13:26.651Z",
     "model": "claude-opus-5",
-    "sourceHash": "a0dee34e87dc"
+    "sourceHash": "86ee2eaf29f7"
   },
   "tim": {
     "drafterId": "tim",
-    "nickname": "The Toka Farmhands",
-    "summary": "Tim, you drafted fourth and walked out with the entire Toka tribe — Lewis, Maggie, Devin and Thien An, all four still in the game, each sitting at 2 pts, rank 1 of 21. That's 8 counted points, a share of first place, and a 3.75 draft GPA this early. Episode 1 handed you a tidy +4. With 106 points still on the table, you are right in the thick of this thing.",
+    "nickname": "The All-Toka Farmstand",
+    "summary": "Tim, you drafted 4th and somehow walked away with an entire tribe. Four castaways, all Toka, all still in the game at 4 of 4, all sitting at 4 pts and rank 1 of 21 — that's a clean sweep of a roster. You're tied at rank 1 of 5 with 16 counted points, you've gone Wire-to-Wire, and you're Untouchable: 4 boots, none of them yours. Ep 3 gave you +8. The tribe is yours. For now.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Nobody's carrying it alone — Lewis, Maggie, Devin and Thien An are all tied at 2 pts and all ranked 1 of 21, with Thien An at pick #17 the clear steal of your draft."
+        "text": "Nobody's carrying anybody — Lewis, Maggie, Devin and Thien An are each at 4 pts and each ranked 1 of 21, with Thien An at pick #17 standing as the steal of your draft."
       },
       {
         "label": "Cause for concern",
-        "text": "Every name on your roster wears the same buff — Toka, top to bottom — so your fortunes rise and fall with one tribe, and Lewis is the lone B grade in an otherwise straight-A group."
+        "text": "Every name you own wears the same buff, so Toka's fortunes are your fortunes, and Lewis Kelly's B grade is the softest mark on an otherwise A-heavy board."
       },
       {
         "label": "Watch for",
-        "text": "Watch whether the Toka chemistry holds — a cheeky farmer, a joyful farmer, a playful actor and an empathetic med student — because 106 points are still on the table and the leader has 8."
+        "text": "There are 98 points still on the table and the leader has 16 — watch whether that Untouchable badge survives the first time Toka has to make a hard call."
       }
     ],
-    "generatedAt": "2026-10-01T23:49:14.692Z",
+    "generatedAt": "2026-10-08T10:13:48.550Z",
     "model": "claude-opus-5",
-    "sourceHash": "3d871302d6ce"
+    "sourceHash": "167013c8ea3f"
   }
 }

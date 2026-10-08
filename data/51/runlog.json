@@ -527,6 +527,33 @@
         "Ep 3 added — \"What I'm Smellin' is Stinky\", airing 2026-10-07"
       ],
       "episode": 2
+    },
+    {
+      "id": "2026-10-08T10:14:17.028Z",
+      "at": "2026-10-08T10:14:17.028Z",
+      "source": "pipeline",
+      "summary": "Ep 3 aired and Rob was quit and Patt was voted out. Austin and Tim are tied at the top and Tami slid to 3rd.",
+      "details": [
+        "Rob quit in Ep 3",
+        "Patt voted out in Ep 3",
+        "Tribe Dina: Kilby, Eric",
+        "Vote records: 42 → 84",
+        "Commentary written for Ep 3",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 3)",
+        "3 game events added",
+        "2 game events removed",
+        "Austin: 1st → 1st, 8 → 16 pts",
+        "Tim: 1st → 1st, 8 → 16 pts",
+        "Tami: 1st → 3rd, 8 → 15 pts",
+        "Taylor: 4th → 4th, 7 → 13 pts",
+        "Kylie: 5th → 5th, 6 → 12 pts"
+      ],
+      "episode": 3
     }
   ],
   "state": {
@@ -572,6 +599,18 @@
         "kind": "voted-out",
         "episode": 2,
         "jury": false
+      },
+      {
+        "slug": "rob-antonson",
+        "kind": "quit",
+        "episode": 3,
+        "jury": false
+      },
+      {
+        "slug": "patt-cannaday",
+        "kind": "voted-out",
+        "episode": 3,
+        "jury": false
       }
     ],
     "merged": [],
@@ -580,8 +619,8 @@
       "aaliyah-puglia": "Toka",
       "ana-sani": "Savu",
       "rob-antonson": "Savu",
-      "brady-booker": "Toka",
       "patt-cannaday": "Toka",
+      "brady-booker": "Toka",
       "linnea-capobianco": "Savu",
       "cristian-chavez": "Savu",
       "sharonda-cox": "Savu",
@@ -589,17 +628,17 @@
       "kristin-flickinger": "Savu",
       "ori-jean-charles": "Savu",
       "lewis-kelly": "Toka",
-      "danny-kilby": "Toka",
+      "danny-kilby": "Dina",
       "carter-krull": "Savu",
       "alexis-levine": "Savu",
-      "jelly-loblack": "Toka",
-      "eric-macksoud": "Savu",
+      "jelly-loblack": "Savu",
+      "eric-macksoud": "Dina",
       "maggie-nestor": "Toka",
       "thien-an-nguyen": "Toka",
       "mike-pinsky": "Toka",
       "devin-way": "Toka"
     },
-    "votes": 42,
+    "votes": 84,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -765,7 +804,8 @@
     },
     "commentary": {
       "1": "d00fa9aff259",
-      "2": "3d924c72a3de"
+      "2": "3d924c72a3de",
+      "3": "3675019c11da"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
@@ -791,21 +831,23 @@
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "31a8d7bf3ee5",
-      "kylie": "f2500d37cf03",
-      "tami": "775cca6c83d5",
-      "taylor": "f4e955e8918b",
-      "tim": "c62ae46dcab5"
+      "austin": "7c5acac734e6",
+      "kylie": "6186285fbc84",
+      "tami": "cdcdf4bd3acf",
+      "taylor": "5af9923e24ac",
+      "tim": "4f6148323615"
     },
     "rundowns": {
       "0": "635052266722",
       "1": "21af1fe535fd",
-      "2": "de019f81dc88"
+      "2": "de019f81dc88",
+      "3": "773937996680"
     },
     "events": [
-      "claude-aaliyah-puglia-1-2",
       "claude-lewis-kelly-1-0",
-      "claude-lewis-kelly-1-1",
+      "claude-rob-antonson-x-1",
+      "extra-vote-brady-booker-advantage-found-3",
+      "extra-vote-devin-way-advantage-found-3",
       "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
       "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
@@ -821,27 +863,27 @@
     "standings": [
       {
         "drafterId": "austin",
-        "total": 8,
-        "rank": 1
-      },
-      {
-        "drafterId": "tami",
-        "total": 8,
+        "total": 16,
         "rank": 1
       },
       {
         "drafterId": "tim",
-        "total": 8,
+        "total": 16,
         "rank": 1
       },
       {
+        "drafterId": "tami",
+        "total": 15,
+        "rank": 3
+      },
+      {
         "drafterId": "taylor",
-        "total": 7,
+        "total": 13,
         "rank": 4
       },
       {
         "drafterId": "kylie",
-        "total": 6,
+        "total": 12,
         "rank": 5
       }
     ],
@@ -876,6 +918,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-07T19:08:55.810Z",
-  "quietChecks": 5
+  "lastCheckedAt": "2026-10-08T10:14:17.028Z",
+  "quietChecks": 0
 }
