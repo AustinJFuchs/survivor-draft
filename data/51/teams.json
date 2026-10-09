@@ -45,25 +45,25 @@
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "The Advanced Degree Alliance",
-    "summary": "Tami, you had the first pick in the snake and you built a brainy, credentialed crew — and right now you sit rank 3 of 5 with 15 counted points, one point behind a leader at 16. Raw 17, with Rob dropped under the best-4 rule. Three of your five are still in the game, Ep 3 gave you your best week at +7, and 76 points are still on the table. You are absolutely in this.",
+    "nickname": "Stethoscopes and Scouting Reports",
+    "summary": "Tami, you had the first pick and you came out swinging — and here's the twist: your best story is the leftover. Sharonda at #21 ranks 1, and she's doing exactly what a steal is supposed to do. You sit rank 3 of 5 with 15 counted points, raw 17, Rob dropped, and 3 of 5 still breathing. The leader has 16. That's nothing. With 76 points still on the table, you are very much in this game.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Sharonda — your leftover at pick #21 — is tied at the top with 4 pts and ranks 1 of 21, an A grade and the steal that earned you the Leftover Luck badge."
+        "text": "Sharonda, Mike and Jelly are all sitting at 4 pts and rank 1 of 21 — three co-leaders hauling your scoreboard, with Mike and Sharonda both pulling grade A marks."
       },
       {
         "label": "Cause for concern",
-        "text": "Patt was the reach at pick #10, 3 pts and rank 18 of 21 with an F grade before going 3rd voted out in Ep 3, and Rob's 2 pts are the score getting dropped."
+        "text": "Patt at pick #10 is your reach — ranks 18 of 21, grade F, 3rd voted out in Ep 3 — and Rob's quit that same episode left him dropped at 2 pts under the best-4 rule."
       },
       {
         "label": "Watch for",
-        "text": "Jelly and Mike both sitting on 4 pts alongside Sharonda, plus that Idol Whisperer badge with 2 idols and advantages already found across your roster."
+        "text": "You've already got Torch Collector with 2 torches snuffed and Idol Whisperer with 2 found, so watch whether your remaining three keep digging up advantages and build on that Ep 3 high of +7."
       }
     ],
-    "generatedAt": "2026-10-08T10:13:17.683Z",
+    "generatedAt": "2026-10-09T18:35:56.060Z",
     "model": "claude-opus-5",
-    "sourceHash": "5113045b8b0d"
+    "sourceHash": "c93831c7854a"
   },
   "taylor": {
     "drafterId": "taylor",

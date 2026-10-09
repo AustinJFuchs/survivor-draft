@@ -554,6 +554,23 @@
         "Kylie: 5th → 5th, 6 → 12 pts"
       ],
       "episode": 3
+    },
+    {
+      "id": "2026-10-09T18:36:13.848Z",
+      "at": "2026-10-09T18:36:13.848Z",
+      "source": "pipeline",
+      "summary": "1 episode joined the schedule and 3 castaways' wiki entries got touched up. Claude rewrote 3 castaway profiles and 1 team summary refreshed.",
+      "details": [
+        "Ep 4 added — \"That's the Magic of Survivor\", airing 2026-10-14",
+        "Trivia updated for Carter",
+        "Bio updated for Patt",
+        "Bio updated for Rob",
+        "Profile rewritten for Carter",
+        "Profile rewritten for Patt",
+        "Profile rewritten for Rob",
+        "Team summary refreshed for Tami"
+      ],
+      "episode": 3
     }
   ],
   "state": {
@@ -585,6 +602,10 @@
       "3": {
         "title": "What I'm Smellin' is Stinky",
         "airDate": "2026-10-07"
+      },
+      "4": {
+        "title": "That's the Magic of Survivor",
+        "airDate": "2026-10-14"
       }
     },
     "eliminations": [
@@ -676,7 +697,7 @@
       "carter-krull": {
         "birthdate": "2001-05-20",
         "threeWords": "4a7fee5fc36a",
-        "trivia": "b045fccf1658",
+        "trivia": "d69a7fe644b1",
         "qa": "f412ab424734",
         "photos": 1,
         "alliances": 0
@@ -773,6 +794,7 @@
       },
       "patt-cannaday": {
         "birthdate": "1992-12-08",
+        "bio": "e007cb60fbd2",
         "threeWords": "c3d0e847dd2a",
         "qa": "0a91d61ae07d",
         "photos": 1,
@@ -780,6 +802,7 @@
       },
       "rob-antonson": {
         "birthdate": "1985-11-18",
+        "bio": "daed38b63391",
         "threeWords": "1369729110d5",
         "trivia": "225801c2c878",
         "qa": "01cb4121954b",
@@ -812,7 +835,7 @@
       "alexis-levine": "5b271985fee4",
       "ana-sani": "7071af320a76",
       "brady-booker": "8384f92bf0c9",
-      "carter-krull": "7120d94e4a09",
+      "carter-krull": "8736fc5c7d28",
       "cristian-chavez": "03fc58a2200c",
       "danny-kilby": "e616d7bf38a4",
       "devin-way": "e67fa11228e2",
@@ -825,15 +848,15 @@
       "maggie-nestor": "2348f7300cc1",
       "mike-pinsky": "3a8c4f0e1adc",
       "ori-jean-charles": "6f8ef76fb168",
-      "patt-cannaday": "6971e2f6cc0a",
-      "rob-antonson": "f261cedea00a",
+      "patt-cannaday": "12373317247b",
+      "rob-antonson": "c9bf47971f13",
       "sharonda-cox": "08f4c6be3a63",
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
       "austin": "7c5acac734e6",
       "kylie": "6186285fbc84",
-      "tami": "cdcdf4bd3acf",
+      "tami": "b357e5be1ae7",
       "taylor": "5af9923e24ac",
       "tim": "4f6148323615"
     },
@@ -918,6 +941,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-08T19:04:55.418Z",
-  "quietChecks": 3
+  "lastCheckedAt": "2026-10-09T18:36:13.848Z",
+  "quietChecks": 0
 }
