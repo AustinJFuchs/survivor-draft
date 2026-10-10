@@ -134,44 +134,44 @@
     "key": "3",
     "episode": 3,
     "eliminations": 4,
-    "headline": "Two torches snuffed, two drafts still perfect at sixteen",
-    "overview": "Episode 3 took two names off the board and both of them belonged to Tami — and yet she's still sitting at 15 points, third place, because depth is a beautiful thing. Up top it's a dead heat: Austin at 16 and Tim at 16, both 4 of 4 still in, both with 98 on the table, both wearing Untouchable and Wire-to-Wire. Taylor sits at 13 with 3 of 4 alive, Kylie at 12 with 3 of 4 alive, and 76 on the table apiece. The gap is real, family — but 39 days is a long time.",
+    "headline": "Two torches snuffed, one roster untouched, and a tie at sixteen",
+    "overview": "Episode 3 was a bloodbath for exactly one person, and a quiet coronation for two others. Austin and Tim are deadlocked at 16 points, both +8, both 4 of 4 still breathing, both wearing Untouchable and Wire-to-Wire badges and staring at 98 on the table. Tami lost Patt AND Rob in a single hour, yet her leftover pick #21 cushion keeps her at 15 — third, bruised, still dangerous. Taylor sits at 13 with 3 of 4 alive and Savu immunity in her pocket. Kylie trails at 12, still paying for Aaliyah at #3. Five drafts, four points separating them. That's a game.",
     "lines": [
       {
-        "drafterId": "austin",
-        "text": "Cattle, Cameras, Counselors is 4 of 4 standing with a 3.75 GPA and Eric stolen at #16 — that's a draft board with zero regrets."
-      },
-      {
-        "drafterId": "tim",
-        "text": "The All-Toka Farmstand is matching Austin point for point at 16, Thien An was highway robbery at #17, and Devin just strolled home from Savu with an extra vote in his pocket."
-      },
-      {
         "drafterId": "tami",
-        "text": "Tami lost Rob to a quit AND Patt to six votes in one night, dropped Rob's score, and STILL banked 15 points — the Advanced Degree Alliance has a fifth body and Sharonda at #21 is the steal of the draft."
+        "text": "Tami, you lost Patt and Rob in one episode and somehow still sit at 15 points — that's what the #21 leftover Sharonda steal and a fifth castaway buy you, but a 2.4 draft GPA and only 76 on the table says the cushion is thinning."
       },
       {
         "drafterId": "taylor",
-        "text": "The Savu Crisis Squad rode Savu's reward-and-immunity sweep to +6, but that Ana reach at #12 is still showing up as a 1 on the scoresheet."
+        "text": "Taylor, the Savu Crisis Squad lived up to the name — Kristin, Ori and Brady all cruised behind tribe immunity, and that #19 Brady steal is carrying water that the Ana reach at #12 spilled."
       },
       {
         "drafterId": "kylie",
-        "text": "The Chaos HR Department holds the First Blood badge nobody wants, Aaliyah at #3 is sitting on 0 points, and Kilby survived five votes by a single ballot."
+        "text": "Kylie, the Chaos HR Department is 12 points and three of four alive, but Kilby taking five votes at Tribal was a heartbeat you felt in your chest — and Aaliyah at #3 for zero is still the number on the whiteboard."
+      },
+      {
+        "drafterId": "tim",
+        "text": "Tim, the All-Toka Farmstand is a beautiful, terrifying thing — Lewis, Maggie, Devin and Thien An all at 4 points, 3.75 GPA, Untouchable and Wire-to-Wire, and Devin walked off Savu with an extra vote just to show off."
+      },
+      {
+        "drafterId": "austin",
+        "text": "Austin, Livestock and Lenses is perfect — 16 points, 4 of 4, 98 on the table, and Eric at #16 is the single best value on this board even if Carter missed his boat ride home."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
-        "drafterId": "tim",
-        "text": "Four Toka names, four of them still breathing, +8 on the night, and 98 points still on the table — Tim built a farmstand that doesn't close."
+        "drafterId": "austin",
+        "text": "Four castaways, four survivals, +8, and a #16 pick grading out as the number one steal — Livestock and Lenses is spotless."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "tami",
-        "text": "Losing two castaways in one episode — one to a quit, one to a six-vote Tribal — is the kind of night that leaves a mark, even at 15 points."
+        "text": "A quit and a sixth vote in the same episode — Rob and Patt both gone, and Rob's 2 points become the dropped score."
       }
     ],
-    "generatedAt": "2026-10-08T10:14:16.144Z",
+    "generatedAt": "2026-10-10T17:33:06.604Z",
     "model": "claude-opus-5",
-    "sourceHash": "30e181b11ea4"
+    "sourceHash": "df0a1d9f205c"
   }
 }

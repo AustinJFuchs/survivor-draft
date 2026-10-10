@@ -571,6 +571,17 @@
         "Team summary refreshed for Tami"
       ],
       "episode": 3
+    },
+    {
+      "id": "2026-10-10T17:33:07.500Z",
+      "at": "2026-10-10T17:33:07.500Z",
+      "source": "pipeline",
+      "summary": "1 team summary refreshed and the State of the Draft was rewritten.",
+      "details": [
+        "Team summary refreshed for Austin",
+        "State of the Draft rewritten (Ep 3)"
+      ],
+      "episode": 3
     }
   ],
   "state": {
@@ -854,7 +865,7 @@
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "7c5acac734e6",
+      "austin": "9e7b930063e2",
       "kylie": "6186285fbc84",
       "tami": "b357e5be1ae7",
       "taylor": "5af9923e24ac",
@@ -864,7 +875,7 @@
       "0": "635052266722",
       "1": "21af1fe535fd",
       "2": "de019f81dc88",
-      "3": "773937996680"
+      "3": "582a223c9c73"
     },
     "events": [
       "claude-lewis-kelly-1-0",
@@ -941,6 +952,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-09T18:36:13.848Z",
+  "lastCheckedAt": "2026-10-10T17:33:07.500Z",
   "quietChecks": 0
 }
