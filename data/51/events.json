@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-10T17:32:36.987Z",
+  "syncedAt": "2026-10-11T17:51:23.047Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -11,7 +11,7 @@
       },
       "extracted": "table",
       "episode": 1,
-      "detail": "Found at Savu camp",
+      "detail": "Found at Savu camp · * Rob passed the idol to Carter before he quit the game.",
       "contestantSlug": "rob-antonson"
     },
     {
@@ -25,7 +25,7 @@
       "extracted": "table",
       "episode": 1,
       "outcome": "fail",
-      "detail": "no n Not Safe",
+      "detail": "Not Safe",
       "contestantSlug": "aaliyah-puglia"
     },
     {
@@ -39,7 +39,7 @@
       "extracted": "table",
       "episode": 1,
       "outcome": "fail",
-      "detail": "no n Not Safe",
+      "detail": "Not Safe",
       "contestantSlug": "jenna-doore"
     },
     {
