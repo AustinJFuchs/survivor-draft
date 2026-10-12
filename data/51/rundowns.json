@@ -134,44 +134,44 @@
     "key": "3",
     "episode": 3,
     "eliminations": 4,
-    "headline": "Two torches snuffed, one roster untouched, and a tie at sixteen",
-    "overview": "Episode 3 was a bloodbath for exactly one person, and a quiet coronation for two others. Austin and Tim are deadlocked at 16 points, both +8, both 4 of 4 still breathing, both wearing Untouchable and Wire-to-Wire badges and staring at 98 on the table. Tami lost Patt AND Rob in a single hour, yet her leftover pick #21 cushion keeps her at 15 — third, bruised, still dangerous. Taylor sits at 13 with 3 of 4 alive and Savu immunity in her pocket. Kylie trails at 12, still paying for Aaliyah at #3. Five drafts, four points separating them. That's a game.",
+    "headline": "Two torches snuffed, two perfect drafts tied at the top",
+    "overview": "Episode 3 took two names off the board and both belonged to the same drafter. Austin and Tim sit tied at 16 points, both +8 this week, both 4 of 4 still standing, both carrying Untouchable and Wire-to-Wire badges and 98 on the table — Austin spread across Savu, Toka and Dina, Tim planted entirely in the Toka farmstand. Tami still holds third at 15 points on the strength of five picks and a dropped score, but she lost Rob and Patt in one night. Taylor sits at 13 with three of four, Kylie at 12 with three of four. The gap is real, and it is widening.",
     "lines": [
       {
         "drafterId": "tami",
-        "text": "Tami, you lost Patt and Rob in one episode and somehow still sit at 15 points — that's what the #21 leftover Sharonda steal and a fifth castaway buy you, but a 2.4 draft GPA and only 76 on the table says the cushion is thinning."
+        "text": "Fifteen points and third place is a nice place to stand, Tami, but you buried two castaways in one episode and only 76 remains on the table — thank goodness for that leftover pick #21, because Sharonda is a steal from rank 21 to rank 1."
       },
       {
         "drafterId": "taylor",
-        "text": "Taylor, the Savu Crisis Squad lived up to the name — Kristin, Ori and Brady all cruised behind tribe immunity, and that #19 Brady steal is carrying water that the Ana reach at #12 spilled."
+        "text": "Taylor, the Savu Crisis Squad took reward and immunity this week, Kristin and Ori are cruising, and Brady at #19 is a genuine steal — but Ana at #12 was a reach to rank 20 and she's been gone since episode 2."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie, the Chaos HR Department is 12 points and three of four alive, but Kilby taking five votes at Tribal was a heartbeat you felt in your chest — and Aaliyah at #3 for zero is still the number on the whiteboard."
+        "text": "Kylie, Kilby took five votes at Tribal and walked away still breathing, which is the second-best thing to happen to the Chaos HR Department after Kilby's #18-to-rank-1 steal — the worst was Aaliyah, a #3 pick at rank 21, sitting on zero points."
       },
       {
         "drafterId": "tim",
-        "text": "Tim, the All-Toka Farmstand is a beautiful, terrifying thing — Lewis, Maggie, Devin and Thien An all at 4 points, 3.75 GPA, Untouchable and Wire-to-Wire, and Devin walked off Savu with an extra vote just to show off."
+        "text": "Tim, the All-Toka Farmstand is four-for-four with 98 on the table and a 3.75 GPA, Devin came home from the mutiny twist with an extra vote in his pocket, and Thien An at #17 is the steal of the board."
       },
       {
         "drafterId": "austin",
-        "text": "Austin, Livestock and Lenses is perfect — 16 points, 4 of 4, 98 on the table, and Eric at #16 is the single best value on this board even if Carter missed his boat ride home."
+        "text": "Austin, Livestock and Lenses is untouchable — four of four, +8 this episode, Eric lifted from #16 to rank 1 — and even Carter missing his ride back to Savu couldn't dent that 3.75 GPA."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
-        "drafterId": "austin",
-        "text": "Four castaways, four survivals, +8, and a #16 pick grading out as the number one steal — Livestock and Lenses is spotless."
+        "drafterId": "tim",
+        "text": "Four castaways, one tribe, zero losses, and a +8 night that keeps 98 points on the table — the Toka farmstand is fully stocked."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "tami",
-        "text": "A quit and a sixth vote in the same episode — Rob and Patt both gone, and Rob's 2 points become the dropped score."
+        "text": "Rob quit and Patt took six votes in the same hour — two torches in one episode is the kind of night that shows up on a draft GPA of 2.4."
       }
     ],
-    "generatedAt": "2026-10-10T17:33:06.604Z",
+    "generatedAt": "2026-10-12T21:29:37.814Z",
     "model": "claude-opus-5",
-    "sourceHash": "df0a1d9f205c"
+    "sourceHash": "6c55dcf933f8"
   }
 }

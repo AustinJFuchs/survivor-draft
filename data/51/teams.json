@@ -45,25 +45,25 @@
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "Stethoscopes and Scouting Reports",
-    "summary": "Tami, you had the first pick and you came out swinging — and here's the twist: your best story is the leftover. Sharonda at #21 ranks 1, and she's doing exactly what a steal is supposed to do. You sit rank 3 of 5 with 15 counted points, raw 17, Rob dropped, and 3 of 5 still breathing. The leader has 16. That's nothing. With 76 points still on the table, you are very much in this game.",
+    "nickname": "Scrubs and Spreadsheets",
+    "summary": "Tami, you picked first and you've built a brainy little army — professor, executive, resident — and they're holding the line. You sit rank 3 of 5 with 15 counted points, raw 17, with Rob the dropped score, and 3 of 5 still breathing out there. Ep 1 opened quiet at +4, Ep 3 answered with +7. Draft GPA 2.4 is early, the Torch Collector and Idol Whisperer badges are loud, and the leader has 16. That's nothing.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Sharonda, Mike and Jelly are all sitting at 4 pts and rank 1 of 21 — three co-leaders hauling your scoreboard, with Mike and Sharonda both pulling grade A marks."
+        "text": "You've got a three-way tie at the top — Jelly, Mike, and Sharonda all sitting at 4 pts and all ranked 1 of 21, with Sharonda the steal of the draft at pick #21 earning an A as the leftover."
       },
       {
         "label": "Cause for concern",
-        "text": "Patt at pick #10 is your reach — ranks 18 of 21, grade F, 3rd voted out in Ep 3 — and Rob's quit that same episode left him dropped at 2 pts under the best-4 rule."
+        "text": "Patt was your reach at pick #10, finished rank 18 of 21 with 3 pts and a grade of F after going third out in Ep 3, and Rob's quit left him at 2 pts and dropped under the best-4 rule."
       },
       {
         "label": "Watch for",
-        "text": "You've already got Torch Collector with 2 torches snuffed and Idol Whisperer with 2 found, so watch whether your remaining three keep digging up advantages and build on that Ep 3 high of +7."
+        "text": "There are 76 points still on the table and the leader is only at 16 — with 2 idols and advantages already found across your roster, Tami, watch whether that Idol Whisperer badge turns into real scoring."
       }
     ],
-    "generatedAt": "2026-10-09T18:35:56.060Z",
+    "generatedAt": "2026-10-12T21:29:23.855Z",
     "model": "claude-opus-5",
-    "sourceHash": "c93831c7854a"
+    "sourceHash": "9dff121350c0"
   },
   "taylor": {
     "drafterId": "taylor",
