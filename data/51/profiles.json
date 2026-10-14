@@ -222,16 +222,16 @@
   },
   "patt-cannaday": {
     "slug": "patt-cannaday",
-    "summary": "Patt is a federal prosecutor from Tampa who treats Survivor like the next big adventure on a long list that already includes boxing, skydiving, and a six-hour hike through the Brazilian dark. She's goofy, loyal, and intense, and she wants allies who'll take risks and get into shenanigans with her.",
+    "summary": "Patt is a federal prosecutor from Tampa who calls herself goofy, loyal, and intense, and goes looking for adventures she's not quite ready for. She wants allies who'll take risks and join the shenanigans, and she credits her parents, who never once raised their voices, as her biggest inspiration.",
     "bullets": [
-      "Started on Toka in a comfortable five-person majority, then blindsided 6–5 in 18th",
-      "Credits her homeschooling-genius mom and 26-year Air Force officer dad as inspirations",
-      "Proudest accomplishment is her marriage; admires Amanda Kimmel and Rachel LaMont",
-      "Pet peeves: white sunglasses, flip flops with jeans, uninformed people giving orders"
+      "Survived a three-hour Brazilian hike that turned into six hours in the dark",
+      "Boxes, skydives, hikes, and hosts dramatic reading nights",
+      "Most proud of her marriage to her husband",
+      "Pet peeve: the least informed person telling everyone else what to do"
     ],
-    "generatedAt": "2026-10-09T18:35:40.764Z",
+    "generatedAt": "2026-10-14T17:41:39.100Z",
     "model": "claude-opus-5",
-    "sourceHash": "ce4fb22fe4c8"
+    "sourceHash": "790e2ea639e3"
   },
   "rob-antonson": {
     "slug": "rob-antonson",

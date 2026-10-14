@@ -595,6 +595,30 @@
         "State of the Draft rewritten (Ep 3)"
       ],
       "episode": 3
+    },
+    {
+      "id": "2026-10-14T17:42:19.717Z",
+      "at": "2026-10-14T17:42:19.717Z",
+      "source": "pipeline",
+      "summary": "3 episodes joined the schedule, 7 castaways switched tribes, and 1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile and 3 team summaries refreshed.",
+      "details": [
+        "Ep 5 added — \"Not Here to Get a Pedicure\", airing 2026-10-21",
+        "Ep 6 added — \"I Love Crying\", airing 2026-10-28",
+        "Ep 7 added — \"You Broke My Heart Like I was a Girl at the Prom\", airing 2026-11-04",
+        "Linnea moved to Dina",
+        "Cristian moved to Dina",
+        "Jenna moved to Dina",
+        "Kristin moved to Toka",
+        "Lewis moved to Dina",
+        "Carter moved to Toka",
+        "Devin moved to Savu",
+        "Bio updated for Patt",
+        "Profile rewritten for Patt",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor"
+      ],
+      "episode": 3
     }
   ],
   "state": {
@@ -630,6 +654,18 @@
       "4": {
         "title": "That's the Magic of Survivor",
         "airDate": "2026-10-14"
+      },
+      "5": {
+        "title": "Not Here to Get a Pedicure",
+        "airDate": "2026-10-21"
+      },
+      "6": {
+        "title": "I Love Crying",
+        "airDate": "2026-10-28"
+      },
+      "7": {
+        "title": "You Broke My Heart Like I was a Girl at the Prom",
+        "airDate": "2026-11-04"
       }
     },
     "eliminations": [
@@ -666,22 +702,22 @@
       "rob-antonson": "Savu",
       "patt-cannaday": "Toka",
       "brady-booker": "Toka",
-      "linnea-capobianco": "Savu",
-      "cristian-chavez": "Savu",
+      "linnea-capobianco": "Dina",
+      "cristian-chavez": "Dina",
       "sharonda-cox": "Savu",
-      "jenna-doore": "Toka",
-      "kristin-flickinger": "Savu",
+      "jenna-doore": "Dina",
+      "kristin-flickinger": "Toka",
       "ori-jean-charles": "Savu",
-      "lewis-kelly": "Toka",
+      "lewis-kelly": "Dina",
       "danny-kilby": "Dina",
-      "carter-krull": "Savu",
+      "carter-krull": "Toka",
       "alexis-levine": "Savu",
       "jelly-loblack": "Savu",
       "eric-macksoud": "Dina",
       "maggie-nestor": "Toka",
       "thien-an-nguyen": "Toka",
       "mike-pinsky": "Toka",
-      "devin-way": "Toka"
+      "devin-way": "Savu"
     },
     "votes": 84,
     "extras": {
@@ -818,7 +854,7 @@
       },
       "patt-cannaday": {
         "birthdate": "1992-12-08",
-        "bio": "e007cb60fbd2",
+        "bio": "fd4d9421f4c5",
         "threeWords": "c3d0e847dd2a",
         "qa": "0a91d61ae07d",
         "photos": 1,
@@ -872,16 +908,16 @@
       "maggie-nestor": "2348f7300cc1",
       "mike-pinsky": "3a8c4f0e1adc",
       "ori-jean-charles": "6f8ef76fb168",
-      "patt-cannaday": "12373317247b",
+      "patt-cannaday": "9950aaa8b8d7",
       "rob-antonson": "c4f687c69af9",
       "sharonda-cox": "08f4c6be3a63",
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
       "austin": "9e7b930063e2",
-      "kylie": "6186285fbc84",
-      "tami": "9518b61462f4",
-      "taylor": "5af9923e24ac",
+      "kylie": "968280690848",
+      "tami": "dc20bd993cfc",
+      "taylor": "b977a5454f6e",
       "tim": "4f6148323615"
     },
     "rundowns": {
@@ -965,6 +1001,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-13T19:39:56.771Z",
-  "quietChecks": 1
+  "lastCheckedAt": "2026-10-14T17:42:19.717Z",
+  "quietChecks": 0
 }

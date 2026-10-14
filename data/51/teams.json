@@ -23,69 +23,69 @@
   },
   "kylie": {
     "drafterId": "kylie",
-    "nickname": "The Chaos HR Department",
-    "summary": "Kylie, you took the first punch of this season — Aaliyah went home in Episode 1, and that First Blood badge is yours forever. But look closer: three of your four are still out there, all three tied at the top with 4 pts apiece, and your draft GPA of 3 says you knew what you were doing. You sit at 12 counted points, rank 5 of 5, with the leader at 16 and 76 points still on the table. That's nothing.",
+    "nickname": "Chaotic Good Counsel",
+    "summary": "Kylie, you took the first punch of this season — Aaliyah went home in Episode 1, you earned the First Blood badge, and Episode 1 was your worst week at +3. But look at the scoreboard: rank 5 of 5 with 12 counted points, and the leader has 16. That's nothing. Three of your four are still out there, Episode 3 gave you +6, and 76 points are still sitting on the table. You're in contention.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Kilby at pick #18 is the steal of your draft — a game designer who's wanted this his whole life, sitting at 4 pts and rank 1 of 21, right alongside Cristian and Alexis."
+        "text": "Cristian, Alexis and Kilby are all sitting at 4 pts and all three rank 1 of 21 — a perfectly balanced engine room of A grades."
       },
       {
         "label": "Cause for concern",
-        "text": "Aaliyah at pick #3 was the reach that stung — first voted out, 0 pts, rank 21 of 21, grade F — and it's why Episode 1 was your worst week at +3."
+        "text": "Aaliyah at pick #3 was your reach, the first boot of the season, and she finished with 0 pts and a grade of F at rank 21 of 21."
       },
       {
         "label": "Watch for",
-        "text": "Your Savu pair, Cristian and Alexis, are sharing a tribe — keep an eye on whether that double-dip keeps delivering weeks like Ep 3's +6."
+        "text": "Kilby at pick #18 is your steal of the draft — the game designer thinking three steps ahead, with Cristian on Dina alongside him."
       }
     ],
-    "generatedAt": "2026-10-08T10:13:37.566Z",
+    "generatedAt": "2026-10-14T17:42:05.229Z",
     "model": "claude-opus-5",
-    "sourceHash": "eb0224b319b7"
+    "sourceHash": "6c51bc04dd4c"
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "Scrubs and Spreadsheets",
-    "summary": "Tami, you picked first and you've built a brainy little army — professor, executive, resident — and they're holding the line. You sit rank 3 of 5 with 15 counted points, raw 17, with Rob the dropped score, and 3 of 5 still breathing out there. Ep 1 opened quiet at +4, Ep 3 answered with +7. Draft GPA 2.4 is early, the Torch Collector and Idol Whisperer badges are loud, and the leader has 16. That's nothing.",
+    "nickname": "Scrubs and Subpoenas",
+    "summary": "Tami, you had the first pick in the snake and you built a team that refuses to go quietly. You sit rank 3 of 5 with 15 counted points — raw 17, with Rob dropped under the best-4 rule — and the leader has just 16. Three of your five are still in the game, your Ep 3 was a +7, and 76 points are still on the table. You are absolutely in this.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "You've got a three-way tie at the top — Jelly, Mike, and Sharonda all sitting at 4 pts and all ranked 1 of 21, with Sharonda the steal of the draft at pick #21 earning an A as the leftover."
+        "text": "Sharonda Cox was your leftover at pick #21 and she's sitting at 4 pts, rank 1 of 21, grade A — the steal of this entire draft, with Jelly and Mike right there beside her at 4 pts apiece."
       },
       {
         "label": "Cause for concern",
-        "text": "Patt was your reach at pick #10, finished rank 18 of 21 with 3 pts and a grade of F after going third out in Ep 3, and Rob's quit left him at 2 pts and dropped under the best-4 rule."
+        "text": "Patt at pick #10 was the reach — 3 pts, rank 18 of 21, grade F, third voted out in Ep 3 — and Rob's quit the same episode is why your Torch Collector badge has 2 torches snuffed and your draft GPA reads 2.4."
       },
       {
         "label": "Watch for",
-        "text": "There are 76 points still on the table and the leader is only at 16 — with 2 idols and advantages already found across your roster, Tami, watch whether that Idol Whisperer badge turns into real scoring."
+        "text": "You hold the Idol Whisperer badge with 2 idols and advantages found across the roster — keep your eye on whether Jelly, Mike, and Sharonda turn that hardware into points while the leader's 16 stays within reach."
       }
     ],
-    "generatedAt": "2026-10-12T21:29:23.855Z",
+    "generatedAt": "2026-10-14T17:41:50.105Z",
     "model": "claude-opus-5",
-    "sourceHash": "9dff121350c0"
+    "sourceHash": "a91e69136aee"
   },
   "taylor": {
     "drafterId": "taylor",
-    "nickname": "The Savu Crisis Squad",
-    "summary": "Taylor, you drafted second and you built a team that refuses to quit. You sit rank 4 of 5 with 13 counted points, and the leader has just 16 — that's nothing out here. Three of your four are still in the game, your draft GPA is 2.5 this early, and Episode 3 handed you your best week at +6 after Episode 2 scraped by at +3. With 76 points still on the table, you are absolutely in contention.",
+    "nickname": "Crisis Management & Chaos",
+    "summary": "Taylor, you drafted second and built something sturdy: a crisis manager, a personal trainer, and a pro wrestler, three of your four still in the game. You sit rank 4 of 5 with 13 counted points, the leader has 16, and there are 76 points still on the table — that is nothing. Ep 3 gave you a +6, your best week yet. The draft GPA reads 2.5, early days. Stay close, Taylor. This thing is wide open.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Kristin, Ori and Brady are each sitting on 4 pts and rank 1 of 21 — three A-and-C-graded engines pulling in the same direction."
+        "text": "Kristin, Ori, and Brady are each sitting on 4 pts and ranked 1 of 21 — a three-headed engine hauling your team up the leaderboard."
       },
       {
         "label": "Cause for concern",
-        "text": "Ana at pick #12 is the reach that stung, going out 2nd on Day 5 with 1 pts, rank 20 of 21 and a grade F."
+        "text": "Ana Sani, your pick #12, went out 2nd in Ep 2 with 1 pts and a rank of 20 of 21 — an F on the board and a reach you'd like back."
       },
       {
         "label": "Watch for",
-        "text": "Brady at pick #19 is your steal of the draft over on Toka — watch whether that lone wolf keeps pace with your Savu pair."
+        "text": "Brady at pick #19 is the steal of this draft, and whether that late-round wrestler keeps delivering is the storyline that decides your season."
       }
     ],
-    "generatedAt": "2026-10-08T10:13:26.651Z",
+    "generatedAt": "2026-10-14T17:41:56.221Z",
     "model": "claude-opus-5",
-    "sourceHash": "86ee2eaf29f7"
+    "sourceHash": "7e00181897e0"
   },
   "tim": {
     "drafterId": "tim",

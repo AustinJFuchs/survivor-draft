@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-13T19:39:50.650Z",
+  "syncedAt": "2026-10-14T17:41:29.613Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -37,42 +37,48 @@
       "original": "Toka",
       "current": "Toka",
       "history": [
+        "Toka",
         "Toka"
       ]
     },
     "linnea-capobianco": {
       "original": "Savu",
-      "current": "Savu",
+      "current": "Dina",
       "history": [
-        "Savu"
+        "Savu",
+        "Dina"
       ]
     },
     "cristian-chavez": {
       "original": "Savu",
-      "current": "Savu",
+      "current": "Dina",
       "history": [
-        "Savu"
+        "Savu",
+        "Dina"
       ]
     },
     "sharonda-cox": {
       "original": "Savu",
       "current": "Savu",
       "history": [
+        "Savu",
         "Savu"
       ]
     },
     "jenna-doore": {
       "original": "Toka",
-      "current": "Toka",
+      "current": "Dina",
       "history": [
-        "Toka"
+        "Toka",
+        "Dina"
       ]
     },
     "kristin-flickinger": {
       "original": "Savu",
-      "current": "Savu",
+      "current": "Toka",
       "history": [
-        "Savu"
+        "Savu",
+        "Toka"
       ]
     },
     "ori-jean-charles": {
@@ -85,9 +91,10 @@
     },
     "lewis-kelly": {
       "original": "Toka",
-      "current": "Toka",
+      "current": "Dina",
       "history": [
-        "Toka"
+        "Toka",
+        "Dina"
       ]
     },
     "danny-kilby": {
@@ -100,15 +107,17 @@
     },
     "carter-krull": {
       "original": "Savu",
-      "current": "Savu",
+      "current": "Toka",
       "history": [
-        "Savu"
+        "Savu",
+        "Toka"
       ]
     },
     "alexis-levine": {
       "original": "Savu",
       "current": "Savu",
       "history": [
+        "Savu",
         "Savu"
       ]
     },
@@ -140,6 +149,7 @@
       "original": "Toka",
       "current": "Toka",
       "history": [
+        "Toka",
         "Toka"
       ]
     },
@@ -153,9 +163,10 @@
     },
     "devin-way": {
       "original": "Toka",
-      "current": "Toka",
+      "current": "Savu",
       "history": [
-        "Toka"
+        "Toka",
+        "Savu"
       ]
     }
   },
@@ -190,6 +201,24 @@
       "number": 4,
       "title": "That's the Magic of Survivor",
       "airDate": "2026-10-14",
+      "aired": true
+    },
+    {
+      "number": 5,
+      "title": "Not Here to Get a Pedicure",
+      "airDate": "2026-10-21",
+      "aired": false
+    },
+    {
+      "number": 6,
+      "title": "I Love Crying",
+      "airDate": "2026-10-28",
+      "aired": false
+    },
+    {
+      "number": 7,
+      "title": "You Broke My Heart Like I was a Girl at the Prom",
+      "airDate": "2026-11-04",
       "aired": false
     }
   ],
@@ -1230,7 +1259,7 @@
       "votesAgainst": 6,
       "daysLasted": "7/26",
       "birthdate": "1992-12-08",
-      "bio": "Patt began the game on the Toka tribe, where her outgoing personality and approachable nature quickly secured a comfortable position within a five-person majority alliance. After Toka lost the Immunity Challenge, Patt and her allies attempted to eliminate Danny Kilby, unaware that Thien An Nguyen had rallied the opposing faction to overturn their majority. With the swing-votes siding against her, Patt's previously secure position collapsed, resulting in her elimination in a 6–5 blindside, finishing in 18th place.",
+      "bio": "Patt began the game on the Toka tribe, where her outgoing personality and approachable nature quickly secured a comfortable position within a five-person alliance. After Toka lost the Immunity Challenge, Patt and her allies attempted to eliminate Danny Kilby, unaware that Thien An Nguyen had rallied the opposing faction to overturn their majority. With the swing-votes siding against her, Patt's previously secure position collapsed, resulting in her elimination in a 6–5 blindside, finishing in 18th place.",
       "threeWords": [
         "goofy",
         "loyal",
