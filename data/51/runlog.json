@@ -619,6 +619,33 @@
         "Team summary refreshed for Taylor"
       ],
       "episode": 3
+    },
+    {
+      "id": "2026-10-15T08:07:05.667Z",
+      "at": "2026-10-15T08:07:05.667Z",
+      "source": "pipeline",
+      "summary": "Ep 4 aired and Jenna was voted out. Tim took the lead and Austin slid to 2nd.",
+      "details": [
+        "Jenna voted out in Ep 4",
+        "Jenna moved to Savu",
+        "Sharonda moved to Dina",
+        "Vote records: 84 → 105",
+        "Commentary written for Ep 4",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 4)",
+        "1 game event added",
+        "1 game event removed",
+        "Tim: 1st → 1st, 16 → 20 pts",
+        "Austin: 1st → 2nd, 16 → 19 pts",
+        "Tami: 3rd → 3rd, 15 → 18 pts",
+        "Taylor: 4th → 4th, 13 → 16 pts",
+        "Kylie: 5th → 5th, 12 → 15 pts"
+      ],
+      "episode": 4
     }
   ],
   "state": {
@@ -692,6 +719,12 @@
         "kind": "voted-out",
         "episode": 3,
         "jury": false
+      },
+      {
+        "slug": "jenna-doore",
+        "kind": "voted-out",
+        "episode": 4,
+        "jury": false
       }
     ],
     "merged": [],
@@ -701,11 +734,11 @@
       "ana-sani": "Savu",
       "rob-antonson": "Savu",
       "patt-cannaday": "Toka",
+      "jenna-doore": "Savu",
       "brady-booker": "Toka",
       "linnea-capobianco": "Dina",
       "cristian-chavez": "Dina",
-      "sharonda-cox": "Savu",
-      "jenna-doore": "Dina",
+      "sharonda-cox": "Dina",
       "kristin-flickinger": "Toka",
       "ori-jean-charles": "Savu",
       "lewis-kelly": "Dina",
@@ -719,7 +752,7 @@
       "mike-pinsky": "Toka",
       "devin-way": "Savu"
     },
-    "votes": 84,
+    "votes": 105,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -888,7 +921,8 @@
     "commentary": {
       "1": "d00fa9aff259",
       "2": "3d924c72a3de",
-      "3": "3675019c11da"
+      "3": "3675019c11da",
+      "4": "11aa381fc0ef"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
@@ -914,20 +948,21 @@
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "9e7b930063e2",
-      "kylie": "968280690848",
-      "tami": "dc20bd993cfc",
-      "taylor": "b977a5454f6e",
-      "tim": "4f6148323615"
+      "austin": "49dd14a9464b",
+      "kylie": "770c205e214d",
+      "tami": "c8635e27d7f1",
+      "taylor": "98de6c7b2878",
+      "tim": "3fcc5b399367"
     },
     "rundowns": {
       "0": "635052266722",
       "1": "21af1fe535fd",
       "2": "de019f81dc88",
-      "3": "5e79af15601e"
+      "3": "5e79af15601e",
+      "4": "7142f83fa8cb"
     },
     "events": [
-      "claude-lewis-kelly-1-0",
+      "claude-lewis-kelly-x-0",
       "claude-rob-antonson-x-1",
       "extra-vote-brady-booker-advantage-found-3",
       "extra-vote-devin-way-advantage-found-3",
@@ -945,28 +980,28 @@
     "warnings": [],
     "standings": [
       {
-        "drafterId": "austin",
-        "total": 16,
+        "drafterId": "tim",
+        "total": 20,
         "rank": 1
       },
       {
-        "drafterId": "tim",
-        "total": 16,
-        "rank": 1
+        "drafterId": "austin",
+        "total": 19,
+        "rank": 2
       },
       {
         "drafterId": "tami",
-        "total": 15,
+        "total": 18,
         "rank": 3
       },
       {
         "drafterId": "taylor",
-        "total": 13,
+        "total": 16,
         "rank": 4
       },
       {
         "drafterId": "kylie",
-        "total": 12,
+        "total": 15,
         "rank": 5
       }
     ],
@@ -1001,6 +1036,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-14T17:42:19.717Z",
+  "lastCheckedAt": "2026-10-15T08:07:05.667Z",
   "quietChecks": 0
 }
