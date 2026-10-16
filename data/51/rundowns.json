@@ -178,44 +178,44 @@
     "key": "4",
     "episode": 4,
     "eliminations": 5,
-    "headline": "Four for four: the barnyard still owns the board",
-    "overview": "Day 9 and the gap is real but not wide. Tim sits at 20 points, the only drafter with 4 of 4 still breathing, 94 on the table and a 3.75 draft GPA — Untouchable and Wire-to-Wire, both badges earned. Austin is 19 and climbing right behind him, but he's the only one who felt the snuff this week when Jenna went out. Tami's 18 comes with five names and a dropped score in Rob, Taylor's 16 rides on a Brady steal from #19, and Kylie's 15 anchors the pack after losing Aaliyah first. Three points separate second from fourth. This thing is wide open.",
+    "headline": "Four for four: one draft still perfectly untouched",
+    "overview": "Day 9 and the gap is real. Tim sits at 20 points with a plus-4 night, 4 of 4 still in, a 3.75 draft GPA and 94 on the table — Untouchable and Wire-to-Wire, and he's earned both. Austin is right behind at 19, but he paid for it, losing Jenna Doore and dropping to 3 of 4. Tami's 18 came with the luxury of a fifth body and Rob already dropped. Taylor's 16 and Kylie's 15 each posted plus-3 on three survivors, with Ana and Aaliyah long gone. Everyone's alive; only one is flawless.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Lewis, Maggie, Devin and Thien An all at 5 points apiece — a perfect board, a 3.75 GPA, and Thien An stolen at #17 to boot."
+        "text": "Lewis, Maggie, Devin and Thien An all at 5 points apiece — a 3.75 GPA, 94 still on the table, and Thien An stolen at #17 for the number one castaway in the draft."
       },
       {
         "drafterId": "austin",
-        "text": "One point back at 19 with Linnea, Carter and Eric still standing, but Jenna at #6 turned into a reach that ranks 17th and it stings tonight."
+        "text": "Nineteen points and 73 on the table is a fine place to stand, but Jenna Doore was a #6 pick who finished rank 17, and tonight the parchment ended that story at 4 points."
       },
       {
         "drafterId": "tami",
-        "text": "Five names, only the best four count, and Rob's quit already dropped off the scorecard — leftover pick #21 Sharonda is somehow her number one grab."
+        "text": "Five picks, only the best four counting, Rob's quit already dropped — and leftover #21 Sharonda is sitting at rank 1, which is why they call it Leftover Luck."
       },
       {
         "drafterId": "taylor",
-        "text": "Kristin, Ori and Brady are all pulling 5 points, but Ana at #12 sitting on 1 point is the anchor keeping Taylor at 16."
+        "text": "Kristin, Ori and Brady are all banking 5s, but reaching for Ana at #12 when she finished rank 20 left Taylor 1 point and a hole to climb out of."
       },
       {
         "drafterId": "kylie",
-        "text": "First Blood is a badge, not a bonus — Aaliyah's zero has Kylie chasing from 15 with Cristian, Alexis and Kilby carrying the Chaotic Three."
+        "text": "First Blood is a badge nobody wants — Aaliyah went out first for 0 points — yet Cristian, Alexis and Kilby keep posting 5s and a 3 draft GPA says the chaos is working."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Nobody else has 4 of 4 still in the game and 94 points on the table — Tim is wire-to-wire for a reason."
+        "text": "Plus-4 on a night everyone else got plus-3, because when you've got 4 of 4 still burning torches, you collect on every single one."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "austin",
-        "text": "Jenna talked her way out of the first vote and bought nine days, but Austin's #6 pick finished at 4 points and a rank of 17."
+        "text": "Jenna talked her way off the block on Day 1 and bought nine days, but Austin's #6 pick cashed out at 4 points."
       }
     ],
-    "generatedAt": "2026-10-15T08:07:05.080Z",
+    "generatedAt": "2026-10-16T17:06:02.372Z",
     "model": "claude-opus-5",
-    "sourceHash": "5f86895a12de"
+    "sourceHash": "2e07d890e5f9"
   }
 }
