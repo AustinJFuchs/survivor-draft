@@ -178,44 +178,44 @@
     "key": "4",
     "episode": 4,
     "eliminations": 5,
-    "headline": "Four for four: one draft still perfectly untouched",
-    "overview": "Day 9 and the gap is real. Tim sits at 20 points with a plus-4 night, 4 of 4 still in, a 3.75 draft GPA and 94 on the table — Untouchable and Wire-to-Wire, and he's earned both. Austin is right behind at 19, but he paid for it, losing Jenna Doore and dropping to 3 of 4. Tami's 18 came with the luxury of a fifth body and Rob already dropped. Taylor's 16 and Kylie's 15 each posted plus-3 on three survivors, with Ana and Aaliyah long gone. Everyone's alive; only one is flawless.",
+    "headline": "The ocean taketh Jenna, and one draft stays untouchable",
+    "overview": "Day 9 separated the comfortable from the crossing-their-fingers. Tim sits alone at 20 points with all 4 of 4 still in, a 3.75 draft GPA and a monstrous 94 on the table — Untouchable and Wire-to-Wire, and he's earned both. Austin is right behind at 19, but he's the only one who lost a torch this week, dropping to 3 of 4 with 73 left. Tami's 18 comes off five picks and a dropped Rob score. Taylor's 16 and Kylie's 15 both sit at 3 of 4 with 73 on the table — alive, but chasing.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Lewis, Maggie, Devin and Thien An all at 5 points apiece — a 3.75 GPA, 94 still on the table, and Thien An stolen at #17 for the number one castaway in the draft."
+        "text": "Four for four, 94 on the table, and Thien An stolen at #17 to become the number one castaway in this draft — Tim isn't playing the same game as the rest of you."
       },
       {
         "drafterId": "austin",
-        "text": "Nineteen points and 73 on the table is a fine place to stand, but Jenna Doore was a #6 pick who finished rank 17, and tonight the parchment ended that story at 4 points."
+        "text": "One point back at 19, but Austin's the only one who heard his name read at Tribal — Jenna was a #6 pick who finished rank 17, and that reach finally came due."
       },
       {
         "drafterId": "tami",
-        "text": "Five picks, only the best four counting, Rob's quit already dropped — and leftover #21 Sharonda is sitting at rank 1, which is why they call it Leftover Luck."
+        "text": "Tami's got Torch Collector, Leftover Luck AND Idol Whisperer hanging around her neck, and leftover pick #21 Sharonda turning into her number one steal is the kind of luck you cannot draft for."
       },
       {
         "drafterId": "taylor",
-        "text": "Kristin, Ori and Brady are all banking 5s, but reaching for Ana at #12 when she finished rank 20 left Taylor 1 point and a hole to climb out of."
+        "text": "Brady at #19 climbing to rank 1 is beautiful work, but Ana at #12 landing at rank 20 is why Taylor's sitting at 16 instead of the top."
       },
       {
         "drafterId": "kylie",
-        "text": "First Blood is a badge nobody wants — Aaliyah went out first for 0 points — yet Cristian, Alexis and Kilby keep posting 5s and a 3 draft GPA says the chaos is working."
+        "text": "First Blood is a badge nobody wants — Aaliyah went out first at 0 points — yet Kylie's 3 remaining are all alive with a 3.0 GPA and 73 still out there."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Plus-4 on a night everyone else got plus-3, because when you've got 4 of 4 still burning torches, you collect on every single one."
+        "text": "Plus-4 this episode, every single castaway still holding a torch, and a 3.75 draft GPA — that's a wire-to-wire masterclass."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "austin",
-        "text": "Jenna talked her way off the block on Day 1 and bought nine days, but Austin's #6 pick cashed out at 4 points."
+        "text": "Jenna talked her way off the block on Day 1 and bought nine days, but she finished with 4 points and knocked Austin down to 3 of 4."
       }
     ],
-    "generatedAt": "2026-10-16T17:06:02.372Z",
+    "generatedAt": "2026-10-21T17:48:10.850Z",
     "model": "claude-opus-5",
-    "sourceHash": "2e07d890e5f9"
+    "sourceHash": "113f452dd1e8"
   }
 }

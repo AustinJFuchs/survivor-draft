@@ -222,16 +222,16 @@
   },
   "patt-cannaday": {
     "slug": "patt-cannaday",
-    "summary": "Patt is a federal prosecutor from Tampa who calls herself goofy, loyal, and intense, and goes looking for adventures she's not quite ready for. She wants allies who'll take risks and join the shenanigans, and she credits her parents, who never once raised their voices, as her biggest inspiration.",
+    "summary": "Patt is a federal prosecutor from Tampa who describes herself as goofy, loyal, and intense. She chases adventures she's unprepared for and gets through them on friendship, which is also how she approaches Survivor. She wants allies willing to take risks and join in a little shenanigans.",
     "bullets": [
-      "Survived a three-hour Brazilian hike that turned into six hours in the dark",
       "Boxes, skydives, hikes, and hosts dramatic reading nights",
-      "Most proud of her marriage to her husband",
+      "Got lost on a six-hour Brazil hike that ended as a climb in the dark",
+      "Proudest of her marriage; credits her homeschooling mom and Air Force dad",
       "Pet peeve: the least informed person telling everyone else what to do"
     ],
-    "generatedAt": "2026-10-14T17:41:39.100Z",
+    "generatedAt": "2026-10-21T17:47:43.355Z",
     "model": "claude-opus-5",
-    "sourceHash": "790e2ea639e3"
+    "sourceHash": "7c4ab8873073"
   },
   "rob-antonson": {
     "slug": "rob-antonson",

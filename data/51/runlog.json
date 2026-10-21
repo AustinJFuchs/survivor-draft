@@ -659,6 +659,19 @@
         "State of the Draft rewritten (Ep 4)"
       ],
       "episode": 4
+    },
+    {
+      "id": "2026-10-21T17:48:11.587Z",
+      "at": "2026-10-21T17:48:11.587Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile, 1 team summary refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Bio updated for Patt",
+        "Profile rewritten for Patt",
+        "Team summary refreshed for Tami",
+        "State of the Draft rewritten (Ep 4)"
+      ],
+      "episode": 4
     }
   ],
   "state": {
@@ -900,7 +913,7 @@
       },
       "patt-cannaday": {
         "birthdate": "1992-12-08",
-        "bio": "fd4d9421f4c5",
+        "bio": "1b01c6db6232",
         "threeWords": "c3d0e847dd2a",
         "qa": "0a91d61ae07d",
         "photos": 1,
@@ -955,7 +968,7 @@
       "maggie-nestor": "3c2e4e287225",
       "mike-pinsky": "3a8c4f0e1adc",
       "ori-jean-charles": "6f8ef76fb168",
-      "patt-cannaday": "9950aaa8b8d7",
+      "patt-cannaday": "e0ca8ff270e1",
       "rob-antonson": "c4f687c69af9",
       "sharonda-cox": "08f4c6be3a63",
       "thien-an-nguyen": "91ee5e518c09"
@@ -963,7 +976,7 @@
     "teams": {
       "austin": "49dd14a9464b",
       "kylie": "770c205e214d",
-      "tami": "c8635e27d7f1",
+      "tami": "212940564342",
       "taylor": "98de6c7b2878",
       "tim": "65b34d87913e"
     },
@@ -972,7 +985,7 @@
       "1": "21af1fe535fd",
       "2": "de019f81dc88",
       "3": "5e79af15601e",
-      "4": "80065a54990e"
+      "4": "61252cda7693"
     },
     "events": [
       "claude-lewis-kelly-x-0",
@@ -1049,6 +1062,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-20T17:38:09.693Z",
-  "quietChecks": 4
+  "lastCheckedAt": "2026-10-21T17:48:11.587Z",
+  "quietChecks": 0
 }

@@ -45,25 +45,25 @@
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "Scholars, Suits and Scrubs",
-    "summary": "Tami, you had the first pick in the snake and you built a roster with brains to spare — a sociology professor, a federal prosecutor, a baseball executive, a gate agent and an OB/GYN resident. You sit rank 3 of 5 with 18 counted points, raw 20, with Rob dropped under the best-4 rule, and 3 of 5 still breathing. Ep 3 gave you +7, Ep 4 only +3. Leader has 20. You're right there.",
+    "nickname": "Scalpels and Scorecards",
+    "summary": "Tami, you had first pick and you've built a three-headed engine — Jelly, Mike and Sharonda all sitting at 5 pts, all ranked 1 of 21. You're rank 3 of 5 with 18 counted points, raw 20, Rob dropped under the best-4 rule, and the leader has 20. That's nothing. Ep 3 gave you +7, Ep 4 only +3, and your draft GPA sits at 2.4. Three of five still breathing. Stay close.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Jelly, Mike and Sharonda are all sitting at 5 pts and rank 1 of 21 — three co-leaders hauling your torch, with your Idol Whisperer badge logging 2 found across the roster."
+        "text": "Sharonda — your leftover at pick #21, ranked 1 of 21 with 5 pts and an A grade — is the steal of this entire draft, and she's matched stride for stride by Jelly and Mike at 5 pts apiece."
       },
       {
         "label": "Cause for concern",
-        "text": "Patt at pick #10 was the reach, going out 3rd in Ep 3 with 3 pts and a rank of 18 of 21, while Rob's quit left 2 pts dropped — and that's how you earned Torch Collector with 2 torches snuffed."
+        "text": "Patt at pick #10 was the reach, ranked 18 of 21 with 3 pts and an F after going 3rd voted out in Ep 3, and Rob's 2 pts are the score the best-4 rule throws away."
       },
       {
         "label": "Watch for",
-        "text": "Sharonda, your leftover at pick #21 and the steal of the draft, keeps earning that Leftover Luck badge — and with 73 points still on the table, she's the storyline to follow."
+        "text": "There are 73 points still on the table and you're two back of the leader — watch whether that Idol Whisperer roster, already 2 found, keeps turning advantages into points."
       }
     ],
-    "generatedAt": "2026-10-15T08:06:14.286Z",
+    "generatedAt": "2026-10-21T17:47:56.201Z",
     "model": "claude-opus-5",
-    "sourceHash": "8000717752c6"
+    "sourceHash": "0589df2fa212"
   },
   "taylor": {
     "drafterId": "taylor",
