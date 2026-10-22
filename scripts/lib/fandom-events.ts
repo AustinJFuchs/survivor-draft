@@ -127,7 +127,7 @@ export function parseEventPage(page: EventPage, wikitext: string, season: string
       if (finder) out.push(base("idol-found", { contestant: finder, episode: foundEp, day: dayIn(notes), detail: [place ? `Found at ${place}` : "", plain(notes).split(/\.\s+/)[0]].filter(Boolean).join(" · ") }));
       if (holder && usedEp !== undefined) {
         const ok = ynIn(row.get(/successful/)?.raw);
-        const result = row.text(/successful/).replace(/^(yes|no)\s*/i, "");
+        const result = row.text(/successful/).replace(/^(yes|no|y|n)\b\s*/i, "");
         out.push(base("idol-played", { contestant: holder, episode: usedEp, outcome: ok === undefined ? undefined : ok ? "success" : "fail", detail: result || undefined, advantage: "Hidden Immunity Idol" }));
       } else if (holder && /eliminated|never|not used|unused/i.test(plain(usedRaw))) {
         out.push(base("idol-unused", { contestant: holder, detail: plain(usedRaw), advantage: "Hidden Immunity Idol" }));
@@ -161,7 +161,8 @@ export function parseEventPage(page: EventPage, wikitext: string, season: string
     // Generic advantage pages: acquired → found; used → played.
     const advName = page === "Beware_Advantage" ? "Beware Advantage" : src.page.replace(/ Advantage$/, "") + (page === "Knowledge_is_Power_Advantage" ? " Advantage" : "");
     const owner = namesIn(row.get(/original owner|^owner/)?.raw)[0];
-    const holder = namesIn(row.get(/given to/)?.raw)[0] ?? owner;
+    // "Given to" can be a chain (Maggie → Kilby); the last name is who ended up holding it.
+    const holder = namesIn(row.get(/given to/)?.raw).at(-1) ?? owner;
     const location = row.text(/location/);
     const acquiredEp = episodeIn(row.get(/episode acquired|episode opened|^episode$/)?.raw, season);
     if (owner) {
@@ -175,7 +176,7 @@ export function parseEventPage(page: EventPage, wikitext: string, season: string
     if (holder && usedEp !== undefined) {
       const ok = ynIn(row.get(/successful|outcome|result/)?.raw);
       const target = namesIn(row.get(/target|vote stolen|asked for/)?.raw)[0];
-      const outcomeText = row.text(/successful|outcome|result/).replace(/^(yes|no)\s*/i, "");
+      const outcomeText = row.text(/successful|outcome|result/).replace(/^(yes|no|y|n)\b\s*/i, "");
       out.push(base("advantage-played", { contestant: holder, episode: usedEp, advantage: advName, outcome: ok === undefined ? undefined : ok ? "success" : "fail", target, detail: outcomeText || undefined }));
     } else if (holder && usedRaw && /not chosen|eliminated|never|expired|unused/i.test(plain(usedRaw))) {
       out.push(base("advantage-unused", { contestant: holder, advantage: advName, detail: plain(usedRaw) }));

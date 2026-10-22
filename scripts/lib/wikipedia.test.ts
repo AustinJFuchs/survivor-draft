@@ -109,6 +109,13 @@ test("S51 voting history: empty columns, no eliminations", () => {
   assert.ok(vh.columns.every((c) => !c.eliminated));
 });
 
+test("S51 ep5 voting history: tie and revote columns aren't eliminations", () => {
+  const vh = parseVotingHistory(fixture("wikipedia-survivor-51-ep5.wikitext"));
+  const ep5 = vh.columns.filter((c) => c.episode === 5);
+  assert.deepEqual(ep5.map((c) => c.eliminated).filter(Boolean), ["Alexis", "Linnea"]);
+  assert.ok(ep5.some((c) => c.tally === "4–4"));
+});
+
 test("episode list", () => {
   const eps = parseEpisodeList(fixture("wikipedia-survivor-51.wikitext"));
   assert.equal(eps.length, 1);

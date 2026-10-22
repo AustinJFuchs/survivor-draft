@@ -34,6 +34,17 @@ test("S49 hidden immunity idols: 4 found, plays with outcomes", () => {
   assert.ok(ev.every((e) => e.contestant !== "Aubry Bracco"));
 });
 
+test("S51 ep5 extra votes: passed-along holder, clean outcome text", () => {
+  const ev = parseEventPage("Extra_Vote", fx("Extra_Vote-s51-ep5"), "51");
+  const played = ev.filter((e) => e.type === "advantage-played");
+  // Brady's vote was given to Maggie, then to Kilby, who cast it.
+  assert.deepEqual(played.map((e) => e.contestant).sort(), ["Danny Kilby", "Lewis Kelly"]);
+  assert.ok(played.every((e) => e.target === "Linnea Capobianco" && e.outcome === "success"));
+  assert.equal(played[0]!.detail, "4-4; 4-4; 4-0");
+  const maggie = ev.find((e) => e.type === "advantage-found" && e.contestant === "Maggie Nestor")!;
+  assert.ok(!/[{}]/.test(maggie.detail ?? ""), maggie.detail);
+});
+
 test("S49 extra vote, vote blocker, knowledge is power, vote steal", () => {
   const ev = parseEventPage("Extra_Vote", fx("Extra_Vote"), "49");
   const found = ev.find((e) => e.type === "advantage-found")!;

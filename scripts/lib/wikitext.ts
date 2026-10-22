@@ -144,6 +144,8 @@ export function plain(text: string): string {
   t = t.replace(/<s>[\s\S]*?<\/s>/gi, "");
   t = t.replace(/<[^>]+>/g, "");
   t = t.replace(/'{2,}/g, "");
+  // Stray braces from malformed templates on the wiki (e.g. `{{tribeicon|savu}}}`).
+  t = t.replace(/[{}]/g, "");
   t = t.replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&ndash;/g, "–");
   return t.replace(/\s+/g, " ").trim();
 }

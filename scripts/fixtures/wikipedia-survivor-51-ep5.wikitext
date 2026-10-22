@@ -1,0 +1,989 @@
+{{pp|small=yes}}
+{{Short description|Season of television series}}
+{{Infobox television season
+| bgcolor              = #04A9E5
+| season_number        = 51
+| image                = Survivor 51 logo.png
+| image_alt            = 
+| caption              = 
+| module1              = {{Infobox reality competition season
+| presenter            = [[Jeff Probst]]
+| num_days             = 26
+| num_survivors        = 21
+| winner               = 
+| runner_up            = 
+| location             = [[Mamanuca Islands]], [[Fiji]]
+}}
+| num_episodes         = 5<!--increment when new episode airs -->
+| network              = [[CBS]]
+| first_aired          = {{Start date|2026|09|23}}
+| last_aired           = present
+| film_start           = {{Start date|2026|04|18}}
+| film_end             = {{End date|2026|05|13}}<ref>{{Cite web |title=''Survivor 51'' Calendar|url=https://www.truedorktimes.com/s51/calendar.htm |publisher=True Dork Times |last=Pitman |first=Jeff |date=April 20, 2026 |access-date=May 17, 2026}}</ref>
+| prev_season          = ''[[Survivor 50: In the Hands of the Fans|In the Hands of the Fans]]''
+| next_season          = 
+| episode_list         = List of Survivor (American TV series) episodes (seasons 41–present)
+}}
+
+'''''Survivor 51''''' is the ongoing 51st season of the American competitive reality television series [[Survivor (American TV series)|''Survivor'']]. It premiered on September 23, 2026<ref name=":0" /> on [[CBS]] in the [[United States]]. It was the 19th consecutive season to be filmed in the [[Mamanuca Islands]] in [[Fiji]].
+
+==Format==
+{{Main|Survivor (American TV series)#Format and rules}}
+''[[Survivor (American TV series)|Survivor]]'' is a [[reality television]] show based on the Swedish show ''[[Expedition Robinson]]'', created by [[Mark Burnett]] and [[Charlie Parsons]].<ref name="avclub history">{{cite web |url=https://www.avclub.com/article/survivors-first-alliance-changed-gameand-reality-t-236577 |title=Survivor's first "alliance" changed the game—and reality TV |first=Noel |last=Murray |date=May 17, 2016 |access-date=May 17, 2016 |work=[[The A.V. Club]] |archive-date=May 18, 2016 |archive-url=https://web.archive.org/web/20160518094236/http://www.avclub.com/article/survivors-first-alliance-changed-gameand-reality-t-236577 |url-status=live}}</ref> The series follows a number of participants isolated in a remote location, where they must provide food, fire, and shelter.<ref name="avclub history"/> One by one, a participant is removed from the series by majority vote, with challenges held to give a reward (ranging from living- and food-related prizes to a car) and immunity from being voted out of the series.<ref name=rules>{{Cite book |title=The Psychology of Survivor - Google Books |isbn=9781935251385 |pages=2–11 |publisher=BenBella Books |date=July 11, 2007 |access-date=December 30, 2021 |url=https://books.google.com/books?id=FdrILXwh7nEC |archive-date=December 31, 2021 |archive-url=https://web.archive.org/web/20211231095031/https://www.google.co.uk/books/edition/The_Psychology_of_Survivor/FdrILXwh7nEC?hl=en&gbpv=0 |url-status=live }}</ref> The last remaining player receives a prize of $1,000,000.<ref name=rules/>
+
+==Contestants==
+The 21 castaways were officially announced on August 25, 2026. This is the first ''Survivor'' season to start with an odd number of castaways since ''[[Survivor: Fiji]]'' in 2007, the first season whose opening cast had a female majority (eleven women and ten men), and the first to start with a gender imbalance since ''[[Survivor: San Juan del Sur]]'' (which had ten men and eight women). Notable cast members this season include actor [[Devin Way]], voice actress [[Ana Sani]], and former [[NXT (WWE brand)|WWE NXT]] wrestler Brady Booker.<ref name="parade">{{cite magazine|url=https://parade.com/tv/survivor-51-cast-2026 |title=''Survivor 51'' Cast Revealed: Meet the 21 New Contestants — Including a Former WWE Superstar and ''Grey’s Anatomy'' Star|magazine=Parade|last=Bloom|first=Mike|date=August 26, 2026|access-date=August 26, 2026}}</ref><ref name="EW">{{cite magazine|url=https://ew.com/survivor-51-cast-revealed-12068720 |title=Meet the cast of ''Survivor 51''|magazine=Entertainment Weekly|last=Ross|first=Dalton|date=August 26, 2026|access-date=August 26, 2026}}</ref><ref>{{Cite web |last=Currier |first=Joseph |date=2026-05-20 |title=Former WWE NXT wrestler reportedly cast on 'Survivor 51' |url=https://www.f4wonline.com/news/aew/brady-booker-reportedly-cast-on-survivor-51/ |access-date=2026-08-31 |website=F4W/WON |language=en-GB}}</ref><ref name="Variety">{{cite magazine |last=Hailu |first=Selome |date=August 26, 2026 |title=''Survivor 51'': Meet the 21 New Castaways, Including a ''Grey’s Anatomy'' Actor, the Voice of Strawberry Shortcake, a Pro Wrestler and a Yankees Exec |url=https://variety.com/lists/survivor-51-cast-greys-anatomy-strawberry-shortcake/ |access-date=September 21, 2026 |magazine=Variety}}</ref> 
+
+{| class="wikitable sortable" style="text-align:center;"
+|+List of ''Survivor 51'' contestants
+! rowspan="2" scope="col" |Contestant
+! rowspan="2" scope="cpl" |Age
+! rowspan="2" scope="col" class="unsortable"|From
+! colspan="4" scope="colgroup" |Tribe
+! colspan="2" scope="col" class="unsortable" |Finish
+|-
+! scope="col" | Original
+! scope="col" | {{nowrap|Post-mutiny}}
+! scope="col" | Switched
+! scope="col" class="unsortable" | Merged
+! scope="col" | Placement
+! scope="col" class="unsortable" | Day
+|-
+!scope="row" style=text-align:left| {{sortname|Aaliyah|Puglia|nolink=1}}
+|24
+|[[Providence, Rhode Island|Providence,<br>Rhode Island]]
+| {{stribe|toka}}
+| rowspan="3" bgcolor="darkgray" |
+| rowspan="4" bgcolor="darkgray" |
+| rowspan="7" bgcolor="darkgray" |
+| 1st voted out
+| {{nowrap|Day 3}}
+|-
+!scope="row" style=text-align:left| {{sortname|Ana|Sani|}}
+|34
+|[[Toronto|Toronto,<br>Ontario]]
+| rowspan="2" {{stribe|savu}}
+| 2nd voted out
+| {{nowrap|Day 5}}
+|-
+!scope="row" style=text-align:left| {{sortname|Rob|Antonson|nolink=1}}
+|40
+|[[Cumberland, Rhode Island|Cumberland,<br>Rhode Island]]
+| Quit
+| {{nowrap|Day 6}}
+|-
+!scope="row" style=text-align:left| {{sortname|Patt|Cannaday|nolink=1}}
+|33
+|[[Washington, D.C.|Washington,<br>D.C.]]
+| rowspan="2" {{stribe|toka}}
+| rowspan="2" {{stribe|toka}}
+| 3rd voted out
+| {{nowrap|Day 7}}
+|-
+!scope="row" style=text-align:left| {{sortname|Jenna|Doore|nolink=1}}
+|30
+|[[Toledo, Ohio|Toledo,<br>Ohio]]
+| rowspan="2" {{stribe|savu}}
+| 4th voted out
+| {{nowrap|Day 9}}
+|-
+!scope="row" style=text-align:left| {{sortname|Alexis|Levine|nolink=1}}
+|34
+|[[Atlanta|Atlanta,<br>Georgia]]
+| rowspan="2" {{stribe|savu}}
+| rowspan="2" {{stribe|savu}}
+| 5th voted out
+| rowspan="2"| {{nowrap|Day 10}}
+|-
+!scope="row" style=text-align:left| {{sortname|Linnea|Capobianco|nolink=1}}
+|25
+|[[Jersey City, New Jersey|Jersey City,<br>New Jersey]]
+| {{stribe|dina}}
+| 6th voted out
+|-
+!scope="row" style=text-align:left| {{sortname|Brady|Booker|nolink=1}}
+|27
+|[[Knoxville, Tennessee|Knoxville,<br>Tennessee]]
+| {{stribe|toka}}
+| {{stribe|toka}}
+| {{stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Cristian|Chavez|nolink=1}}
+|26
+|[[Salt Lake City|Salt Lake City,<br>Utah]]
+| {{stribe|savu}}
+| {{stribe|savu}}
+| {{stribe|dina}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Sharonda|Cox|nolink=1}}
+|34
+|[[Richmond, Kentucky|Richmond,<br>Kentucky]]
+| {{stribe|savu}}
+| {{stribe|savu}}
+| {{stribe|dina}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Kristin|Flickinger|nolink=1}}
+|49
+|[[Santa Barbara, California|Santa Barbara,<br>California]]
+| {{stribe|savu}}
+| {{stribe|savu}}
+| {{stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Ori|Jean-Charles|nolink=1}}
+|27
+|[[Spring Valley, New York|Spring Valley,<br>New York]]
+| {{stribe|savu}}
+| {{stribe|savu}}
+| {{stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Lewis|Kelly|nolink=1}}
+|28
+|[[Corozal, Puerto Rico|Corozal,<br>Puerto Rico]]
+| {{stribe|toka}}
+| {{stribe|toka}}
+| {{stribe|dina}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Danny|Kilby|nolink=1}}
+|30
+|[[London, Ontario|London,<br>Ontario]]
+| {{stribe|toka}}
+| {{stribe|toka}}
+| {{stribe|dina}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Carter|Krull|nolink=1}}
+|24
+|[[Sioux Falls, South Dakota|Sioux Falls,<br>South Dakota]]
+| {{stribe|savu}}
+| {{stribe|toka}}
+| {{stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Angelica "Jelly"|Loblack|nolink=1}}
+|29
+|[[Bloomington, Indiana|Bloomington,<br>Indiana]]
+| {{stribe|toka}}
+| {{stribe|toka}}
+| {{stribe|savu}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Eric|Macksoud|nolink=1}}
+|34
+|[[Windsor Locks, Connecticut|Windsor Locks,<br>Connecticut]]
+| {{stribe|savu}}
+| {{stribe|savu}}
+| {{stribe|dina}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Maggie|Nestor|nolink=1}}
+|40
+|[[Charles Town, West Virginia|Charles Town,<br>West Virginia]]
+| {{stribe|toka}}
+| {{stribe|toka}}
+| {{stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Thien An|Nguyen|nolink=1}}
+|24
+|[[Fort Worth, Texas|Fort Worth,<br>Texas]]
+| {{stribe|toka}}
+| {{stribe|toka}}
+| {{stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Mike|Pinsky|nolink=1}}
+|32
+|[[New York City|New York City,<br>New York]]
+| {{stribe|toka}}
+| {{stribe|toka}}
+| {{stribe|toka}}
+|
+|
+|
+|-
+!scope="row" style=text-align:left| {{sortname|Devin|Way}}
+|33
+|[[Los Angeles|Los Angeles,<br>California]]
+| {{stribe|toka}}
+| {{stribe|toka}}
+| {{stribe|savu}}
+|
+|
+|
+|}
+{{notelist}}
+
+==Season summary==
+[[File:Mamanuca Islands - panoramio (1).jpg|thumb|right|300px|The season filmed in the [[Mamanuca Islands]] of [[Fiji]].]]
+
+{| class="wikitable nowrap" style="margin:auto; text-align:center;"
+|+''Survivor 51'' season summary
+! colspan="3" scope="col" | Episode
+! colspan="2" scope="col" | Challenge winner(s)
+! scope="col" rowspan="2"| Journey
+! colspan="2" scope="col" | Eliminated
+|-
+! scope="col" | No.
+! scope="col" | Title
+! scope="col" | Air date
+! scope="col" | Reward
+! scope="col" | Immunity
+! scope="col" | Tribe
+! scope="col" | Player
+|-
+! 1
+| align="left"| "[[#ep728|Permanent Uncertainty]]"
+| align="left"| September 23, 2026
+| {{stribe|none|''None''}}
+| {{stribe|savu}}
+| {{stribe|None|Lewis<br />(None)}}{{efn|Lewis volunteered to go on a solo journey. As a result, he was sent to Exile Island and later joined the tribe that lost the subsequent Immunity Challenge: Toka.}}
+| {{stribe|toka}}
+| Aaliyah
+|-
+! 2
+| align="left"| "[[#ep729|Weaponized Honesty]]"
+| align="left"| September 30, 2026
+| {{stribe|toka}}
+| {{stribe|toka}}
+| rowspan="2" {{stribe|none|''None''}}
+| {{stribe|savu}}
+| Ana
+|-
+! rowspan="3"|3
+| rowspan="3" align="left"| "[[#ep730|What I'm Smellin' Is Stinky]]"
+| rowspan="3" align="left"| October 7, 2026
+| colspan="2" {{stribe|none|''None''}}
+| {{stribe|savu}}
+| Rob
+|-
+| colspan="2" rowspan="2" {{stribe|savu}}
+| {{stribe|savu|Carter<br />(Savu)}}
+| rowspan="2" {{stribe|toka}}
+| rowspan="2"| Patt
+|-
+| {{stribe|toka|Devin<br />(Toka)}}
+|-
+! rowspan="2"| 4
+| rowspan="2" align="left"| "[[#ep731|That's the Magic of Survivor]]"
+| rowspan="2" align="left"| October 14, 2026
+| colspan="2" {{stribe|dina}}
+| rowspan="2" {{stribe|none|''None''}}
+| rowspan="2" {{stribe|savu}}
+| rowspan="2"| Jenna
+|-
+| colspan="2" {{stribe|toka}}
+|-
+! rowspan="2"| 5
+| rowspan="2"; align="left"| "[[#ep732|Not Here to Get a Pedicure]]"
+| rowspan="2"; align="left"| October 21, 2026
+| rowspan="2"; colspan="2" {{stribe|toka}}
+| rowspan="2" {{stribe|toka|Maggie<br />(Toka)}}
+| {{stribe|savu}}
+| Alexis
+|-
+| {{stribe|dina}}
+| Linnea
+|-
+! 6
+| align="left"| "[[#ep733|I Love Crying]]"
+| align="left"| October 28, 2026
+|
+|
+|
+|
+|
+|-
+! 7
+| align="left"| "[[#ep733|You Broke My Heart Like I was a Girl at the Prom]]"
+| align="left"| November 4, 2026
+|
+|
+|
+|
+|
+|}
+;Notes
+{{notelist}}
+
+==Episodes==
+{{see also|Lists of Survivor (American TV series) episodes}}
+<onlyinclude>{{#invoke:Episode table|main|dontclose=y
+|background = #04A9E5
+|overall    = 5
+|season     = 6
+|title      = 40
+|titleR     = <ref name="The Futon Critic" /><ref name="Zap2it Season 51" />
+|aux1       = 10
+|aux2       = 10
+|airdate    = 1r
+|airdateR   = <ref name="The Futon Critic" /><ref name="Zap2it Season 51" />
+|country    = U.S.
+|viewers    = 10
+|aux1T      = Day(s)
+|aux2T      = Rating/share<br>(18–49)
+}}
+{{#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 728
+| EpisodeNumber2  = 1
+| Title           = Permanent Uncertainty
+| OriginalAirDate = {{Start date|2026|09|23}}
+| Aux1            = Days 1–3
+| Aux2            = 0.8/12<ref name="51.01">{{cite web |url= https://www.thetvratingsguide.com/2026/10/wednesday-tv-ratings-92326-survivor.html|title= Wednesday TV Ratings 9/23/26: ''Survivor'' Returns Well Below Season 50 but Ahead of Season 49 Launch, ''99 to Beat'' Premieres Near Series Low, ''Big Brother'' and ''The Voice'' Dip|website=The TV Ratings Guide|access-date=October 8, 2026}}</ref>
+| Viewers         = 4.38<ref name="51.01"/>
+| ShortSummary    = [[Jeff Probst]] welcomes the 21 new castaways to ''Survivor'' and reveals that they will be playing with "Permanent Uncertainty". The castaways are then marooned together on one beach with limited supplies and no set tribal lines. The players discover a sign informing them that not everyone will start the game together, as they must agree on one person to begin the game on their own. Lewis volunteers to go on the journey.
+
+*'''Journey:''' Lewis goes on a journey and is sent to Exile Island. On Day 2, he must chop down a thick mast within a set time limit to claim the Hidden Immunity Idol at the top. However, Lewis fails to chop down the mast before time runs out and is unsuccessful in earning the idol.
+
+Back on the beach, a helicopter arrives. Aaliyah, Devin, Jelly, and Ori solidify an alliance, dubbed the "Helicopter Alliance", bringing up Sharonda as a fifth member. The helicopter drops off a bag containing their tribe buffs, revealing the new tribe divisions: Savu consisting of Alexis, Ana, Carter, Cristian, Eric, Kristin, Linnea, Ori, Rob, and Sharonda, and Toka consisting of Aaliyah, Brady, Devin, Jelly, Jenna, Kilby, Maggie, Mike, Patt, and Thien An.
+
+Each tribe nominates one member to negotiate with the other tribe for supplies. Kristin and Kilby are selected from their respective tribes and agree to split the supplies. Savu takes the fishing gear, flint, machete, and pot, while Toka takes the camping and shelter-building supplies.
+
+At Toka, Jenna struggles to open up to her tribemates. Aaliyah, Devin, and Jelly reconnect, solidifying their half of the Helicopter Alliance. Brady and Devin grow closer and discuss targeting Jenna first. Devin also spreads around camp that Jenna may be lying about her profession.
+
+At Savu, Ori and Sharonda solidify their half of the Helicopter Alliance, hoping to keep their connection a secret. Eric begins to rub his fellow tribemates the wrong way, which Rob takes advantage of by painting a bigger target on him. The next morning, Rob finds a Hidden Immunity Idol.
+
+Before the Immunity Challenge, Probst welcomes the castaways to the "Open Era", explaining that anything from past ''Survivor'' seasons could be brought into play. The castaways are informed that the coin flip from ''[[Survivor 50: In the Hands of the Fans]]'' is back in play. The coin flip could increase the prize pot to $2,000,000 or eliminate the player who chooses to flip the coin. If the player is eliminated, the money rolls over to the subsequent season.
+
+* '''Immunity Challenge:''' Tribes must race through intersecting obstacles to untie five bags containing balls. Once they retrieve all five balls, they must push them through a vertical chute to release a key. Players then use the key to unlock six heavy crates and push them underneath a cargo net to create a staircase. After all tribe members climb the staircase, two players must assemble a logo puzzle to win immunity.
+
+Savu wins immunity, sending Toka to the first Tribal Council. Devin continues to target Jenna. Some players believe Aaliyah should go after her performance caused the tribe to fall behind during the challenge. Aaliyah and Jelly bring up Brady as a potential future target to Jenna and Patt over his behavior. Believing Jenna did good in the challenge and wanting her to stay, Patt privately informs Jenna that she could be the one going home. Jenna tells Brady about Aaliyah's criticisms of him, which causes him to target Aaliyah. He and Devin disagree over who to vote for.
+
+At Tribal Council, Jenna admits that she struggled to open up during the first few days. Devin boldly reveals that he is voting for Jenna, causing the tribe to whisper and scramble to figure out how to vote. After accidentally saying there is two targets, Patt reveals that the other is Aaliyah, who is shocked at this. Both Aaliyah and Jenna play their Shots in the Dark, but are both "Not Safe". Aaliyah is voted out in a 6–2 vote over Jenna.
+| LineColor       = #04A9E5
+}}
+{{#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 729
+| EpisodeNumber2  = 2
+| Title           = Weaponized Honesty
+| OriginalAirDate = {{Start date|2026|09|30}}
+| Aux1            = Days 3–5
+| Aux2            = 0.8/11<ref name="51.02">{{cite web |url= https://www.thetvratingsguide.com/2026/10/wednesday-tv-ratings-93026-amazing-race.html?m=1|title= Wednesday TV Ratings 9/30/26: ''The Amazing Race'' Returns Above Any Season 38 Episode, ''Scrubs'' Premieres to Series Lows, ''Survivor'' Rises|website=The TV Ratings Guide|access-date=October 8, 2026}}</ref>
+| Viewers         = 4.69<ref name="51.02"/>
+| ShortSummary    = At Toka, Jenna is grateful to still be in the game, while Brady and Devin discuss their closeness despite being on opposite sides of the vote. Lewis leaves Exile Island and joins Toka. The following day, Brady accidentally chops a piece of his thumb while using the axe. After receiving medical attention, he is treated and allowed to remain in the game.
+
+At Savu, Ana and Alexis discuss Linnea and Sharonda as the tribe's biggest threats. Carter talks to Ana about how he believes Alexis is a threat, being cut off when Alexis walks up to them. Ana lies to Alexis that they were talking about popcorn, which Alexis doesn't believe. This causes Alexis to throw Ana under the bus to Linnea and Sharonda.
+
+*'''Reward Challenge:''' Tribes divide into pairs, with one member of each pair blindfolded. Their partner must guide them over a hinged ramp and through a net obstacle. Next, two blindfolded members must unwind a rope from a log, releasing three sandbags. Finally, three tribe members must assemble a pole and hang the sandbags from a hook. The first tribe to finish wins a reward consisting of a hammock, a mat, pillows, and two tarps.
+
+During the challenge, Kristin injures her foot. After a close finish, Toka wins the reward. Savu returns to camp with Rob expressing frustration with Linnea's performance during the challenge. Toka celebrates their reward win, giving Jelly an opportunity to search for a Hidden Immunity Idol, which she finds. Jelly and Patt discuss forming an alliance with Brady, Devin, and Mike.
+
+*'''Immunity Challenge:''' Tribes must swim out to a floating platform and release a massive ''Survivor'' whale. They must then maneuver the whale and all tribe members over a barrel before dragging it onto the beach beneath an obstacle. Once there, three tribe members must roll three balls down a long table, landing one in each of three holes. The first tribe to finish wins immunity.
+
+Toka wins their first immunity challenge, sending Savu to Tribal Council. At Savu, several tribe members discuss voting out Eric, and Ana volunteers to serve as the decoy vote to prevent Eric from suspecting he is the target as well as build trust with the other tribemates. Linnea and Sharonda overhear Cater and Ori talking about hunting crabs, mistaking their conversation for strategy talk. Rob struggles with being away from his family and considers sacrificing his own game to save Eric. At Tribal Council, Rob pulls Eric aside before the vote to warn him that the tribe is targeting him. However, Ana is voted out in a 6–4 vote over Eric, with Rob unsuccessfully attempting to cast a vote for himself.
+| LineColor       = #04A9E5
+}}
+{{#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 730
+| EpisodeNumber2  = 3
+| Title           = What I'm Smellin' is Stinky
+| OriginalAirDate = {{Start date|2026|10|07}}
+| Aux1            = Days 5–7
+| Aux2            = 0.8/10<ref name="51.03">{{cite web |url=https://www.thetvratingsguide.com/2026/10/wednesday-tv-ratings-10726-abbott.html|title= Wednesday TV Ratings 10/7/26: ''Abbott Elementary'' Down from Finale but Up from Season 5 Premiere, ''Chicago Med'' and ''Chicago Fire'' Return Significantly Ahead of Previous Season Premieres, ''Survivor'' and ''The Floor'' Dip|website=The TV Ratings Guide|access-date=October 16, 2026}}</ref>
+| Viewers         = 4.60<ref name="51.03"/>
+| ShortSummary    = At Savu, Carter is confused and upset after finding himself on the wrong side of the vote. Rob begins to complain of pain in one of his legs and asks medical to examine him. Medical finds a cut on Rob's foot, but ultimately find nothing that would warrant them to pull him from the game. Despite this, Rob remains worried about infection and quits the game anyway. In confessionals, several of Rob's tribemates suspect his true reasons for quitting was due to his failures at the previous Tribal Council. Before leaving, Rob bequeaths his Hidden Immunity Idol to Carter.
+
+At Toka, Lewis worries about his standing in the tribe after arriving three days late. Devin suspects that Kilby is playing a rat-like game. Patt informs her alliance of Brady, Devin, Jelly, and Mike that Kilby talked trash about Brady to her.
+
+*'''Journey:''' Each tribe must send a member to visit the opposing tribe, with Savu sending Carter and Toka sending Devin. Once aboard the boat, they each receive a clue to an advantage hidden on the opposing tribe's beach. However, the journey comes with an additional decision, as each castaway may choose to mutiny and remain with the opposing tribe as a new member.
+
+At Savu, Devin pulls Sharonda and Ori aside to solidify their Helicopter Alliance. Devin and Sharonda find the Extra Vote advantage at the water well. At Toka, Carter informs the tribe that Linnea and Sharonda are running Savu. While Carter is away, Lewis searches Carter’s bag and discovers the clue to an advantage, prompting Brady and Maggie to find and argue over it. After grabbing it, Brady ultimately gives the Extra Vote advantage to Maggie. Carter fails to return to the boat on time and is forced to mutiny to Toka.
+
+*'''Reward/Immunity Challenge:''' Tribe members must crawl through a pile of wood shavings to collect keys. Two players then use the keys to unlock heavy chains wrapped around a crate and retrieve a ladder. Using the ladder, they climb to the top of a tower, where they hoist a bag of coconuts and toss it down the other side to retrieve a key hidden inside. The tribes must then get all their members up a steep platform, where two players assemble a hanging anchor puzzle. The first tribe to finish wins immunity and four egg-laying hens.
+
+During the challenge, Toka squanders its substantial lead during the puzzle, allowing Savu to win immunity and reward. At Toka, Devin and Kilby attempt to resolve their differences, but the conversation instead solidifies Devin's desire to vote Kilby out. Meanwhile, Lewis aligns with Carter. The two newcomers emerge as swing votes, with the other tribe members being divided between Brady, Devin, Jelly, Mike, and Patt on one side and Jenna, Kilby, Maggie, and Thien An on the other. Thien An proposes voting out Patt, seeing her as a social threat. She attempts to recruit Brady, but he remains convinced that Kilby will go. At Tribal Council, Patt is voted out in a 6–5 vote, with Lewis and Carter choosing to go with Thien An's plan.
+| LineColor       = #04A9E5
+}}
+{{#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 731
+| EpisodeNumber2  = 4
+| Title           = That's the Magic of Survivor
+| OriginalAirDate = {{Start date|2026|10|14}}
+| Aux1            = Days 7–9
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = Returning to camp, Brady and his alliance are hurt and upset by Patt's blindside. They search for answers about the vote flip, while the others quietly celebrate taking down the larger alliance. On Day 8, Jeff announces a tribe swap that will divide the remaining castaways into three tribes. Alexis, Devin, Jelly, Jenna and Ori join Savu; Brady, Carter, Kristin, Maggie, Mike and Thien An join Toka; and Cristian, Eric, Kilby, Lewis, Linnea and Sharonda form the new Dina tribe.
+
+At Dina, the tribe must start from scratch by building a new camp. Kilby and Eric bond over their difficult starts on their previous tribes, while Lewis struggles with feeling sick and tired. At the new Toka beach, Kristin works to get to know her new tribemates as the only newcomer to the group. She also attempts to smooth things over with Carter following his mutiny. Carter and Thien An secretly form an alliance with hopes of reaching the end together. At Savu, Jenna attempts to smooth things over with Devin, hoping they can remain loyal to original Toka and vote out Alexis or Ori. Meanwhile, sparks fly between Jelly and Ori.
+
+*'''Reward/Immunity Challenge:''' One tribe member closest to the ocean must collect a bucket of water. They then have to work with their tribe to pass the water to each other by throwing it in the air and catching it in their buckets, with the final member eventually dumping the remaining water into a container which, when filled, would drop and release a ball. Two tribe members must then use the ball to complete a circular maze. The first two tribes to finish wins immunity and a full ''Survivor'' coffee kit for first place and a jar of iced coffee for second place.
+
+The new Dina tribe finishes first, with Toka coming in second and sending Savu to Tribal Council. Back at camp, Alexis attempts to secure her safety by convincing Ori to vote out either Jelly or Devin, unaware of the Helicopter Alliance between the three. However, Devin continues to view Jenna as the better target over Alexis, while Jelly believes the opposite. At Tribal Council, Jenna is ultimately voted out in a 4–1 vote.
+| LineColor       = #04A9E5
+}}
+{{#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 732
+| EpisodeNumber2  = 5
+| Title           = Not Here to Get a Pedicure
+| OriginalAirDate = {{Start date|2026|10|21}}
+| Aux1            = Days 9-10
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 733
+| EpisodeNumber2  = 6
+| Title           = I Love Crying
+| OriginalAirDate = {{Start date|2026|10|28}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 734
+| EpisodeNumber2  = 7
+| Title           = You Broke My Heart Like I was a Girl at the Prom
+| OriginalAirDate = {{Start date|2026|11|04}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{void|#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 735
+| EpisodeNumber2  = 8
+| Title           = Episode 8
+| OriginalAirDate = {{Start date|2026|11|11}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{void|#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 736
+| EpisodeNumber2  = 9
+| Title           = Episode 9
+| OriginalAirDate = {{Start date|2026|11|18}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{void|#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 737
+| EpisodeNumber2  = 10
+| Title           = Episode 10
+| OriginalAirDate = {{Start date|2026|11|25}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{void|#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 738
+| EpisodeNumber2  = 11
+| Title           = Episode 11
+| OriginalAirDate = {{Start date|2026|12|02}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{void|#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 739
+| EpisodeNumber2  = 12
+| Title           = Episode 12
+| OriginalAirDate = {{Start date|2026|12|09}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{void|#invoke:Episode list|sublist|Survivor 51
+| EpisodeNumber   = 740
+| EpisodeNumber2  = 13
+| Title           = Episode 13
+| OriginalAirDate = {{Start date|2026|12|16}}
+| Aux1            = 
+| Aux2            = 
+| Viewers         = 
+| ShortSummary    = 
+| LineColor       = #04A9E5
+}}
+{{End|Episode table|html=y}}</onlyinclude>
+
+==Voting history==
+{| class="wikitable unsortable" style="text-align:center;"
+|+''Survivor 51'' voting history
+!
+!colspan="3"|Original tribes
+!Post-mutiny<br/>tribes
+! colspan="8" |Switched tribes
+!colspan="7"|
+|-
+! scope="row" | Episode
+! [[#ep728|1]]
+! [[#ep729|2]]
+! colspan="2"|[[#ep730|3]]
+! [[#ep731|4]]
+! colspan="6" | [[#ep732|5]]
+! [[#ep733|6]]
+! [[#ep734|7]]
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+|-
+! scope="row" | Day
+| 3
+| 5
+| 6
+| 7
+| 9
+| colspan="6" | 10
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Tribe
+| {{stribe|toka}}
+| {{stribe|savu}}
+| {{stribe|savu}}
+| {{stribe|toka}}
+| {{stribe|savu}}
+| {{stribe|savu}}
+| colspan="5"{{stribe|dina}}
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Eliminated
+| Aaliyah
+| Ana
+| Rob
+| Patt
+| Jenna
+| Alexis
+| colspan="2" {{stribe|none|Tie}}{{efn|name=Tie|The vote resulted in a tie. Per the rules, a second vote was held. As one of the castaways involved in the tie had used an advantage, all castaways were eligible to vote for those players who tied.}}
+| colspan="2" {{stribe|none|Tie}}{{efn|name=Tie2|After three rounds of voting, Tribal Council remained tied. Normally, per the rules, the non-tied castaways who had the ability to vote must come to a unanimous decision as to whom to eliminate between the tied castaways.}}
+| Linnea
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Votes
+| 6–2
+| 6–4
+| ''Quit''{{efn|name=Hannah|No vote; Rob chose to quit the game.}}
+| 6–5
+| 4–1
+| 3–1
+| colspan="2"|4–4
+| colspan="2"|4–4
+|''Consensus''{{efn|name=Deadlock|Due to a deadlocked tie, only the non-tied castaways had a consensus decision by themselves to vote out either Lewis or Linnea, or else they would go to a rock draw. They decided to eliminate Linnea.}}
+|
+|
+|
+|
+|
+|
+|
+|
+|- style="border-top:5px solid; height:0px"
+! scope="col"| Voter
+! colspan="19" |Vote
+|-
+! scope="row" | Brady
+| Aaliyah
+|
+| 
+| Kilby
+|
+| 
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Carter
+| 
+| Eric
+| 
+| Patt
+|
+| 
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Cristian
+| 
+| Ana
+| 
+|
+|
+| 
+| colspan="2"| Lewis
+| colspan="2"| Lewis
+| ''Linnea''
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Devin
+| Jenna
+| 
+| 
+| Kilby
+| Jenna
+| Alexis
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Eric
+| 
+| Ana
+| 
+|
+|
+| 
+| colspan="2"| Lewis
+| colspan="2"| Lewis
+| ''Linnea''
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Jelly
+| Jenna
+| 
+| 
+| Kilby
+| Jenna
+| Alexis
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Kilby
+| Aaliyah
+| 
+| 
+| Patt
+|
+| 
+| Linnea
+| Linnea{{efn|name=extra1|This player played an extra vote advantage and was able to cast two ballots during a single vote.}}
+| Linnea
+| Linnea{{efn|name=extra2|The extra vote advantage carried over into the revote, allowing this player to cast two ballots once more.}}
+| ''Linnea''
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Kristin
+| 
+| Ana
+|
+|
+|
+| 
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Lewis
+| {{stribe|none|''Exiled''}}{{efn|Lewis volunteered to go on a solo journey. As a result, he was sent to Exile Island and later joined the tribe that lost the subsequent Immunity Challenge: Toka.}}
+| 
+| 
+| Patt
+|
+| 
+| Linnea
+| Linnea{{efn|name=extra1}}
+| Linnea
+| Linnea{{efn|name=extra2}}
+| {{stribe|none}}{{efn|name=Deadlock}}
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Maggie
+| Aaliyah
+| 
+| 
+| Patt
+|
+| 
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Mike
+| Aaliyah
+| 
+| 
+| Kilby
+|
+| 
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Ori
+| 
+| Eric
+|
+|
+| Jenna
+| Alexis
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Sharonda
+|
+| Ana
+|
+| 
+|
+|
+| colspan="2"| Lewis
+| colspan="2"| Lewis
+| ''Linnea''
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Thien An
+| Aaliyah
+|
+|
+| Patt
+|
+| 
+| colspan="2"|
+| colspan="2"|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! scope="row" | Linnea
+| 
+| Ana
+|
+| 
+|
+|
+| colspan="2"| Lewis
+| colspan="2"| Lewis
+| {{stribe|none}}{{efn|name=Deadlock}}
+| colspan="9" style="background:darkgray" |
+|-
+! scope="row" | Alexis
+| 
+| Ana
+| 
+|
+| Jenna
+| Devin
+| colspan="13" style="background:darkgray" |
+|-
+! scope="row" | Jenna
+| {{stribe|none}}{{efn|name=Shot}}
+| 
+| 
+| Patt
+| Alexis
+| colspan="14" style="background:darkgray" |
+|-
+! scope="row" | Patt
+| Aaliyah
+|
+|
+| Kilby
+| colspan="15" style="background:darkgray" |
+|-
+! scope="row" | Rob
+|
+| Eric
+| style="background:lightgrey"|''Quit''
+| colspan="16" style="background:darkgray" |
+|-
+! scope="row" | Ana
+|
+| Eric
+| colspan="17" style="background:darkgray" |
+|-
+! scope="row" | Aaliyah
+| {{stribe|none}}{{efn|name=Shot|This player played the Shot in the Dark, and as a result, had to sacrifice that night's vote.}}
+| colspan="18" style="background:darkgray" |
+|}
+;Notes
+{{notelist}}
+
+==Production==
+Ahead of the season 50 premiere, CBS renewed ''Survivor'' for its 51st season on January 22, 2026.<ref>{{Cite web |last=White |first=Peter |date=2026-01-22 |title='Survivor' & 'The Amazing Race' Renewed At CBS |url=https://deadline.com/2026/01/survivor-the-amazing-race-renewed-cbs-1236693430/ |access-date=2026-03-21 |website=Deadline |language=en-US}}</ref> A trailer was played at the ''[[Survivor 50: In the Hands of the Fans]]'' reunion, revealing that there will be two starting tribes, a first since ''[[Survivor: Winners at War|Winners at War]]''.<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=oSUzmg4zoLk |title=Survivor 51 {{!}} Sneak Peek |date=2026-05-20 |last=SurvivorOnCBS |access-date=2026-05-23 |via=YouTube}}</ref> 
+
+The Maritime Safety Authority of Fiji issued a marine exclusion zone around the islands used by the series for filming on April 15, 2026.<ref>{{Cite web |date=April 14, 2026 |title=MSAF declares marine exclusion zone in Mamanuca for 'Survivor' filming |url=https://www.fijitimes.com.fj/msaf-declares-marine-exclusion-zone-in-mamanuca-for-survivor-filming/ |access-date=October 12, 2026 |website=[[The Fiji Times]]}}</ref> Eleven days prior, a cruise ship ran aground on a reef off of [[Monuriki]], one of islands the show uses.<ref>{{Cite web |date=April 14, 2026 |title=Cruise Ship Hits Reef Near Survivor Island Days Before Start of Season 51 |url=https://www.eonline.com/news/1430889/survivor-season-51-cruise-ship-hits-fiji-island-where-cbs-show-films |access-date=October 12, 2026 |website=[[E! News]]}}</ref>
+
+Host [[Jeff Probst]] declared ''Survivor 51'' to be the beginning of "the open era", meaning that "anything that's ever happened on ''Survivor''" in past seasons, including twists and advantages, "can happen again — at any time, in any order, without warning."<ref>{{Cite web |last=Boyle |first=Kelli |date=2026-08-26 |title='Survivor 51' Cast: Meet the 21 'Open Era' Castaways |url=https://www.tvinsider.com/gallery/survivor-51-cast-open-era/ |access-date=2026-08-31 |website=TV Insider |language=en-US}}</ref><ref name=":0">{{Cite web |last=Terrones |first=Terry |date=2026-08-26 |title=‘Survivor 51’: Meet the 21 Castaways on Game-Changing New Season |url=https://www.hollywoodreporter.com/tv/tv-features/survivor-51-new-season-cast-1236681438/ |access-date=2026-08-31 |website=The Hollywood Reporter |language=en-US}}</ref><ref>{{Cite web |date=2026-09-09 |title=Survivor Season 51 Trailer: Jeff Probst Teases a New Era with 'Every Twist' in Play (Exclusive) |url=https://people.com/survivor-season-51-trailer-jeff-probst-new-era-12111574 |access-date=2026-09-12 |website=People}}</ref>
+
+== References ==
+{{Reflist|refs=
+<ref name="The Futon Critic">{{cite web|url=http://www.thefutoncritic.com/showatch/survivor/listings/|title=''Survivor'' Episode Listings|website=[[The Futon Critic]]}}</ref>
+
+<ref name="Zap2it Season 51">{{cite web|url=https://tvlistings.gracenote.com/overview-affiliates.html?programSeriesId=SH00367078&tabName=guide&season=51|title=''Survivor'' Season 51 Episode Guide|website=[[Zap2it]] |date=September 2017 }}</ref>
+}}
+
+==External links==
+*{{Official website|https://www.cbs.com/shows/survivor}}
+
+{{Survivor (American TV series)}}
+
+[[Category:Survivor (American TV series) seasons|51]]
+[[Category:2026 American television seasons]]
+[[Category:2026 in Fiji]]
+[[Category:Television shows shot in Fiji]]
+[[Category:Television shows set in Fiji]]

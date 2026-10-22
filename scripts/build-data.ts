@@ -186,7 +186,8 @@ export function buildSeasonData(inp: BuildInputs): SeasonData {
     if (ep) (ep as EpisodeView).events.push(e);
   }
   const eventLabel = (e: GameEvent): string => {
-    const who = (s?: string) => contestants.find((c) => c.slug === s)?.shortName;
+    // Called while the `contestants` view below is still being built, so read the inputs.
+    const who = (s?: string) => (s && overrides.contestants?.[s]?.shortName) || inp.contestants.find((c) => c.slug === s)?.shortName;
     switch (e.type) {
       case "idol-found": return "found an idol";
       case "idol-played": return `played an idol${e.outcome === "success" ? " ✓" : e.outcome === "fail" ? " ✗" : ""}`;

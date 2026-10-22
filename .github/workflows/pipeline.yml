@@ -34,6 +34,7 @@ concurrency:
 
 permissions:
   contents: write
+  issues: write
   pages: write
   id-token: write
 
@@ -146,3 +147,32 @@ jobs:
           path: dist
       - id: deployment
         uses: actions/deploy-pages@v4
+
+      # A failed run otherwise only shows as a stale site. One open issue at a
+      # time (later failures comment on it); the next green run closes it.
+      - name: Open an issue when the pipeline fails
+        if: ${{ failure() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="Pipeline failing — site not updating"
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "\"$TITLE\" in:title" --json number --jq '.[0].number // empty')
+          if [ -n "$n" ]; then
+            gh issue comment "$n" --repo "$GITHUB_REPOSITORY" --body "Failed again ($GITHUB_EVENT_NAME): $RUN_URL"
+          else
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$TITLE" --body "The $GITHUB_EVENT_NAME run failed: $RUN_URL
+
+          The site keeps showing the last successful build until this is fixed. This issue closes itself on the next successful run."
+          fi
+
+      - name: Close the failure issue once the pipeline is green
+        if: ${{ success() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="Pipeline failing — site not updating"
+          for n in $(gh issue list --repo "$GITHUB_REPOSITORY" --state open --search "\"$TITLE\" in:title" --json number --jq '.[].number'); do
+            gh issue close "$n" --repo "$GITHUB_REPOSITORY" --comment "Green again: $RUN_URL"
+          done

@@ -162,7 +162,8 @@ export function parseVotingHistory(wikitext: string): VotingHistory {
       episode: Number.isFinite(ep) && ep > 0 ? ep : undefined,
       day: day ? Number(day) : undefined,
       tribe,
-      eliminated: eliminated || undefined,
+      // A tied vote or revote column has "Tie" (etc.) where a name would go.
+      eliminated: eliminated && !/^(tie|tied|deadlock(ed)?|revote|none)$/i.test(eliminated) ? eliminated : undefined,
       tally: tally && !/^none$/i.test(tally) ? tally : undefined,
     });
   }
