@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-22T12:44:56.378Z",
+  "syncedAt": "2026-10-22T15:30:23.413Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -84,9 +84,9 @@
       "contestantSlug": "brady-booker"
     },
     {
-      "id": "extra-vote-maggie-nestor-advantage-played-5",
+      "id": "extra-vote-danny-kilby-advantage-played-5",
       "type": "advantage-played",
-      "contestant": "Maggie Nestor",
+      "contestant": "Danny Kilby",
       "source": {
         "page": "Extra Vote",
         "url": "https://survivor.fandom.com/wiki/Extra_Vote"
@@ -96,8 +96,8 @@
       "advantage": "Extra Vote",
       "outcome": "success",
       "target": "Linnea Capobianco",
-      "detail": "y 4-4; 4-4; 4-0",
-      "contestantSlug": "maggie-nestor",
+      "detail": "4-4; 4-4; 4-0",
+      "contestantSlug": "danny-kilby",
       "targetSlug": "linnea-capobianco"
     },
     {
@@ -111,7 +111,7 @@
       "extracted": "table",
       "episode": 5,
       "advantage": "Extra Vote",
-      "detail": "Given to Toka representative for Double Tribal Council twist (must be given to member of Dina or Savu}",
+      "detail": "Given to Toka representative for Double Tribal Council twist (must be given to member of Dina or Savu",
       "contestantSlug": "maggie-nestor"
     },
     {
@@ -127,7 +127,7 @@
       "advantage": "Extra Vote",
       "outcome": "success",
       "target": "Linnea Capobianco",
-      "detail": "y 4-4; 4-4; 4-0",
+      "detail": "4-4; 4-4; 4-0",
       "contestantSlug": "lewis-kelly",
       "targetSlug": "linnea-capobianco"
     },

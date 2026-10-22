@@ -707,6 +707,29 @@
         "Trivia updated for Linnea"
       ],
       "episode": 5
+    },
+    {
+      "id": "2026-10-22T15:31:57.580Z",
+      "at": "2026-10-22T15:31:57.580Z",
+      "source": "pipeline",
+      "summary": "Jeff recapped Ep 5, Claude rewrote 1 castaway profile, all 5 team summaries were refreshed, a new State of the Draft went up, and 1 idol or advantage logged. The pipeline is working again, the pipeline is working again, the pipeline is working again, and the pipeline is working again.",
+      "details": [
+        "Commentary written for Ep 5",
+        "Profile rewritten for Linnea",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 5)",
+        "1 game event added",
+        "1 game event removed",
+        "Resolved: Wikipedia voting history: unmatched name \"Tie\"",
+        "Resolved: Wikipedia voting history: unmatched name \"Tie\"",
+        "Resolved: Wikipedia voting history: unmatched name \"Tie\"",
+        "Resolved: Wikipedia voting history: unmatched name \"Tie\""
+      ],
+      "episode": 5
     }
   ],
   "state": {
@@ -996,7 +1019,8 @@
       "1": "d00fa9aff259",
       "2": "3d924c72a3de",
       "3": "3675019c11da",
-      "4": "11aa381fc0ef"
+      "4": "11aa381fc0ef",
+      "5": "8fd60cd4b104"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
@@ -1012,7 +1036,7 @@
       "jenna-doore": "844a5026ab38",
       "kristin-flickinger": "47ec8c7423c9",
       "lewis-kelly": "0e0b1f1e82df",
-      "linnea-capobianco": "0bc0fea9367b",
+      "linnea-capobianco": "998ada392d0e",
       "maggie-nestor": "3c2e4e287225",
       "mike-pinsky": "3a8c4f0e1adc",
       "ori-jean-charles": "6f8ef76fb168",
@@ -1022,18 +1046,19 @@
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "49dd14a9464b",
-      "kylie": "770c205e214d",
-      "tami": "212940564342",
-      "taylor": "98de6c7b2878",
-      "tim": "65b34d87913e"
+      "austin": "a34e5d6238d0",
+      "kylie": "9e7ad039f769",
+      "tami": "4553f60faaca",
+      "taylor": "63107cd32b9c",
+      "tim": "b58ee138ea35"
     },
     "rundowns": {
       "0": "635052266722",
       "1": "21af1fe535fd",
       "2": "de019f81dc88",
       "3": "5e79af15601e",
-      "4": "61252cda7693"
+      "4": "61252cda7693",
+      "5": "371100892ebc"
     },
     "events": [
       "claude-aaliyah-puglia-x-1",
@@ -1041,10 +1066,10 @@
       "claude-linnea-capobianco-x-2",
       "claude-rob-antonson-x-3",
       "extra-vote-brady-booker-advantage-found-3",
+      "extra-vote-danny-kilby-advantage-played-5",
       "extra-vote-devin-way-advantage-found-3",
       "extra-vote-lewis-kelly-advantage-played-5",
       "extra-vote-maggie-nestor-advantage-found-5",
-      "extra-vote-maggie-nestor-advantage-played-5",
       "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
       "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
@@ -1056,12 +1081,7 @@
       "funFacts": 0,
       "corrections": 1
     },
-    "warnings": [
-      "Wikipedia voting history: unmatched name \"Tie\"",
-      "Wikipedia voting history: unmatched name \"Tie\"",
-      "Wikipedia voting history: unmatched name \"Tie\"",
-      "Wikipedia voting history: unmatched name \"Tie\""
-    ],
+    "warnings": [],
     "standings": [
       {
         "drafterId": "tim",
@@ -1120,6 +1140,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-22T12:44:57.370Z",
+  "lastCheckedAt": "2026-10-22T15:31:57.580Z",
   "quietChecks": 0
 }

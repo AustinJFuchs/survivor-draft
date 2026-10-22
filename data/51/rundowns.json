@@ -217,5 +217,49 @@
     "generatedAt": "2026-10-21T17:48:10.850Z",
     "model": "claude-opus-5",
     "sourceHash": "113f452dd1e8"
+  },
+  "5": {
+    "key": "5",
+    "episode": 5,
+    "eliminations": 7,
+    "headline": "Two torches snuffed, one draft still untouched at the top",
+    "overview": "Day 10 cracked this family draft wide open. Tim sits alone at 28 points, +8 this episode, 4 of 4 still breathing and 86 on the table — that's a 3.75 draft GPA doing exactly what a 3.75 GPA should. Austin and Tami are knotted at 24, but they got there differently: Austin lost Linnea and is down to 2 of 4 with 48 left, while Tami has 3 of 5 alive and 67 on the table. Taylor's 22 is quietly sturdy at 3 of 4. Kylie's 19 is the view from the bottom.",
+    "lines": [
+      {
+        "drafterId": "tim",
+        "text": "Maggie wins immunity, takes the journey, and hands out extra votes like party favors — Untouchable, Wire-to-Wire, and 4 of 4 still in, Tim, you are running this season."
+      },
+      {
+        "drafterId": "austin",
+        "text": "Twenty-four points is a fine place to stand, Austin, but you got there on the backs of two castaways who are already gone, and 48 on the table with a draft GPA of 2 is a thin rope to climb."
+      },
+      {
+        "drafterId": "tami",
+        "text": "Leftover pick #21 Sharonda is your rank-1 steal and she's still in it, Tami — that extra body and the dropped Rob score are the only reasons the Advanced Degree Alliance is tied for second instead of buried."
+      },
+      {
+        "drafterId": "taylor",
+        "text": "Kristin, Ori, and Brady are all still burning, Taylor — 3 of 4 alive with 67 on the table means 22 points is the floor, not the ceiling."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "The Chaos Department lived up to the name: Aaliyah went first for 0, Alexis went fifth this week, and now Cristian and Kilby are carrying 19 points and all your hope."
+      }
+    ],
+    "awards": [
+      {
+        "label": "Draft of the week",
+        "drafterId": "tim",
+        "text": "Plus-eight, immunity from Maggie, and Lewis surviving a four-four deadlock on Dina — Tim had the best night in the family by a mile."
+      },
+      {
+        "label": "Ouch of the week",
+        "drafterId": "austin",
+        "text": "Linnea was blindsided so badly she walked up to be snuffed without her torch, and Austin's roster is down to two."
+      }
+    ],
+    "generatedAt": "2026-10-22T15:31:56.758Z",
+    "model": "claude-opus-5",
+    "sourceHash": "3677b5523d88"
   }
 }
