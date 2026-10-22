@@ -672,6 +672,31 @@
         "State of the Draft rewritten (Ep 4)"
       ],
       "episode": 4
+    },
+    {
+      "id": "2026-10-22T08:25:12.590Z",
+      "at": "2026-10-22T08:25:12.590Z",
+      "source": "pipeline",
+      "summary": "Ep 5 aired and Alexis and Linnea were voted out. ⚠ Wikipedia voting history: unmatched name \"Tie\", Wikipedia voting history: unmatched name \"Tie\", Wikipedia voting history: unmatched name \"Tie\", and Wikipedia voting history: unmatched name \"Tie\".",
+      "details": [
+        "Alexis voted out in Ep 5",
+        "Linnea voted out in Ep 5",
+        "Vote records: 105 → 231",
+        "Trivia updated for Linnea",
+        "6 game events added",
+        "1 game event removed",
+        "⚠ Wikipedia voting history: unmatched name \"Tie\"",
+        "⚠ Wikipedia voting history: unmatched name \"Tie\"",
+        "⚠ Wikipedia voting history: unmatched name \"Tie\"",
+        "⚠ Wikipedia voting history: unmatched name \"Tie\"",
+        "Tim: 1st → 1st, 20 → 28 pts",
+        "Austin: 2nd → 2nd, 19 → 24 pts",
+        "Tami: 3rd → 2nd, 18 → 24 pts",
+        "Taylor: 4th → 4th, 16 → 22 pts",
+        "Kylie: 5th → 5th, 15 → 19 pts"
+      ],
+      "episode": 5,
+      "trouble": true
     }
   ],
   "state": {
@@ -751,6 +776,18 @@
         "kind": "voted-out",
         "episode": 4,
         "jury": false
+      },
+      {
+        "slug": "alexis-levine",
+        "kind": "voted-out",
+        "episode": 5,
+        "jury": false
+      },
+      {
+        "slug": "linnea-capobianco",
+        "kind": "voted-out",
+        "episode": 5,
+        "jury": false
       }
     ],
     "merged": [],
@@ -761,8 +798,9 @@
       "rob-antonson": "Savu",
       "patt-cannaday": "Toka",
       "jenna-doore": "Savu",
-      "brady-booker": "Toka",
+      "alexis-levine": "Savu",
       "linnea-capobianco": "Dina",
+      "brady-booker": "Toka",
       "cristian-chavez": "Dina",
       "sharonda-cox": "Dina",
       "kristin-flickinger": "Toka",
@@ -770,7 +808,6 @@
       "lewis-kelly": "Dina",
       "danny-kilby": "Dina",
       "carter-krull": "Toka",
-      "alexis-levine": "Savu",
       "jelly-loblack": "Savu",
       "eric-macksoud": "Dina",
       "maggie-nestor": "Toka",
@@ -778,7 +815,7 @@
       "mike-pinsky": "Toka",
       "devin-way": "Savu"
     },
-    "votes": 105,
+    "votes": 231,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -886,6 +923,7 @@
       "linnea-capobianco": {
         "birthdate": "2000-04-29",
         "threeWords": "706e3fba831d",
+        "trivia": "cde25187d118",
         "qa": "24ff43f2a518",
         "photos": 1,
         "alliances": 0
@@ -988,10 +1026,15 @@
       "4": "61252cda7693"
     },
     "events": [
+      "claude-aaliyah-puglia-x-1",
       "claude-lewis-kelly-x-0",
-      "claude-rob-antonson-x-1",
+      "claude-linnea-capobianco-x-2",
+      "claude-rob-antonson-x-3",
       "extra-vote-brady-booker-advantage-found-3",
       "extra-vote-devin-way-advantage-found-3",
+      "extra-vote-lewis-kelly-advantage-played-5",
+      "extra-vote-maggie-nestor-advantage-found-5",
+      "extra-vote-maggie-nestor-advantage-played-5",
       "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
       "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
@@ -1003,31 +1046,36 @@
       "funFacts": 0,
       "corrections": 1
     },
-    "warnings": [],
+    "warnings": [
+      "Wikipedia voting history: unmatched name \"Tie\"",
+      "Wikipedia voting history: unmatched name \"Tie\"",
+      "Wikipedia voting history: unmatched name \"Tie\"",
+      "Wikipedia voting history: unmatched name \"Tie\""
+    ],
     "standings": [
       {
         "drafterId": "tim",
-        "total": 20,
+        "total": 28,
         "rank": 1
       },
       {
         "drafterId": "austin",
-        "total": 19,
+        "total": 24,
         "rank": 2
       },
       {
         "drafterId": "tami",
-        "total": 18,
-        "rank": 3
+        "total": 24,
+        "rank": 2
       },
       {
         "drafterId": "taylor",
-        "total": 16,
+        "total": 22,
         "rank": 4
       },
       {
         "drafterId": "kylie",
-        "total": 15,
+        "total": 19,
         "rank": 5
       }
     ],
@@ -1062,6 +1110,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-21T17:48:11.587Z",
+  "lastCheckedAt": "2026-10-22T08:25:12.590Z",
   "quietChecks": 0
 }

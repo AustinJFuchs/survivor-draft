@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-21T17:47:38.447Z",
+  "syncedAt": "2026-10-22T08:25:11.717Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -84,12 +84,60 @@
       "contestantSlug": "brady-booker"
     },
     {
+      "id": "extra-vote-maggie-nestor-advantage-played-5",
+      "type": "advantage-played",
+      "contestant": "Maggie Nestor",
+      "source": {
+        "page": "Extra Vote",
+        "url": "https://survivor.fandom.com/wiki/Extra_Vote"
+      },
+      "extracted": "table",
+      "episode": 5,
+      "advantage": "Extra Vote",
+      "outcome": "success",
+      "target": "Linnea Capobianco",
+      "detail": "y 4-4; 4-4; 4-0",
+      "contestantSlug": "maggie-nestor",
+      "targetSlug": "linnea-capobianco"
+    },
+    {
+      "id": "extra-vote-maggie-nestor-advantage-found-5",
+      "type": "advantage-found",
+      "contestant": "Maggie Nestor",
+      "source": {
+        "page": "Extra Vote",
+        "url": "https://survivor.fandom.com/wiki/Extra_Vote"
+      },
+      "extracted": "table",
+      "episode": 5,
+      "advantage": "Extra Vote",
+      "detail": "Given to Toka representative for Double Tribal Council twist (must be given to member of Dina or Savu}",
+      "contestantSlug": "maggie-nestor"
+    },
+    {
+      "id": "extra-vote-lewis-kelly-advantage-played-5",
+      "type": "advantage-played",
+      "contestant": "Lewis Kelly",
+      "source": {
+        "page": "Extra Vote",
+        "url": "https://survivor.fandom.com/wiki/Extra_Vote"
+      },
+      "extracted": "table",
+      "episode": 5,
+      "advantage": "Extra Vote",
+      "outcome": "success",
+      "target": "Linnea Capobianco",
+      "detail": "y 4-4; 4-4; 4-0",
+      "contestantSlug": "lewis-kelly",
+      "targetSlug": "linnea-capobianco"
+    },
+    {
       "id": "claude-lewis-kelly-x-0",
       "type": "other",
       "contestant": "Lewis Kelly",
       "contestantSlug": "lewis-kelly",
       "advantage": "Exile Island",
-      "detail": "As the odd person out, Lewis was sent to Exile Island and later rejoined the game on the Toka tribe, replacing Aaliyah and evening the tribes at 10-10.",
+      "detail": "As the odd person out due to an odd number of players, Lewis was sent to Exile Island and later rejoined the game on Toka, replacing Aaliyah and evening the tribes at 10-10.",
       "source": {
         "page": "Survivor 51 (wiki twists & footnotes)",
         "url": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -97,12 +145,38 @@
       "extracted": "claude"
     },
     {
-      "id": "claude-rob-antonson-x-1",
+      "id": "claude-aaliyah-puglia-x-1",
+      "type": "other",
+      "contestant": "Aaliyah Puglia",
+      "contestantSlug": "aaliyah-puglia",
+      "advantage": "Tribe swap/replacement",
+      "detail": "Aaliyah was replaced on the Toka tribe by Lewis when he returned from Exile Island.",
+      "source": {
+        "page": "Survivor 51 (wiki twists & footnotes)",
+        "url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      "extracted": "claude"
+    },
+    {
+      "id": "claude-linnea-capobianco-x-2",
+      "type": "other",
+      "contestant": "Linnea Capobianco",
+      "contestantSlug": "linnea-capobianco",
+      "advantage": "Deadlock tie consensus",
+      "detail": "After a deadlocked revote, the non-immune players reached a consensus to eliminate Linnea instead of drawing rocks.",
+      "source": {
+        "page": "Survivor 51 (wiki twists & footnotes)",
+        "url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      "extracted": "claude"
+    },
+    {
+      "id": "claude-rob-antonson-x-3",
       "type": "other",
       "contestant": "Rob Antonson",
       "contestantSlug": "rob-antonson",
-      "advantage": "Quit",
-      "detail": "Rob elected to quit the game due to an injury, with no vote occurring for his removal.",
+      "advantage": "Quit (injury)",
+      "detail": "Rob quit the game due to an injury, with no vote held for his removal.",
       "source": {
         "page": "Survivor 51 (wiki twists & footnotes)",
         "url": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -111,8 +185,8 @@
     }
   ],
   "claude": {
-    "sourceHash": "0faa8262cde5",
-    "generatedAt": "2026-10-15T08:05:40.954Z",
+    "sourceHash": "3d7e0e93cebb",
+    "generatedAt": "2026-10-22T08:25:11.717Z",
     "model": "claude-opus-5"
   },
   "warnings": []
