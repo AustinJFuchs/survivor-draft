@@ -730,6 +730,16 @@
         "Resolved: Wikipedia voting history: unmatched name \"Tie\""
       ],
       "episode": 5
+    },
+    {
+      "id": "2026-10-23T17:37:07.652Z",
+      "at": "2026-10-23T17:37:07.652Z",
+      "source": "pipeline",
+      "summary": "The State of the Draft was rewritten.",
+      "details": [
+        "State of the Draft rewritten (Ep 5)"
+      ],
+      "episode": 5
     }
   ],
   "state": {
@@ -1058,7 +1068,7 @@
       "2": "de019f81dc88",
       "3": "5e79af15601e",
       "4": "61252cda7693",
-      "5": "371100892ebc"
+      "5": "7e99c8a9ddd7"
     },
     "events": [
       "claude-aaliyah-puglia-x-1",
@@ -1140,6 +1150,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-22T17:44:40.034Z",
-  "quietChecks": 1
+  "lastCheckedAt": "2026-10-23T17:37:07.652Z",
+  "quietChecks": 0
 }
