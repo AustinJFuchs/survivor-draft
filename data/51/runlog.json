@@ -740,6 +740,20 @@
         "State of the Draft rewritten (Ep 5)"
       ],
       "episode": 5
+    },
+    {
+      "id": "2026-10-24T16:23:03.789Z",
+      "at": "2026-10-24T16:23:03.789Z",
+      "source": "pipeline",
+      "summary": "1 episode joined the schedule and 1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile, 1 team summary refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Ep 8 added — \"Load the Ark, Two by Two\", airing 2026-11-11",
+        "Trivia updated for Maggie",
+        "Profile rewritten for Maggie",
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (Ep 5)"
+      ],
+      "episode": 5
     }
   ],
   "state": {
@@ -787,6 +801,10 @@
       "7": {
         "title": "You Broke My Heart Like I was a Girl at the Prom",
         "airDate": "2026-11-04"
+      },
+      "8": {
+        "title": "Load the Ark, Two by Two",
+        "airDate": "2026-11-11"
       }
     },
     "eliminations": [
@@ -973,7 +991,7 @@
       },
       "maggie-nestor": {
         "threeWords": "af5b396d7e6f",
-        "trivia": "7c943235e92c",
+        "trivia": "1690114a5392",
         "qa": "604032ca6694",
         "photos": 1,
         "alliances": 0
@@ -1047,7 +1065,7 @@
       "kristin-flickinger": "47ec8c7423c9",
       "lewis-kelly": "0e0b1f1e82df",
       "linnea-capobianco": "998ada392d0e",
-      "maggie-nestor": "3c2e4e287225",
+      "maggie-nestor": "e3add46cf8f2",
       "mike-pinsky": "3a8c4f0e1adc",
       "ori-jean-charles": "6f8ef76fb168",
       "patt-cannaday": "e0ca8ff270e1",
@@ -1060,7 +1078,7 @@
       "kylie": "9e7ad039f769",
       "tami": "4553f60faaca",
       "taylor": "63107cd32b9c",
-      "tim": "b58ee138ea35"
+      "tim": "25330b2bc025"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1068,7 +1086,7 @@
       "2": "de019f81dc88",
       "3": "5e79af15601e",
       "4": "61252cda7693",
-      "5": "7e99c8a9ddd7"
+      "5": "92fc76bc4e43"
     },
     "events": [
       "claude-aaliyah-puglia-x-1",
@@ -1150,6 +1168,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-23T17:37:07.652Z",
+  "lastCheckedAt": "2026-10-24T16:23:03.789Z",
   "quietChecks": 0
 }

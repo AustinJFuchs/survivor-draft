@@ -183,16 +183,16 @@
   },
   "maggie-nestor": {
     "slug": "maggie-nestor",
-    "summary": "Maggie is a West Virginia farmer who has waited 25 years for this, loving Survivor since she was 15. She describes herself as joyful, intentional, and redneck, and she's proudest of the life she and her husband built with their three kids. Her faith and her hometown roots anchor everything.",
+    "summary": "Maggie is a 40-year-old farmer from West Virginia who has watched Survivor since she was 15. She describes herself as joyful, intentional, and redneck, and she's proudest of the life she and her husband built with their three kids. Her faith and her home state shape everything she does.",
     "bullets": [
-      "Farms, gardens, fishes, hunts, runs, lifts, and pole vaults",
-      "First contestant to live in West Virginia during filming",
+      "Farms, fishes, hunts, pole vaults, plays guitar, and teaches",
+      "First castaway to live in West Virginia during filming",
       "Oldest member of the original Toka tribe",
-      "Identifies most with Parvati; wants bold, creative allies"
+      "First to hold two Extra Votes, then gave both away at once"
     ],
-    "generatedAt": "2026-10-16T17:05:34.127Z",
+    "generatedAt": "2026-10-24T16:22:37.758Z",
     "model": "claude-opus-5",
-    "sourceHash": "dde2e76ce66c"
+    "sourceHash": "fde8f25d0fdb"
   },
   "mike-pinsky": {
     "slug": "mike-pinsky",

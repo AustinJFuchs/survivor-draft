@@ -222,44 +222,44 @@
     "key": "5",
     "episode": 5,
     "eliminations": 7,
-    "headline": "Four torches burning, 28 points, and nobody else is close",
-    "overview": "Day 10 and the gap is real, family. Tim sits at 28 with all 4 of 4 still burning, an 86-point table, and a 3.75 draft GPA that makes everybody else's homework look rough. Austin and Tami are knotted at 24 from opposite directions — Austin's down to 2 of 4 after losing Linnea, while Tami's five-deep leftover roster still has 3 of 5 and 67 on the table. Taylor's 22 is quietly tidy with 3 of 4 alive. Kylie's 19 and 2 of 4 means The Chaos Department is living up to the name.",
+    "headline": "Two torches snuffed, one draft still untouched at the top",
+    "overview": "Day 10 split the family right down the middle. Tim sits alone at 28 points with all 4 of 4 still breathing, 86 on the table and a draft GPA of 3.75 that nobody else is close to touching — Untouchable, Wire-to-Wire, Idol Whisperer. Behind him, Austin and Tami are knotted at 24, but they got there differently: Austin's down to 2 of 4 after losing Linnea, while Tami has 3 of 5 and 67 on the table. Taylor's quietly at 22 with 3 of 4 alive. Kylie? 19 points, 2 of 4, and another torch snuffed.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Untouchable, Wire-to-Wire, Idol Whisperer — and Maggie just ran the move of the season while Lewis cashed the extra vote: Tim is playing a different game."
+        "text": "Four for four, +8 this episode, and Maggie out there running the entire game from a journey — Tim's 3.75 GPA isn't luck, it's a clinic."
       },
       {
         "drafterId": "austin",
-        "text": "Twenty-four points is nothing to apologize for, but Linnea walking up torchless after a 6-point run leaves Austin with 2 of 4 and a 48-point ceiling."
+        "text": "Twenty-four points sounds great until you notice Linnea went home without her torch and Austin's down to 2 of 4 with a draft GPA of 2."
       },
       {
         "drafterId": "tami",
-        "text": "Sharonda at pick #21 as a leftover is the steal of the draft, Rob's quit got dropped, and the Advanced Degree Alliance is tied for second anyway."
+        "text": "The Advanced Degree Alliance earned every bit of that leftover luck — Sharonda at #21 is the steal of the draft, and that fifth pick is doing real work covering for Patt and Rob."
       },
       {
         "drafterId": "taylor",
-        "text": "Kristin, Ori and Brady all still in at 7 points apiece — Taylor's 22 is the steadiest floor in the family, even with Ana's 1 point hanging around."
+        "text": "Quietly sitting on 3 of 4 alive and 67 on the table, Taylor's Brady steal at #19 is the kind of pick that wins these things."
       },
       {
         "drafterId": "kylie",
-        "text": "First Blood is a badge you only want once, and after Alexis went 3-1, Kylie's leaning hard on Cristian and Kilby to drag The Chaos Department back."
+        "text": "The Chaos Department lives up to the name — Alexis gone at 5th, Aaliyah gone first, and Kylie's 19 points are propped up entirely by Cristian and Kilby."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Plus-8, four for four, and 86 points still on the table — Tim's farmhands are absolutely untouchable."
+        "text": "Plus-eight, all four standing, and a castaway who handed out two extra votes across tribes like party favors."
       },
       {
         "label": "Ouch of the week",
-        "drafterId": "kylie",
-        "text": "Alexis goes out 3-1 as the 5th voted out, and Kylie drops to 2 of 4 and last place at 19."
+        "drafterId": "austin",
+        "text": "Three people folded at Dina and Linnea walked up to Tribal so stunned she forgot her torch — that one stings."
       }
     ],
-    "generatedAt": "2026-10-23T17:37:07.066Z",
+    "generatedAt": "2026-10-24T16:23:03.177Z",
     "model": "claude-opus-5",
-    "sourceHash": "89e4c69e0ddd"
+    "sourceHash": "31a3704fedf0"
   }
 }

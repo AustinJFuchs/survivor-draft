@@ -89,24 +89,24 @@
   },
   "tim": {
     "drafterId": "tim",
-    "nickname": "The Untouchable Farmhands",
-    "summary": "Tim, you drafted 4th and somehow built a wall. Four of 4 still in the game, 28 counted points, rank 1 of 5, and a 3.75 draft GPA to back it up. Seven boots have come and gone and not one of them was yours — Untouchable, Wire-to-Wire, Idol Whisperer, the whole shelf. Ep 1 gave you +4, Ep 3 gave you +8, and 86 points are still on the table. Remarkable.",
+    "nickname": "Two Farmers, Two Dreamers",
+    "summary": "Tim, you drafted fourth and somehow walked off with the whole barn. Rank 1 of 5, 28 counted points, 4 of 4 still in the game, and seven boots have come and gone without one of them being yours — that's Untouchable, and you've co-led or led after every single elimination. A 3.75 draft GPA, two idols found, and Ep 3 handed you your best week at +8. Remarkable.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Nobody's carrying it alone — Lewis, Maggie, Devin, and Thien An are all sitting on 7 pts and all four rank 1 of 21, with Thien An the steal of the draft at pick #17."
+        "text": "There's no passenger here — Lewis, Maggie, Devin and Thien An are each sitting on 7 pts and each ranked 1 of 21, a four-way engine room that's kept you Wire-to-Wire."
       },
       {
         "label": "Cause for concern",
-        "text": "If there's a soft spot it's Lewis Kelly, your #4 pick and the only B grade on a roster otherwise stacked with A's."
+        "text": "If you're hunting for a soft spot, Lewis Kelly's B grade is the only mark below an A on this roster, and Ep 1 was your quietest week at +4."
       },
       {
         "label": "Watch for",
-        "text": "Your roster leads the field with 2 idols and advantages found — watch how Maggie and Thien An navigate sharing a Toka tribe with 86 points still out there."
+        "text": "There are 86 points still on the table and the leader has 28 — so watch whether your Idol Whisperer crew, already 2 found, keeps turning advantages into separation."
       }
     ],
-    "generatedAt": "2026-10-22T15:31:27.464Z",
+    "generatedAt": "2026-10-24T16:22:51.541Z",
     "model": "claude-opus-5",
-    "sourceHash": "591c3b6813e2"
+    "sourceHash": "39250680bb99"
   }
 }

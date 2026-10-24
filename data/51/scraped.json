@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-23T17:36:48.067Z",
+  "syncedAt": "2026-10-24T16:22:27.279Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -210,6 +210,7 @@
       "number": 5,
       "title": "Not Here to Get a Pedicure",
       "airDate": "2026-10-21",
+      "synopsis": "Devin celebrates successfully blindsiding Jenna. Devin, Ori, and Alexis bond by sharing personal stories. Meanwhile, on Dina, Lewis recovers from his illness and attempts to ingratiate himself with the original four Savu members, Sharonda, Christian, Linnea, and Eric. Kilby and Eric continue to bond. On Toka, Thien An wants to target Mike, but Maggie and Carter want to target Kristen first. Brady is frustrated by Maggie's reluctance to work with him, despite having given her the extra vote. *Reward and Immunity Challenge: One tribe member must climb a ladder, retrieve a buoy, and jump into the ocean, followed by another tribe member. A third tribe member must then dive down to retrieve a third buoy. Those these tribe members must then all balance the buoys on a disc and cross parallel balance beam together, where a fourth tribe member collects them and must throw them onto different targets. The first tribe to finish wins sweet treats and immunity. Toka easily wins, meaning that Dina and Savu will be going to tribal council. On Toka, the tribe learn that one of them will have to sacrifice their place in the reward to instead travel to a different tribe. Carter randomly draws Maggie's name, as she chooses to visit Dina, worried that her allies of Kilby and Lewis are in danger. On the boat, she learns that she can give one person on Dina an extra vote. On Savu, Alexis wants to target Devin and attempts to convince Jelly to join her and Ori in this. Jelly is conflicted between turning on the helicopter alliance and voting out a person of color or voting out a woman, as no man has left yet. Ultimately, Jelly stays loyal to the helicopter alliance and Alexis is blindsided and voted out in a 3-1 vote. On Toka, Lewis makes an attempt to save himself by pretending his Irish wedding ring is a new style of advantage called the \"blood ring\" which will tie his fate in the game to a player of his choosing. He gives the ring to Sharonda, but Christian recognizes it from a description Lewis had given about Irish wedding rings days prior, revealing the lie. Maggie arrives and has individual meetings with each Dina member, quickly becoming worried about the strong alliance of the original four Savu members. Before she leaves, Maggie gives Kilby the extra vote and Lewis her personal extra vote, requesting that they tie the vote on Linnea at tribal council. Kilby is conflicted due to his close relationship with Eric and knows that Lewis will be targeted first. At tribal council, Kilby tells the original Savu members about the advantage that Maggie gave him. However, he sides with Lewis and Maggie by using his extra vote and tying the vote 4-4 between Lewis and Linnea. The Savu alliance attempt to convince Kilby to change his vote, taking him for private one to ones to try and convince him, but on the revote it is once again tied 4-4. Jeff informs the castaways that they must come to a unanimous decision or the four with no votes will have to draw rocks. After Kilby once again refuses to vote out Lewis, and Sharonda, Christian, and Eric all change their votes to Linnea to avoid drawing rocks, leading to her being voted out 4-0.",
       "aired": true,
       "rewardWinners": "; Brady, Kristin, , Mike, Thien An (Toka)",
       "immunityWinners": "; Toka"
@@ -224,6 +225,12 @@
       "number": 7,
       "title": "You Broke My Heart Like I was a Girl at the Prom",
       "airDate": "2026-11-04",
+      "aired": false
+    },
+    {
+      "number": 8,
+      "title": "Load the Ark, Two by Two",
+      "airDate": "2026-11-11",
       "aired": false
     }
   ],
@@ -1180,7 +1187,8 @@
       ],
       "trivia": [
         "Maggie is the first contestant to reside in West Virginia during filming.",
-        "Maggie is the oldest member of the original Toka tribe."
+        "Maggie is the oldest member of the original Toka tribe.",
+        "Maggie is the first castaway to hold two Extra Votes at the same time. She is the first to give them away to two different contestants simultaneously."
       ],
       "pageUrl": "https://survivor.fandom.com/wiki/Maggie_Nestor",
       "photos": [
