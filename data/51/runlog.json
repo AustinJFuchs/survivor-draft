@@ -754,6 +754,24 @@
         "State of the Draft rewritten (Ep 5)"
       ],
       "episode": 5
+    },
+    {
+      "id": "2026-10-25T16:55:36.048Z",
+      "at": "2026-10-25T16:55:36.048Z",
+      "source": "pipeline",
+      "summary": "3 castaways' wiki entries got touched up. Claude rewrote 3 castaway profiles, 2 team summaries refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Bio updated for Alexis",
+        "Bio updated for Jenna",
+        "Bio updated for Linnea",
+        "Profile rewritten for Alexis",
+        "Profile rewritten for Jenna",
+        "Profile rewritten for Linnea",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "State of the Draft rewritten (Ep 5)"
+      ],
+      "episode": 5
     }
   ],
   "state": {
@@ -889,6 +907,7 @@
       },
       "alexis-levine": {
         "birthdate": "1992-03-27",
+        "bio": "7e8ddae333e5",
         "threeWords": "e799d7ca5500",
         "qa": "a7505800781c",
         "photos": 1,
@@ -960,6 +979,7 @@
       },
       "jenna-doore": {
         "birthdate": "1995-04-27",
+        "bio": "a94e28dc4ac6",
         "threeWords": "4023a392b640",
         "qa": "602c86c8bdb1",
         "photos": 1,
@@ -983,6 +1003,7 @@
       },
       "linnea-capobianco": {
         "birthdate": "2000-04-29",
+        "bio": "acbd1f91729e",
         "threeWords": "706e3fba831d",
         "trivia": "4fb178ecf0b3",
         "qa": "24ff43f2a518",
@@ -1052,7 +1073,7 @@
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
-      "alexis-levine": "5b271985fee4",
+      "alexis-levine": "a24ad41e9ce7",
       "ana-sani": "7071af320a76",
       "brady-booker": "8384f92bf0c9",
       "carter-krull": "8736fc5c7d28",
@@ -1061,10 +1082,10 @@
       "devin-way": "e67fa11228e2",
       "eric-macksoud": "3eae504f28f2",
       "jelly-loblack": "d287fc5ca5c2",
-      "jenna-doore": "844a5026ab38",
+      "jenna-doore": "583c76795c19",
       "kristin-flickinger": "47ec8c7423c9",
       "lewis-kelly": "0e0b1f1e82df",
-      "linnea-capobianco": "998ada392d0e",
+      "linnea-capobianco": "047e70082c2f",
       "maggie-nestor": "e3add46cf8f2",
       "mike-pinsky": "3a8c4f0e1adc",
       "ori-jean-charles": "6f8ef76fb168",
@@ -1074,8 +1095,8 @@
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "a34e5d6238d0",
-      "kylie": "9e7ad039f769",
+      "austin": "660f4975011e",
+      "kylie": "1c9fd4dd0ef8",
       "tami": "4553f60faaca",
       "taylor": "63107cd32b9c",
       "tim": "25330b2bc025"
@@ -1086,7 +1107,7 @@
       "2": "de019f81dc88",
       "3": "5e79af15601e",
       "4": "61252cda7693",
-      "5": "92fc76bc4e43"
+      "5": "4f657021b7f8"
     },
     "events": [
       "claude-aaliyah-puglia-x-1",
@@ -1168,6 +1189,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-24T16:23:03.789Z",
+  "lastCheckedAt": "2026-10-25T16:55:36.048Z",
   "quietChecks": 0
 }

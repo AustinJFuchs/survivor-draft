@@ -222,44 +222,44 @@
     "key": "5",
     "episode": 5,
     "eliminations": 7,
-    "headline": "Two torches snuffed, one draft still untouched at the top",
-    "overview": "Day 10 split the family right down the middle. Tim sits alone at 28 points with all 4 of 4 still breathing, 86 on the table and a draft GPA of 3.75 that nobody else is close to touching — Untouchable, Wire-to-Wire, Idol Whisperer. Behind him, Austin and Tami are knotted at 24, but they got there differently: Austin's down to 2 of 4 after losing Linnea, while Tami has 3 of 5 and 67 on the table. Taylor's quietly at 22 with 3 of 4 alive. Kylie? 19 points, 2 of 4, and another torch snuffed.",
+    "headline": "Four for four: one draft is still completely untouched",
+    "overview": "Five drafts, one untouched roster. Tim sits at 28 points with all 4 of 4 still in, 86 on the table, a 3.75 draft GPA, and badges stacked like firewood — Untouchable, Wire-to-Wire, Idol Whisperer. Behind him, Austin and Tami are knotted at 24, but they got there differently: Austin is down to 2 of 4 after losing Linnea, while Tami's five-pick leftover gamble keeps 3 of 5 alive with 67 on the table. Taylor's 22 and 3 of 4 is quietly sturdy. Kylie's 19 and 2 of 4 is the one bleeding.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Four for four, +8 this episode, and Maggie out there running the entire game from a journey — Tim's 3.75 GPA isn't luck, it's a clinic."
+        "text": "Lewis, Maggie, Devin and Thien An all sitting on 7 points apiece — that's a 3.75 GPA, 86 on the table, and a steal at #17 that's now ranked 1."
       },
       {
         "drafterId": "austin",
-        "text": "Twenty-four points sounds great until you notice Linnea went home without her torch and Austin's down to 2 of 4 with a draft GPA of 2."
+        "text": "Twenty-four points is a fine place to stand, but losing Linnea drops Austin to 2 of 4 with only 48 on the table and a 2 draft GPA staring back."
       },
       {
         "drafterId": "tami",
-        "text": "The Advanced Degree Alliance earned every bit of that leftover luck — Sharonda at #21 is the steal of the draft, and that fifth pick is doing real work covering for Patt and Rob."
+        "text": "The leftover pick #21 Sharonda is now her number one steal, Rob's quit got dropped from the math, and 3 of 5 alive keeps 67 points in play — Leftover Luck indeed."
       },
       {
         "drafterId": "taylor",
-        "text": "Quietly sitting on 3 of 4 alive and 67 on the table, Taylor's Brady steal at #19 is the kind of pick that wins these things."
+        "text": "Kristin, Ori and Brady all banked 7 points this episode, and that #19 pro wrestler turning into a rank-1 steal is why Taylor's 22 feels bigger than it reads."
       },
       {
         "drafterId": "kylie",
-        "text": "The Chaos Department lives up to the name — Alexis gone at 5th, Aaliyah gone first, and Kylie's 19 points are propped up entirely by Cristian and Kilby."
+        "text": "First Blood came early and it's been costly ever since — Aaliyah at 0, Alexis snuffed this week, and 19 points with 2 of 4 left is the thinnest roster on the board."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Plus-eight, all four standing, and a castaway who handed out two extra votes across tribes like party favors."
+        "text": "Plus-8 this episode, nobody touched, and Maggie's journey move was the centerpiece of the entire night."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "austin",
-        "text": "Three people folded at Dina and Linnea walked up to Tribal so stunned she forgot her torch — that one stings."
+        "text": "Linnea walked to Tribal, got blindsided four-four-rocks-pending, and left so stunned she came up without her torch."
       }
     ],
-    "generatedAt": "2026-10-24T16:23:03.177Z",
+    "generatedAt": "2026-10-25T16:55:35.181Z",
     "model": "claude-opus-5",
-    "sourceHash": "31a3704fedf0"
+    "sourceHash": "20c92604e93f"
   }
 }

@@ -14,16 +14,16 @@
   },
   "alexis-levine": {
     "slug": "alexis-levine",
-    "summary": "Alexis is a criminal defense attorney from Atlanta who spends her days defending people against the government — work that keeps her thinking creatively from the bottom. Outgoing, thoughtful, and determined, she's proudest of ten years of sobriety and most inspired by her daughter, Lyla.",
+    "summary": "Alexis is a criminal defense attorney from Atlanta who's used to fighting from the bottom and thinking creatively. Outgoing, thoughtful, and determined, she draws strength from ten years of sobriety and from her daughter, Lyla. She values alliance partners who think differently than she does.",
     "bullets": [
-      "Ten years sober, and counting it as her greatest accomplishment",
-      "Iranian on her dad's side; hopes to visit Iran one day",
-      "Wants an ally who thinks nothing like her — diversity as strategy",
-      "Unwinds with gardening, books, and long walks with her family and two poodles"
+      "Defends the little guy against the government for a living",
+      "Proudest accomplishment: 10 years of sobriety",
+      "Iranian on her father's side, and hopes to visit one day",
+      "Gardens, reads, and walks with her husband, daughter, and two poodles"
     ],
-    "generatedAt": "2026-09-26T16:49:49.916Z",
+    "generatedAt": "2026-10-25T16:54:53.999Z",
     "model": "claude-opus-5",
-    "sourceHash": "77467af4bbf6"
+    "sourceHash": "f30e5d02f599"
   },
   "ana-sani": {
     "slug": "ana-sani",
@@ -131,16 +131,16 @@
   },
   "jenna-doore": {
     "slug": "jenna-doore",
-    "summary": "Jenna is a Toledo wedding photographer who has watched Survivor with her family since she was seven. She's empathetic, determined, and energetic, drawn to the game for what it reveals about a person pushed outside their comfort zone. Behind the sweet, artistic exterior is a strategist who's been planning this for years.",
+    "summary": "Jenna is a Toledo wedding photographer who has watched Survivor with her family since she was seven. Empathetic, determined, and energetic, she reads as the sweet artistic type but keeps a strategic side tucked behind the camera. She values genuine connection over convenience, and plays for the people cheering her on.",
     "bullets": [
       "Bought her first camera at 15 with babysitting money",
-      "Put a \"Survivor Clause\" in five years of wedding contracts",
-      "Gave away 154 original poems in exchange for people's dreams",
-      "Writes poetry, runs, and never turns down an adventurous hike"
+      "Put a 'Survivor Clause' in her wedding contracts for five years",
+      "Gave away 154 poems in exchange for hearing people's dreams",
+      "Blindsided 4–1 on Savu, finishing 17th"
     ],
-    "generatedAt": "2026-09-27T17:22:39.835Z",
+    "generatedAt": "2026-10-25T16:54:57.647Z",
     "model": "claude-opus-5",
-    "sourceHash": "5a40bfe29ee6"
+    "sourceHash": "d8c5ce88b5b9"
   },
   "kristin-flickinger": {
     "slug": "kristin-flickinger",
@@ -170,16 +170,16 @@
   },
   "linnea-capobianco": {
     "slug": "linnea-capobianco",
-    "summary": "Linnea is a 25-year-old entrepreneur from Kearny, New Jersey, who runs her own business in New York City. She describes herself as rational, outgoing and optimistic, and says yes to anything uncomfortable because growth lives there. Her Washington, D.C. years taught her how to build relationships across differences.",
+    "summary": "Linnea is a 25-year-old entrepreneur from Kearny, New Jersey, who runs her own business in New York City. She describes herself as rational, outgoing and optimistic, and credits her years studying and working in Washington, D.C. for teaching her how to build relationships across differences. She says yes to challenges and wants a life full of experience.",
     "bullets": [
-      "Shoots street photography, takes Lagree classes, goes to jazz shows",
-      "Gets uncontrollable laughing fits at exactly the wrong moments",
+      "Shoots street photography, takes Lagree classes and goes to jazz shows",
+      "Prone to uncontrollable laughing fits at exactly the wrong moments",
       "Inspired by war photographer Lynsey Addario, a voice for the voiceless",
-      "Wants allies who stay rational and don't spiral into paranoia"
+      "Pet peeve: conversation circles that leave someone standing outside them"
     ],
-    "generatedAt": "2026-10-22T15:30:46.129Z",
+    "generatedAt": "2026-10-25T16:55:01.230Z",
     "model": "claude-opus-5",
-    "sourceHash": "e8a1905aa660"
+    "sourceHash": "b305ecf2ed58"
   },
   "maggie-nestor": {
     "slug": "maggie-nestor",

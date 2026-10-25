@@ -1,47 +1,47 @@
 {
   "austin": {
     "drafterId": "austin",
-    "nickname": "The Snow Cone Counselors",
-    "summary": "Austin, you picked last in the snake order and still walked away with two castaways sitting at rank 1 of 21 — Carter and Eric, both grade A. That's 24 counted points, rank 2 (tied) of 5, with the leader at 28 and 48 points still on the table. Ep 3 handed you +8; Ep 4 only +3. Your Draft GPA is 2 and you've watched 2 torches snuffed. Still very much alive.",
+    "nickname": "Farmers and Feelings",
+    "summary": "Austin, drafting 5th meant waiting, and waiting paid off — Eric at pick #16 ranks 1, the steal of this draft. You're sitting at rank 2 (tied) of 5 with 24 counted points, with the leader at 28 and 48 points still on the table. The Torch Collector badge says you've watched 2 torches snuffed, and Jenna at pick #6 ranking 17 still stings. But 2 of 4 remain. You're very much in contention.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Carter Krull and Eric Macksoud are both still in the game at 7 pts and rank 1 of 21 — the Sioux Falls livestock farmer and the Windsor Locks counselor are the engine of this roster."
+        "text": "Eric and Carter are both sitting at 7 pts, rank 1 of 21, grade A — a mental health counselor and a livestock farmer doing the heavy lifting side by side."
       },
       {
         "label": "Cause for concern",
-        "text": "The top of your draft bit back: Jenna Doore at pick #6 is your reach at rank 17 of 21 with 4 pts and a grade F, and Linnea Capobianco at pick #5 finished with 6 pts and an F."
+        "text": "A draft GPA of 2 reflects the early damage: Jenna went 4th voted out with 4 pts and Linnea 6th voted out with 6 pts, both graded F."
       },
       {
         "label": "Watch for",
-        "text": "Eric was your steal at pick #16, and with Carter over on Toka and Eric on Dina, keep your eyes on whether those two A-grade bonds keep converting week after week."
+        "text": "After an Ep 3 high of +8 and an Ep 4 low of +3, the question is whether Eric's fast bonds and Carter's competitive streak can close that four-point gap on the leader."
       }
     ],
-    "generatedAt": "2026-10-22T15:31:41.967Z",
+    "generatedAt": "2026-10-25T16:55:21.744Z",
     "model": "claude-opus-5",
-    "sourceHash": "8dea7a1ca7dd"
+    "sourceHash": "278a01d44405"
   },
   "kylie": {
     "drafterId": "kylie",
-    "nickname": "The Chaos Department",
-    "summary": "Kylie, you took the first punch of this entire season — Aaliyah at pick #3, gone Ep 1, and the First Blood badge is yours forever. Add the Torch Collector badge with 2 torches snuffed and a 2.25 draft GPA, and yes, you're rank 5 of 5 with 19 counted points. But hear me now: 48 points are still on the table, the leader has 28, and your two remaining names are both ranked 1 of 21. You are very much still in this.",
+    "nickname": "Chaotic Dina Duo",
+    "summary": "Kylie, you took the first punch of this whole season — Aaliyah went home Ep 1, and that First Blood badge is yours forever. Add a Torch Collector badge for 2 torches snuffed and a 2.25 draft GPA, and yes, you're rank 5 of 5 with 19 counted points. But hold on. Your pick #18, Kilby, ranks 1. Cristian ranks 1. There are 48 points still on the table and the leader has 28. You are very much alive.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Cristian and Kilby are tied at the very top with 7 pts apiece, rank 1 of 21, both grade A — and Kilby at pick #18 is the steal of your entire draft."
+        "text": "Cristian and Kilby are both sitting at 7 pts and rank 1 of 21, two grade-A engines on Dina doing every bit of the lifting."
       },
       {
         "label": "Cause for concern",
-        "text": "Aaliyah went home first at 0 pts and rank 21 of 21, a grade F at pick #3, and Alexis followed in Ep 5 with 5 pts and a D."
+        "text": "Aaliyah at pick #3 was the reach that stung — 0 pts, rank 21 of 21, grade F, gone first — and Alexis followed her out in Ep 5 with 5 pts."
       },
       {
         "label": "Watch for",
-        "text": "Your two Dina men are both still in the game, so watch whether that Ep 3 high of +6 becomes your new normal as those 48 points get handed out."
+        "text": "Whether your Dina pair can keep stacking weeks like Ep 3 (+6) and chase down that 28."
       }
     ],
-    "generatedAt": "2026-10-22T15:31:17.494Z",
+    "generatedAt": "2026-10-25T16:55:11.921Z",
     "model": "claude-opus-5",
-    "sourceHash": "ffc50fb63fdf"
+    "sourceHash": "05cca13c1d30"
   },
   "tami": {
     "drafterId": "tami",
