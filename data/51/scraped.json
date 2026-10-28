@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-27T18:29:06.123Z",
+  "syncedAt": "2026-10-28T18:34:56.735Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -219,7 +219,7 @@
       "number": 6,
       "title": "I Love Crying",
       "airDate": "2026-10-28",
-      "aired": false
+      "aired": true
     },
     {
       "number": 7,
