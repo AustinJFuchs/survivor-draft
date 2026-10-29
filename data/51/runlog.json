@@ -782,6 +782,28 @@
         "Ep 7 titled \"You Broke My Heart Like I Was a Girl at the Prom\""
       ],
       "episode": 5
+    },
+    {
+      "id": "2026-10-29T09:37:25.762Z",
+      "at": "2026-10-29T09:37:25.762Z",
+      "source": "pipeline",
+      "summary": "Ep 6 aired and Ori was voted out. Austin slid to 3rd.",
+      "details": [
+        "Ori voted out in Ep 6",
+        "Tribe Mergedtribe: Brady, Cristian, Sharonda, Kristin, Lewis, Kilby, Carter, Jelly, Eric, Maggie, Thien An, Mike, Devin",
+        "Vote records: 231 → 252",
+        "Commentary written for Ep 6",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "5 game events added",
+        "2 game events removed",
+        "Tim: 1st → 1st, 28 → 44 pts",
+        "Tami: 2nd → 2nd, 24 → 36 pts",
+        "Austin: 2nd → 3rd, 24 → 32 pts",
+        "Taylor: 4th → 4th, 22 → 30 pts",
+        "Kylie: 5th → 5th, 19 → 27 pts"
+      ],
+      "episode": 6
     }
   ],
   "state": {
@@ -877,9 +899,29 @@
         "kind": "voted-out",
         "episode": 5,
         "jury": false
+      },
+      {
+        "slug": "ori-jean-charles",
+        "kind": "voted-out",
+        "episode": 6,
+        "jury": false
       }
     ],
-    "merged": [],
+    "merged": [
+      "brady-booker",
+      "carter-krull",
+      "cristian-chavez",
+      "danny-kilby",
+      "devin-way",
+      "eric-macksoud",
+      "jelly-loblack",
+      "kristin-flickinger",
+      "lewis-kelly",
+      "maggie-nestor",
+      "mike-pinsky",
+      "sharonda-cox",
+      "thien-an-nguyen"
+    ],
     "finalists": [],
     "tribes": {
       "aaliyah-puglia": "Toka",
@@ -889,22 +931,22 @@
       "jenna-doore": "Savu",
       "alexis-levine": "Savu",
       "linnea-capobianco": "Dina",
-      "brady-booker": "Toka",
-      "cristian-chavez": "Dina",
-      "sharonda-cox": "Dina",
-      "kristin-flickinger": "Toka",
       "ori-jean-charles": "Savu",
-      "lewis-kelly": "Dina",
-      "danny-kilby": "Dina",
-      "carter-krull": "Toka",
-      "jelly-loblack": "Savu",
-      "eric-macksoud": "Dina",
-      "maggie-nestor": "Toka",
-      "thien-an-nguyen": "Toka",
-      "mike-pinsky": "Toka",
-      "devin-way": "Savu"
+      "brady-booker": "Mergedtribe",
+      "cristian-chavez": "Mergedtribe",
+      "sharonda-cox": "Mergedtribe",
+      "kristin-flickinger": "Mergedtribe",
+      "lewis-kelly": "Mergedtribe",
+      "danny-kilby": "Mergedtribe",
+      "carter-krull": "Mergedtribe",
+      "jelly-loblack": "Mergedtribe",
+      "eric-macksoud": "Mergedtribe",
+      "maggie-nestor": "Mergedtribe",
+      "thien-an-nguyen": "Mergedtribe",
+      "mike-pinsky": "Mergedtribe",
+      "devin-way": "Mergedtribe"
     },
-    "votes": 231,
+    "votes": 252,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -1079,7 +1121,8 @@
       "2": "3d924c72a3de",
       "3": "3675019c11da",
       "4": "11aa381fc0ef",
-      "5": "8fd60cd4b104"
+      "5": "8fd60cd4b104",
+      "6": "72ce351de7d7"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
@@ -1107,8 +1150,8 @@
     "teams": {
       "austin": "660f4975011e",
       "kylie": "1c9fd4dd0ef8",
-      "tami": "4553f60faaca",
-      "taylor": "63107cd32b9c",
+      "tami": "513416fd7acd",
+      "taylor": "ab81096ae2c4",
       "tim": "25330b2bc025"
     },
     "rundowns": {
@@ -1122,17 +1165,20 @@
     "events": [
       "claude-aaliyah-puglia-x-1",
       "claude-lewis-kelly-x-0",
-      "claude-linnea-capobianco-x-2",
-      "claude-rob-antonson-x-3",
+      "claude-linnea-capobianco-x-3",
+      "claude-rob-antonson-x-2",
       "extra-vote-brady-booker-advantage-found-3",
       "extra-vote-danny-kilby-advantage-played-5",
       "extra-vote-devin-way-advantage-found-3",
       "extra-vote-lewis-kelly-advantage-played-5",
       "extra-vote-maggie-nestor-advantage-found-5",
       "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
+      "hidden-immunity-idol-history-kristin-flickinger-idol-found-6",
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
+      "journey-sharonda-cox-journey-6",
       "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
-      "shot-in-the-dark-jenna-doore-shot-in-the-dark-1"
+      "shot-in-the-dark-jenna-doore-shot-in-the-dark-1",
+      "shot-in-the-dark-ori-jean-charles-shot-in-the-dark-6"
     ],
     "overrides": {
       "notes": 0,
@@ -1144,27 +1190,27 @@
     "standings": [
       {
         "drafterId": "tim",
-        "total": 28,
+        "total": 44,
         "rank": 1
       },
       {
-        "drafterId": "austin",
-        "total": 24,
+        "drafterId": "tami",
+        "total": 36,
         "rank": 2
       },
       {
-        "drafterId": "tami",
-        "total": 24,
-        "rank": 2
+        "drafterId": "austin",
+        "total": 32,
+        "rank": 3
       },
       {
         "drafterId": "taylor",
-        "total": 22,
+        "total": 30,
         "rank": 4
       },
       {
         "drafterId": "kylie",
-        "total": 19,
+        "total": 27,
         "rank": 5
       }
     ],
@@ -1199,6 +1245,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-28T18:35:03.192Z",
-  "quietChecks": 2
+  "lastCheckedAt": "2026-10-29T09:37:25.762Z",
+  "quietChecks": 0
 }

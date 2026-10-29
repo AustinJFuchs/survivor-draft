@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-28T18:34:56.735Z",
+  "syncedAt": "2026-10-29T09:36:16.523Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -57,38 +57,6 @@
         "Dina"
       ]
     },
-    "brady-booker": {
-      "original": "Toka",
-      "current": "Toka",
-      "history": [
-        "Toka",
-        "Toka"
-      ]
-    },
-    "cristian-chavez": {
-      "original": "Savu",
-      "current": "Dina",
-      "history": [
-        "Savu",
-        "Dina"
-      ]
-    },
-    "sharonda-cox": {
-      "original": "Savu",
-      "current": "Dina",
-      "history": [
-        "Savu",
-        "Dina"
-      ]
-    },
-    "kristin-flickinger": {
-      "original": "Savu",
-      "current": "Toka",
-      "history": [
-        "Savu",
-        "Toka"
-      ]
-    },
     "ori-jean-charles": {
       "original": "Savu",
       "current": "Savu",
@@ -97,77 +65,135 @@
         "Savu"
       ]
     },
-    "lewis-kelly": {
+    "brady-booker": {
       "original": "Toka",
-      "current": "Dina",
+      "current": "Mergedtribe",
       "history": [
         "Toka",
-        "Dina"
-      ]
+        "Toka",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
+    },
+    "cristian-chavez": {
+      "original": "Savu",
+      "current": "Mergedtribe",
+      "history": [
+        "Savu",
+        "Dina",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
+    },
+    "sharonda-cox": {
+      "original": "Savu",
+      "current": "Mergedtribe",
+      "history": [
+        "Savu",
+        "Dina",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
+    },
+    "kristin-flickinger": {
+      "original": "Savu",
+      "current": "Mergedtribe",
+      "history": [
+        "Savu",
+        "Toka",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
+    },
+    "lewis-kelly": {
+      "original": "Toka",
+      "current": "Mergedtribe",
+      "history": [
+        "Toka",
+        "Dina",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     },
     "danny-kilby": {
       "original": "Toka",
-      "current": "Dina",
+      "current": "Mergedtribe",
       "history": [
         "Toka",
-        "Dina"
-      ]
+        "Dina",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     },
     "carter-krull": {
       "original": "Savu",
-      "current": "Toka",
+      "current": "Mergedtribe",
       "history": [
         "Savu",
-        "Toka"
-      ]
+        "Toka",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     },
     "jelly-loblack": {
       "original": "Toka",
-      "current": "Savu",
+      "current": "Mergedtribe",
       "history": [
         "Toka",
-        "Savu"
-      ]
+        "Savu",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     },
     "eric-macksoud": {
       "original": "Savu",
-      "current": "Dina",
+      "current": "Mergedtribe",
       "history": [
         "Savu",
-        "Dina"
-      ]
+        "Dina",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     },
     "maggie-nestor": {
       "original": "Toka",
-      "current": "Toka",
+      "current": "Mergedtribe",
       "history": [
         "Toka",
-        "Toka"
-      ]
+        "Toka",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     },
     "thien-an-nguyen": {
       "original": "Toka",
-      "current": "Toka",
+      "current": "Mergedtribe",
       "history": [
         "Toka",
-        "Toka"
-      ]
+        "Toka",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     },
     "mike-pinsky": {
       "original": "Toka",
-      "current": "Toka",
+      "current": "Mergedtribe",
       "history": [
         "Toka",
-        "Toka"
-      ]
+        "Toka",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     },
     "devin-way": {
       "original": "Toka",
-      "current": "Savu",
+      "current": "Mergedtribe",
       "history": [
         "Toka",
-        "Savu"
-      ]
+        "Savu",
+        "Mergedtribe"
+      ],
+      "merged": "Mergedtribe"
     }
   },
   "episodes": [
@@ -219,7 +245,8 @@
       "number": 6,
       "title": "I Love Crying",
       "airDate": "2026-10-28",
-      "aired": true
+      "aired": true,
+      "immunityWinners": "Toka; Dina"
     },
     {
       "number": 7,
@@ -297,10 +324,33 @@
       "placementText": "6th voted out",
       "juryMember": false,
       "episode": 5
+    },
+    {
+      "order": 8,
+      "contestantSlug": "ori-jean-charles",
+      "day": 12,
+      "kind": "voted-out",
+      "placementText": "7th voted out",
+      "juryMember": false,
+      "episode": 6
     }
   ],
   "milestones": {
-    "merged": [],
+    "merged": [
+      "brady-booker",
+      "cristian-chavez",
+      "sharonda-cox",
+      "kristin-flickinger",
+      "lewis-kelly",
+      "danny-kilby",
+      "carter-krull",
+      "jelly-loblack",
+      "eric-macksoud",
+      "maggie-nestor",
+      "thien-an-nguyen",
+      "mike-pinsky",
+      "devin-way"
+    ],
     "finalists": [],
     "placements": {
       "aaliyah-puglia": 21,
@@ -309,7 +359,8 @@
       "patt-cannaday": 18,
       "jenna-doore": 17,
       "alexis-levine": 16,
-      "linnea-capobianco": 15
+      "linnea-capobianco": 15,
+      "ori-jean-charles": 14
     }
   },
   "extras": {
@@ -478,7 +529,7 @@
       ]
     },
     "brady-booker": {
-      "challengeWins": 4,
+      "challengeWins": 5,
       "birthdate": "1998-12-10",
       "bio": "Brady Booker, also known by his professional name Bodhi Hayward, is a castaway from Survivor 51.",
       "threeWords": [
@@ -537,7 +588,7 @@
       ]
     },
     "carter-krull": {
-      "challengeWins": 3,
+      "challengeWins": 4,
       "birthdate": "2001-05-20",
       "threeWords": [
         "adventurous",
@@ -603,7 +654,7 @@
       ]
     },
     "cristian-chavez": {
-      "challengeWins": 3,
+      "challengeWins": 4,
       "birthdate": "2000-05-10",
       "threeWords": [
         "fun",
@@ -664,7 +715,7 @@
       ]
     },
     "danny-kilby": {
-      "challengeWins": 3,
+      "challengeWins": 4,
       "votesAgainst": 5,
       "birthdate": "1996-02-11",
       "threeWords": [
@@ -784,7 +835,7 @@
       ]
     },
     "eric-macksoud": {
-      "challengeWins": 3,
+      "challengeWins": 4,
       "votesAgainst": 4,
       "birthdate": "1991-10-05",
       "threeWords": [
@@ -966,7 +1017,7 @@
       ]
     },
     "kristin-flickinger": {
-      "challengeWins": 4,
+      "challengeWins": 5,
       "birthdate": "1977-04-05",
       "threeWords": [
         "determined",
@@ -1022,7 +1073,7 @@
       ]
     },
     "lewis-kelly": {
-      "challengeWins": 3,
+      "challengeWins": 4,
       "votesAgainst": 8,
       "birthdate": "1997-10-03",
       "threeWords": [
@@ -1144,7 +1195,7 @@
       ]
     },
     "maggie-nestor": {
-      "challengeWins": 4,
+      "challengeWins": 5,
       "threeWords": [
         "joyful",
         "intentional",
@@ -1202,7 +1253,7 @@
       ]
     },
     "mike-pinsky": {
-      "challengeWins": 4,
+      "challengeWins": 5,
       "birthdate": "1993-05-10",
       "threeWords": [
         "enthusiastic",
@@ -1257,6 +1308,8 @@
     },
     "ori-jean-charles": {
       "challengeWins": 2,
+      "votesAgainst": 2,
+      "daysLasted": "12/26",
       "birthdate": "1998-12-31",
       "threeWords": [
         "consistent",
@@ -1436,7 +1489,7 @@
       ]
     },
     "sharonda-cox": {
-      "challengeWins": 3,
+      "challengeWins": 4,
       "birthdate": "1991-09-30",
       "threeWords": [
         "charismatic",
@@ -1494,7 +1547,7 @@
       ]
     },
     "thien-an-nguyen": {
-      "challengeWins": 4,
+      "challengeWins": 5,
       "birthdate": "2001-08-22",
       "threeWords": [
         "quick-witted",
@@ -1635,6 +1688,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "carter-krull": [
@@ -1716,6 +1776,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "cristian-chavez": [
@@ -1801,6 +1868,13 @@
         "voters": [],
         "tally": "Consensus",
         "votedFor": "linnea-capobianco"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "devin-way": [
@@ -1886,6 +1960,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0",
+        "votedFor": "ori-jean-charles"
       }
     ],
     "eric-macksoud": [
@@ -1976,6 +2058,13 @@
         "voters": [],
         "tally": "Consensus",
         "votedFor": "linnea-capobianco"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "jelly-loblack": [
@@ -2059,6 +2148,14 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0",
+        "votedFor": "ori-jean-charles"
       }
     ],
     "danny-kilby": [
@@ -2151,6 +2248,13 @@
         "voters": [],
         "tally": "Consensus",
         "votedFor": "linnea-capobianco"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "kristin-flickinger": [
@@ -2231,6 +2335,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "lewis-kelly": [
@@ -2334,6 +2445,13 @@
         "voters": [],
         "tally": "Consensus",
         "votedForText": "None"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "maggie-nestor": [
@@ -2415,6 +2533,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "mike-pinsky": [
@@ -2496,88 +2621,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
-      }
-    ],
-    "ori-jean-charles": [
-      {
-        "episode": 1,
-        "day": 3,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "6–2"
       },
       {
-        "episode": 2,
-        "day": 5,
+        "episode": 6,
+        "day": 12,
         "votesAgainst": 0,
         "voters": [],
-        "tally": "6–4",
-        "votedFor": "eric-macksoud"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
-        "day": 7,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "6–5"
-      },
-      {
-        "episode": 4,
-        "day": 9,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "4–1",
-        "votedFor": "jenna-doore"
-      },
-      {
-        "episode": 5,
-        "day": 10,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "3–1",
-        "votedFor": "alexis-levine"
-      },
-      {
-        "episode": 5,
-        "day": 10,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "4–4"
-      },
-      {
-        "episode": 5,
-        "day": 10,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "4–4"
-      },
-      {
-        "episode": 5,
-        "day": 10,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "4–4"
-      },
-      {
-        "episode": 5,
-        "day": 10,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "4–4"
-      },
-      {
-        "episode": 5,
-        "day": 10,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Consensus"
+        "tally": "2–0"
       }
     ],
     "sharonda-cox": [
@@ -2663,6 +2713,13 @@
         "voters": [],
         "tally": "Consensus",
         "votedFor": "linnea-capobianco"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "thien-an-nguyen": [
@@ -2744,6 +2801,106 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
+      }
+    ],
+    "ori-jean-charles": [
+      {
+        "episode": 1,
+        "day": 3,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–2"
+      },
+      {
+        "episode": 2,
+        "day": 5,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–4",
+        "votedFor": "eric-macksoud"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
+        "day": 7,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "6–5"
+      },
+      {
+        "episode": 4,
+        "day": 9,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "4–1",
+        "votedFor": "jenna-doore"
+      },
+      {
+        "episode": 5,
+        "day": 10,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "3–1",
+        "votedFor": "alexis-levine"
+      },
+      {
+        "episode": 5,
+        "day": 10,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "4–4"
+      },
+      {
+        "episode": 5,
+        "day": 10,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "4–4"
+      },
+      {
+        "episode": 5,
+        "day": 10,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "4–4"
+      },
+      {
+        "episode": 5,
+        "day": 10,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "4–4"
+      },
+      {
+        "episode": 5,
+        "day": 10,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 2,
+        "voters": [
+          "devin-way",
+          "jelly-loblack"
+        ],
+        "tally": "2–0",
+        "votedForText": "None"
       }
     ],
     "linnea-capobianco": [
@@ -2842,6 +2999,13 @@
         "voters": [],
         "tally": "Consensus",
         "votedForText": "None"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "alexis-levine": [
@@ -2930,6 +3094,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "jenna-doore": [
@@ -3020,6 +3191,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "patt-cannaday": [
@@ -3108,6 +3286,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "rob-antonson": [
@@ -3189,6 +3374,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "ana-sani": [
@@ -3276,6 +3468,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ],
     "aaliyah-puglia": [
@@ -3363,6 +3562,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "Consensus"
+      },
+      {
+        "episode": 6,
+        "day": 12,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "2–0"
       }
     ]
   },

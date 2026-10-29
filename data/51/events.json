@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-28T18:35:00.207Z",
+  "syncedAt": "2026-10-29T09:36:29.271Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -132,12 +132,52 @@
       "targetSlug": "linnea-capobianco"
     },
     {
+      "id": "hidden-immunity-idol-history-kristin-flickinger-idol-found-6",
+      "type": "idol-found",
+      "contestant": "Kristin Flickinger",
+      "source": {
+        "page": "Hidden Immunity Idol/History",
+        "url": "https://survivor.fandom.com/wiki/Hidden_Immunity_Idol/History"
+      },
+      "extracted": "table",
+      "episode": 6,
+      "detail": "Found at Day 11 Journey · * This is a Tethered Idol, tethered to Ori Jean-Charles and Sharonda Cox, therefore, as long as both Ori and Sharonda were still in the game, Kristin can only play the idol for one of them",
+      "contestantSlug": "kristin-flickinger"
+    },
+    {
+      "id": "shot-in-the-dark-ori-jean-charles-shot-in-the-dark-6",
+      "type": "shot-in-the-dark",
+      "contestant": "Ori Jean-Charles",
+      "source": {
+        "page": "Shot in the Dark",
+        "url": "https://survivor.fandom.com/wiki/Shot_in_the_Dark"
+      },
+      "extracted": "table",
+      "episode": 6,
+      "outcome": "fail",
+      "detail": "Not Safe",
+      "contestantSlug": "ori-jean-charles"
+    },
+    {
+      "id": "journey-sharonda-cox-journey-6",
+      "type": "journey",
+      "contestant": "Sharonda Cox",
+      "source": {
+        "page": "Journey",
+        "url": "https://survivor.fandom.com/wiki/Journey"
+      },
+      "extracted": "table",
+      "episode": 6,
+      "detail": "On Day 11, Sharonda Cox, Ori Jean-Charles, and Kristin Flickinger represented Dina, Savu, and Toka on the journey respectively. They were told that two of them would take food back to their tribes, while the third would ",
+      "contestantSlug": "sharonda-cox"
+    },
+    {
       "id": "claude-lewis-kelly-x-0",
       "type": "other",
       "contestant": "Lewis Kelly",
       "contestantSlug": "lewis-kelly",
       "advantage": "Exile Island",
-      "detail": "As the odd person out due to an odd number of players, Lewis was sent to Exile Island and later rejoined the game on Toka, replacing Aaliyah and evening the tribes at 10-10.",
+      "detail": "As the odd person out during a tribe shuffle, Lewis was sent to Exile Island and later rejoined the game on Toka, replacing Aaliyah and evening the tribes at 10-10.",
       "source": {
         "page": "Survivor 51 (wiki twists & footnotes)",
         "url": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -149,8 +189,8 @@
       "type": "other",
       "contestant": "Aaliyah Puglia",
       "contestantSlug": "aaliyah-puglia",
-      "advantage": "Tribe swap/replacement",
-      "detail": "Aaliyah was replaced on the Toka tribe by Lewis when he returned from Exile Island.",
+      "advantage": "Tribe Expansion/Exile Island reshuffle",
+      "detail": "Aaliyah was replaced on Toka by Lewis when he returned from Exile Island, evening the tribes at 10-10.",
       "source": {
         "page": "Survivor 51 (wiki twists & footnotes)",
         "url": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -158,25 +198,26 @@
       "extracted": "claude"
     },
     {
-      "id": "claude-linnea-capobianco-x-2",
-      "type": "other",
-      "contestant": "Linnea Capobianco",
-      "contestantSlug": "linnea-capobianco",
-      "advantage": "Deadlock tie consensus",
-      "detail": "After a deadlocked revote, the non-immune players reached a consensus to eliminate Linnea instead of drawing rocks.",
-      "source": {
-        "page": "Survivor 51 (wiki twists & footnotes)",
-        "url": "https://survivor.fandom.com/wiki/Survivor_51"
-      },
-      "extracted": "claude"
-    },
-    {
-      "id": "claude-rob-antonson-x-3",
+      "id": "claude-rob-antonson-x-2",
       "type": "other",
       "contestant": "Rob Antonson",
       "contestantSlug": "rob-antonson",
-      "advantage": "Quit (injury)",
-      "detail": "Rob quit the game due to an injury, with no vote held for his removal.",
+      "advantage": "Quit",
+      "detail": "Rob elected to quit the game due to an injury, with no vote held for his removal.",
+      "source": {
+        "page": "Survivor 51 (wiki twists & footnotes)",
+        "url": "https://survivor.fandom.com/wiki/Survivor_51"
+      },
+      "extracted": "claude"
+    },
+    {
+      "id": "claude-linnea-capobianco-x-3",
+      "type": "other",
+      "contestant": "Linnea Capobianco",
+      "contestantSlug": "linnea-capobianco",
+      "advantage": "Deadlock tie / rock draw rule",
+      "outcome": "fail",
+      "detail": "After a deadlocked revote, the non-immune players reached a consensus to eliminate Linnea rather than draw rocks.",
       "source": {
         "page": "Survivor 51 (wiki twists & footnotes)",
         "url": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -185,8 +226,8 @@
     }
   ],
   "claude": {
-    "sourceHash": "3d7e0e93cebb",
-    "generatedAt": "2026-10-22T08:25:11.717Z",
+    "sourceHash": "5def3bff524d",
+    "generatedAt": "2026-10-29T09:36:29.271Z",
     "model": "claude-opus-5"
   },
   "warnings": []

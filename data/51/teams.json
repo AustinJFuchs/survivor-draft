@@ -45,47 +45,47 @@
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "The Advanced Degree Alliance",
-    "summary": "Tami, you had the first pick and you built a brain trust — a professor, a prosecutor, a baseball exec, a gate agent, and a resident. You're sitting at rank 2 (tied) of 5 with 24 counted points, raw 26, with Rob dropped under best-4. Three of your five are still out there, the leader has 28, and 67 points are still on the table. Draft GPA 2.4. You're very much in this.",
+    "nickname": "Scrubs, Suits and Fastballs",
+    "summary": "Tami, you drafted first and you drafted bold — three of your five are still out there on Mergedtribe, and you're sitting at rank 2 of 5 with 36 counted points off a raw 38. Sharonda at pick #21 as the leftover is the steal of this entire draft, and Ep 6 gave you your best haul at +12. The leader has 44. There are 55 points still on the table. Game on.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Jelly, Mike, and Sharonda are all sitting at 7 pts and ranked 1 of 21 — that's a three-headed engine, and your leftover, Sharonda at pick #21, is grading out at an A."
+        "text": "Jelly, Mike and Sharonda are all tied at 11 pts and ranked 1 of 21 — three co-leaders hauling your scoreboard together."
       },
       {
         "label": "Cause for concern",
-        "text": "Patt at pick #10 was the reach — 3 pts, rank 18 of 21, an F, and third voted out in Ep 3 — and Rob's quit that same episode left you 2 pts that got dropped anyway."
+        "text": "Patt at pick #10 scored 3 pts for a rank of 18 of 21 and an F grade, and Rob's 2 pts became your dropped score under the best-4 rule."
       },
       {
         "label": "Watch for",
-        "text": "You dipped from your best week in Ep 3 (+7) to your worst in Ep 4 (+3), so watch whether your Idol Whisperer roster — 2 idols and advantages found — turns that hardware into points."
+        "text": "Your Idol Whisperer badge says this roster has found 2 idols and advantages — watch whether that hardware turns into points at the merge."
       }
     ],
-    "generatedAt": "2026-10-22T15:30:57.156Z",
+    "generatedAt": "2026-10-29T09:37:00.778Z",
     "model": "claude-opus-5",
-    "sourceHash": "64931a7e866b"
+    "sourceHash": "197ae7f52bba"
   },
   "taylor": {
     "drafterId": "taylor",
-    "nickname": "Crisis, Hustle and Chokeslams",
-    "summary": "Taylor, you picked 2nd and built a team with muscle, mischief, and a microphone. You sit 4th of 5 with 22 counted points, but the leader has 28 and there are 67 points still on the table — that is nothing in Survivor math. Three of your four are still in the game, your best week was Ep 3 at +6, your worst was Ep 2 at +3, and your draft GPA sits at 2.5. You're in contention. Stay loud.",
+    "nickname": "Crisis Mode Grapplers",
+    "summary": "Taylor, you drafted second and came away with a roster that swings hard in both directions. Your draft GPA is 1.75, but Brady at pick #19 ranks 1 — that's larceny. You sit rank 4 of 5 with 30 counted points, two of four still in the game, and the leader at 44. Ep 6 gave you +8; Ep 2 only +3. With 40 points still on the table, you are absolutely still in contention.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Brady Booker at pick #19 is your steal of the draft — 7 pts and rank 1 of 21, matched stride for stride by Kristin Flickinger and Ori Jean-Charles, also 7 pts and rank 1 of 21."
+        "text": "Kristin and Brady are tied atop the whole cast at 11 pts apiece, rank 1 of 21, and both are still out there playing — that's your engine, and your Idol Whisperer badge says they've found 2 idols and advantages across the roster."
       },
       {
         "label": "Cause for concern",
-        "text": "Ana Sani was your reach at pick #12 and her torch went out second, Ep 2, leaving you a single point and a rank of 20 of 21."
+        "text": "Ana at pick #12 was the reach of your draft, ranking 20 with 1 pts and an F grade after going out 2nd in Ep 2, and Ori's 7 pts and D grade ended in Ep 6 — hence that Torch Collector badge with 2 torches snuffed."
       },
       {
         "label": "Watch for",
-        "text": "Kristin and Brady on Toka with Ori on Savu means you've got a foot in two camps — watch whether those grade-A engines keep stacking points while the gap to 28 shrinks."
+        "text": "Watch whether Kristin and Brady can keep splitting the top spot on the merged tribe, because with 40 points still on the table, your gap to the leader's 44 is nothing a couple of big episodes can't fix."
       }
     ],
-    "generatedAt": "2026-10-22T15:31:07.279Z",
+    "generatedAt": "2026-10-29T09:37:11.707Z",
     "model": "claude-opus-5",
-    "sourceHash": "8852ee7d0c00"
+    "sourceHash": "bb42e6576677"
   },
   "tim": {
     "drafterId": "tim",
