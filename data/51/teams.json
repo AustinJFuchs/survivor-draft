@@ -67,25 +67,25 @@
   },
   "taylor": {
     "drafterId": "taylor",
-    "nickname": "Crisis Mode Grapplers",
-    "summary": "Taylor, you drafted second and came away with a roster that swings hard in both directions. Your draft GPA is 1.75, but Brady at pick #19 ranks 1 — that's larceny. You sit rank 4 of 5 with 30 counted points, two of four still in the game, and the leader at 44. Ep 6 gave you +8; Ep 2 only +3. With 40 points still on the table, you are absolutely still in contention.",
+    "nickname": "Crisis Management & Chaos",
+    "summary": "Taylor, you took Kristin at pick #2 and then stole Brady at #19, and right now both of them sit tied at 11 pts, rank 1 of 21. That's a top of the roster nobody can sneer at. The middle, though? Rough. A 1.75 Draft GPA and only 2 of 4 still in the game has you rank 4 of 5 with 30 counted points. But there are 40 points still on the table and the leader has 44. You're alive.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Kristin and Brady are tied atop the whole cast at 11 pts apiece, rank 1 of 21, and both are still out there playing — that's your engine, and your Idol Whisperer badge says they've found 2 idols and advantages across the roster."
+        "text": "Kristin and Brady are doing all of it — 11 pts apiece, both rank 1 of 21, both still in the game on Mergedtribe."
       },
       {
         "label": "Cause for concern",
-        "text": "Ana at pick #12 was the reach of your draft, ranking 20 with 1 pts and an F grade after going out 2nd in Ep 2, and Ori's 7 pts and D grade ended in Ep 6 — hence that Torch Collector badge with 2 torches snuffed."
+        "text": "Ana at pick #12 was the reach of your draft, going out 2nd on Ep 2 with 1 pts and a grade F, and Ori followed her out the door in Ep 6."
       },
       {
         "label": "Watch for",
-        "text": "Watch whether Kristin and Brady can keep splitting the top spot on the merged tribe, because with 40 points still on the table, your gap to the leader's 44 is nothing a couple of big episodes can't fix."
+        "text": "You've already got the Torch Collector and Idol Whisperer badges with 2 idols found — see if that idol luck keeps feeding your two survivors down the stretch."
       }
     ],
-    "generatedAt": "2026-10-29T09:37:11.707Z",
+    "generatedAt": "2026-10-29T18:44:09.861Z",
     "model": "claude-opus-5",
-    "sourceHash": "bb42e6576677"
+    "sourceHash": "39a7891c7655"
   },
   "tim": {
     "drafterId": "tim",

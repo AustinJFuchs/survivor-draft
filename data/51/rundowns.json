@@ -266,44 +266,44 @@
     "key": "6",
     "episode": 6,
     "eliminations": 8,
-    "headline": "Four for four: the Farmhands are running away with it",
-    "overview": "Day 12 and the gap is real. Tim sits at 44 points with all 4 of 4 still breathing, 70 on the table, a 3.75 draft GPA, and 629 of 858 scenarios in his pocket — that's not a lead, that's a fortress. Tami's 36 and 3 of 5 keep her in it at 173 scenarios, with that leftover Sharonda still printing points. Austin's 32 and Taylor's 30 both sit 2 of 4 with 40 left, while Kylie's 27 anchors the bottom despite two merge bodies. One draft is untouchable; the other four are fighting for scraps.",
+    "headline": "Four for four: the farmhands still haven't been touched",
+    "overview": "Day 12 gave us an idol, a Shot in the Dark that read NOT SAFE, and a leaderboard that keeps stretching. Tim sits at 44 points with all 4 of 4 still in, a 3.75 draft GPA and 70 on the table — and 629 of 858 scenarios. Tami's 36 points and 3 of 5 keep her closest, with 173 scenarios alive. Austin (32) and Taylor (30) each added 8 with 2 of 4 standing, and Kylie's 27 trails the pack. Four drafts chasing one. Advantage: farmhands.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer — four badges, four castaways, 11 points apiece, and Thien An at #17 was flat-out grand larceny."
+        "text": "44 points, +16 this episode, 4 of 4 still breathing and a 3.75 GPA — Thien An at #17 was grand larceny, and 629 of 858 scenarios say the Untouchable badge is earned."
       },
       {
         "drafterId": "tami",
-        "text": "The leftover pick #21 turned into Sharonda, a merge-tribe steal ranked #1, and that's the only reason 173 of 858 scenarios still say your name."
+        "text": "36 points, 12 more this week, and Sharonda — the leftover pick at #21 — is already a rank 1 steal, but Patt at #10 finishing 18th and Rob's dropped score are the reason the gap is eight."
       },
       {
         "drafterId": "austin",
-        "text": "Carter and Eric are carrying 11 points each, but Jenna at #6 landing as the 17th-ranked pick is the anchor dragging that 2 GPA."
+        "text": "32 points on just 2 of 4, with Eric at #16 returning rank 1 value while Jenna at #6 came in 17th — Carter and Eric now carry all 40 of his remaining points."
       },
       {
         "drafterId": "taylor",
-        "text": "Losing Ori stings at 30 points, and with Ana at #12 finishing rank 20, Kristin and Brady are doing all the heavy lifting."
+        "text": "Ori fought for his life at Tribal and came up NOT SAFE, leaving Taylor at 30 points with a 1.75 GPA, Brady's #19 steal, and Kristin and Brady as the whole plan."
       },
       {
         "drafterId": "kylie",
-        "text": "First Blood is a badge, Kylie, but Aaliyah going out first from the #3 slot is why you're sitting fifth at 27."
+        "text": "27 points and last place, because Aaliyah at #3 going out first is a rank 21 wound that Kilby's #18 steal and Cristian can't quite stitch up — 40 points still on her table."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Plus-16 this episode, 4 of 4 standing, and a clinch scenario if Thien An, Devin, Lewis, or Maggie wins it all."
+        "text": "Nobody on his roster has had their torch snuffed — 4 of 4, +16, and a clinch button labeled Thien An, Devin, Lewis or Maggie."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "taylor",
-        "text": "The helicopter alliance turned on itself, Ori's Shot in the Dark came up NOT SAFE, and Taylor's roster took the hit."
+        "text": "Losing Ori to a Day 1 ally's pen after the Shot in the Dark missed is the cruelest 7 points in the game."
       }
     ],
-    "generatedAt": "2026-10-29T11:21:10.305Z",
+    "generatedAt": "2026-10-29T18:44:26.021Z",
     "model": "claude-opus-5",
-    "sourceHash": "86f5f8e019c2"
+    "sourceHash": "f6e7d49004e9"
   }
 }
