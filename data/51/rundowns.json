@@ -261,5 +261,49 @@
     "generatedAt": "2026-10-25T16:55:35.181Z",
     "model": "claude-opus-5",
     "sourceHash": "20c92604e93f"
+  },
+  "6": {
+    "key": "6",
+    "episode": 6,
+    "eliminations": 8,
+    "headline": "Four for four: the Farmhands are running away with it",
+    "overview": "Day 12 and the gap is real. Tim sits at 44 points with all 4 of 4 still breathing, 70 on the table, a 3.75 draft GPA, and 629 of 858 scenarios in his pocket — that's not a lead, that's a fortress. Tami's 36 and 3 of 5 keep her in it at 173 scenarios, with that leftover Sharonda still printing points. Austin's 32 and Taylor's 30 both sit 2 of 4 with 40 left, while Kylie's 27 anchors the bottom despite two merge bodies. One draft is untouchable; the other four are fighting for scraps.",
+    "lines": [
+      {
+        "drafterId": "tim",
+        "text": "Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer — four badges, four castaways, 11 points apiece, and Thien An at #17 was flat-out grand larceny."
+      },
+      {
+        "drafterId": "tami",
+        "text": "The leftover pick #21 turned into Sharonda, a merge-tribe steal ranked #1, and that's the only reason 173 of 858 scenarios still say your name."
+      },
+      {
+        "drafterId": "austin",
+        "text": "Carter and Eric are carrying 11 points each, but Jenna at #6 landing as the 17th-ranked pick is the anchor dragging that 2 GPA."
+      },
+      {
+        "drafterId": "taylor",
+        "text": "Losing Ori stings at 30 points, and with Ana at #12 finishing rank 20, Kristin and Brady are doing all the heavy lifting."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "First Blood is a badge, Kylie, but Aaliyah going out first from the #3 slot is why you're sitting fifth at 27."
+      }
+    ],
+    "awards": [
+      {
+        "label": "Draft of the week",
+        "drafterId": "tim",
+        "text": "Plus-16 this episode, 4 of 4 standing, and a clinch scenario if Thien An, Devin, Lewis, or Maggie wins it all."
+      },
+      {
+        "label": "Ouch of the week",
+        "drafterId": "taylor",
+        "text": "The helicopter alliance turned on itself, Ori's Shot in the Dark came up NOT SAFE, and Taylor's roster took the hit."
+      }
+    ],
+    "generatedAt": "2026-10-29T11:21:10.305Z",
+    "model": "claude-opus-5",
+    "sourceHash": "86f5f8e019c2"
   }
 }

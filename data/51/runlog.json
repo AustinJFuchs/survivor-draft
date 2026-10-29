@@ -804,6 +804,19 @@
         "Kylie: 5th → 5th, 19 → 27 pts"
       ],
       "episode": 6
+    },
+    {
+      "id": "2026-10-29T11:21:11.278Z",
+      "at": "2026-10-29T11:21:11.278Z",
+      "source": "pipeline",
+      "summary": "3 team summaries refreshed and a new State of the Draft went up.",
+      "details": [
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 6)"
+      ],
+      "episode": 6
     }
   ],
   "state": {
@@ -1148,11 +1161,11 @@
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "660f4975011e",
-      "kylie": "1c9fd4dd0ef8",
+      "austin": "c303a6de471b",
+      "kylie": "a4a999d76ad5",
       "tami": "513416fd7acd",
       "taylor": "ab81096ae2c4",
-      "tim": "25330b2bc025"
+      "tim": "5d24ac2d9ea2"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1160,7 +1173,8 @@
       "2": "de019f81dc88",
       "3": "5e79af15601e",
       "4": "61252cda7693",
-      "5": "4f657021b7f8"
+      "5": "4f657021b7f8",
+      "6": "198db9e9cd6f"
     },
     "events": [
       "claude-aaliyah-puglia-x-1",
@@ -1245,6 +1259,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-29T09:37:25.762Z",
+  "lastCheckedAt": "2026-10-29T11:21:11.278Z",
   "quietChecks": 0
 }
