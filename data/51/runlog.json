@@ -830,6 +830,16 @@
         "State of the Draft rewritten (Ep 6)"
       ],
       "episode": 6
+    },
+    {
+      "id": "2026-10-30T18:20:37.091Z",
+      "at": "2026-10-30T18:20:37.091Z",
+      "source": "pipeline",
+      "summary": "1 episode title landed.",
+      "details": [
+        "Ep 7 titled \"You Broke My Heart Like I was a Girl at the Prom\""
+      ],
+      "episode": 6
     }
   ],
   "state": {
@@ -875,7 +885,7 @@
         "airDate": "2026-10-28"
       },
       "7": {
-        "title": "You Broke My Heart Like I Was a Girl at the Prom",
+        "title": "You Broke My Heart Like I was a Girl at the Prom",
         "airDate": "2026-11-04"
       },
       "8": {
@@ -1273,6 +1283,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-10-29T18:44:27.017Z",
+  "lastCheckedAt": "2026-10-30T18:20:37.091Z",
   "quietChecks": 0
 }
