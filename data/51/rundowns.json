@@ -266,44 +266,44 @@
     "key": "6",
     "episode": 6,
     "eliminations": 8,
-    "headline": "Four for four: the farmhands still haven't been touched",
-    "overview": "Day 12 gave us an idol, a Shot in the Dark that read NOT SAFE, and a leaderboard that keeps stretching. Tim sits at 44 points with all 4 of 4 still in, a 3.75 draft GPA and 70 on the table — and 629 of 858 scenarios. Tami's 36 points and 3 of 5 keep her closest, with 173 scenarios alive. Austin (32) and Taylor (30) each added 8 with 2 of 4 standing, and Kylie's 27 trails the pack. Four drafts chasing one. Advantage: farmhands.",
+    "headline": "Four Farmhands, zero torches snuffed, one draft running away",
+    "overview": "Day 12 delivered a split screen, family. Tim's Untouchable Farmhands went a perfect 4 of 4 again, banked +16, and sit at 44 points with 70 on the table and 629 of 858 scenarios in his pocket — that's not a lead, that's a moat. Tami is the only one hanging close at 36 with 173 scenarios and that glorious leftover, Sharonda. Austin (32) and Taylor (30) both added +8 but are playing short-handed at 2 of 4, and Kylie's Chaos Hire Department brings up the rear at 27 with just 12 scenarios. The gap is real.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "44 points, +16 this episode, 4 of 4 still breathing and a 3.75 GPA — Thien An at #17 was grand larceny, and 629 of 858 scenarios say the Untouchable badge is earned."
+        "text": "Untouchable, Merge Machine, Wire-to-Wire and Idol Whisperer on one roster — a 3.75 draft GPA, Thien An stolen at #17, and all four names still breathing."
       },
       {
         "drafterId": "tami",
-        "text": "36 points, 12 more this week, and Sharonda — the leftover pick at #21 — is already a rank 1 steal, but Patt at #10 finishing 18th and Rob's dropped score are the reason the gap is eight."
+        "text": "Five picks, best four count, Rob's quit quietly dropped out of the math — Leftover Luck is real, and Sharonda at #21 is the best bargain in this family."
       },
       {
         "drafterId": "austin",
-        "text": "32 points on just 2 of 4, with Eric at #16 returning rank 1 value while Jenna at #6 came in 17th — Carter and Eric now carry all 40 of his remaining points."
+        "text": "Farm Fresh Feelings lost Linnea and Jenna early, but Eric at #16 and Carter are still cooking at 11 points apiece with 40 on the table."
       },
       {
         "drafterId": "taylor",
-        "text": "Ori fought for his life at Tribal and came up NOT SAFE, leaving Taylor at 30 points with a 1.75 GPA, Brady's #19 steal, and Kristin and Brady as the whole plan."
+        "text": "Brutal night in Santa Barbara: Ori banked 7 points before the Shot in the Dark came up NOT SAFE, leaving Kristin and Brady to carry the Suplex Squad."
       },
       {
         "drafterId": "kylie",
-        "text": "27 points and last place, because Aaliyah at #3 going out first is a rank 21 wound that Kilby's #18 steal and Cristian can't quite stitch up — 40 points still on her table."
+        "text": "First Blood is a badge, not a strategy — Aaliyah's 0 points still stings, but Cristian and Kilby are both merged and worth 11 each."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Nobody on his roster has had their torch snuffed — 4 of 4, +16, and a clinch button labeled Thien An, Devin, Lewis or Maggie."
+        "text": "A clean +16 with every single name still in the game — there's nothing to critique and everything to envy."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "taylor",
-        "text": "Losing Ori to a Day 1 ally's pen after the Shot in the Dark missed is the cruelest 7 points in the game."
+        "text": "Watching your Day 1 helicopter guy Ori get written down by his own alliance is the cruelest way to lose 11-point potential."
       }
     ],
-    "generatedAt": "2026-10-29T18:44:26.021Z",
+    "generatedAt": "2026-10-31T17:27:27.807Z",
     "model": "claude-opus-5",
-    "sourceHash": "f6e7d49004e9"
+    "sourceHash": "9a91da1106c8"
   }
 }

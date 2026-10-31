@@ -209,16 +209,16 @@
   },
   "ori-jean-charles": {
     "slug": "ori-jean-charles",
-    "summary": "Ori is a 27-year-old personal trainer and former Division I football player from Spring Valley, New York. He plays for the family that carried him — especially his mom, whom he hopes to retire. Hardworking and direct, he values loyalty and has no patience for hesitation or people who need the spotlight.",
+    "summary": "Ori is a 27-year-old personal trainer from Spring Valley, New York, and a former college football standout who plays for his family. He's the first in his family to earn a degree, then a master's, and credits his mom for every sacrifice behind it. Confident, hardworking, and happiest when he's the best-dressed guy in the room.",
     "bullets": [
-      "Drove 8 hours home every weekend during college to help his recovering mom",
-      "First in his family to earn a degree, then added a master's",
-      "Was first chair violin in his sixth-grade orchestra",
-      "Loves food, travel, and being the best-dressed person in the room"
+      "Drove 8 hours home every weekend after 5am lifts to help his mom",
+      "Transferred from Louisville to Maine just to be closer to family",
+      "First in his family to graduate college — now everyone has a degree",
+      "Played violin, first chair in his 6th grade orchestra"
     ],
-    "generatedAt": "2026-10-29T18:44:02.446Z",
+    "generatedAt": "2026-10-31T17:27:04.399Z",
     "model": "claude-opus-5",
-    "sourceHash": "fd817801437f"
+    "sourceHash": "95deea77af86"
   },
   "patt-cannaday": {
     "slug": "patt-cannaday",

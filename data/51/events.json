@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-30T18:20:33.708Z",
+  "syncedAt": "2026-10-31T17:26:59.779Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -176,8 +176,9 @@
       "type": "other",
       "contestant": "Lewis Kelly",
       "contestantSlug": "lewis-kelly",
+      "day": 8,
       "advantage": "Exile Island",
-      "detail": "As the odd person out during a tribe shuffle, Lewis was sent to Exile Island and later rejoined the game on Toka, replacing Aaliyah and evening the tribes at 10-10.",
+      "detail": "As the odd person out during the tribe expansion, Lewis was sent to Exile Island before rejoining the game on the Toka tribe in place of Aaliyah, evening the tribes at 10-10.",
       "source": {
         "page": "Survivor 51 (wiki twists & footnotes)",
         "url": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -189,8 +190,9 @@
       "type": "other",
       "contestant": "Aaliyah Puglia",
       "contestantSlug": "aaliyah-puglia",
-      "advantage": "Tribe Expansion/Exile Island reshuffle",
-      "detail": "Aaliyah was replaced on Toka by Lewis when he returned from Exile Island, evening the tribes at 10-10.",
+      "day": 8,
+      "advantage": "Tribe Expansion",
+      "detail": "Aaliyah was replaced on Toka by Lewis when he rejoined the game from Exile Island.",
       "source": {
         "page": "Survivor 51 (wiki twists & footnotes)",
         "url": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -215,9 +217,9 @@
       "type": "other",
       "contestant": "Linnea Capobianco",
       "contestantSlug": "linnea-capobianco",
-      "advantage": "Deadlock tie / rock draw rule",
+      "advantage": "Deadlock Tie/Rock Draw",
       "outcome": "fail",
-      "detail": "After a deadlocked revote, the non-immune players reached a consensus to eliminate Linnea rather than draw rocks.",
+      "detail": "After a deadlocked revote, the non-immune castaways reached a consensus during the open discussion to eliminate Linnea rather than draw rocks.",
       "source": {
         "page": "Survivor 51 (wiki twists & footnotes)",
         "url": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -226,8 +228,8 @@
     }
   ],
   "claude": {
-    "sourceHash": "5def3bff524d",
-    "generatedAt": "2026-10-29T09:36:29.271Z",
+    "sourceHash": "091685abf154",
+    "generatedAt": "2026-10-31T17:26:59.779Z",
     "model": "claude-opus-5"
   },
   "warnings": []
