@@ -305,5 +305,49 @@
     "generatedAt": "2026-10-31T17:27:27.807Z",
     "model": "claude-opus-5",
     "sourceHash": "9a91da1106c8"
+  },
+  "7": {
+    "key": "7",
+    "episode": 7,
+    "eliminations": 9,
+    "headline": "Four Tovuto torches burning, and one draft owns them all",
+    "overview": "The merge has spoken, and it speaks Tovuto. Tim sits at 48 points with all 4 of 4 still in, 66 on the table and a 3.75 draft GPA — that is a wire-to-wire stranglehold. Tami's Brain Trust is 39 with three alive and 52 available, close enough to make Tim check over his shoulder. Austin and Kylie are twins in trouble at 34 and 29, both 2 of 4, both staring at 38 on the table. And Taylor? Taylor lost Brady Booker to the jury and now carries 1 of 4 with 24 left. The gap is real, family.",
+    "lines": [
+      {
+        "drafterId": "tim",
+        "text": "Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer — four badges, four castaways, 48 points, and Thien An stolen at #17 to rank 1, which is just rude."
+      },
+      {
+        "drafterId": "tami",
+        "text": "The leftover pick #21 turned Sharonda into a rank-1 steal, and with Jelly, Mike and Sharonda all alive, Tami's 39 points and 137/660 scenarios make her the only real heat behind Tim."
+      },
+      {
+        "drafterId": "austin",
+        "text": "Linnea and Jenna are long gone, but Carter and Eric are both sitting on 12 points apiece, so Austin's 34 is being carried entirely by two Tovuto hearts."
+      },
+      {
+        "drafterId": "taylor",
+        "text": "Crisis Management Chaos lost Brady Booker as the first member of the jury, and with 1 of 4 left and 24 on the table, Taylor's Torch Collector badge has never felt more literal."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "Kilby at #18 was a rank-1 steal and Cristian's still eating grubs out there, but Aaliyah at #3 going out first blood left Kylie at the bottom of the board with 29."
+      }
+    ],
+    "awards": [
+      {
+        "label": "Draft of the week",
+        "drafterId": "tim",
+        "text": "Plus-16 this episode, 4 of 4 standing, 496.5 of 660 scenarios — Tim didn't draft a team, he drafted a tribe."
+      },
+      {
+        "label": "Ouch of the week",
+        "drafterId": "taylor",
+        "text": "Brady walked off with 11 points and a jury seat, leaving Taylor with Kristin and a whole lot of quiet."
+      }
+    ],
+    "generatedAt": "2026-11-05T10:32:15.056Z",
+    "model": "claude-opus-5",
+    "sourceHash": "0c1814160706"
   }
 }

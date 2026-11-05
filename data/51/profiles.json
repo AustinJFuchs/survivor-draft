@@ -40,16 +40,16 @@
   },
   "brady-booker": {
     "slug": "brady-booker",
-    "summary": "Brady Booker wrestles professionally as Bodhi Hayward, a job built on long days, little sleep, and reading a room. He grew up watching Survivor with his family and loves the outdoors, competition, and being pushed to his limit. He values trust above all, and credits his parents for building a life from very little.",
+    "summary": "Brady Booker is a 27-year-old pro wrestler from La Salle, Illinois, now living in Knoxville, who grew up watching Survivor with his family. He loves the outdoors, competition, and being pushed to his limit. On Survivor 51 he built the Vibe Five alliance on Toka, played hard, and became the first member of the jury.",
     "bullets": [
-      "Pro wrestler from La Salle, Illinois, now living in Knoxville",
+      "Wrestles under the name Bodhi Hayward",
+      "Describes himself as enthusiastic, intense and fun",
       "Did gymnastics throughout his youth sports years",
-      "Hunts, fishes, hikes, lifts, trail runs, and trains jujitsu",
-      "Says he is comfortable being uncomfortable"
+      "Credits his parents, who built a life from very little"
     ],
-    "generatedAt": "2026-09-26T16:49:57.278Z",
+    "generatedAt": "2026-11-05T10:31:07.490Z",
     "model": "claude-opus-5",
-    "sourceHash": "7858423bf737"
+    "sourceHash": "f59e14d56dc3"
   },
   "carter-krull": {
     "slug": "carter-krull",
@@ -170,16 +170,16 @@
   },
   "linnea-capobianco": {
     "slug": "linnea-capobianco",
-    "summary": "Linnea is a 25-year-old entrepreneur from Kearny, New Jersey, who runs her own business in New York City. She describes herself as rational, outgoing and optimistic, and credits her years studying and working in Washington, D.C. for teaching her how to build relationships across differences. She says yes to challenges and wants a life full of experience.",
+    "summary": "Linnea is a 25-year-old entrepreneur from Kearny, New Jersey, who runs her own business in NYC. She describes herself as rational, outgoing, and optimistic, and says she wants to say yes to challenges and be uncomfortable so she can grow. Her time studying and working in Washington, D.C. taught her that relationships are everything.",
     "bullets": [
-      "Shoots street photography, takes Lagree classes and goes to jazz shows",
-      "Prone to uncontrollable laughing fits at exactly the wrong moments",
-      "Inspired by war photographer Lynsey Addario, a voice for the voiceless",
-      "Pet peeve: conversation circles that leave someone standing outside them"
+      "Shoots street photography and goes to jazz shows in her free time",
+      "Values alliance partners who stay rational and don't get paranoid",
+      "Gets uncontrollable laughing fits at the worst possible moments",
+      "Inspired by war photographer Lynsey Addario, a voice for the voiceless"
     ],
-    "generatedAt": "2026-10-25T16:55:01.230Z",
+    "generatedAt": "2026-11-05T10:31:10.622Z",
     "model": "claude-opus-5",
-    "sourceHash": "b305ecf2ed58"
+    "sourceHash": "d4a91b3f8b3c"
   },
   "maggie-nestor": {
     "slug": "maggie-nestor",
@@ -209,16 +209,16 @@
   },
   "ori-jean-charles": {
     "slug": "ori-jean-charles",
-    "summary": "Ori is a 27-year-old personal trainer from Spring Valley, New York, and a former college football standout who plays for his family. He's the first in his family to earn a degree, then a master's, and credits his mom for every sacrifice behind it. Confident, hardworking, and happiest when he's the best-dressed guy in the room.",
+    "summary": "Ori is a 27-year-old personal trainer and former Division 1 football player from Spring Valley, NY, who plays with his family front of mind. Calm and steady on the beach, he describes himself as consistent, an anomaly, and a hustler. His goal is simple: pay back the people who carried him.",
     "bullets": [
-      "Drove 8 hours home every weekend after 5am lifts to help his mom",
-      "Transferred from Louisville to Maine just to be closer to family",
-      "First in his family to graduate college — now everyone has a degree",
-      "Played violin, first chair in his 6th grade orchestra"
+      "Drove eight hours home every weekend in college to help his mom",
+      "First in his family to earn a degree, then added a master's",
+      "Was first chair violin in his sixth grade orchestra",
+      "Loves food, travel, and being the best-dressed guy in the room"
     ],
-    "generatedAt": "2026-10-31T17:27:04.399Z",
+    "generatedAt": "2026-11-05T10:31:14.119Z",
     "model": "claude-opus-5",
-    "sourceHash": "95deea77af86"
+    "sourceHash": "dd7204b0a808"
   },
   "patt-cannaday": {
     "slug": "patt-cannaday",

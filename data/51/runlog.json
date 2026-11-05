@@ -873,6 +873,39 @@
         "Ep 7 titled \"You Broke My Heart Like I was a Girl at the Prom\""
       ],
       "episode": 6
+    },
+    {
+      "id": "2026-11-05T10:32:15.967Z",
+      "at": "2026-11-05T10:32:15.967Z",
+      "source": "pipeline",
+      "summary": "Ep 7 aired and Brady was voted out and the merge landed in Ep 7 with 13 castaways across. 1 episode title landed, tribes appeared — Tovuto, and the voting table filled in.",
+      "details": [
+        "Brady voted out in Ep 7, first jury member",
+        "Merge recorded: Brady, Carter, Cristian, Kilby, Devin, Eric, Jelly, Kristin, Lewis, Maggie, Mike, Sharonda, Thien An",
+        "Ep 7 titled \"The Girl at the Prom\"",
+        "Tribe Tovuto: Brady, Cristian, Sharonda, Kristin, Lewis, Kilby, Carter, Jelly, Eric, Maggie, Thien An, Mike, Devin",
+        "Vote records: 252 → 273",
+        "Bio updated for Brady",
+        "Trivia updated for Linnea",
+        "Bio updated for Ori",
+        "Trivia updated for Ori",
+        "Commentary written for Ep 7",
+        "Profile rewritten for Brady",
+        "Profile rewritten for Linnea",
+        "Profile rewritten for Ori",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 7)",
+        "Tim: 1st → 1st, 44 → 48 pts",
+        "Tami: 2nd → 2nd, 36 → 39 pts",
+        "Austin: 3rd → 3rd, 32 → 34 pts",
+        "Taylor: 4th → 4th, 30 → 31 pts",
+        "Kylie: 5th → 5th, 27 → 29 pts"
+      ],
+      "episode": 7
     }
   ],
   "state": {
@@ -918,7 +951,7 @@
         "airDate": "2026-10-28"
       },
       "7": {
-        "title": "You Broke My Heart Like I was a Girl at the Prom",
+        "title": "The Girl at the Prom",
         "airDate": "2026-11-04"
       },
       "8": {
@@ -974,6 +1007,12 @@
         "kind": "voted-out",
         "episode": 6,
         "jury": false
+      },
+      {
+        "slug": "brady-booker",
+        "kind": "voted-out",
+        "episode": 7,
+        "jury": true
       }
     ],
     "merged": [
@@ -991,6 +1030,7 @@
       "sharonda-cox",
       "thien-an-nguyen"
     ],
+    "mergeEpisode": 7,
     "finalists": [],
     "tribes": {
       "aaliyah-puglia": "Toka",
@@ -1001,21 +1041,21 @@
       "alexis-levine": "Savu",
       "linnea-capobianco": "Dina",
       "ori-jean-charles": "Savu",
-      "brady-booker": "Mergedtribe",
-      "cristian-chavez": "Mergedtribe",
-      "sharonda-cox": "Mergedtribe",
-      "kristin-flickinger": "Mergedtribe",
-      "lewis-kelly": "Mergedtribe",
-      "danny-kilby": "Mergedtribe",
-      "carter-krull": "Mergedtribe",
-      "jelly-loblack": "Mergedtribe",
-      "eric-macksoud": "Mergedtribe",
-      "maggie-nestor": "Mergedtribe",
-      "thien-an-nguyen": "Mergedtribe",
-      "mike-pinsky": "Mergedtribe",
-      "devin-way": "Mergedtribe"
+      "brady-booker": "Tovuto",
+      "cristian-chavez": "Tovuto",
+      "sharonda-cox": "Tovuto",
+      "kristin-flickinger": "Tovuto",
+      "lewis-kelly": "Tovuto",
+      "danny-kilby": "Tovuto",
+      "carter-krull": "Tovuto",
+      "jelly-loblack": "Tovuto",
+      "eric-macksoud": "Tovuto",
+      "maggie-nestor": "Tovuto",
+      "thien-an-nguyen": "Tovuto",
+      "mike-pinsky": "Tovuto",
+      "devin-way": "Tovuto"
     },
-    "votes": 252,
+    "votes": 273,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -1045,7 +1085,7 @@
       },
       "brady-booker": {
         "birthdate": "1998-12-10",
-        "bio": "ef178c5d9e19",
+        "bio": "9576be3d473e",
         "threeWords": "71f7b4fb99af",
         "qa": "2cc42f03772a",
         "photos": 1,
@@ -1126,7 +1166,7 @@
         "birthdate": "2000-04-29",
         "bio": "acbd1f91729e",
         "threeWords": "706e3fba831d",
-        "trivia": "4fb178ecf0b3",
+        "trivia": "f776cefa01fe",
         "qa": "24ff43f2a518",
         "photos": 1,
         "alliances": 0
@@ -1147,8 +1187,9 @@
       },
       "ori-jean-charles": {
         "birthdate": "1998-12-31",
+        "bio": "5bcce47fe399",
         "threeWords": "672631b112b8",
-        "trivia": "479d812d1b68",
+        "trivia": "c95a6a554a70",
         "qa": "07619a424d17",
         "photos": 1,
         "alliances": 0
@@ -1192,13 +1233,14 @@
       "3": "3675019c11da",
       "4": "11aa381fc0ef",
       "5": "8fd60cd4b104",
-      "6": "72ce351de7d7"
+      "6": "72ce351de7d7",
+      "7": "77f87991bd1d"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
       "alexis-levine": "a24ad41e9ce7",
       "ana-sani": "7071af320a76",
-      "brady-booker": "8384f92bf0c9",
+      "brady-booker": "f9bdeeef7b78",
       "carter-krull": "8736fc5c7d28",
       "cristian-chavez": "03fc58a2200c",
       "danny-kilby": "e616d7bf38a4",
@@ -1208,21 +1250,21 @@
       "jenna-doore": "583c76795c19",
       "kristin-flickinger": "47ec8c7423c9",
       "lewis-kelly": "0e0b1f1e82df",
-      "linnea-capobianco": "047e70082c2f",
+      "linnea-capobianco": "697de6ad9a8e",
       "maggie-nestor": "e3add46cf8f2",
       "mike-pinsky": "3a8c4f0e1adc",
-      "ori-jean-charles": "a447647be24e",
+      "ori-jean-charles": "e3a36fa17cca",
       "patt-cannaday": "e0ca8ff270e1",
       "rob-antonson": "c4f687c69af9",
       "sharonda-cox": "08f4c6be3a63",
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "c303a6de471b",
-      "kylie": "a4a999d76ad5",
-      "tami": "513416fd7acd",
-      "taylor": "8ff14a911ec6",
-      "tim": "5d24ac2d9ea2"
+      "austin": "f5dd2dbe8aa2",
+      "kylie": "260ea8e3bc98",
+      "tami": "6860d73075bc",
+      "taylor": "af93fd196613",
+      "tim": "03365d77ec48"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1231,7 +1273,8 @@
       "3": "5e79af15601e",
       "4": "61252cda7693",
       "5": "4f657021b7f8",
-      "6": "165f98849550"
+      "6": "165f98849550",
+      "7": "56efaa87940b"
     },
     "events": [
       "claude-aaliyah-puglia-x-1",
@@ -1261,27 +1304,27 @@
     "standings": [
       {
         "drafterId": "tim",
-        "total": 44,
+        "total": 48,
         "rank": 1
       },
       {
         "drafterId": "tami",
-        "total": 36,
+        "total": 39,
         "rank": 2
       },
       {
         "drafterId": "austin",
-        "total": 32,
+        "total": 34,
         "rank": 3
       },
       {
         "drafterId": "taylor",
-        "total": 30,
+        "total": 31,
         "rank": 4
       },
       {
         "drafterId": "kylie",
-        "total": 27,
+        "total": 29,
         "rank": 5
       }
     ],
@@ -1316,6 +1359,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-04T20:09:17.588Z",
-  "quietChecks": 2
+  "lastCheckedAt": "2026-11-05T10:32:15.967Z",
+  "quietChecks": 0
 }

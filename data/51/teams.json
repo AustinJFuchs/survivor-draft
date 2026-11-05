@@ -1,112 +1,112 @@
 {
   "austin": {
     "drafterId": "austin",
-    "nickname": "Farm Fresh Feelings",
-    "summary": "Austin, drafting 5th meant waiting all night, and then you landed Eric at pick #16 — a guy who ranks 1. Carter ranks 1 too. That's a back half of the draft that did heavy lifting, even with a draft GPA of 2 and the Torch Collector badge hanging around your neck, 2 torches snuffed. You sit rank 3 of 5 with 32 counted points, the leader has 44, and 40 points are still on the table. You're in this.",
+    "nickname": "Livestock and Listening Ears",
+    "summary": "Austin, you drafted last and you drafted late — and somehow your back half is the best half in the game. Carter and Eric are tied at 12 pts, rank 1 of 21, both still standing on Tovuto, which is why you're sitting rank 3 of 5 with 34 counted points. Yes, the front of your board burned down. But there are 38 points still on the table and the leader has 48. That's a gap, not a grave.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Carter and Eric are both sitting at 11 pts and rank 1 of 21, and they're the 2 of 4 you've still got in the game."
+        "text": "Eric at pick #16 ranks 1 is the steal of this entire draft, and Carter at pick #15 matched him at 12 pts — two late swings, two bullseyes."
       },
       {
         "label": "Cause for concern",
-        "text": "Jenna was your reach at pick #6 and finished rank 17 of 21 with 4 pts and a grade F after going 4th voted out in Ep 4 — the same episode that was your worst week at +3."
+        "text": "Jenna at pick #6 went out 4th in Ep 4 with 4 pts, rank 17 of 21, and Linnea at pick #5 followed one episode later with 6 pts — two early picks, two F's, and a Draft GPA of 2 to show for it."
       },
       {
         "label": "Watch for",
-        "text": "Whether your merged-tribe duo can keep stacking the way they did in Ep 3, your best week at +8, with 40 points still out there to chase down that 44."
+        "text": "Your Ep 3 high was +8 and your Ep 6 low was +2, so the story now is whether that Tovuto pair can push you back toward big weeks with two of four still in the game."
       }
     ],
-    "generatedAt": "2026-10-29T11:20:57.605Z",
+    "generatedAt": "2026-11-05T10:32:01.283Z",
     "model": "claude-opus-5",
-    "sourceHash": "4ad1ce000f5d"
+    "sourceHash": "f9bd08661078"
   },
   "kylie": {
     "drafterId": "kylie",
-    "nickname": "Chaos Hire Department",
-    "summary": "Kylie, you drafted 3rd, and Ep 1 hit you first and hardest — Aaliyah at pick #3 went home immediately, your worst week at +3, and a First Blood badge nobody wants. Add Torch Collector with 2 torches snuffed and a 2.25 draft GPA, and you sit rank 5 of 5 with 27 counted points. But hear me: 40 points are still on the table, the leader has 44, and Kilby at pick #18 is a steal.",
+    "nickname": "Chaos Theory Collective",
+    "summary": "Kylie, you took the first punch of this season — Aaliyah went home in Episode 1 and the First Blood badge is yours forever. But look what's still standing: Cristian and Kilby, both sitting at 12 pts, both ranked 1 of 21, both loud, chaotic, and absolutely alive. You're rank 5 of 5 with 29 counted points, and yes, the leader has 48 — but there are 38 points still on the table. Episode 7 gave you +8. You are not out of this.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Cristian and Kilby are both sitting at 11 pts, tied at rank 1 of 21, and they're the entire engine of this team."
+        "text": "Kilby at pick #18 is the steal of the draft — 12 pts, rank 1 of 21, a grade A, and a game designer thinking three steps ahead alongside Cristian, who matches him point for point."
       },
       {
         "label": "Cause for concern",
-        "text": "Aaliyah at pick #3 scored 0 pts and finished rank 21 of 21 — a reach that cost you from the opening night."
+        "text": "Aaliyah at pick #3 was the reach — 0 pts, rank 21 of 21, grade F — and losing Alexis in Episode 5 at 5 pts left you with 2 of 4 still in the game."
       },
       {
         "label": "Watch for",
-        "text": "Whether that Ep 6 surge of +8 becomes the new normal, because with 2 of 4 still in the game, every point your merge duo banks closes the gap on 44."
+        "text": "Two Tovuto chaos agents tied at the very top — watch whether Cristian and Kilby keep climbing together or start pulling in different directions."
       }
     ],
-    "generatedAt": "2026-10-29T11:20:35.058Z",
+    "generatedAt": "2026-11-05T10:31:43.116Z",
     "model": "claude-opus-5",
-    "sourceHash": "1e1ee68549c7"
+    "sourceHash": "3ff30857f4f2"
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "Scrubs, Suits and Fastballs",
-    "summary": "Tami, you drafted first and you drafted bold — three of your five are still out there on Mergedtribe, and you're sitting at rank 2 of 5 with 36 counted points off a raw 38. Sharonda at pick #21 as the leftover is the steal of this entire draft, and Ep 6 gave you your best haul at +12. The leader has 44. There are 55 points still on the table. Game on.",
+    "nickname": "Tovuto Brain Trust",
+    "summary": "Tami, you own three Tovuto players sitting at 12 pts apiece, tied at rank 1 of 21, and that's why you're rank 2 of 5 with 39 counted points. The leftover, Sharonda at pick #21, scores like a first-rounder — that's Leftover Luck, and your roster's 2 idols and advantages earned Idol Whisperer too. Ep 7 gave you +12. Draft GPA 2.4 says messy; the scoreboard says dangerous.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Jelly, Mike and Sharonda are all tied at 11 pts and ranked 1 of 21 — three co-leaders hauling your scoreboard together."
+        "text": "Angelica, Mike and Sharonda are all tied at 12 pts and rank 1 of 21 — a three-headed engine humming out of Tovuto."
       },
       {
         "label": "Cause for concern",
-        "text": "Patt at pick #10 scored 3 pts for a rank of 18 of 21 and an F grade, and Rob's 2 pts became your dropped score under the best-4 rule."
+        "text": "Patt went at pick #10 and finished rank 18 of 21 with 3 pts after being 3rd voted out in Ep 3, while Rob's 2 pts get dropped under the best-4 rule."
       },
       {
         "label": "Watch for",
-        "text": "Your Idol Whisperer badge says this roster has found 2 idols and advantages — watch whether that hardware turns into points at the merge."
+        "text": "The leader sits at 48 with 52 points still on the table — every episode your three survivors stay in the game is another swing at that gap."
       }
     ],
-    "generatedAt": "2026-10-29T09:37:00.778Z",
+    "generatedAt": "2026-11-05T10:31:24.353Z",
     "model": "claude-opus-5",
-    "sourceHash": "197ae7f52bba"
+    "sourceHash": "1abe9d0f2ac9"
   },
   "taylor": {
     "drafterId": "taylor",
-    "nickname": "Santa Barbara Suplex Squad",
-    "summary": "Taylor, you drafted second and built a team with teeth. Kristin and Brady are both sitting at 11 pts, rank 1 of 21, and Brady at pick #19 is flat-out larceny. The damage? Ana at pick #12 went out 2nd voted out in Ep 2 with 1 pts. You sit rank 4 of 5 with 30 counted points, 2 of 4 still breathing, 40 points still on the table, leader at 44. Still in contention.",
+    "nickname": "Crisis Management Chaos",
+    "summary": "Taylor, you drafted 2nd and landed Kristin Flickinger with pick #2 — rank 1 of 21, 12 pts, and still out there. The problem? Torches. You've earned the Torch Collector badge with 3 torches snuffed, you sit rank 4 of 5 with 31 counted points, and your draft GPA is 1.75. But hear me out: 24 points are still on the table, the leader has 48, and Ep 7 handed you +7. You are absolutely still in contention.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Kristin Flickinger and Brady Booker are tied at the top of the entire cast with 11 pts each, rank 1 of 21, and both are still in the game."
+        "text": "Kristin Flickinger, 49, crisis management, your pick #2 — rank 1 of 21 with 12 pts and the only one of your four still in the game."
       },
       {
         "label": "Cause for concern",
-        "text": "Ana Sani, your pick #12, ranks 20 with 1 pts after going out 2nd in Ep 2, and Ori Jean-Charles followed as the 7th voted out in Ep 6 with 7 pts — that's your Torch Collector badge, 2 torches snuffed."
+        "text": "Ana Sani at pick #12 is your reach — she ranks 20, scored 1 pts, graded F, and her game ended on Day 5 in 20th place, while Brady Booker at pick #19 (ranks 13, grade A) was the steal you needed more of."
       },
       {
         "label": "Watch for",
-        "text": "Your Idol Whisperer badge says this roster finds things — 2 idols and advantages already — so watch whether Kristin's crisis-management nerve and Brady's intensity turn that into points after your best week, Ep 6 at +8."
+        "text": "Your Idol Whisperer badge says this roster finds things — 2 idols and advantages found — so keep your eyes on whether Kristin's determined, joyful mischief can close the gap on that 48."
       }
     ],
-    "generatedAt": "2026-10-31T17:27:14.325Z",
+    "generatedAt": "2026-11-05T10:31:36.679Z",
     "model": "claude-opus-5",
-    "sourceHash": "f9bf20a2253c"
+    "sourceHash": "f9744a1373f6"
   },
   "tim": {
     "drafterId": "tim",
-    "nickname": "The Untouchable Farmhands",
-    "summary": "Tim, you drafted fourth and somehow you're first — rank 1 of 5 with 44 counted points and all 4 of 4 still breathing out here. Eight boots, none of them yours. Untouchable. Merge Machine. Wire-to-Wire. A 3.75 draft GPA and Thien An falling to you at pick #17 is the kind of larceny we usually only see at Tribal. Ep 1 gave you +4, Ep 6 gave you +16. The family's chasing you.",
+    "nickname": "The Untouchable Tovuto Four",
+    "summary": "Tim, you drafted fourth and somehow walked away with an entire tribe intact. Four for four still in the game, every one of them through the merge, and a 3.75 draft GPA to show for it. You're rank 1 of 5 with 48 counted points, you've led or co-led after every single elimination, and nine boots have come and gone without touching you. Ep 7 gave you +16. That, Tim, is a statement.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Nobody's carrying it alone — Lewis, Maggie, Devin and Thien An each sit at 11 pts, rank 1 of 21, a four-headed monster at the top of the board."
+        "text": "Nobody's carrying anybody — Lewis, Maggie, Devin and Thien An are all sitting at 12 pts and all ranked 1 of 21, with Thien An at pick #17 standing as the steal of the draft."
       },
       {
         "label": "Cause for concern",
-        "text": "Lewis Kelly's B grade is the only blemish on an otherwise straight-A roster, and that Ep 1 +4 is a reminder slow weeks happen."
+        "text": "Ep 1 was your worst week at +4, Lewis is the lone B on an otherwise A-graded roster, and with 66 points still on the table a 48-point lead is not a locked door."
       },
       {
         "label": "Watch for",
-        "text": "There are 70 points still on the table and the leader has 44 — plus your crew's already sniffed out 2 idols and advantages, so keep an eye on what they dig up next."
+        "text": "Your Idol Whisperer badge says this crew has already dug up 2 idols and advantages — keep an eye on who's holding the hardware and when they decide to use it."
       }
     ],
-    "generatedAt": "2026-10-29T11:20:45.958Z",
+    "generatedAt": "2026-11-05T10:31:54.154Z",
     "model": "claude-opus-5",
-    "sourceHash": "2368875c3788"
+    "sourceHash": "76998438f9f2"
   }
 }
