@@ -310,44 +310,44 @@
     "key": "7",
     "episode": 7,
     "eliminations": 9,
-    "headline": "Four Tovuto torches burning, and one draft owns them all",
-    "overview": "The merge has spoken, and it speaks Tovuto. Tim sits at 48 points with all 4 of 4 still in, 66 on the table and a 3.75 draft GPA — that is a wire-to-wire stranglehold. Tami's Brain Trust is 39 with three alive and 52 available, close enough to make Tim check over his shoulder. Austin and Kylie are twins in trouble at 34 and 29, both 2 of 4, both staring at 38 on the table. And Taylor? Taylor lost Brady Booker to the jury and now carries 1 of 4 with 24 left. The gap is real, family.",
+    "headline": "Merge feast devoured, jury opened, and one draft still untouched",
+    "overview": "The merge arrived with grubs, a gifted idol and a blindside, and when the smoke cleared the draft board barely moved — except for Taylor. Tim sits at 48 points with all 4 of 4 still in, 66 on the table and a 3.75 draft GPA that the rest of this family simply cannot touch. Tami's 39 and three survivors keep her in second with 52 on the table. Austin and Kylie are twins at 2 of 4 alive with 38 on the table each, 34 to 29. Taylor lost Brady and is down to one.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer — four badges, four castaways, 48 points, and Thien An stolen at #17 to rank 1, which is just rude."
+        "text": "Four Tovuto picks, four still breathing, +16 this episode and 496.5 of 660 scenarios — Tim, that's not a draft, that's a fortress with Untouchable, Merge Machine and Wire-to-Wire hanging on the wall."
       },
       {
         "drafterId": "tami",
-        "text": "The leftover pick #21 turned Sharonda into a rank-1 steal, and with Jelly, Mike and Sharonda all alive, Tami's 39 points and 137/660 scenarios make her the only real heat behind Tim."
+        "text": "Leftover pick #21 Sharonda turned into Tami's number one steal and she's still got Jelly, Mike and that immunity necklace working, which is how you survive dropping Rob and reaching on Patt at #10."
       },
       {
         "drafterId": "austin",
-        "text": "Linnea and Jenna are long gone, but Carter and Eric are both sitting on 12 points apiece, so Austin's 34 is being carried entirely by two Tovuto hearts."
+        "text": "Austin's Livestock and Listening Ears is running on Carter and Eric alone, 38 on the table and 16.5 of 660 scenarios — the Jenna reach at #6 still stings, but Eric at #16 was a genuine steal."
       },
       {
         "drafterId": "taylor",
-        "text": "Crisis Management Chaos lost Brady Booker as the first member of the jury, and with 1 of 4 left and 24 on the table, Taylor's Torch Collector badge has never felt more literal."
+        "text": "Brady gave Taylor 11 points and the first jury seat on his way out, leaving Kristin as the lone torch in the Crisis & Chaos Crew and 0 of 660 scenarios on the board."
       },
       {
         "drafterId": "kylie",
-        "text": "Kilby at #18 was a rank-1 steal and Cristian's still eating grubs out there, but Aaliyah at #3 going out first blood left Kylie at the bottom of the board with 29."
+        "text": "Kylie's Chaos Theory Collective lives up to the name — Aaliyah at #3 scored zero, but Kilby at #18 and Cristian are still eating grubs and chasing 38 points."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Plus-16 this episode, 4 of 4 standing, 496.5 of 660 scenarios — Tim didn't draft a team, he drafted a tribe."
+        "text": "Tim posted +16, kept all four alive through the merge and watched Thien An at #17 grade out as the number one pick in the entire draft."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "taylor",
-        "text": "Brady walked off with 11 points and a jury seat, leaving Taylor with Kristin and a whole lot of quiet."
+        "text": "Taylor watched Brady confront Mike, get lied to, and become the first member of the jury — one castaway left and 24 on the table."
       }
     ],
-    "generatedAt": "2026-11-05T10:32:15.056Z",
+    "generatedAt": "2026-11-05T20:25:22.776Z",
     "model": "claude-opus-5",
-    "sourceHash": "0c1814160706"
+    "sourceHash": "665b19dcb1db"
   }
 }

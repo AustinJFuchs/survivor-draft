@@ -40,16 +40,16 @@
   },
   "brady-booker": {
     "slug": "brady-booker",
-    "summary": "Brady Booker is a 27-year-old pro wrestler from La Salle, Illinois, now living in Knoxville, who grew up watching Survivor with his family. He loves the outdoors, competition, and being pushed to his limit. On Survivor 51 he built the Vibe Five alliance on Toka, played hard, and became the first member of the jury.",
+    "summary": "Brady is a pro wrestler who grew up watching Survivor with his family and loves being pushed to his limit. Enthusiastic, intense, and fun, he values trust above all and hoped to play the laid-back provider who strikes late. On Survivor 51, his controlling style made him a target, and he went out 13th.",
     "bullets": [
-      "Wrestles under the name Bodhi Hayward",
-      "Describes himself as enthusiastic, intense and fun",
+      "Wrestles under the ring name Bodhi Hayward",
       "Did gymnastics throughout his youth sports years",
-      "Credits his parents, who built a life from very little"
+      "Hunts, fishes, hikes, camps, lifts, runs trails, and trains jujitsu",
+      "Names his parents his biggest inspiration for building a life from little"
     ],
-    "generatedAt": "2026-11-05T10:31:07.490Z",
+    "generatedAt": "2026-11-05T20:24:58.735Z",
     "model": "claude-opus-5",
-    "sourceHash": "f59e14d56dc3"
+    "sourceHash": "6ee83a0de155"
   },
   "carter-krull": {
     "slug": "carter-krull",
