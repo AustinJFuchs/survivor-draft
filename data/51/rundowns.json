@@ -310,44 +310,44 @@
     "key": "7",
     "episode": 7,
     "eliminations": 9,
-    "headline": "Merge feast devoured, jury opened, and one draft still untouched",
-    "overview": "The merge arrived with grubs, a gifted idol and a blindside, and when the smoke cleared the draft board barely moved — except for Taylor. Tim sits at 48 points with all 4 of 4 still in, 66 on the table and a 3.75 draft GPA that the rest of this family simply cannot touch. Tami's 39 and three survivors keep her in second with 52 on the table. Austin and Kylie are twins at 2 of 4 alive with 38 on the table each, 34 to 29. Taylor lost Brady and is down to one.",
+    "headline": "Merge feast, broken hearts, and one untouchable Tovuto wall",
+    "overview": "The merge came, the grubs went down, and the gap got ugly. Tim sits at 48 points with all 4 of 4 still in, a 3.75 draft GPA, and 496.5 of 660 scenarios breaking his way — that's not a lead, that's a fortress. Tami's 39 and three survivors keep her honest with 137 scenarios alive, and she's still got Rob's quit dropped and Sharonda stealing the show. Austin and Kylie are knotted around 34 and 29 with two apiece and 38 on the table each. Taylor, at 31, lost Brady to the jury and is down to one.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Four Tovuto picks, four still breathing, +16 this episode and 496.5 of 660 scenarios — Tim, that's not a draft, that's a fortress with Untouchable, Merge Machine and Wire-to-Wire hanging on the wall."
+        "text": "Four picks, four still standing, 48 points and 66 on the table — Tim built a Tovuto wall and the badges keep piling up: Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer."
       },
       {
         "drafterId": "tami",
-        "text": "Leftover pick #21 Sharonda turned into Tami's number one steal and she's still got Jelly, Mike and that immunity necklace working, which is how you survive dropping Rob and reaching on Patt at #10."
+        "text": "Leftover pick #21 Sharonda is a straight-up grand larceny steal at rank 1, and with 137 of 660 scenarios Tami is the only one with a real hand on Tim's ankle."
       },
       {
         "drafterId": "austin",
-        "text": "Austin's Livestock and Listening Ears is running on Carter and Eric alone, 38 on the table and 16.5 of 660 scenarios — the Jenna reach at #6 still stings, but Eric at #16 was a genuine steal."
+        "text": "Linnea and Jenna are long gone, but Carter and Eric are both still in at 12 points each, and 38 on the table means Austin's night isn't over."
       },
       {
         "drafterId": "taylor",
-        "text": "Brady gave Taylor 11 points and the first jury seat on his way out, leaving Kristin as the lone torch in the Crisis & Chaos Crew and 0 of 660 scenarios on the board."
+        "text": "Brady Booker walked out as the first member of our jury with 11 points banked, leaving Taylor with Kristin, a Torch Collector badge, and 0 of 660 scenarios — brutal."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie's Chaos Theory Collective lives up to the name — Aaliyah at #3 scored zero, but Kilby at #18 and Cristian are still eating grubs and chasing 38 points."
+        "text": "Aaliyah went first for zero and Kylie's been climbing uphill ever since, but Cristian and Kilby are both alive at 12 apiece and Kilby at #18 was a rank-1 heist."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Tim posted +16, kept all four alive through the merge and watched Thien An at #17 grade out as the number one pick in the entire draft."
+        "text": "Plus-16 this episode, a 3.75 GPA, and Thien An stolen at #17 to finish rank 1 — Tim is playing a different game."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "taylor",
-        "text": "Taylor watched Brady confront Mike, get lied to, and become the first member of the jury — one castaway left and 24 on the table."
+        "text": "Brady confronted Mike, Mike lied, lied, lied, and Taylor's roster went down to one survivor standing."
       }
     ],
-    "generatedAt": "2026-11-05T20:25:22.776Z",
+    "generatedAt": "2026-11-07T17:55:06.419Z",
     "model": "claude-opus-5",
-    "sourceHash": "665b19dcb1db"
+    "sourceHash": "48b5470a8b6a"
   }
 }
