@@ -932,6 +932,16 @@
         "State of the Draft rewritten (Ep 7)"
       ],
       "episode": 7
+    },
+    {
+      "id": "2026-11-09T22:48:18.188Z",
+      "at": "2026-11-09T22:48:18.188Z",
+      "source": "pipeline",
+      "summary": "",
+      "details": [
+        "4 game events removed"
+      ],
+      "episode": 7
     }
   ],
   "state": {
@@ -1303,10 +1313,6 @@
       "7": "c8d0ab9fad3c"
     },
     "events": [
-      "claude-aaliyah-puglia-x-1",
-      "claude-lewis-kelly-x-0",
-      "claude-linnea-capobianco-x-3",
-      "claude-rob-antonson-x-2",
       "extra-vote-brady-booker-advantage-found-3",
       "extra-vote-danny-kilby-advantage-played-5",
       "extra-vote-devin-way-advantage-found-3",
@@ -1385,6 +1391,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-08T18:09:46.266Z",
-  "quietChecks": 1
+  "lastCheckedAt": "2026-11-09T22:48:18.188Z",
+  "quietChecks": 0
 }

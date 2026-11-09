@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-08T18:09:44.284Z",
+  "syncedAt": "2026-11-09T22:48:15.222Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -170,66 +170,11 @@
       "episode": 6,
       "detail": "On Day 11, Sharonda Cox, Ori Jean-Charles, and Kristin Flickinger represented Dina, Savu, and Toka on the journey respectively. They were told that two of them would take food back to their tribes, while the third would ",
       "contestantSlug": "sharonda-cox"
-    },
-    {
-      "id": "claude-lewis-kelly-x-0",
-      "type": "other",
-      "contestant": "Lewis Kelly",
-      "contestantSlug": "lewis-kelly",
-      "day": 8,
-      "advantage": "Exile Island",
-      "detail": "As the odd person out during the tribe expansion, Lewis was sent to Exile Island before rejoining the game on the Toka tribe in place of Aaliyah, evening the tribes at 10-10.",
-      "source": {
-        "page": "Survivor 51 (wiki twists & footnotes)",
-        "url": "https://survivor.fandom.com/wiki/Survivor_51"
-      },
-      "extracted": "claude"
-    },
-    {
-      "id": "claude-aaliyah-puglia-x-1",
-      "type": "other",
-      "contestant": "Aaliyah Puglia",
-      "contestantSlug": "aaliyah-puglia",
-      "day": 8,
-      "advantage": "Tribe Expansion",
-      "detail": "Aaliyah was replaced on Toka by Lewis when he rejoined the game from Exile Island.",
-      "source": {
-        "page": "Survivor 51 (wiki twists & footnotes)",
-        "url": "https://survivor.fandom.com/wiki/Survivor_51"
-      },
-      "extracted": "claude"
-    },
-    {
-      "id": "claude-rob-antonson-x-2",
-      "type": "other",
-      "contestant": "Rob Antonson",
-      "contestantSlug": "rob-antonson",
-      "advantage": "Quit",
-      "detail": "Rob elected to quit the game due to an injury, with no vote held for his removal.",
-      "source": {
-        "page": "Survivor 51 (wiki twists & footnotes)",
-        "url": "https://survivor.fandom.com/wiki/Survivor_51"
-      },
-      "extracted": "claude"
-    },
-    {
-      "id": "claude-linnea-capobianco-x-3",
-      "type": "other",
-      "contestant": "Linnea Capobianco",
-      "contestantSlug": "linnea-capobianco",
-      "advantage": "Deadlock Tie/Rock Draw",
-      "outcome": "fail",
-      "detail": "After a deadlocked revote, the non-immune castaways reached a consensus during the open discussion to eliminate Linnea rather than draw rocks.",
-      "source": {
-        "page": "Survivor 51 (wiki twists & footnotes)",
-        "url": "https://survivor.fandom.com/wiki/Survivor_51"
-      },
-      "extracted": "claude"
     }
   ],
   "claude": {
-    "sourceHash": "091685abf154",
-    "generatedAt": "2026-10-31T17:26:59.779Z",
+    "sourceHash": "2ab42859aa37",
+    "generatedAt": "2026-11-09T22:48:15.222Z",
     "model": "claude-opus-5"
   },
   "warnings": []
