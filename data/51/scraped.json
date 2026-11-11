@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-10T20:06:12.489Z",
+  "syncedAt": "2026-11-11T19:55:54.203Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -261,7 +261,7 @@
       "number": 8,
       "title": "Load the Ark, Two by Two",
       "airDate": "2026-11-11",
-      "aired": false
+      "aired": true
     }
   ],
   "eliminations": [
