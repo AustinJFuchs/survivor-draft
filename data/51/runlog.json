@@ -942,6 +942,37 @@
         "4 game events removed"
       ],
       "episode": 7
+    },
+    {
+      "id": "2026-11-12T10:47:40.958Z",
+      "at": "2026-11-12T10:47:40.958Z",
+      "source": "pipeline",
+      "summary": "Ep 8 aired and Kristin and Kilby were voted out. ⚠ No episode found for elimination of kristin-flickinger.",
+      "details": [
+        "Kristin voted out, first jury member",
+        "Kilby voted out in Ep 8, first jury member",
+        "Vote records: 273 → 294",
+        "Trivia updated for Brady",
+        "Trivia updated for Sharonda",
+        "Commentary written for Ep 8",
+        "Profile rewritten for Brady",
+        "Profile rewritten for Sharonda",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 8)",
+        "6 game events added",
+        "⚠ No episode found for elimination of kristin-flickinger",
+        "Tim: 1st → 1st, 48 → 56 pts",
+        "Tami: 2nd → 2nd, 39 → 45 pts",
+        "Austin: 3rd → 3rd, 34 → 38 pts",
+        "Kylie: 5th → 4th, 29 → 32 pts",
+        "Taylor: 4th → 5th, 31 → 31 pts"
+      ],
+      "episode": 8,
+      "trouble": true
     }
   ],
   "state": {
@@ -1048,6 +1079,17 @@
         "slug": "brady-booker",
         "kind": "voted-out",
         "episode": 7,
+        "jury": false
+      },
+      {
+        "slug": "kristin-flickinger",
+        "kind": "voted-out",
+        "jury": true
+      },
+      {
+        "slug": "danny-kilby",
+        "kind": "voted-out",
+        "episode": 8,
         "jury": true
       }
     ],
@@ -1078,11 +1120,11 @@
       "linnea-capobianco": "Dina",
       "ori-jean-charles": "Savu",
       "brady-booker": "Tovuto",
+      "kristin-flickinger": "Tovuto",
+      "danny-kilby": "Tovuto",
       "cristian-chavez": "Tovuto",
       "sharonda-cox": "Tovuto",
-      "kristin-flickinger": "Tovuto",
       "lewis-kelly": "Tovuto",
-      "danny-kilby": "Tovuto",
       "carter-krull": "Tovuto",
       "jelly-loblack": "Tovuto",
       "eric-macksoud": "Tovuto",
@@ -1091,7 +1133,7 @@
       "mike-pinsky": "Tovuto",
       "devin-way": "Tovuto"
     },
-    "votes": 273,
+    "votes": 294,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -1123,6 +1165,7 @@
         "birthdate": "1998-12-10",
         "bio": "6b9f5adff5fb",
         "threeWords": "71f7b4fb99af",
+        "trivia": "5862f95dd57e",
         "qa": "2cc42f03772a",
         "photos": 1,
         "alliances": 0
@@ -1250,6 +1293,7 @@
       "sharonda-cox": {
         "birthdate": "1991-09-30",
         "threeWords": "539670f32cc1",
+        "trivia": "9afdbef17f74",
         "qa": "7a7714f77f76",
         "photos": 1,
         "alliances": 0
@@ -1270,13 +1314,14 @@
       "4": "11aa381fc0ef",
       "5": "8fd60cd4b104",
       "6": "72ce351de7d7",
-      "7": "77f87991bd1d"
+      "7": "77f87991bd1d",
+      "8": "b008847409dc"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
       "alexis-levine": "a24ad41e9ce7",
       "ana-sani": "7071af320a76",
-      "brady-booker": "cfff5d38ed24",
+      "brady-booker": "7527aa17186b",
       "carter-krull": "8736fc5c7d28",
       "cristian-chavez": "03fc58a2200c",
       "danny-kilby": "e616d7bf38a4",
@@ -1292,15 +1337,15 @@
       "ori-jean-charles": "4c58a6037eea",
       "patt-cannaday": "e0ca8ff270e1",
       "rob-antonson": "c4f687c69af9",
-      "sharonda-cox": "08f4c6be3a63",
+      "sharonda-cox": "b496005f0f33",
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "f5dd2dbe8aa2",
-      "kylie": "260ea8e3bc98",
-      "tami": "6860d73075bc",
-      "taylor": "71f27209e371",
-      "tim": "03365d77ec48"
+      "austin": "65bae4f7b7b4",
+      "kylie": "0cc41a68a17e",
+      "tami": "57353f75380d",
+      "taylor": "572f150f67fb",
+      "tim": "8e2beb8a2b26"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1310,20 +1355,27 @@
       "4": "61252cda7693",
       "5": "4f657021b7f8",
       "6": "165f98849550",
-      "7": "c8d0ab9fad3c"
+      "7": "c8d0ab9fad3c",
+      "8": "af42ce170243"
     },
     "events": [
       "extra-vote-brady-booker-advantage-found-3",
+      "extra-vote-cristian-chavez-advantage-found-8",
       "extra-vote-danny-kilby-advantage-played-5",
       "extra-vote-devin-way-advantage-found-3",
       "extra-vote-lewis-kelly-advantage-played-5",
       "extra-vote-maggie-nestor-advantage-found-5",
       "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
+      "hidden-immunity-idol-history-jelly-loblack-idol-played-8",
       "hidden-immunity-idol-history-kristin-flickinger-idol-found-6",
+      "hidden-immunity-idol-history-kristin-flickinger-idol-played-8",
       "hidden-immunity-idol-history-rob-antonson-idol-found-1",
+      "journey-cristian-chavez-journey-8",
       "journey-sharonda-cox-journey-6",
       "shot-in-the-dark-aaliyah-puglia-shot-in-the-dark-1",
+      "shot-in-the-dark-cristian-chavez-shot-in-the-dark-8",
       "shot-in-the-dark-jenna-doore-shot-in-the-dark-1",
+      "shot-in-the-dark-kristin-flickinger-shot-in-the-dark-8",
       "shot-in-the-dark-ori-jean-charles-shot-in-the-dark-6"
     ],
     "overrides": {
@@ -1332,31 +1384,33 @@
       "funFacts": 0,
       "corrections": 1
     },
-    "warnings": [],
+    "warnings": [
+      "No episode found for elimination of kristin-flickinger"
+    ],
     "standings": [
       {
         "drafterId": "tim",
-        "total": 48,
+        "total": 56,
         "rank": 1
       },
       {
         "drafterId": "tami",
-        "total": 39,
+        "total": 45,
         "rank": 2
       },
       {
         "drafterId": "austin",
-        "total": 34,
+        "total": 38,
         "rank": 3
+      },
+      {
+        "drafterId": "kylie",
+        "total": 32,
+        "rank": 4
       },
       {
         "drafterId": "taylor",
         "total": 31,
-        "rank": 4
-      },
-      {
-        "drafterId": "kylie",
-        "total": 29,
         "rank": 5
       }
     ],
@@ -1391,6 +1445,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-11T19:56:00.665Z",
-  "quietChecks": 2
+  "lastCheckedAt": "2026-11-12T10:47:40.958Z",
+  "quietChecks": 0
 }

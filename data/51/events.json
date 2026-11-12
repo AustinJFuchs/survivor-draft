@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-11T19:55:58.341Z",
+  "syncedAt": "2026-11-12T10:46:00.962Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -52,7 +52,7 @@
       },
       "extracted": "table",
       "episode": 2,
-      "detail": "Found at Toka camp",
+      "detail": "Found at Toka camp · * This Idol was played while the Double Duo twist was in play; therefore, it protected both Jelly and her partner, Devin Way.",
       "contestantSlug": "jelly-loblack"
     },
     {
@@ -141,7 +141,7 @@
       },
       "extracted": "table",
       "episode": 6,
-      "detail": "Found at Day 11 Journey · * This is a Tethered Idol, tethered to Ori Jean-Charles and Sharonda Cox, therefore, as long as both Ori and Sharonda were still in the game, Kristin can only play the idol for one of them",
+      "detail": "Found at Day 11 Journey · * This is a Tethered Idol, tethered to Ori Jean-Charles and Sharonda Cox",
       "contestantSlug": "kristin-flickinger"
     },
     {
@@ -168,13 +168,95 @@
       },
       "extracted": "table",
       "episode": 6,
-      "detail": "On Day 11, Sharonda Cox, Ori Jean-Charles, and Kristin Flickinger represented Dina, Savu, and Toka on the journey respectively. They were told that two of them would take food back to their tribes, while the third would ",
       "contestantSlug": "sharonda-cox"
+    },
+    {
+      "id": "hidden-immunity-idol-history-jelly-loblack-idol-played-8",
+      "type": "idol-played",
+      "contestant": "Jelly Loblack",
+      "source": {
+        "page": "Hidden Immunity Idol/History",
+        "url": "https://survivor.fandom.com/wiki/Hidden_Immunity_Idol/History"
+      },
+      "extracted": "table",
+      "episode": 8,
+      "outcome": "success",
+      "detail": "negated 8 votes [8-1-1]",
+      "advantage": "Hidden Immunity Idol",
+      "contestantSlug": "jelly-loblack"
+    },
+    {
+      "id": "hidden-immunity-idol-history-kristin-flickinger-idol-played-8",
+      "type": "idol-played",
+      "contestant": "Kristin Flickinger",
+      "source": {
+        "page": "Hidden Immunity Idol/History",
+        "url": "https://survivor.fandom.com/wiki/Hidden_Immunity_Idol/History"
+      },
+      "extracted": "table",
+      "episode": 8,
+      "detail": "Expired in 5108",
+      "advantage": "Hidden Immunity Idol",
+      "contestantSlug": "kristin-flickinger"
+    },
+    {
+      "id": "extra-vote-cristian-chavez-advantage-found-8",
+      "type": "advantage-found",
+      "contestant": "Cristian Chavez",
+      "source": {
+        "page": "Extra Vote",
+        "url": "https://survivor.fandom.com/wiki/Extra_Vote"
+      },
+      "extracted": "table",
+      "episode": 8,
+      "advantage": "Extra Vote",
+      "detail": "Tovuto Camp",
+      "contestantSlug": "cristian-chavez"
+    },
+    {
+      "id": "shot-in-the-dark-kristin-flickinger-shot-in-the-dark-8",
+      "type": "shot-in-the-dark",
+      "contestant": "Kristin Flickinger",
+      "source": {
+        "page": "Shot in the Dark",
+        "url": "https://survivor.fandom.com/wiki/Shot_in_the_Dark"
+      },
+      "extracted": "table",
+      "episode": 8,
+      "outcome": "fail",
+      "detail": "Not Safe",
+      "contestantSlug": "kristin-flickinger"
+    },
+    {
+      "id": "shot-in-the-dark-cristian-chavez-shot-in-the-dark-8",
+      "type": "shot-in-the-dark",
+      "contestant": "Cristian Chavez",
+      "source": {
+        "page": "Shot in the Dark",
+        "url": "https://survivor.fandom.com/wiki/Shot_in_the_Dark"
+      },
+      "extracted": "table",
+      "episode": 8,
+      "outcome": "success",
+      "detail": "Safe (negated 1 vote)",
+      "contestantSlug": "cristian-chavez"
+    },
+    {
+      "id": "journey-cristian-chavez-journey-8",
+      "type": "journey",
+      "contestant": "Cristian Chavez",
+      "source": {
+        "page": "Journey",
+        "url": "https://survivor.fandom.com/wiki/Journey"
+      },
+      "extracted": "table",
+      "episode": 8,
+      "contestantSlug": "cristian-chavez"
     }
   ],
   "claude": {
-    "sourceHash": "2ab42859aa37",
-    "generatedAt": "2026-11-09T22:48:15.222Z",
+    "sourceHash": "41d525fa5497",
+    "generatedAt": "2026-11-12T10:46:00.961Z",
     "model": "claude-opus-5"
   },
   "warnings": []
