@@ -53,29 +53,29 @@
   },
   "carter-krull": {
     "slug": "carter-krull",
-    "summary": "Carter is a 24-year-old livestock farmer from Rock Rapids, Iowa, who describes himself as adventurous, competitive and determined. He's a builder by nature — a snow cone truck, a moving company, epoxy river tables — and credits his parents for teaching him to work hard and chase things down. Survivor has been on his bucket list for a while.",
+    "summary": "Carter is a 24-year-old livestock farmer from Rock Rapids, Iowa, who calls himself adventurous, competitive and determined. He's built businesses from nothing — a snow cone truck and a moving company called MOVE MOVE MOVE — and credits his parents for teaching him to work hard and chase things down. Survivor has been on his bucket list for years.",
     "bullets": [
-      "Co-founded a cross-country moving company named MOVE MOVE MOVE",
       "Makes epoxy river tables, inspired by a grandpa who built his own house",
-      "Youngest member of Savu and youngest man in Survivor 51",
-      "Third player ever to accept the chance to mutiny"
+      "Youngest man playing Survivor 51 and the youngest member of Savu",
+      "Values communication above all: I've got your back if you've got mine",
+      "Open-mouth chewing is, in his words, grounds for packing your bags"
     ],
-    "generatedAt": "2026-10-09T18:35:36.564Z",
+    "generatedAt": "2026-11-12T20:33:35.826Z",
     "model": "claude-opus-5",
-    "sourceHash": "34e8fae4f01f"
+    "sourceHash": "47a197f8f691"
   },
   "cristian-chavez": {
     "slug": "cristian-chavez",
-    "summary": "Cristian is a 26-year-old head of HR from Salt Lake City who calls himself fun, chaotic and loud. He grew up running homemade Survivor challenges with his dad, earned a master's degree at 21, and is a devoted father whose biggest inspiration is his mom. He loves competition and wants a partner whose motives he can predict.",
+    "summary": "Cristian is a 26-year-old head of HR from Salt Lake City who calls himself fun, chaotic and loud. He grew up running backyard Survivor challenges with his dad, earned a master's degree at 21, and is now a dad himself. He loves competition and wants to be pushed past his breaking point.",
     "bullets": [
-      "Was an alternate for Survivor 47",
-      "Earned his master's degree at 21",
       "Bakes, studies philosophy, and feeds ducks in his free time",
-      "Loves animals, hates worms, and has a very loud laugh"
+      "Wants to play like a mix of Tai, Cirie, Tony and Carolyn",
+      "First player to use a Shot in the Dark to save someone else",
+      "Credits his mom as his biggest inspiration; strongly dislikes worms"
     ],
-    "generatedAt": "2026-09-26T16:50:03.605Z",
+    "generatedAt": "2026-11-12T20:33:39.448Z",
     "model": "claude-opus-5",
-    "sourceHash": "f8a2105a64d7"
+    "sourceHash": "8f8677dace9f"
   },
   "danny-kilby": {
     "slug": "danny-kilby",
@@ -248,16 +248,16 @@
   },
   "sharonda-cox": {
     "slug": "sharonda-cox",
-    "summary": "Sharonda is an OB/GYN resident who grew up in a single-parent household in Pompano Beach and now calls Kentucky home. She plays for her family and for kids from places like hers, hoping to meet a newer, more unapologetic version of herself. Warm, steady, and used to working for everything.",
+    "summary": "Sharonda is an OB/GYN resident from Pompano Beach who grew up in a single-parent household and credits her grandparents for everything. She plays for her family and for kids who start out with less, and she's looking to meet a newer, more unapologetic version of herself.",
     "bullets": [
-      "Was first chair violin in orchestra and played at Disney",
-      "Science nerd who loved NASA, long before medical school",
-      "Credits her grandparents, who left school to work bean fields",
-      "Wants alliance partners who are loyal but can pivot before tribal"
+      "Describes herself as charismatic, resilient and reliable",
+      "First chair in orchestra, played violin at Disney, and a NASA-loving science nerd",
+      "Identifies with Cirie, wants alliance partners who are loyal but adaptable",
+      "Highest-placing woman from the original Savu tribe"
     ],
-    "generatedAt": "2026-11-12T10:46:33.159Z",
+    "generatedAt": "2026-11-12T20:33:42.664Z",
     "model": "claude-opus-5",
-    "sourceHash": "4348781b0db1"
+    "sourceHash": "82ab88986f21"
   },
   "thien-an-nguyen": {
     "slug": "thien-an-nguyen",

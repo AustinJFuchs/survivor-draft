@@ -989,6 +989,25 @@
         "State of the Draft rewritten (Ep 8)"
       ],
       "episode": 8
+    },
+    {
+      "id": "2026-11-12T20:34:24.504Z",
+      "at": "2026-11-12T20:34:24.504Z",
+      "source": "pipeline",
+      "summary": "3 castaways' wiki entries got touched up. Claude rewrote 3 castaway profiles, 3 team summaries refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Trivia updated for Carter",
+        "Trivia updated for Cristian",
+        "Trivia updated for Sharonda",
+        "Profile rewritten for Carter",
+        "Profile rewritten for Cristian",
+        "Profile rewritten for Sharonda",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "State of the Draft rewritten (Ep 8)"
+      ],
+      "episode": 8
     }
   ],
   "state": {
@@ -1189,7 +1208,7 @@
       "carter-krull": {
         "birthdate": "2001-05-20",
         "threeWords": "4a7fee5fc36a",
-        "trivia": "d69a7fe644b1",
+        "trivia": "92a02486f5c0",
         "qa": "f412ab424734",
         "photos": 1,
         "alliances": 0
@@ -1197,7 +1216,7 @@
       "cristian-chavez": {
         "birthdate": "2000-05-10",
         "threeWords": "6a473d14090b",
-        "trivia": "8e0da425b65c",
+        "trivia": "bf39cb468039",
         "qa": "591587a9d2b0",
         "photos": 1,
         "alliances": 0
@@ -1309,7 +1328,7 @@
       "sharonda-cox": {
         "birthdate": "1991-09-30",
         "threeWords": "539670f32cc1",
-        "trivia": "9afdbef17f74",
+        "trivia": "cb974756456b",
         "qa": "7a7714f77f76",
         "photos": 1,
         "alliances": 0
@@ -1338,8 +1357,8 @@
       "alexis-levine": "a24ad41e9ce7",
       "ana-sani": "7071af320a76",
       "brady-booker": "7527aa17186b",
-      "carter-krull": "8736fc5c7d28",
-      "cristian-chavez": "03fc58a2200c",
+      "carter-krull": "c0b6d9b373ad",
+      "cristian-chavez": "2c91d310c996",
       "danny-kilby": "90a58b2b624e",
       "devin-way": "e67fa11228e2",
       "eric-macksoud": "3eae504f28f2",
@@ -1353,13 +1372,13 @@
       "ori-jean-charles": "4c58a6037eea",
       "patt-cannaday": "e0ca8ff270e1",
       "rob-antonson": "c4f687c69af9",
-      "sharonda-cox": "b496005f0f33",
+      "sharonda-cox": "95316f274de3",
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "65bae4f7b7b4",
-      "kylie": "8811be331450",
-      "tami": "57353f75380d",
+      "austin": "ae2a07c13ccc",
+      "kylie": "47777d0e35ae",
+      "tami": "66bbbd1f4cca",
       "taylor": "495d5a47fe8f",
       "tim": "8e2beb8a2b26"
     },
@@ -1372,7 +1391,7 @@
       "5": "4f657021b7f8",
       "6": "165f98849550",
       "7": "c8d0ab9fad3c",
-      "8": "a2af89e20e87"
+      "8": "9102cd5f5470"
     },
     "events": [
       "extra-vote-brady-booker-advantage-found-3",
@@ -1461,6 +1480,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-12T15:45:22.269Z",
+  "lastCheckedAt": "2026-11-12T20:34:24.504Z",
   "quietChecks": 0
 }

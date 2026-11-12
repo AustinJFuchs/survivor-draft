@@ -1,69 +1,69 @@
 {
   "austin": {
     "drafterId": "austin",
-    "nickname": "The Tovuto Two",
-    "summary": "Austin, you drafted 5th and the back half of your board saved you. Linnea and Jenna are gone, but Eric at pick #16 and Carter are both sitting at 14 pts, rank 1 of 21, and they're hauling you to rank 3 of 5 with 38 counted points. The leader has 56. There are 34 points still on the table and 2 of 4 still in the game. You're in contention — stay loud.",
+    "nickname": "Farmhands and Feelings",
+    "summary": "Austin, drafting 5th you lost two early — Jenna out 4th, Linnea out 6th — and yet here you sit at rank 3 of 5 with 38 counted points, because your back half is pure muscle. Carter and Eric are tied at the very top of the board, 2 of 4 still in the game. Draft GPA 2, but Ep 3 gave you +8 and Ep 6 only +2. The leader has 56. Thirty-four points still on the table.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Eric, your pick #16 steal, is tied at the very top with 14 pts and a rank of 1 of 21 — a mental health counselor reading the room better than anyone on that beach."
+        "text": "Eric, your pick #16 steal, sits at 14 pts and rank 1 of 21 — a mental health counselor reading the room better than anyone out there."
       },
       {
         "label": "Cause for concern",
-        "text": "Jenna at pick #6 was the reach, 4 pts and rank 17 of 21 before her 4th-place exit in Ep 4, and Linnea's 6 pts and Ep 5 boot left you with a Draft GPA of 2."
+        "text": "Jenna at pick #6 was the reach, going out 4th with 4 pts and a rank of 17 of 21, and Linnea's F grade right behind her left you digging out early."
       },
       {
         "label": "Watch for",
-        "text": "Carter and Eric are both on Tovuto, so watch what happens when that tribe splits up — your whole 38 points rides on two guys currently standing side by side."
+        "text": "Carter and Eric are both on Tovuto and both at 14 pts — if that tribe holds together, those 34 remaining points are yours to chase."
       }
     ],
-    "generatedAt": "2026-11-12T10:47:25.696Z",
+    "generatedAt": "2026-11-12T20:34:09.728Z",
     "model": "claude-opus-5",
-    "sourceHash": "7f301b970507"
+    "sourceHash": "c993164cb091"
   },
   "kylie": {
     "drafterId": "kylie",
-    "nickname": "Human Resources & Chaos",
-    "summary": "Kylie, you drafted third and took it on the chin early — Aaliyah went home first, handing you the First Blood badge nobody wants. You sit rank 4 of 5 with 32 counted points, eliminated from contention while the leader sits on 56. But Cristian at pick #8 is the steal of this entire draft, ranked 1 of 21. One of four still standing, 22 points still on the table. Play it out loud.",
+    "nickname": "The Chaotic HR Department",
+    "summary": "Kylie, you drafted 3rd and the game hit you first — Aaliyah went home in Episode 1, and you own the First Blood badge for it. Brutal start, 2.25 draft GPA, rank 4 of 5 with 32 counted points, and you're eliminated from contention with the leader sitting on 56. But here's the thing: Cristian at pick #8 ranks 1 of 21. Twenty-two points still on the table. Keep watching.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Cristian — fun, chaotic, loud — has 14 pts and ranks 1 of 21, an A-grade haul out of pick #8."
+        "text": "Cristian — your pick #8 steal — is the number one scorer in the entire draft pool at 14 pts, rank 1 of 21, and he's still in the game."
       },
       {
         "label": "Cause for concern",
-        "text": "Aaliyah at pick #3 was the reach that stung, going out 1st voted out with 0 pts and a rank of 21 of 21, dragging that draft GPA to 2.25."
+        "text": "Aaliyah at pick #3 was the reach that stung twice, going out 1st in Episode 1 with 0 pts and a rank of 21 of 21."
       },
       {
         "label": "Watch for",
-        "text": "Your Ep 7 high of +8 showed what this roster can do when Cristian cooks — now it's one castaway and 22 points still out there to chase."
+        "text": "With 1 of 4 left and 22 points still on the table, every move Cristian makes is your whole scoreboard now — your best week was Ep 7 at +8, so he's shown he can spike."
       }
     ],
-    "generatedAt": "2026-11-12T15:45:06.259Z",
+    "generatedAt": "2026-11-12T20:34:00.844Z",
     "model": "claude-opus-5",
-    "sourceHash": "3478ca9244bb"
+    "sourceHash": "99fa55a51ce3"
   },
   "tami": {
     "drafterId": "tami",
-    "nickname": "The Tovuto Brain Trust",
-    "summary": "Tami, you had the first pick and you built a Tovuto wall — Jelly, Mike, and Sharonda, all three still standing, all three tied at 14 pts, rank 1 of 21. That's 45 counted points, rank 2 of 5, with 46 points still on the table and the leader sitting at 56. Your roster owns the hardware too: 2 necklaces, 2 idols found. Ep 7 gave you +12. You are absolutely in this.",
+    "nickname": "The Tovuto Trifecta",
+    "summary": "Tami, you had the first pick in the snake and you built a Tovuto fortress — Jelly, Mike, and Sharonda all sitting at 14 pts, all ranked 1 of 21. That's 45 counted points, rank 2 of 5, with 3 of 5 still in the game and 46 points still on the table while the leader sits at 56. Ep 7 gave you +12. You're not chasing — you're hunting.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Sharonda Cox was the leftover at pick #21 and she's rank 1 of 21 with 14 pts and a grade A — the steal of this entire draft."
+        "text": "Sharonda Cox, your leftover at pick #21, is tied at the very top with 14 pts and a grade of A — the steal of this entire draft."
       },
       {
         "label": "Cause for concern",
-        "text": "Patt at pick #10 went out 3rd in Ep 3 with 3 pts and a grade F, and Rob's quit left you with a 2 pts score you're dropping under the best-4 rule — that's a Draft GPA of 2.4."
+        "text": "Patt at pick #10 was the reach, going out 3rd in Ep 3 with 3 pts and an F, while Rob's 2 pts get dropped under the best-4 rule — and that 2.4 draft GPA tells the story."
       },
       {
         "label": "Watch for",
-        "text": "Three Tovuto players deadlocked at 14 pts apiece means the moment that tribe gets split up, somebody has to separate from the pack — and your worst week was Ep 4 at +3, so the floor is real."
+        "text": "Your roster already owns 2 necklaces and 2 idols and advantages found — keep an eye on whether that Immunity Hoarder and Idol Whisperer hardware keeps stacking as the merge grind continues."
       }
     ],
-    "generatedAt": "2026-11-12T10:46:43.509Z",
+    "generatedAt": "2026-11-12T20:33:52.628Z",
     "model": "claude-opus-5",
-    "sourceHash": "fdaeb40a314d"
+    "sourceHash": "1d536d199f64"
   },
   "taylor": {
     "drafterId": "taylor",
