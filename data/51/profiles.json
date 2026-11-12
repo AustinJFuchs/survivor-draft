@@ -79,16 +79,16 @@
   },
   "danny-kilby": {
     "slug": "danny-kilby",
-    "summary": "Kilby is a 30-year-old game designer from Mount Forest who calls Survivor the biggest dream of his life. He's a self-described wacky, chaotic, playful guy who met his girlfriend and most of his best friends through the Survivor fan community. He plays for fun first, but he's thinking three steps ahead.",
+    "summary": "Kilby is a 30-year-old game designer from Mount Forest, Ontario, who has loved Survivor since childhood and met most of his closest people — including his girlfriend — through the fandom. He's a wacky, playful strategist who leads with good vibes, big energy, and genuine warmth.",
     "bullets": [
       "First in his family to finish high school and attend university",
-      "Proudest of his mom, who earned her degree after he did",
-      "Wants to hear your \"real laugh\" before trusting you",
-      "Loves Blood on the Clocktower, karaoke, improv, Lego, and WWE"
+      "Proudest moment: his mom earning her own degree after he did",
+      "Wants to hear your real laugh before trusting you",
+      "Hobbies range from improv and karaoke to Lego, dodgeball, and WWE"
     ],
-    "generatedAt": "2026-09-27T17:22:33.482Z",
+    "generatedAt": "2026-11-12T15:44:39.671Z",
     "model": "claude-opus-5",
-    "sourceHash": "43a329d258bc"
+    "sourceHash": "6ce396d2827f"
   },
   "devin-way": {
     "slug": "devin-way",
@@ -144,16 +144,16 @@
   },
   "kristin-flickinger": {
     "slug": "kristin-flickinger",
-    "summary": "Kristin has been applying to Survivor since season one, and at 49 she's the oldest player in the cast. She works in crisis management and built her career serving the LGBTQ+ community, turning hard experiences into something useful for others. Determined and joyful, she's here for the adventure and wants a partner to get up to mischief with.",
+    "summary": "Kristin has been applying to Survivor since the middle of season one, and she arrives at 49 as the oldest player of the season. A crisis management professional from Idaho now living in Santa Barbara, she channels her own hard experiences into serving the LGBTQ+ community. Determined and joyful, she wants an alliance partner who'll get up to mischief with her.",
     "bullets": [
-      "Grew up in the mountains of Idaho, now lives in Santa Barbara",
-      "Started an intergenerational cooking program for LGBTQ+ youth and seniors",
-      "Carries rocks in her bra, chosen by mood and what's on her calendar",
-      "Says she decided long ago to be her own inspiration"
+      "Built an intergenerational culinary arts program for LGBTQ+ youth and seniors",
+      "Carries rocks in her bra, chosen by mood and by the day's meetings",
+      "Identifies with Rachel LaMont: quirky, smart, innovative and a little lucky",
+      "Decided long ago to be her own inspiration"
     ],
-    "generatedAt": "2026-09-27T17:22:43.707Z",
+    "generatedAt": "2026-11-12T15:44:43.424Z",
     "model": "claude-opus-5",
-    "sourceHash": "1fb6d20c88d4"
+    "sourceHash": "cda5baecd6f9"
   },
   "lewis-kelly": {
     "slug": "lewis-kelly",

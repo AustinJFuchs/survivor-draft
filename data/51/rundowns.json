@@ -354,44 +354,44 @@
     "key": "8",
     "episode": 8,
     "eliminations": 11,
-    "headline": "Two by two they went, and the board cracked open",
-    "overview": "Eleven are gone, ten remain, and this draft board has split into haves and have-nots. Tim sits at 56 points with 4 of 4 still in and 58 on the table — a 3.75 draft GPA and a Thien An steal at #17 that now ranks 1. Tami's 45 points and three live castaways keep her at 75/360 scenarios, with Sharonda the leftover pick #21 still swinging. Austin's Tovuto Two carry 38 and 8/360 hopes. Kylie's 32 and Taylor's 31 sit close in points but far in life: both are eliminated from contention.",
+    "headline": "Two by two they fell, and one draft stands untouched",
+    "overview": "Eleven gone, ten left, and the gap is now a canyon. Tim banked +8 to sit at 56 with 4 of 4 still in and 58 on the table — nobody else is close. Tami's 45 is built on Tovuto depth, 3 of 5 alive, Rob's 2 points already dropped. Austin's 38 rides two survivors and 34 still available. Then the cliff: Kylie's 32 with one castaway left and officially eliminated from contention, and Taylor's 31 with a +0 episode, zero in the game and zero on the table. Four Tovuto names, one scoreboard.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Four for four, +8 this episode, 277 of 360 scenarios — Tim's Untouchable Tovuto Four is living up to every single word of that name."
+        "text": "Lewis, Maggie, Devin and Thien An all sitting at 14 points apiece — a 3.75 draft GPA, 277 of 360 winning scenarios, and that #17 steal on Thien An is the single best pick anyone made."
       },
       {
         "drafterId": "tami",
-        "text": "Three of five still burning, Rob dropped as the throwaway score, and 46 points on the table — Tami's Brain Trust is the only draft with a real angle on Tim."
+        "text": "The leftover pick nobody wanted turned into Sharonda at 14 points and immunity around her neck, and with Jelly's idol wiping out eight votes, that Brain Trust is still live in 75 of 360 scenarios."
       },
       {
         "drafterId": "austin",
-        "text": "Carter and Eric are both in at 14 points apiece, but 8 wins out of 360 scenarios means Austin needs this game to get very weird, very fast."
+        "text": "Carter built the Salt Alliance and handed over his idol, Eric got gifted an extra vote and never played it — two at 14 points each, but Linnea and Jenna left this draft at a 2 GPA and only 8 of 360."
       },
       {
         "drafterId": "kylie",
-        "text": "Kilby walked out as part of that double jury exit and took Kylie's last real hope with him — 32 points, one castaway left, 0 of 360 scenarios."
+        "text": "Cristian's Shot in the Dark hit and Kilby's torch went out in the same Tribal, and losing him at 13 points drops Kylie to one castaway, 32 points and eliminated from contention."
       },
       {
         "drafterId": "taylor",
-        "text": "Zero points this episode, zero castaways standing, zero on the table — the Torch Collector badge has never been more honestly earned."
+        "text": "Kristin took a Shot in the Dark that missed and walked out with the first two jury members — a +0 episode, 0 of 4 still in, 0 on the table, and a 1.25 draft GPA."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Lewis grabbed immunity, all four scored 14, and Tim banked +8 without breaking a sweat."
+        "text": "Four for four, +8 on the night, immunity on Lewis, and 56 points with 58 still on the table — that's wire-to-wire domination."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "kylie",
-        "text": "Kilby exits at 13 points on a one-vote Tribal after an idol wiped out eight votes — that is a brutal way to go."
+        "text": "Kilby went out as a double elimination and took Kylie's last real hope with him, leaving 22 on the table and no path to the win."
       }
     ],
-    "generatedAt": "2026-11-12T10:47:40.284Z",
+    "generatedAt": "2026-11-12T15:45:21.406Z",
     "model": "claude-opus-5",
-    "sourceHash": "5324dcb712c2"
+    "sourceHash": "7676481d31c4"
   }
 }
