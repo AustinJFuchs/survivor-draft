@@ -23,25 +23,25 @@
   },
   "kylie": {
     "drafterId": "kylie",
-    "nickname": "The Chaotic HR Department",
-    "summary": "Kylie, you drafted 3rd and the game hit you first — Aaliyah went home in Episode 1, and you own the First Blood badge for it. Brutal start, 2.25 draft GPA, rank 4 of 5 with 32 counted points, and you're eliminated from contention with the leader sitting on 56. But here's the thing: Cristian at pick #8 ranks 1 of 21. Twenty-two points still on the table. Keep watching.",
+    "nickname": "Chaotic HR Department",
+    "summary": "Kylie, you took the first punch of this draft — Aaliyah went home in Episode 1, and the First Blood badge is yours forever. But look what you did with pick #8: Cristian sits at 14 pts, rank 1 of 21, the steal of the whole thing. You're rank 4 of 5 with 32 counted points, eliminated from contention with the leader at 56, but there are 22 points still on the table and one castaway still breathing. That matters.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Cristian — your pick #8 steal — is the number one scorer in the entire draft pool at 14 pts, rank 1 of 21, and he's still in the game."
+        "text": "Cristian Chavez, your pick #8, is the number one scorer in this entire game at 14 pts and he's still out there."
       },
       {
         "label": "Cause for concern",
-        "text": "Aaliyah at pick #3 was the reach that stung twice, going out 1st in Episode 1 with 0 pts and a rank of 21 of 21."
+        "text": "Aaliyah at pick #3 was the reach that broke your heart — 0 pts, rank 21 of 21, first one out the door."
       },
       {
         "label": "Watch for",
-        "text": "With 1 of 4 left and 22 points still on the table, every move Cristian makes is your whole scoreboard now — your best week was Ep 7 at +8, so he's shown he can spike."
+        "text": "You came off a worst week in Ep 6 at +2 and answered with +8 in Ep 7 — keep riding that Salt Lake City chaos and chase the 22 points left."
       }
     ],
-    "generatedAt": "2026-11-12T20:34:00.844Z",
+    "generatedAt": "2026-11-13T20:10:52.730Z",
     "model": "claude-opus-5",
-    "sourceHash": "99fa55a51ce3"
+    "sourceHash": "782b4b728116"
   },
   "tami": {
     "drafterId": "tami",
@@ -67,46 +67,46 @@
   },
   "taylor": {
     "drafterId": "taylor",
-    "nickname": "Crisis Management Chaos",
-    "summary": "Taylor, you drafted second and built a roster with personality to burn — a crisis manager, a hustler, a voice actress, a pro wrestler — and the torches came fast. You sit 5th of 5 with 31 counted points, 0 of 4 still in the game, 0 points still on the table, and the leader at 56. Draft GPA: 1.25. But hey — Torch Collector with 4 snuffed and Idol Whisperer with 2 found? That's a loud, memorable team.",
+    "nickname": "The Suplex Crisis Crew",
+    "summary": "Taylor, you drafted second and built a roster with muscle, mischief, and microphone talent — but the torches came fast. All 0 of 4 are still in the game, you're rank 5 of 5 with 31 counted points, and with 0 points still on the table while the leader has 56, contention is officially out of reach. Still: Torch Collector with 4 torches snuffed, Idol Whisperer with 2 found. Your crew made noise.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Kristin Flickinger led your crew with 12 pts, ranking 12 of 21, and she lasted long enough to become a jury member."
+        "text": "Kristin Flickinger, your pick #2 at 12 pts, led this team in scoring and lasted all the way to being named 1st & 2nd jury members."
       },
       {
         "label": "Cause for concern",
-        "text": "Ana Sani went out 2nd (Ep 2) and finished with 1 pts, 20th of 21 — that's a tough return on pick #12."
+        "text": "Ana Sani went out 2nd voted out in Ep 2 with 1 pts, ranking 20 of 21, and your Draft GPA of 1.25 tells that story in one number."
       },
       {
         "label": "Watch for",
-        "text": "Brady Booker was your steal at pick #19 and graded out an A at rank 13 — keep an eye on how that value pick stacks up against the rest of the family's late-round swings."
+        "text": "Brady at pick #19 ranking 13 was your steal of the draft, and your best week was Ep 7 (+7) — watch Kristin's voice on the jury as the rest of this season plays out."
       }
     ],
-    "generatedAt": "2026-11-12T15:44:56.569Z",
+    "generatedAt": "2026-11-13T20:10:46.694Z",
     "model": "claude-opus-5",
-    "sourceHash": "a8da6bb4974f"
+    "sourceHash": "81c01a673458"
   },
   "tim": {
     "drafterId": "tim",
-    "nickname": "The Untouchable Tovuto Four",
-    "summary": "Tim, you drafted 4th and somehow walked away with an entire tribe intact — four for four, still in the game, rank 1 of 5 with 56 counted points. A 3.75 draft GPA, Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer. Eleven boots have come and gone and not one of them was yours. You opened quietly at Ep 1 with +4, then detonated in Ep 7 with +16. That, my friend, is a draft.",
+    "nickname": "Barnyard and Broadway",
+    "summary": "Tim, you drafted fourth and somehow walked off with the whole Tovuto crew — and the scoreboard shows it. Rank 1 of 5, 56 counted points, 4 of 4 still in the game, a Draft GPA of 3.75. Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer — that's a full badge rack. Ep 7 handed you +16. Eleven boots have come and gone, and not one of them was yours. Remarkable.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "There's no single hero here — Lewis, Maggie, Devin and Thien An are each sitting on 14 pts and each ranked 1 of 21, a perfectly balanced four-headed monster."
+        "text": "Nobody's carrying this team — all four are, with Lewis, Maggie, Devin and Thien An each sitting on 14 pts, rank 1 of 21, and Thien An at pick #17 is the steal of your draft."
       },
       {
         "label": "Cause for concern",
-        "text": "Every egg is in the Tovuto basket and Lewis carries the only B grade on the sheet, so any crack in that bloc hits you four ways at once."
+        "text": "The only soft spot in this lineup is Lewis's grade B next to three A's, and Ep 1 was your quietest night at just +4."
       },
       {
         "label": "Watch for",
-        "text": "58 points are still on the table and the leader has 56 — keep your eyes on that Idol Whisperer badge, because 2 found already means your people are digging."
+        "text": "There are 58 points still on the table with the leader at 56 — and with 2 idols and advantages already found on your roster, watch how your farmers, your actor and your med student use them."
       }
     ],
-    "generatedAt": "2026-11-12T10:47:16.943Z",
+    "generatedAt": "2026-11-13T20:11:07.331Z",
     "model": "claude-opus-5",
-    "sourceHash": "4c9ca597c592"
+    "sourceHash": "e59b671c95d0"
   }
 }

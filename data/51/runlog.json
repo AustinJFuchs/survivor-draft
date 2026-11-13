@@ -1008,6 +1008,27 @@
         "State of the Draft rewritten (Ep 8)"
       ],
       "episode": 8
+    },
+    {
+      "id": "2026-11-13T20:11:22.759Z",
+      "at": "2026-11-13T20:11:22.759Z",
+      "source": "pipeline",
+      "summary": "4 castaways' wiki entries got touched up. Claude rewrote 4 castaway profiles, 3 team summaries refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Bio updated for Brady",
+        "Bio updated for Kilby",
+        "Trivia updated for Devin",
+        "Bio updated for Kristin",
+        "Profile rewritten for Brady",
+        "Profile rewritten for Kilby",
+        "Profile rewritten for Devin",
+        "Profile rewritten for Kristin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (Ep 8)"
+      ],
+      "episode": 8
     }
   ],
   "state": {
@@ -1198,7 +1219,7 @@
       },
       "brady-booker": {
         "birthdate": "1998-12-10",
-        "bio": "6b9f5adff5fb",
+        "bio": "1d044df2d73a",
         "threeWords": "71f7b4fb99af",
         "trivia": "5862f95dd57e",
         "qa": "2cc42f03772a",
@@ -1223,6 +1244,7 @@
       },
       "danny-kilby": {
         "birthdate": "1996-02-11",
+        "bio": "64c64a3391e4",
         "threeWords": "27f2b1fe35f8",
         "trivia": "ead8fec6527d",
         "qa": "88dc55900c8d",
@@ -1232,7 +1254,7 @@
       "devin-way": {
         "birthdate": "1992-05-31",
         "threeWords": "e4f8afbfe0a9",
-        "trivia": "3234bae1bc39",
+        "trivia": "c52a78b4dec1",
         "qa": "84246fe05788",
         "photos": 1,
         "alliances": 0
@@ -1262,6 +1284,7 @@
       },
       "kristin-flickinger": {
         "birthdate": "1977-04-05",
+        "bio": "324fab284dca",
         "threeWords": "a729d1d36214",
         "trivia": "8f0897f21073",
         "qa": "289a2803c835",
@@ -1356,15 +1379,15 @@
       "aaliyah-puglia": "7fd3165dee72",
       "alexis-levine": "a24ad41e9ce7",
       "ana-sani": "7071af320a76",
-      "brady-booker": "7527aa17186b",
+      "brady-booker": "68da5ea74d01",
       "carter-krull": "c0b6d9b373ad",
       "cristian-chavez": "2c91d310c996",
-      "danny-kilby": "90a58b2b624e",
-      "devin-way": "e67fa11228e2",
+      "danny-kilby": "d970ef021c63",
+      "devin-way": "8d2ea1b9d191",
       "eric-macksoud": "3eae504f28f2",
       "jelly-loblack": "d287fc5ca5c2",
       "jenna-doore": "583c76795c19",
-      "kristin-flickinger": "33af3a096c83",
+      "kristin-flickinger": "148de78ae023",
       "lewis-kelly": "0e0b1f1e82df",
       "linnea-capobianco": "697de6ad9a8e",
       "maggie-nestor": "e3add46cf8f2",
@@ -1377,10 +1400,10 @@
     },
     "teams": {
       "austin": "ae2a07c13ccc",
-      "kylie": "47777d0e35ae",
+      "kylie": "328d3274761a",
       "tami": "66bbbd1f4cca",
-      "taylor": "495d5a47fe8f",
-      "tim": "8e2beb8a2b26"
+      "taylor": "14bb2c2052cc",
+      "tim": "065ec4c31602"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1391,7 +1414,7 @@
       "5": "4f657021b7f8",
       "6": "165f98849550",
       "7": "c8d0ab9fad3c",
-      "8": "9102cd5f5470"
+      "8": "dca3919f59a4"
     },
     "events": [
       "extra-vote-brady-booker-advantage-found-3",
@@ -1480,6 +1503,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-12T20:34:24.504Z",
+  "lastCheckedAt": "2026-11-13T20:11:22.759Z",
   "quietChecks": 0
 }

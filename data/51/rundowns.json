@@ -354,44 +354,44 @@
     "key": "8",
     "episode": 8,
     "eliminations": 11,
-    "headline": "Two torches out, one draft still perfect, two drafts done",
-    "overview": "Eleven gone, ten left, and the gap is a canyon. Tim sits at 56 points with 4 of 4 still in and 58 on the table — the only draft that hasn't lost a single soul. Tami's 45 points and 3 of 5 keep her alive with 46 on the table, and she gets to drop Rob's score. Austin's 38 points and 2 of 4 leave 34 on the table. Then the cliff: Kylie's 32 points with 1 of 4, and Taylor's 31 points with 0 of 4 and 0 on the table — both eliminated from contention.",
+    "headline": "Two torches, one night — and the draft board splits wide open",
+    "overview": "Two by two they loaded the ark, and two by two this draft is separating. Tim sits at 56 points with 4 of 4 still in, 58 on the table and a 3.75 draft GPA — that is a wire-to-wire clinic. Tami's 45 points and 3 of 5 keep her alive with 46 on the table, even after dropping Rob. Austin hangs at 38 with 2 of 4 and 34 still available. Then the floor drops: Kylie lost Kilby and sits eliminated from contention at 32 with 22 on the table, while Taylor scored +0 and has 0 of 4 left. Brutal, beautiful Survivor.",
     "lines": [
       {
-        "drafterId": "tim",
-        "text": "Four for four, +8 this episode, a 3.75 draft GPA and 277 of 360 winning scenarios — the Untouchable Tovuto Four have earned every badge on that torch."
-      },
-      {
         "drafterId": "tami",
-        "text": "The leftover pick nobody wanted, Sharonda at #21, is now her rank-1 steal and immune — and with Rob's score dropped, Tami's 45 points and 75 of 360 scenarios keep the chase honest."
-      },
-      {
-        "drafterId": "austin",
-        "text": "Carter and Eric are still burning bright at 14 points each, but with Linnea and Jenna gone, Farmhands and Feelings is down to 8 of 360 scenarios."
-      },
-      {
-        "drafterId": "kylie",
-        "text": "Kilby walked out as a jury member and took Kylie's season with him — 1 of 4 left, 22 on the table, and 0 of 360 scenarios."
+        "text": "Tami, the leftover pick #21 Sharonda is your steal of the draft at rank 1 — she grabbed immunity and keeps your 75/360 scenarios breathing, even with Patt reaching all the way from #10 to rank 18."
       },
       {
         "drafterId": "taylor",
-        "text": "Kristin's exit made it official: 0 of 4 still in, +0 this episode, 0 on the table — Torch Collector was never meant to be this literal."
+        "text": "Taylor, Kristin's torch went out alongside Kilby and that was the last one standing — 0 of 4 in, 0 on the table, +0 this episode, and the Torch Collector badge has never been so painfully earned."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "Kylie, the Chaotic HR Department lost Kilby for 13 points of consolation, leaving Cristian — your rank 1 steal at #8 — as the lone survivor of a draft that drew First Blood and is now eliminated from contention."
+      },
+      {
+        "drafterId": "tim",
+        "text": "Tim, four picks, four still in, four at 14 points apiece, 277 of 360 scenarios, and a clinch sitting behind Thien An, Devin, Lewis or Maggie — Barnyard and Broadway is running the table."
+      },
+      {
+        "drafterId": "austin",
+        "text": "Austin, Carter's Salt Alliance and Eric's unplayed extra vote keep Farmhands and Feelings technically alive at 8/360, but losing Linnea and Jenna early is why that draft GPA reads 2."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Lewis grabbed immunity, all four Tovuto picks banked 14 points apiece, and Tim added +8 without breaking a sweat."
+        "text": "Tim banked +8 with Lewis taking immunity and all four picks untouched — Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer, the whole badge rack."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "kylie",
-        "text": "Losing Kilby at 13 points in a double exit drops the Chaotic HR Department to one survivor and officially out of contention."
+        "text": "Kylie watched Kilby walk out as a jury member on the one vote that counted, and with it went her path to the title."
       }
     ],
-    "generatedAt": "2026-11-12T20:34:23.598Z",
+    "generatedAt": "2026-11-13T20:11:22.124Z",
     "model": "claude-opus-5",
-    "sourceHash": "3c7452421506"
+    "sourceHash": "a8c4c2d3e35d"
   }
 }

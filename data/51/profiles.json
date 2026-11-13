@@ -40,16 +40,16 @@
   },
   "brady-booker": {
     "slug": "brady-booker",
-    "summary": "Brady is a 27-year-old pro wrestler who grew up watching Survivor with his family. He loves the outdoors, competition, and being pushed to his limit, and he values trust above all in an alliance. Enthusiastic, intense, and fun, he says he's comfortable being uncomfortable.",
+    "summary": "Brady Booker is a 27-year-old pro wrestler from La Salle, Illinois, who now calls Knoxville home. He grew up watching Survivor with his family and loves competition, the outdoors, and being pushed to his limit. Enthusiastic, intense, and fun, he credits his parents for building a life out of very little.",
     "bullets": [
       "Wrestles under the ring name Bodhi Hayward",
       "Did gymnastics throughout his youth sports years",
-      "Hunts, fishes, hikes, lifts, runs trails, and trains jujitsu",
-      "Finished 13th on Survivor 51, voted out 9–4"
+      "Hunts, fishes, hikes, camps, lifts, trail runs, and trains jujitsu",
+      "Finished 13th on Survivor 51, then left the jury over an injured thumb"
     ],
-    "generatedAt": "2026-11-12T10:46:29.458Z",
+    "generatedAt": "2026-11-13T20:10:22.504Z",
     "model": "claude-opus-5",
-    "sourceHash": "5d312984da72"
+    "sourceHash": "a207dc72853e"
   },
   "carter-krull": {
     "slug": "carter-krull",
@@ -79,29 +79,29 @@
   },
   "danny-kilby": {
     "slug": "danny-kilby",
-    "summary": "Kilby is a 30-year-old game designer from Mount Forest, Ontario, who has loved Survivor since childhood and met most of his closest people — including his girlfriend — through the fandom. He's a wacky, playful strategist who leads with good vibes, big energy, and genuine warmth.",
+    "summary": "Danny \"Kilby\" Kilby is a 30-year-old game designer from Mount Forest, Ontario, who calls himself wacky, chaotic and playful. Survivor has shaped his whole life — his closest friends and his girlfriend all came from the fan community. He plays on warmth and bold ideas, aiming for bonds first and big swings second.",
     "bullets": [
-      "First in his family to finish high school and attend university",
-      "Proudest moment: his mom earning her own degree after he did",
-      "Wants to hear your real laugh before trusting you",
-      "Hobbies range from improv and karaoke to Lego, dodgeball, and WWE"
+      "First in his family to finish high school; his mom earned her degree after him",
+      "Wants to hear an ally's real laugh before trusting them",
+      "Forced a 4–4 deadlock rather than turn on his ally Lewis",
+      "Eliminated by a single vote alongside Kristin, becoming the season's first jurors"
     ],
-    "generatedAt": "2026-11-12T15:44:39.671Z",
+    "generatedAt": "2026-11-13T20:10:26.824Z",
     "model": "claude-opus-5",
-    "sourceHash": "6ce396d2827f"
+    "sourceHash": "7a7c223d6bc2"
   },
   "devin-way": {
     "slug": "devin-way",
-    "summary": "Devin is an actor from Lufkin, Texas, now living in Los Angeles, and he's simply thrilled to be here. He's charming, playful, and loyal, guided by his grandmother MoeMoe and a weekly D&D habit that taught him to roll the dice and figure it out.",
+    "summary": "Devin is a 33-year-old actor from Lufkin, Texas, now living in Los Angeles, who brings charm, play and fierce loyalty wherever he goes. He wants honesty from his allies and takes his inspiration from his grandmother, MoeMoe, the strongest fighter he knows. His motto: \"Ways Always Win.\"",
     "bullets": [
-      "Seventh of 13 siblings — something you'd never guess looking at him",
-      "Plays Dungeons & Dragons weekly; also loves line dancing and karaoke",
-      "Wants Rick Devens' joy, identifies with Joe's integrity and family love",
-      "Had the very first confessional of Survivor 51"
+      "Seventh of 13 siblings, a fact most people never guess",
+      "Weekly Dungeons & Dragons player who believes you can always roll the dice",
+      "Loves line dancing, karaoke, spoken word and comics",
+      "Had the first confessional of Survivor 51"
     ],
-    "generatedAt": "2026-09-26T16:50:08.120Z",
+    "generatedAt": "2026-11-13T20:10:30.609Z",
     "model": "claude-opus-5",
-    "sourceHash": "9fd24baf7907"
+    "sourceHash": "02d5721cf686"
   },
   "eric-macksoud": {
     "slug": "eric-macksoud",
@@ -144,16 +144,16 @@
   },
   "kristin-flickinger": {
     "slug": "kristin-flickinger",
-    "summary": "Kristin has been applying to Survivor since the middle of season one, and she arrives at 49 as the oldest player of the season. A crisis management professional from Idaho now living in Santa Barbara, she channels her own hard experiences into serving the LGBTQ+ community. Determined and joyful, she wants an alliance partner who'll get up to mischief with her.",
+    "summary": "Kristin is a crisis-management professional from Idaho who has been applying to Survivor since season one. She builds trust through calm steadiness, and she's proudest of a culinary program connecting LGBTQ+ youth and seniors. Determined and joyful, she wants an ally who'll get up to mischief with her.",
     "bullets": [
-      "Built an intergenerational culinary arts program for LGBTQ+ youth and seniors",
-      "Carries rocks in her bra, chosen by mood and by the day's meetings",
-      "Identifies with Rachel LaMont: quirky, smart, innovative and a little lucky",
-      "Decided long ago to be her own inspiration"
+      "Oldest castaway on Survivor 51, at age 49",
+      "Fractured her foot in a challenge and stayed in the game",
+      "Carries rocks in her bra, chosen to match her mood",
+      "Eliminated alongside Danny Kilby by a single surviving vote"
     ],
-    "generatedAt": "2026-11-12T15:44:43.424Z",
+    "generatedAt": "2026-11-13T20:10:34.271Z",
     "model": "claude-opus-5",
-    "sourceHash": "cda5baecd6f9"
+    "sourceHash": "a90bed100fdc"
   },
   "lewis-kelly": {
     "slug": "lewis-kelly",
