@@ -1029,6 +1029,18 @@
         "State of the Draft rewritten (Ep 8)"
       ],
       "episode": 8
+    },
+    {
+      "id": "2026-11-14T18:36:31.221Z",
+      "at": "2026-11-14T18:36:31.221Z",
+      "source": "pipeline",
+      "summary": "1 episode joined the schedule and 1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile.",
+      "details": [
+        "Ep 9 added — \"Wilder Than a Cat in a Bathtub\", airing 2026-11-18",
+        "Trivia updated for Kilby",
+        "Profile rewritten for Kilby"
+      ],
+      "episode": 8
     }
   ],
   "state": {
@@ -1080,6 +1092,10 @@
       "8": {
         "title": "Load the Ark, Two by Two",
         "airDate": "2026-11-11"
+      },
+      "9": {
+        "title": "Wilder Than a Cat in a Bathtub",
+        "airDate": "2026-11-18"
       }
     },
     "eliminations": [
@@ -1246,7 +1262,7 @@
         "birthdate": "1996-02-11",
         "bio": "64c64a3391e4",
         "threeWords": "27f2b1fe35f8",
-        "trivia": "ead8fec6527d",
+        "trivia": "4103265b4dc8",
         "qa": "88dc55900c8d",
         "photos": 1,
         "alliances": 0
@@ -1382,7 +1398,7 @@
       "brady-booker": "68da5ea74d01",
       "carter-krull": "c0b6d9b373ad",
       "cristian-chavez": "2c91d310c996",
-      "danny-kilby": "d970ef021c63",
+      "danny-kilby": "e9681649ee94",
       "devin-way": "8d2ea1b9d191",
       "eric-macksoud": "3eae504f28f2",
       "jelly-loblack": "d287fc5ca5c2",
@@ -1503,6 +1519,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-13T20:11:22.759Z",
+  "lastCheckedAt": "2026-11-14T18:36:31.221Z",
   "quietChecks": 0
 }

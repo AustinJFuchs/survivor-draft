@@ -79,16 +79,16 @@
   },
   "danny-kilby": {
     "slug": "danny-kilby",
-    "summary": "Danny \"Kilby\" Kilby is a 30-year-old game designer from Mount Forest, Ontario, who calls himself wacky, chaotic and playful. Survivor has shaped his whole life — his closest friends and his girlfriend all came from the fan community. He plays on warmth and bold ideas, aiming for bonds first and big swings second.",
+    "summary": "Kilby is a game designer from small-town Ontario who has loved Survivor since childhood and met most of his friends, and his girlfriend, through the fandom. He's a self-described good vibes guy who plays bold and builds real bonds. Wacky, chaotic, playful — and proud of a mom who earned her degree after he did.",
     "bullets": [
-      "First in his family to finish high school; his mom earned her degree after him",
-      "Wants to hear an ally's real laugh before trusting them",
-      "Forced a 4–4 deadlock rather than turn on his ally Lewis",
-      "Eliminated by a single vote alongside Kristin, becoming the season's first jurors"
+      "First in his family to finish high school and attend university",
+      "Forced a 4–4 deadlock rather than betray his ally Lewis",
+      "Credits stepdad Bruce, who chose him, as his biggest inspiration",
+      "Eliminated by a single vote, landing the season's first jury seat"
     ],
-    "generatedAt": "2026-11-13T20:10:26.824Z",
+    "generatedAt": "2026-11-14T18:36:15.125Z",
     "model": "claude-opus-5",
-    "sourceHash": "7a7c223d6bc2"
+    "sourceHash": "26b8fb775516"
   },
   "devin-way": {
     "slug": "devin-way",

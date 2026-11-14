@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T20:10:14.311Z",
+  "syncedAt": "2026-11-14T18:36:06.789Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -265,6 +265,12 @@
       "aired": true,
       "rewardWinners": "Lewis & Sharonda [Jelly, Kristin]",
       "immunityWinners": "Lewis & Sharonda"
+    },
+    {
+      "number": 9,
+      "title": "Wilder Than a Cat in a Bathtub",
+      "airDate": "2026-11-18",
+      "aired": false
     }
   ],
   "eliminations": [
@@ -345,7 +351,7 @@
       "contestantSlug": "brady-booker",
       "day": 14,
       "kind": "voted-out",
-      "placementText": "8th voted out",
+      "placementText": "8th voted out Withdrew from jury",
       "juryMember": false,
       "episode": 7
     },
@@ -812,7 +818,7 @@
       "trivia": [
         "Before appearing on Survivor, Kilby competed on the second real-life season of Sequester. He finished in 18th place.",
         "Kilby and Kristin Flickinger are the fifth and sixth castaways to be eliminated by a single vote, excluding 1-0 votes at a three-person Day 38 Tribal Council. They follow Lauren Rimmer in Survivor 35, Sandra Diaz-Twine in Survivor 40, Maddy Pomilla in Survivor 44, and Emily Flippen in Survivor 45.",
-        "Kilby is currently the only male castaway to achieve this feet."
+        "Kilby is currently the only male castaway to achieve this feat."
       ],
       "pageUrl": "https://survivor.fandom.com/wiki/Danny_Kilby",
       "photos": [
