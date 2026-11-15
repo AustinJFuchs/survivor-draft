@@ -1041,6 +1041,17 @@
         "Profile rewritten for Kilby"
       ],
       "episode": 8
+    },
+    {
+      "id": "2026-11-15T19:12:13.421Z",
+      "at": "2026-11-15T19:12:13.421Z",
+      "source": "pipeline",
+      "summary": "2 team summaries refreshed.",
+      "details": [
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Taylor"
+      ],
+      "episode": 8
     }
   ],
   "state": {
@@ -1416,9 +1427,9 @@
     },
     "teams": {
       "austin": "ae2a07c13ccc",
-      "kylie": "328d3274761a",
+      "kylie": "eac5d0b57a83",
       "tami": "66bbbd1f4cca",
-      "taylor": "14bb2c2052cc",
+      "taylor": "e3fa48a6b325",
       "tim": "065ec4c31602"
     },
     "rundowns": {
@@ -1519,6 +1530,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-14T18:36:31.221Z",
+  "lastCheckedAt": "2026-11-15T19:12:13.421Z",
   "quietChecks": 0
 }

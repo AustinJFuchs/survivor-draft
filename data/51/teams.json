@@ -24,24 +24,24 @@
   "kylie": {
     "drafterId": "kylie",
     "nickname": "Chaotic HR Department",
-    "summary": "Kylie, you took the first punch of this draft — Aaliyah went home in Episode 1, and the First Blood badge is yours forever. But look what you did with pick #8: Cristian sits at 14 pts, rank 1 of 21, the steal of the whole thing. You're rank 4 of 5 with 32 counted points, eliminated from contention with the leader at 56, but there are 22 points still on the table and one castaway still breathing. That matters.",
+    "summary": "Kylie, you drafted third and the board gave you whiplash. Aaliyah went home first — that's the First Blood badge, and it stung. But Cristian at pick #8? Rank 1 of 21, 14 pts, still out there swinging. You sit rank 4 of 5 with 32 counted points, eliminated from contention while the leader has 56. There are 22 points still on the table. Play spoiler.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Cristian Chavez, your pick #8, is the number one scorer in this entire game at 14 pts and he's still out there."
+        "text": "Cristian, your pick #8 steal, is the single best scorer in this entire draft — 14 pts, rank 1 of 21, grade A, and he's your 1 of 4 still in the game."
       },
       {
         "label": "Cause for concern",
-        "text": "Aaliyah at pick #3 was the reach that broke your heart — 0 pts, rank 21 of 21, first one out the door."
+        "text": "Aaliyah was the reach at pick #3 and the 1st person voted out in Ep 1, leaving you a 0-point, rank 21 of 21 hole that a 2.25 draft GPA never quite climbed out of."
       },
       {
         "label": "Watch for",
-        "text": "You came off a worst week in Ep 6 at +2 and answered with +8 in Ep 7 — keep riding that Salt Lake City chaos and chase the 22 points left."
+        "text": "With 22 points still on the table and Kilby already on the jury, every move Cristian makes is your whole season now — ride the chaos and see how high that A can climb."
       }
     ],
-    "generatedAt": "2026-11-13T20:10:52.730Z",
+    "generatedAt": "2026-11-15T19:11:58.624Z",
     "model": "claude-opus-5",
-    "sourceHash": "782b4b728116"
+    "sourceHash": "36b1bd141c41"
   },
   "tami": {
     "drafterId": "tami",
@@ -67,25 +67,25 @@
   },
   "taylor": {
     "drafterId": "taylor",
-    "nickname": "The Suplex Crisis Crew",
-    "summary": "Taylor, you drafted second and built a roster with muscle, mischief, and microphone talent — but the torches came fast. All 0 of 4 are still in the game, you're rank 5 of 5 with 31 counted points, and with 0 points still on the table while the leader has 56, contention is officially out of reach. Still: Torch Collector with 4 torches snuffed, Idol Whisperer with 2 found. Your crew made noise.",
+    "nickname": "Crisis Mode Hustlers",
+    "summary": "Taylor, you had the second pick and built a roster with grit — a crisis manager, a D-I hustler, a voice actress, a pro wrestler — and the torches just kept getting snuffed. Four castaways drafted, zero still in the game, 31 counted points, rank 5 of 5, with the leader sitting on 56. A 1.25 draft GPA stings. Ep 7 gave you your best week at +7; Ep 8 gave you +0. That's Survivor.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Kristin Flickinger, your pick #2 at 12 pts, led this team in scoring and lasted all the way to being named 1st & 2nd jury members."
+        "text": "Kristin led your four with 12 pts, rank 12 of 21, going out 9th & 10th as the 1st & 2nd jury members — determined and joyful right to the end."
       },
       {
         "label": "Cause for concern",
-        "text": "Ana Sani went out 2nd voted out in Ep 2 with 1 pts, ranking 20 of 21, and your Draft GPA of 1.25 tells that story in one number."
+        "text": "Ana's game ended on Day 5 in 20th place, 2nd voted out, leaving you just 1 pt and a rank of 20 of 21 from pick #12."
       },
       {
         "label": "Watch for",
-        "text": "Brady at pick #19 ranking 13 was your steal of the draft, and your best week was Ep 7 (+7) — watch Kristin's voice on the jury as the rest of this season plays out."
+        "text": "With 0 points still on the table, lean into the hardware — Torch Collector with 4 torches snuffed and Idol Whisperer with 2 found — and watch Kristin's voice carry from the jury bench."
       }
     ],
-    "generatedAt": "2026-11-13T20:10:46.694Z",
+    "generatedAt": "2026-11-15T19:11:45.757Z",
     "model": "claude-opus-5",
-    "sourceHash": "81c01a673458"
+    "sourceHash": "229e9221da85"
   },
   "tim": {
     "drafterId": "tim",
