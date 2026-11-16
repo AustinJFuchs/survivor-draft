@@ -1052,6 +1052,22 @@
         "Team summary refreshed for Taylor"
       ],
       "episode": 8
+    },
+    {
+      "id": "2026-11-16T22:40:19.825Z",
+      "at": "2026-11-16T22:40:19.825Z",
+      "source": "pipeline",
+      "summary": "2 castaways' wiki entries got touched up. Claude rewrote 2 castaway profiles, 2 team summaries refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Bio updated for Kilby",
+        "Bio updated for Kristin",
+        "Profile rewritten for Kilby",
+        "Profile rewritten for Kristin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Taylor",
+        "State of the Draft rewritten (Ep 8)"
+      ],
+      "episode": 8
     }
   ],
   "state": {
@@ -1271,7 +1287,7 @@
       },
       "danny-kilby": {
         "birthdate": "1996-02-11",
-        "bio": "64c64a3391e4",
+        "bio": "9969e2babc48",
         "threeWords": "27f2b1fe35f8",
         "trivia": "4103265b4dc8",
         "qa": "88dc55900c8d",
@@ -1311,7 +1327,7 @@
       },
       "kristin-flickinger": {
         "birthdate": "1977-04-05",
-        "bio": "324fab284dca",
+        "bio": "28291b63e46b",
         "threeWords": "a729d1d36214",
         "trivia": "8f0897f21073",
         "qa": "289a2803c835",
@@ -1409,12 +1425,12 @@
       "brady-booker": "68da5ea74d01",
       "carter-krull": "c0b6d9b373ad",
       "cristian-chavez": "2c91d310c996",
-      "danny-kilby": "e9681649ee94",
+      "danny-kilby": "deeb41bc762c",
       "devin-way": "8d2ea1b9d191",
       "eric-macksoud": "3eae504f28f2",
       "jelly-loblack": "d287fc5ca5c2",
       "jenna-doore": "583c76795c19",
-      "kristin-flickinger": "148de78ae023",
+      "kristin-flickinger": "a14f316684d2",
       "lewis-kelly": "0e0b1f1e82df",
       "linnea-capobianco": "697de6ad9a8e",
       "maggie-nestor": "e3add46cf8f2",
@@ -1427,9 +1443,9 @@
     },
     "teams": {
       "austin": "ae2a07c13ccc",
-      "kylie": "eac5d0b57a83",
+      "kylie": "e3f031bec963",
       "tami": "66bbbd1f4cca",
-      "taylor": "e3fa48a6b325",
+      "taylor": "85acac655fd9",
       "tim": "065ec4c31602"
     },
     "rundowns": {
@@ -1441,7 +1457,7 @@
       "5": "4f657021b7f8",
       "6": "165f98849550",
       "7": "c8d0ab9fad3c",
-      "8": "dca3919f59a4"
+      "8": "b80cb53e23aa"
     },
     "events": [
       "extra-vote-brady-booker-advantage-found-3",
@@ -1530,6 +1546,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-15T19:12:13.421Z",
+  "lastCheckedAt": "2026-11-16T22:40:19.825Z",
   "quietChecks": 0
 }

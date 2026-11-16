@@ -79,16 +79,16 @@
   },
   "danny-kilby": {
     "slug": "danny-kilby",
-    "summary": "Kilby is a game designer from small-town Ontario who has loved Survivor since childhood and met most of his friends, and his girlfriend, through the fandom. He's a self-described good vibes guy who plays bold and builds real bonds. Wacky, chaotic, playful — and proud of a mom who earned her degree after he did.",
+    "summary": "Kilby is a 30-year-old game designer from Mount Forest, Ontario, who calls himself wacky, chaotic and playful. Survivor has shaped his whole life — his closest friends and his girlfriend all came from the fan community. He's a good-vibes guy who builds real bonds and then plays bold, scheming moves off them.",
     "bullets": [
-      "First in his family to finish high school and attend university",
-      "Forced a 4–4 deadlock rather than betray his ally Lewis",
-      "Credits stepdad Bruce, who chose him, as his biggest inspiration",
-      "Eliminated by a single vote, landing the season's first jury seat"
+      "First in his family to finish high school and go to university",
+      "Wants to hear your real laugh before trusting you",
+      "Forced a 4–4 deadlock rather than turn on Lewis",
+      "Hobbies include WWE, improv, Lego, karaoke and Blood on the Clocktower"
     ],
-    "generatedAt": "2026-11-14T18:36:15.125Z",
+    "generatedAt": "2026-11-16T22:39:42.240Z",
     "model": "claude-opus-5",
-    "sourceHash": "26b8fb775516"
+    "sourceHash": "453bfdc12f0e"
   },
   "devin-way": {
     "slug": "devin-way",
@@ -144,16 +144,16 @@
   },
   "kristin-flickinger": {
     "slug": "kristin-flickinger",
-    "summary": "Kristin is a crisis-management professional from Idaho who has been applying to Survivor since season one. She builds trust through calm steadiness, and she's proudest of a culinary program connecting LGBTQ+ youth and seniors. Determined and joyful, she wants an ally who'll get up to mischief with her.",
+    "summary": "Kristin has been applying to Survivor since season one, and she arrives with a crisis manager's calm and a mountain-girl's grit. She leads with warmth, builds real relationships, and finds strength in nature, family, and her own stubborn self-belief. Determined and joyful, she's the oldest player of the season.",
     "bullets": [
-      "Oldest castaway on Survivor 51, at age 49",
-      "Fractured her foot in a challenge and stayed in the game",
-      "Carries rocks in her bra, chosen to match her mood",
-      "Eliminated alongside Danny Kilby by a single surviving vote"
+      "Built an intergenerational cooking program for LGBTQ+ youth and seniors",
+      "Carries rocks in her bra, chosen by mood and the day's meetings",
+      "Grew up in the Idaho mountains, now lives in Santa Barbara",
+      "Wants an ally who'll get up to mischief with her"
     ],
-    "generatedAt": "2026-11-13T20:10:34.271Z",
+    "generatedAt": "2026-11-16T22:39:46.095Z",
     "model": "claude-opus-5",
-    "sourceHash": "a90bed100fdc"
+    "sourceHash": "49dc3684efe4"
   },
   "lewis-kelly": {
     "slug": "lewis-kelly",

@@ -354,44 +354,44 @@
     "key": "8",
     "episode": 8,
     "eliminations": 11,
-    "headline": "Two torches, one night — and the draft board splits wide open",
-    "overview": "Two by two they loaded the ark, and two by two this draft is separating. Tim sits at 56 points with 4 of 4 still in, 58 on the table and a 3.75 draft GPA — that is a wire-to-wire clinic. Tami's 45 points and 3 of 5 keep her alive with 46 on the table, even after dropping Rob. Austin hangs at 38 with 2 of 4 and 34 still available. Then the floor drops: Kylie lost Kilby and sits eliminated from contention at 32 with 22 on the table, while Taylor scored +0 and has 0 of 4 left. Brutal, beautiful Survivor.",
+    "headline": "Two torches snuffed, two drafts dead, one Barnyard running away",
+    "overview": "Two by two the ark loaded, and two by two the standings split clean down the middle. Tim sits at 56 points with 4 of 4 still breathing, a 3.75 draft GPA and 277 of 360 scenarios in his pocket — that is not a lead, that's a fortress. Tami's 45 points ride on three Tovuto survivors and 75 scenarios. Austin scraped +4 to 38 with 2 of 4 alive and 8 scenarios left. Then the wall: Kylie at 32 and Taylor at 31, both eliminated from contention, both watching Episode 8 take the last of what mattered.",
     "lines": [
       {
         "drafterId": "tami",
-        "text": "Tami, the leftover pick #21 Sharonda is your steal of the draft at rank 1 — she grabbed immunity and keeps your 75/360 scenarios breathing, even with Patt reaching all the way from #10 to rank 18."
+        "text": "Tami's Trifecta is real — Jelly, Mike and Sharonda all sitting at 14 points apiece — but that Patt reach at #10 who finished rank 18 and Rob's quit are exactly why she's chasing 56 instead of holding it."
       },
       {
         "drafterId": "taylor",
-        "text": "Taylor, Kristin's torch went out alongside Kilby and that was the last one standing — 0 of 4 in, 0 on the table, +0 this episode, and the Torch Collector badge has never been so painfully earned."
+        "text": "Zero this episode, zero still in, zero on the table, zero scenarios — Kristin and Kilby walking out together was the last nail in a 1.25 GPA draft that earned its Torch Collector badge the hard way."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie, the Chaotic HR Department lost Kilby for 13 points of consolation, leaving Cristian — your rank 1 steal at #8 — as the lone survivor of a draft that drew First Blood and is now eliminated from contention."
+        "text": "Kylie lost Kilby at 13 points and with him her contention; Cristian's idol play was the night's great moment, and he's the only name she has left."
       },
       {
         "drafterId": "tim",
-        "text": "Tim, four picks, four still in, four at 14 points apiece, 277 of 360 scenarios, and a clinch sitting behind Thien An, Devin, Lewis or Maggie — Barnyard and Broadway is running the table."
+        "text": "Four for four, 14 points each, Wire-to-Wire, and a Thien An steal at #17 that turned into rank 1 — Tim's Barnyard and Broadway is the cleanest draft I've seen in a long, long time."
       },
       {
         "drafterId": "austin",
-        "text": "Austin, Carter's Salt Alliance and Eric's unplayed extra vote keep Farmhands and Feelings technically alive at 8/360, but losing Linnea and Jenna early is why that draft GPA reads 2."
+        "text": "Carter built the Salt Alliance and handed over his idol, Eric sat on an extra vote he never played, and Austin's Jenna reach at #6 landing rank 17 is why he's at 38 with just 8 scenarios alive."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
         "drafterId": "tim",
-        "text": "Tim banked +8 with Lewis taking immunity and all four picks untouched — Untouchable, Merge Machine, Wire-to-Wire, Idol Whisperer, the whole badge rack."
+        "text": "Plus-8, every castaway standing, and a clinch waiting if Thien An, Devin, Lewis or Maggie takes it — Tim owns this column."
       },
       {
         "label": "Ouch of the week",
         "drafterId": "kylie",
-        "text": "Kylie watched Kilby walk out as a jury member on the one vote that counted, and with it went her path to the title."
+        "text": "Kilby goes out as part of a double snuff at 13 points, and Kylie goes from contender to spectator in one Tribal."
       }
     ],
-    "generatedAt": "2026-11-13T20:11:22.124Z",
+    "generatedAt": "2026-11-16T22:40:18.915Z",
     "model": "claude-opus-5",
-    "sourceHash": "a8c4c2d3e35d"
+    "sourceHash": "842af1987087"
   }
 }
