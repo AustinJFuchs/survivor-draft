@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-17T21:27:15.864Z",
+  "syncedAt": "2026-11-18T21:00:17.458Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -270,7 +270,7 @@
       "number": 9,
       "title": "Wilder Than a Cat in a Bathtub",
       "airDate": "2026-11-18",
-      "aired": false
+      "aired": true
     }
   ],
   "eliminations": [
@@ -690,7 +690,7 @@
         }
       ],
       "trivia": [
-        "Carter is the youngest member of Savu and the youngest man to compete on Survivor 51.",
+        "Carter is the youngest man to compete on Survivor 51.",
         "Carter is third castaway after Candice Woodcock and Jonathan Penner to accept the opportunity to mutiny in the US version.",
         "Carter is the first player to be saved by someone else's Shot in the Dark."
       ],
@@ -771,7 +771,7 @@
       "votesAgainst": 6,
       "daysLasted": "15/26",
       "birthdate": "1996-02-11",
-      "bio": "Starting on Toka, Kilby formed close relationships with several of his tribemates. Following the tribe switch, Kilby moved to Dina and found himself outnumbered by the Savu majority. After Maggie Nestor visited and gave him an Extra Vote, Kilby orchestrated a 4–4 deadlock and adamantly refused to turn against Lewis Kelly, forcing the opposing alliance to sacrifice Linnea Capobianco. Kilby entered the merge and reconnected with his original allies, forming a majority where they targeted Devin Way and Jelly Loblack during the Double Duo twist. However, after Jelly successfully played her idol and Cristian Chavez's Shot in the Dark play also successfully saved him and Carter Krull, Devin's lone remaining vote eliminated Kilby and Kristin Flickinger, with Kilby placing 11th.",
+      "bio": "Starting on Toka, Kilby formed close relationships with several of his tribemates. Following the tribe switch, Kilby moved to Dina and found himself outnumbered by the Savu majority. After Maggie Nestor visited and gave him an Extra Vote, Kilby orchestrated a 4–4 deadlock and adamantly refused to turn against his ally Lewis Kelly, forcing the opposing alliance to sacrifice Linnea Capobianco. Kilby entered the merge and reconnected with his original allies, forming a majority where they targeted Devin Way and Jelly Loblack during the Double Duo twist. However, after Jelly successfully played her idol and Cristian Chavez's Shot in the Dark play also successfully saved him and Carter Krull, Devin's lone remaining vote eliminated Kilby and Kristin Flickinger, with Kilby placing 11th.",
       "threeWords": [
         "wacky",
         "chaotic",
@@ -1194,7 +1194,7 @@
       "votesAgainst": 12,
       "daysLasted": "10/26",
       "birthdate": "2000-04-29",
-      "bio": "Linnea formed strong social connections with Alexis Levine and Sharonda Cox on Savu and established herself within the tribe's majority alliance. Following the tribe swap, Linnea joined Dina, where she held a 4–2 numerical advantage alongside her original Savu tribemates. Confident in her alliance's control, Linnea targeted Lewis Kelly, unaware that Maggie Nestor had given Lewis and Danny Kilby an Extra Vote each to protect them and target the former instead. The resulting 4–4 tie remained deadlocked after the revote, with Kilby refusing to turn against Lewis. Faced with the possibility of drawing rocks, Linnea's allies ultimately agreed to sacrifice her to avoid risking their own elimination, sending her home in a 15th-place finish.",
+      "bio": "Linnea formed strong social connections with Alexis Levine and Sharonda Cox on Savu and established herself within the tribe's majority alliance. Following the tribe swap, Linnea joined Dina, where she held a 4–2 numerical advantage alongside her original Savu tribemates. Confident in her alliance's control, Linnea targeted Lewis Kelly, unaware that Maggie Nestor had given Lewis and Danny Kilby an Extra Vote each to protect them and target the former instead. The resulting 4–4 tie remained deadlocked after the revote, with Kilby refusing to turn against his ally Lewis. Faced with the possibility of drawing rocks, Linnea's allies ultimately agreed to sacrifice her to avoid risking their own elimination, sending her home in a 15th-place finish.",
       "threeWords": [
         "rational",
         "outgoing",

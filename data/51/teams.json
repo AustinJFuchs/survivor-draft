@@ -2,46 +2,46 @@
   "austin": {
     "drafterId": "austin",
     "nickname": "Farmhands and Feelings",
-    "summary": "Austin, drafting 5th you lost two early — Jenna out 4th, Linnea out 6th — and yet here you sit at rank 3 of 5 with 38 counted points, because your back half is pure muscle. Carter and Eric are tied at the very top of the board, 2 of 4 still in the game. Draft GPA 2, but Ep 3 gave you +8 and Ep 6 only +2. The leader has 56. Thirty-four points still on the table.",
+    "summary": "Austin, picking 5th in the snake, you lost two early — Linnea and Jenna are gone — but the back half of your board is pure gold. You sit rank 3 of 5 with 38 counted points, 2 of 4 still in the game, and a draft GPA of 2 that hides two A's. The leader has 56. There are 34 points still on the table. Ep 3 gave you +8; Ep 6 only gave you +2. You're still in this.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Eric, your pick #16 steal, sits at 14 pts and rank 1 of 21 — a mental health counselor reading the room better than anyone out there."
+        "text": "Eric at pick #16 — ranks 1 of 21 with 14 pts — is the steal of your draft, and Carter matches him stride for stride at 14 pts and rank 1."
       },
       {
         "label": "Cause for concern",
-        "text": "Jenna at pick #6 was the reach, going out 4th with 4 pts and a rank of 17 of 21, and Linnea's F grade right behind her left you digging out early."
+        "text": "Jenna at pick #6 was the reach, going out 4th in Ep 4 with 4 pts and rank 17 of 21, and Linnea's 6 pts and 6th-out exit in Ep 5 left you with an F on both."
       },
       {
         "label": "Watch for",
-        "text": "Carter and Eric are both on Tovuto and both at 14 pts — if that tribe holds together, those 34 remaining points are yours to chase."
+        "text": "Both of your survivors wear Tovuto, so every tribal move around that beach swings your scoreboard in one direction or the other."
       }
     ],
-    "generatedAt": "2026-11-12T20:34:09.728Z",
+    "generatedAt": "2026-11-18T21:00:50.695Z",
     "model": "claude-opus-5",
-    "sourceHash": "c993164cb091"
+    "sourceHash": "fc361478a01a"
   },
   "kylie": {
     "drafterId": "kylie",
-    "nickname": "Chaotic Good Crew",
-    "summary": "Kylie, you took the first punch of this whole draft — Aaliyah went home Episode 1, and the First Blood badge is yours forever. But then you found Cristian at pick #8, and he sits at 14 pts, rank 1 of 21, the steal of the night. Episode 7 gave you +8, Episode 6 only +2, and you're rank 4 of 5 with 32 counted points and a 2.25 draft GPA. Contention's gone. Pride isn't.",
+    "nickname": "Chaos Hire, Loud Energy",
+    "summary": "Kylie, you took the first punch of this draft — Aaliyah went home first, and that First Blood badge is yours forever. But then you found Cristian at pick #8, and he's sitting at 14 pts, rank 1 of 21, the steal of the whole thing. You're rank 4 of 5 with 32 counted points, eliminated from contention with the leader at 56. Still, 22 points are on the table and one of your four is alive.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Cristian Chavez — fun, chaotic, loud, 14 pts and rank 1 of 21 — is the best player on anyone's roster and he's still in the game."
+        "text": "Cristian — fun, chaotic, loud, and the top-ranked castaway in this entire draft at 14 pts with a grade of A."
       },
       {
         "label": "Cause for concern",
-        "text": "Aaliyah at pick #3 was the reach, 0 pts and rank 21 of 21 after going home first, and you lost Kilby and his 13 pts in the Episode 8 double."
+        "text": "Aaliyah at pick #3 was the reach that stung, 0 pts and rank 21 of 21 after going out first in Ep 1, and a 2.25 draft GPA tells the rest of that story."
       },
       {
         "label": "Watch for",
-        "text": "You're eliminated from contention with 22 points still on the table, so ride Cristian and see how high this Salt Lake City chaos agent can climb."
+        "text": "Your Ep 7 was a +8, your best week yet — keep an eye on whether Cristian can stack another run like that with 22 points still out there."
       }
     ],
-    "generatedAt": "2026-11-16T22:40:05.814Z",
+    "generatedAt": "2026-11-18T21:00:41.281Z",
     "model": "claude-opus-5",
-    "sourceHash": "9fcbd75892c1"
+    "sourceHash": "8cdd09f9bcf1"
   },
   "tami": {
     "drafterId": "tami",

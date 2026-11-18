@@ -53,16 +53,16 @@
   },
   "carter-krull": {
     "slug": "carter-krull",
-    "summary": "Carter is a 24-year-old livestock farmer from Rock Rapids, Iowa, who calls himself adventurous, competitive and determined. He's built businesses from nothing — a snow cone truck and a moving company called MOVE MOVE MOVE — and credits his parents for teaching him to work hard and chase things down. Survivor has been on his bucket list for years.",
+    "summary": "Carter is a 24-year-old livestock farmer from Rock Rapids, Iowa, who calls himself adventurous, competitive, and determined. He's a builder by nature — epoxy river tables, a snow cone truck, a moving company started with a buddy. Survivor was on his bucket list, and he credits his parents for teaching him to chase things down.",
     "bullets": [
+      "Youngest man playing Survivor 51",
+      "Co-founded a cross-country moving company named MOVE MOVE MOVE",
       "Makes epoxy river tables, inspired by a grandpa who built his own house",
-      "Youngest man playing Survivor 51 and the youngest member of Savu",
-      "Values communication above all: I've got your back if you've got mine",
-      "Open-mouth chewing is, in his words, grounds for packing your bags"
+      "Third player ever to accept a mutiny offer"
     ],
-    "generatedAt": "2026-11-12T20:33:35.826Z",
+    "generatedAt": "2026-11-18T21:00:27.508Z",
     "model": "claude-opus-5",
-    "sourceHash": "47a197f8f691"
+    "sourceHash": "f2a463bd7f7b"
   },
   "cristian-chavez": {
     "slug": "cristian-chavez",
@@ -79,16 +79,16 @@
   },
   "danny-kilby": {
     "slug": "danny-kilby",
-    "summary": "Kilby is a 30-year-old game designer from Mount Forest, Ontario, who calls himself wacky, chaotic and playful. Survivor has shaped his whole life — his closest friends and his girlfriend all came from the fan community. He's a good-vibes guy who builds real bonds and then plays bold, scheming moves off them.",
+    "summary": "Kilby is a 30-year-old game designer from Mount Forest, Ontario, who calls himself wacky, chaotic and playful. A lifelong Survivor fan, he met his girlfriend and most of his best friends through the show's fan community. He leads with warmth and big swings, and wants to hear someone's real laugh before trusting them.",
     "bullets": [
       "First in his family to finish high school and go to university",
-      "Wants to hear your real laugh before trusting you",
-      "Forced a 4–4 deadlock rather than turn on Lewis",
-      "Hobbies include WWE, improv, Lego, karaoke and Blood on the Clocktower"
+      "Forced a 4–4 deadlock on Dina rather than turn on ally Lewis",
+      "Hobbies include improv, karaoke, Lego, dodgeball and Blood on the Clocktower",
+      "Eliminated 11th by a single vote, alongside Kristin Flickinger"
     ],
-    "generatedAt": "2026-11-16T22:39:42.240Z",
+    "generatedAt": "2026-11-18T21:00:30.995Z",
     "model": "claude-opus-5",
-    "sourceHash": "453bfdc12f0e"
+    "sourceHash": "01042d221d21"
   },
   "devin-way": {
     "slug": "devin-way",
@@ -170,16 +170,16 @@
   },
   "linnea-capobianco": {
     "slug": "linnea-capobianco",
-    "summary": "Linnea is a 25-year-old entrepreneur from Kearny, New Jersey, who runs her own business in NYC. She describes herself as rational, outgoing, and optimistic, and says she wants to say yes to challenges and be uncomfortable so she can grow. Her time studying and working in Washington, D.C. taught her that relationships are everything.",
+    "summary": "Linnea is a 25-year-old entrepreneur from Kearny, New Jersey, who runs her own business in NYC. She describes herself as rational, outgoing and optimistic, and credits her years studying and working in Washington, D.C. for teaching her how to build relationships across differences. She values friendship and calm heads over paranoia.",
     "bullets": [
-      "Shoots street photography and goes to jazz shows in her free time",
-      "Values alliance partners who stay rational and don't get paranoid",
-      "Gets uncontrollable laughing fits at the worst possible moments",
+      "Owns a business in New York City, her proudest accomplishment",
+      "Shoots street photography, does Lagree, and goes to jazz shows",
+      "Gets uncontrollable laughing attacks at the worst possible moments",
       "Inspired by war photographer Lynsey Addario, a voice for the voiceless"
     ],
-    "generatedAt": "2026-11-05T10:31:10.622Z",
+    "generatedAt": "2026-11-18T21:00:34.362Z",
     "model": "claude-opus-5",
-    "sourceHash": "d4a91b3f8b3c"
+    "sourceHash": "8a24d84c4702"
   },
   "maggie-nestor": {
     "slug": "maggie-nestor",
