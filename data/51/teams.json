@@ -89,24 +89,24 @@
   },
   "tim": {
     "drafterId": "tim",
-    "nickname": "All-Tovuto Farm Crew",
-    "summary": "Tim, drafting 4th in the snake and ending up here? That's a masterclass. Every single name on your roster made the merge, you've led or co-led after every single elimination, and you're sitting at rank 1 of 5 with 59 counted points. A 3.25 Draft GPA, 2 idols found, and a monster Ep 7 (+16) — that's control of the game. With 43 points still on the table and 3 of 4 still out there, you're very much in contention.",
+    "nickname": "The Tovuto Farmhands",
+    "summary": "Tim, you drafted fourth and somehow walked away with the whole Tovuto bloc — and look at you now: rank 1 of 5 with 59 counted points, 3 of 4 still standing, and badges for Merge Machine, Wire-to-Wire and Idol Whisperer with 2 found. Every single name you called made the merge. Ep 7 handed you +16, Ep 9 slowed you to +3, and 43 points still sit on the table. Commanding.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "You've got a three-way logjam at the top — Maggie, Devin, and Thien An all sitting on 15 pts and all ranked 1 of 21 — but the steal is Thien An at pick #17 doing it for a bargain."
+        "text": "Maggie, Devin and Thien An are each sitting at 15 pts and tied at rank 1 of 21 — a three-headed engine, with Thien An the steal of the draft at pick #17."
       },
       {
         "label": "Cause for concern",
-        "text": "Lewis at pick #4 was the reach, finishing with 14 pts, a rank of 10 of 21 and a grade D before going out as the 3rd jury member in Ep 9 — the same episode that gave you your worst week at +3."
+        "text": "Lewis was the reach at pick #4 and finished as the 3rd jury member in Ep 9 with 14 pts, rank 10 of 21 and a grade D — the one blemish on a 3.25 draft GPA."
       },
       {
         "label": "Watch for",
-        "text": "Three Tovuto originals still in the game means they may eventually have to come for each other, and that's the storyline that decides whether you hold this lead."
+        "text": "Whether your trio keeps scoring in lockstep or one of them breaks away, because 43 points are still out there and the lead is yours to defend."
       }
     ],
-    "generatedAt": "2026-11-19T11:18:40.953Z",
+    "generatedAt": "2026-11-19T14:10:31.339Z",
     "model": "claude-opus-5",
-    "sourceHash": "f56658b89eb6"
+    "sourceHash": "aa7d9fd649d1"
   }
 }

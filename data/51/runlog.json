@@ -1115,6 +1115,20 @@
         "Kylie: 4th → 4th, 32 → 33 pts"
       ],
       "episode": 9
+    },
+    {
+      "id": "2026-11-19T14:10:45.782Z",
+      "at": "2026-11-19T14:10:45.782Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile, 1 team summary refreshed, and the State of the Draft was rewritten.",
+      "details": [
+        "Bio updated for Lewis",
+        "Trivia updated for Lewis",
+        "Profile rewritten for Lewis",
+        "Team summary refreshed for Tim",
+        "State of the Draft rewritten (Ep 9)"
+      ],
+      "episode": 9
     }
   ],
   "state": {
@@ -1401,9 +1415,9 @@
       },
       "lewis-kelly": {
         "birthdate": "1997-10-03",
-        "bio": "b054bfe4f7e7",
+        "bio": "5b1df635e999",
         "threeWords": "979a3cd4c89a",
-        "trivia": "3eefa0937d43",
+        "trivia": "65508e674b32",
         "qa": "fb7b2a2af3f6",
         "photos": 1,
         "alliances": 0
@@ -1498,7 +1512,7 @@
       "jelly-loblack": "d287fc5ca5c2",
       "jenna-doore": "583c76795c19",
       "kristin-flickinger": "a14f316684d2",
-      "lewis-kelly": "b5db2edc9294",
+      "lewis-kelly": "77632c06ec5e",
       "linnea-capobianco": "5494357bebc1",
       "maggie-nestor": "e3add46cf8f2",
       "mike-pinsky": "3a8c4f0e1adc",
@@ -1513,7 +1527,7 @@
       "kylie": "f19df6c5ab8c",
       "tami": "a2e897be1e31",
       "taylor": "a1d0c54b971f",
-      "tim": "5bd86acfec51"
+      "tim": "ffe7f0f94c16"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1525,7 +1539,7 @@
       "6": "165f98849550",
       "7": "c8d0ab9fad3c",
       "8": "d2ebc516b24a",
-      "9": "ff4f63dbf317"
+      "9": "bcdf930cdefa"
     },
     "events": [
       "extra-vote-brady-booker-advantage-found-3",
@@ -1614,6 +1628,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-19T11:19:02.221Z",
+  "lastCheckedAt": "2026-11-19T14:10:45.782Z",
   "quietChecks": 0
 }

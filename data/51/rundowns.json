@@ -398,44 +398,44 @@
     "key": "9",
     "episode": 9,
     "eliminations": 12,
-    "headline": "The coin flipped, the leader bled, and still leads",
-    "overview": "Family, nine castaways remain and the draft board is splitting into two very different shows. Tim lost Lewis to a coin flip and STILL banked +7, sitting at 59 with 3 of 4 alive and 160 of 252 scenarios in his pocket. Tami's 48 and that leftover Sharonda keep her honest with 84 scenarios. Austin sits at 40 with two Tovuto counselors-slash-farmers still breathing and 8 scenarios of daylight. Kylie's 33 and Taylor's 31 are the hard part — both eliminated from contention, with Taylor holding zero on the table. Four drafts leaned Tovuto. Two leaned too late.",
+    "headline": "The coin flipped, the lead held, two torches are out",
+    "overview": "Family, the standings are splitting into three stories. Tim sits at 59 with 43 on the table and 160 of 252 scenarios, and he lost Lewis this episode and STILL gained seven — that's a draft with depth. Tami's 48 and 84 scenarios keep her breathing, with three of five alive and her leftover pick doing heavy lifting. Austin hangs at 40 with 32 on the table and 8 scenarios of daylight. Then the hard truth: Kylie at 33 with one left, Taylor at 31 with zero left and zero on the table. Both officially eliminated from contention. That's the game, people.",
     "lines": [
       {
         "drafterId": "tim",
-        "text": "Tim watched Lewis call fire and lose everything, then still posted +7, a 3.25 draft GPA, and 160 of 252 winning scenarios — that's what Wire-to-Wire looks like."
+        "text": "You lost Lewis — a 14-point farmer — on a coin flip and still posted +7 with Maggie, Devin and Thien An all at 15, which is why 160 of 252 scenarios have your name on them."
       },
       {
         "drafterId": "tami",
-        "text": "Tami's leftover pick #21 Sharonda is a steal that rose to rank 1, and with Jelly, Mike and Sharonda all in, her 84 scenarios are very much alive."
+        "text": "Three Tovuto hearts still beating at 15 points apiece, a leftover pick at #21 that became your best player, and 84 scenarios still alive — Leftover Luck is a real badge, Tami."
       },
       {
         "drafterId": "austin",
-        "text": "Austin's got Carter wearing immunity and Eric still in, but 2 of 4 remaining and 8 of 252 scenarios means he needs chaos, and he needs it fast."
+        "text": "Carter grabbed individual immunity and he and Eric are both sitting on 15, but a draft GPA of 2 and 8 of 252 scenarios means you need chaos, not comfort."
       },
       {
         "drafterId": "kylie",
-        "text": "Kylie's Chaotic HR Department is down to Cristian alone, and that Aaliyah reach at #3 for rank 21 is a wound that never healed."
+        "text": "The Chaotic HR Department is eliminated from contention with 21 on the table, but Cristian at 15 is still clocking in every single week — the First Blood badge was earned the hard way with Aaliyah at 0."
       },
       {
         "drafterId": "taylor",
-        "text": "Taylor, you earned the Torch Collector badge honestly — 0 of 4 still in, +0 this episode, 0 on the table, and a 1.25 draft GPA."
+        "text": "Zero of four still in, +0 this episode, 0 on the table, and a 1.25 draft GPA — Taylor, you didn't just collect torches, you collected all of them."
       }
     ],
     "awards": [
       {
         "label": "Draft of the week",
-        "drafterId": "tami",
-        "text": "Three Tovuto players still standing at 15 points apiece and a +6 night keeps Tami the only real threat to the throne."
+        "drafterId": "tim",
+        "text": "Losing a castaway and gaining seven points anyway is the definition of Wire-to-Wire."
       },
       {
         "label": "Ouch of the week",
-        "drafterId": "tim",
-        "text": "Losing Lewis — safety, an idol, and two million dollars — on a single coin flip is the cruelest 14-point ending this draft has seen."
+        "drafterId": "taylor",
+        "text": "Thirty-one points, four snuffed torches, and nothing left to root for — that's a long walk to the finale."
       }
     ],
-    "generatedAt": "2026-11-19T11:19:01.620Z",
+    "generatedAt": "2026-11-19T14:10:44.844Z",
     "model": "claude-opus-5",
-    "sourceHash": "141ce52b7eba"
+    "sourceHash": "e1754449df3e"
   }
 }
