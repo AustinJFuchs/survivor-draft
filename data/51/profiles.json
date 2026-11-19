@@ -157,16 +157,16 @@
   },
   "lewis-kelly": {
     "slug": "lewis-kelly",
-    "summary": "Lewis is a 28-year-old farmer from Dublin who now lives in Puerto Rico with his wife, Andrea, in a school bus they renovated together. Becoming a US citizen pushed him to apply, and he arrives cheeky and self-aware, happy to play the fool while thinking a few steps ahead.",
+    "summary": "Lewis is a 28-year-old farmer from Dublin who now lives in Puerto Rico with his wife, Andrea, in a school bus they renovated together. A newly minted US citizen, he applied because he figured he owed himself the shot. Cheeky and charming, he likes chaos, travel, and a good lie.",
     "bullets": [
-      "First Irish castaway to compete on Survivor",
-      "Lives in a school bus he and his wife renovated themselves",
-      "Calls lying a hobby and says snitches get their torches snuffed",
-      "Credits a trip to North Korea as practice for isolation and uncertainty"
+      "First Irish castaway ever to play Survivor",
+      "Started on Exile Island before joining Toka, no idol found",
+      "Lists lying as a hobby, alongside traveling and charting the unknown",
+      "Called \"fire\" on the Million-Dollar Coin Flip; it landed water, 10th place"
     ],
-    "generatedAt": "2026-09-24T17:39:20.089Z",
+    "generatedAt": "2026-11-19T11:17:54.348Z",
     "model": "claude-opus-5",
-    "sourceHash": "7da6dc97e8da"
+    "sourceHash": "18228673efda"
   },
   "linnea-capobianco": {
     "slug": "linnea-capobianco",
@@ -209,16 +209,16 @@
   },
   "ori-jean-charles": {
     "slug": "ori-jean-charles",
-    "summary": "Ori is a 27-year-old personal trainer and former Division I football player from Spring Valley, NY, who plays for his family above all. Calm, physically strong, and relentlessly hardworking, he describes himself as consistent, an anomaly, and a hustler. His mom is his best friend and the reason he's here.",
+    "summary": "Ori is a 27-year-old personal trainer and former Division 1 football player from Spring Valley, New York. Everything he does points back to his family — especially his mom, who went without so her kids wouldn't have to. Calm, steady, and hardworking, he calls himself consistent, an anomaly, and a hustler.",
     "bullets": [
-      "Drove 8 hours home every weekend in college after his mom's back injury",
+      "Drove 8 hours home every weekend in college to help his family",
       "First in his family to earn a degree — then added a master's",
-      "Played First Chair violin in his sixth grade orchestra",
-      "Loves food, travel, and being the best-dressed guy in the room"
+      "Was first chair violin in his 6th grade orchestra",
+      "Loves food, travel, and being the best-dressed person in the room"
     ],
-    "generatedAt": "2026-11-07T17:54:40.642Z",
+    "generatedAt": "2026-11-19T11:17:57.947Z",
     "model": "claude-opus-5",
-    "sourceHash": "3134c0a0d4ea"
+    "sourceHash": "d5a8da36d067"
   },
   "patt-cannaday": {
     "slug": "patt-cannaday",

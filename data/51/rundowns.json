@@ -393,5 +393,49 @@
     "generatedAt": "2026-11-18T21:01:04.638Z",
     "model": "claude-opus-5",
     "sourceHash": "c4d6b6d6f6d9"
+  },
+  "9": {
+    "key": "9",
+    "episode": 9,
+    "eliminations": 12,
+    "headline": "The coin flipped, the leader bled, and still leads",
+    "overview": "Family, nine castaways remain and the draft board is splitting into two very different shows. Tim lost Lewis to a coin flip and STILL banked +7, sitting at 59 with 3 of 4 alive and 160 of 252 scenarios in his pocket. Tami's 48 and that leftover Sharonda keep her honest with 84 scenarios. Austin sits at 40 with two Tovuto counselors-slash-farmers still breathing and 8 scenarios of daylight. Kylie's 33 and Taylor's 31 are the hard part — both eliminated from contention, with Taylor holding zero on the table. Four drafts leaned Tovuto. Two leaned too late.",
+    "lines": [
+      {
+        "drafterId": "tim",
+        "text": "Tim watched Lewis call fire and lose everything, then still posted +7, a 3.25 draft GPA, and 160 of 252 winning scenarios — that's what Wire-to-Wire looks like."
+      },
+      {
+        "drafterId": "tami",
+        "text": "Tami's leftover pick #21 Sharonda is a steal that rose to rank 1, and with Jelly, Mike and Sharonda all in, her 84 scenarios are very much alive."
+      },
+      {
+        "drafterId": "austin",
+        "text": "Austin's got Carter wearing immunity and Eric still in, but 2 of 4 remaining and 8 of 252 scenarios means he needs chaos, and he needs it fast."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "Kylie's Chaotic HR Department is down to Cristian alone, and that Aaliyah reach at #3 for rank 21 is a wound that never healed."
+      },
+      {
+        "drafterId": "taylor",
+        "text": "Taylor, you earned the Torch Collector badge honestly — 0 of 4 still in, +0 this episode, 0 on the table, and a 1.25 draft GPA."
+      }
+    ],
+    "awards": [
+      {
+        "label": "Draft of the week",
+        "drafterId": "tami",
+        "text": "Three Tovuto players still standing at 15 points apiece and a +6 night keeps Tami the only real threat to the throne."
+      },
+      {
+        "label": "Ouch of the week",
+        "drafterId": "tim",
+        "text": "Losing Lewis — safety, an idol, and two million dollars — on a single coin flip is the cruelest 14-point ending this draft has seen."
+      }
+    ],
+    "generatedAt": "2026-11-19T11:19:01.620Z",
+    "model": "claude-opus-5",
+    "sourceHash": "141ce52b7eba"
   }
 }

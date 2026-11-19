@@ -1086,6 +1086,35 @@
         "State of the Draft rewritten (Ep 8)"
       ],
       "episode": 8
+    },
+    {
+      "id": "2026-11-19T11:19:02.221Z",
+      "at": "2026-11-19T11:19:02.221Z",
+      "source": "pipeline",
+      "summary": "Ep 9 aired and Lewis was lost at fire. 3 episodes joined the schedule, the voting table filled in, and 2 castaways' wiki entries got touched up.",
+      "details": [
+        "Lewis lost at fire in Ep 9, first jury member",
+        "Ep 10 added — \"Sorting Hogs\", airing 2026-11-25",
+        "Ep 11 added — \"My Fangs Feel A Little Sharp Today\", airing 2026-12-02",
+        "Ep 12 added — \"My Time Is Up\", airing 2026-12-09",
+        "Vote records: 294 → 315",
+        "Bio updated for Lewis",
+        "Bio updated for Ori",
+        "Commentary written for Ep 9",
+        "Profile rewritten for Lewis",
+        "Profile rewritten for Ori",
+        "Team summary refreshed for Austin",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "State of the Draft written (Ep 9)",
+        "Tim: 1st → 1st, 56 → 59 pts",
+        "Tami: 2nd → 2nd, 45 → 48 pts",
+        "Austin: 3rd → 3rd, 38 → 40 pts",
+        "Kylie: 4th → 4th, 32 → 33 pts"
+      ],
+      "episode": 9
     }
   ],
   "state": {
@@ -1141,6 +1170,18 @@
       "9": {
         "title": "Wilder Than a Cat in a Bathtub",
         "airDate": "2026-11-18"
+      },
+      "10": {
+        "title": "Sorting Hogs",
+        "airDate": "2026-11-25"
+      },
+      "11": {
+        "title": "My Fangs Feel A Little Sharp Today",
+        "airDate": "2026-12-02"
+      },
+      "12": {
+        "title": "My Time Is Up",
+        "airDate": "2026-12-09"
       }
     },
     "eliminations": [
@@ -1208,6 +1249,12 @@
         "kind": "voted-out",
         "episode": 8,
         "jury": true
+      },
+      {
+        "slug": "lewis-kelly",
+        "kind": "fire",
+        "episode": 9,
+        "jury": true
       }
     ],
     "merged": [
@@ -1239,9 +1286,9 @@
       "brady-booker": "Tovuto",
       "kristin-flickinger": "Tovuto",
       "danny-kilby": "Tovuto",
+      "lewis-kelly": "Tovuto",
       "cristian-chavez": "Tovuto",
       "sharonda-cox": "Tovuto",
-      "lewis-kelly": "Tovuto",
       "carter-krull": "Tovuto",
       "jelly-loblack": "Tovuto",
       "eric-macksoud": "Tovuto",
@@ -1250,7 +1297,7 @@
       "mike-pinsky": "Tovuto",
       "devin-way": "Tovuto"
     },
-    "votes": 294,
+    "votes": 315,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -1354,6 +1401,7 @@
       },
       "lewis-kelly": {
         "birthdate": "1997-10-03",
+        "bio": "b054bfe4f7e7",
         "threeWords": "979a3cd4c89a",
         "trivia": "3eefa0937d43",
         "qa": "fb7b2a2af3f6",
@@ -1385,7 +1433,7 @@
       },
       "ori-jean-charles": {
         "birthdate": "1998-12-31",
-        "bio": "b5eb2a6a2532",
+        "bio": "45271abd00f8",
         "threeWords": "672631b112b8",
         "trivia": "c95a6a554a70",
         "qa": "07619a424d17",
@@ -1434,7 +1482,8 @@
       "5": "8fd60cd4b104",
       "6": "72ce351de7d7",
       "7": "77f87991bd1d",
-      "8": "b008847409dc"
+      "8": "b008847409dc",
+      "9": "cd954a091f7e"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
@@ -1449,22 +1498,22 @@
       "jelly-loblack": "d287fc5ca5c2",
       "jenna-doore": "583c76795c19",
       "kristin-flickinger": "a14f316684d2",
-      "lewis-kelly": "0e0b1f1e82df",
+      "lewis-kelly": "b5db2edc9294",
       "linnea-capobianco": "5494357bebc1",
       "maggie-nestor": "e3add46cf8f2",
       "mike-pinsky": "3a8c4f0e1adc",
-      "ori-jean-charles": "4c58a6037eea",
+      "ori-jean-charles": "709f253e9193",
       "patt-cannaday": "e0ca8ff270e1",
       "rob-antonson": "c4f687c69af9",
       "sharonda-cox": "95316f274de3",
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "bfaf854f5e48",
-      "kylie": "656043ef07de",
-      "tami": "66bbbd1f4cca",
-      "taylor": "85acac655fd9",
-      "tim": "065ec4c31602"
+      "austin": "49fddcb09d9b",
+      "kylie": "f19df6c5ab8c",
+      "tami": "a2e897be1e31",
+      "taylor": "a1d0c54b971f",
+      "tim": "5bd86acfec51"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1475,7 +1524,8 @@
       "5": "4f657021b7f8",
       "6": "165f98849550",
       "7": "c8d0ab9fad3c",
-      "8": "d2ebc516b24a"
+      "8": "d2ebc516b24a",
+      "9": "ff4f63dbf317"
     },
     "events": [
       "extra-vote-brady-booker-advantage-found-3",
@@ -1509,22 +1559,22 @@
     "standings": [
       {
         "drafterId": "tim",
-        "total": 56,
+        "total": 59,
         "rank": 1
       },
       {
         "drafterId": "tami",
-        "total": 45,
+        "total": 48,
         "rank": 2
       },
       {
         "drafterId": "austin",
-        "total": 38,
+        "total": 40,
         "rank": 3
       },
       {
         "drafterId": "kylie",
-        "total": 32,
+        "total": 33,
         "rank": 4
       },
       {
@@ -1564,6 +1614,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-18T21:01:05.325Z",
+  "lastCheckedAt": "2026-11-19T11:19:02.221Z",
   "quietChecks": 0
 }
