@@ -1129,6 +1129,19 @@
         "State of the Draft rewritten (Ep 9)"
       ],
       "episode": 9
+    },
+    {
+      "id": "2026-11-21T19:53:02.510Z",
+      "at": "2026-11-21T19:53:02.510Z",
+      "source": "pipeline",
+      "summary": "1 castaway's wiki entry got touched up. Claude rewrote 1 castaway profile and 1 team summary refreshed.",
+      "details": [
+        "Bio updated for Lewis",
+        "Trivia updated for Lewis",
+        "Profile rewritten for Lewis",
+        "Team summary refreshed for Tim"
+      ],
+      "episode": 9
     }
   ],
   "state": {
@@ -1311,7 +1324,7 @@
       "mike-pinsky": "Tovuto",
       "devin-way": "Tovuto"
     },
-    "votes": 315,
+    "votes": 294,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -1415,9 +1428,9 @@
       },
       "lewis-kelly": {
         "birthdate": "1997-10-03",
-        "bio": "5b1df635e999",
+        "bio": "5f82cfc96a04",
         "threeWords": "979a3cd4c89a",
-        "trivia": "65508e674b32",
+        "trivia": "1546b3c4e1d9",
         "qa": "fb7b2a2af3f6",
         "photos": 1,
         "alliances": 0
@@ -1512,7 +1525,7 @@
       "jelly-loblack": "d287fc5ca5c2",
       "jenna-doore": "583c76795c19",
       "kristin-flickinger": "a14f316684d2",
-      "lewis-kelly": "77632c06ec5e",
+      "lewis-kelly": "73f0da62e84c",
       "linnea-capobianco": "5494357bebc1",
       "maggie-nestor": "e3add46cf8f2",
       "mike-pinsky": "3a8c4f0e1adc",
@@ -1527,7 +1540,7 @@
       "kylie": "f19df6c5ab8c",
       "tami": "a2e897be1e31",
       "taylor": "a1d0c54b971f",
-      "tim": "ffe7f0f94c16"
+      "tim": "63ff021148f2"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1628,6 +1641,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-20T20:51:24.282Z",
-  "quietChecks": 3
+  "lastCheckedAt": "2026-11-21T19:53:02.510Z",
+  "quietChecks": 0
 }

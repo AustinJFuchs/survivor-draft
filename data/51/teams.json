@@ -90,23 +90,23 @@
   "tim": {
     "drafterId": "tim",
     "nickname": "The Tovuto Farmhands",
-    "summary": "Tim, you drafted fourth and somehow walked away with the whole Tovuto bloc — and look at you now: rank 1 of 5 with 59 counted points, 3 of 4 still standing, and badges for Merge Machine, Wire-to-Wire and Idol Whisperer with 2 found. Every single name you called made the merge. Ep 7 handed you +16, Ep 9 slowed you to +3, and 43 points still sit on the table. Commanding.",
+    "summary": "Tim! From the fourth slot you built a fortress. Rank 1 of 5, 59 counted points, 3 of 4 still in the game, and a Merge Machine badge because every single name you called made it to the feast. Wire-to-Wire, too — you've led or co-led after every elimination. Ep 7 handed you +16, Ep 9 gave you just +3, and your crew has dug up 2 idols and advantages. 43 points still on the table.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Maggie, Devin and Thien An are each sitting at 15 pts and tied at rank 1 of 21 — a three-headed engine, with Thien An the steal of the draft at pick #17."
+        "text": "You've got a three-way tie at the top — Maggie, Devin, and Thien An all sitting at 15 pts and ranked 1 of 21 — with Thien An at pick #17 the steal of your entire draft."
       },
       {
         "label": "Cause for concern",
-        "text": "Lewis was the reach at pick #4 and finished as the 3rd jury member in Ep 9 with 14 pts, rank 10 of 21 and a grade D — the one blemish on a 3.25 draft GPA."
+        "text": "Lewis went at pick #4 and finished as the 3rd jury member in Ep 9 with 14 pts, rank 10 of 21 and a grade D — that's the one swing that didn't connect."
       },
       {
         "label": "Watch for",
-        "text": "Whether your trio keeps scoring in lockstep or one of them breaks away, because 43 points are still out there and the lead is yours to defend."
+        "text": "Whether those three Tovuto survivors keep stacking together, because 43 points are still out there and the leader is at 59."
       }
     ],
-    "generatedAt": "2026-11-19T14:10:31.339Z",
+    "generatedAt": "2026-11-21T19:53:01.046Z",
     "model": "claude-opus-5",
-    "sourceHash": "aa7d9fd649d1"
+    "sourceHash": "76183ae64b75"
   }
 }

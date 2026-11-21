@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-20T20:51:18.799Z",
+  "syncedAt": "2026-11-21T19:52:40.925Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -1171,7 +1171,7 @@
       "votesAgainst": 8,
       "daysLasted": "17/26",
       "birthdate": "1997-10-03",
-      "bio": "Lewis began the game by volunteering for Exile Island, where he failed to obtain a Hidden Immunity Idol before joining Toka. There, he became a pivotal swing vote alongside Carter Krull in blindsiding Patt Cannaday. After switching to Dina, Lewis found himself outnumbered but two Extra Votes and his ally Danny Kilby's adamant refusal to turn against him forced a deadlock that eliminated Linnea Capobianco. At the merge, Lewis emerged as a challenge threat and subsequently a major target. Knowing he was in danger, Lewis volunteered for the Million-Dollar Coin Flip, which could grant him immunity and an idol or immediately eliminate him. He called “fire,” but the coin landed on “water,” ending his game in 10th place.",
+      "bio": "Lewis began the game by volunteering for Exile Island, where he failed to obtain a Hidden Immunity Idol before joining Toka. There, he became a pivotal swing vote in blindsiding Patt Cannaday. After switching to Dina, Lewis found himself outnumbered but two Extra Votes and his ally Danny Kilby's adamant refusal to turn against him forced a deadlock that eliminated Linnea Capobianco. At the merge, Lewis emerged as a challenge threat and subsequently a major target. Knowing he was in danger, Lewis volunteered for the Million-Dollar Coin Flip, which could grant him immunity and an idol or immediately eliminate him. He called “fire,” but the coin landed on “water,” ending his game in 10th place.",
       "threeWords": [
         "cheeky",
         "devilish",
@@ -1214,7 +1214,7 @@
       "trivia": [
         "Lewis is the first Irish castaway to compete on Survivor.",
         "Lewis is the second castaway on Survivor to be given their first tribe affiliation only after someone with a tribe affiliation had been eliminated, following Sylvia Kwan in Survivor 14.",
-        "Lewis is the first castaway to be eliminated by the Do or Die/Million Dollar Collar Flip twist."
+        "Lewis is the first castaway to be eliminated by the Million-Dollar Coin Flip twist."
       ],
       "pageUrl": "https://survivor.fandom.com/wiki/Lewis_Kelly",
       "photos": [
@@ -1732,13 +1732,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -1838,13 +1831,6 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -1952,13 +1938,6 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -2075,13 +2054,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2193,13 +2165,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2305,13 +2270,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2414,13 +2372,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2520,13 +2471,6 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -2636,13 +2580,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2742,13 +2679,6 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -2856,7 +2786,7 @@
         "day": 17,
         "votesAgainst": 0,
         "voters": [],
-        "votedForText": "Lost"
+        "votedForText": "Coin flip"
       }
     ],
     "danny-kilby": [
@@ -2874,13 +2804,6 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -2999,13 +2922,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3105,13 +3021,6 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -3227,13 +3136,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3337,13 +3239,6 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -3465,13 +3360,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3583,13 +3471,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3694,13 +3575,6 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -3812,14 +3686,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit",
-        "votedForText": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3927,13 +3793,6 @@
       },
       {
         "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
-      },
-      {
-        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -4038,13 +3897,6 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
-      },
-      {
-        "episode": 3,
-        "day": 6,
-        "votesAgainst": 0,
-        "voters": [],
-        "tally": "Quit"
       },
       {
         "episode": 3,
