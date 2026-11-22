@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-21T19:52:40.925Z",
+  "syncedAt": "2026-11-22T20:03:30.243Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -1732,6 +1732,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -1831,6 +1838,13 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -1938,6 +1952,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -2054,6 +2075,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2165,6 +2193,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2270,6 +2305,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2372,6 +2414,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2471,6 +2520,13 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -2580,6 +2636,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -2679,6 +2742,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -2807,6 +2877,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 5,
         "voters": [
@@ -2922,6 +2999,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3021,6 +3105,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -3136,6 +3227,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3239,6 +3337,13 @@
         "voters": [],
         "tally": "6–4",
         "votedFor": "ana-sani"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -3360,6 +3465,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3471,6 +3583,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3575,6 +3694,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
       },
       {
         "episode": 3,
@@ -3686,6 +3812,14 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit",
+        "votedForText": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3793,6 +3927,13 @@
       },
       {
         "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
+      },
+      {
+        "episode": 3,
         "day": 7,
         "votesAgainst": 0,
         "voters": [],
@@ -3897,6 +4038,13 @@
         "votesAgainst": 0,
         "voters": [],
         "tally": "6–4"
+      },
+      {
+        "episode": 3,
+        "day": 6,
+        "votesAgainst": 0,
+        "voters": [],
+        "tally": "Quit"
       },
       {
         "episode": 3,

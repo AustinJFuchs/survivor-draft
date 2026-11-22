@@ -1142,6 +1142,16 @@
         "Team summary refreshed for Tim"
       ],
       "episode": 9
+    },
+    {
+      "id": "2026-11-22T20:03:36.863Z",
+      "at": "2026-11-22T20:03:36.863Z",
+      "source": "pipeline",
+      "summary": "The voting table filled in.",
+      "details": [
+        "Vote records: 294 → 315"
+      ],
+      "episode": 9
     }
   ],
   "state": {
@@ -1324,7 +1334,7 @@
       "mike-pinsky": "Tovuto",
       "devin-way": "Tovuto"
     },
-    "votes": 294,
+    "votes": 315,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -1641,6 +1651,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-21T19:53:02.510Z",
+  "lastCheckedAt": "2026-11-22T20:03:36.863Z",
   "quietChecks": 0
 }
