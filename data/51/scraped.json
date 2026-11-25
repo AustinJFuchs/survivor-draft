@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-24T22:50:56.383Z",
+  "syncedAt": "2026-11-25T22:03:34.996Z",
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Survivor_51",
     "survivorWiki": "https://survivor.fandom.com/wiki/Survivor_51"
@@ -280,7 +280,7 @@
       "number": 10,
       "title": "Sorting Hogs",
       "airDate": "2026-11-25",
-      "aired": false
+      "aired": true
     },
     {
       "number": 11,
@@ -2856,7 +2856,7 @@
         "day": 17,
         "votesAgainst": 0,
         "voters": [],
-        "votedForText": "Coin flip"
+        "votedForText": "Eliminated"
       }
     ],
     "danny-kilby": [

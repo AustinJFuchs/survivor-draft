@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-24T22:51:05.594Z",
+  "syncedAt": "2026-11-25T22:03:39.111Z",
   "events": [
     {
       "id": "hidden-immunity-idol-history-rob-antonson-idol-found-1",
@@ -169,6 +169,30 @@
       "extracted": "table",
       "episode": 6,
       "contestantSlug": "sharonda-cox"
+    },
+    {
+      "id": "journey-ori-jean-charles-journey-6",
+      "type": "journey",
+      "contestant": "Ori Jean-Charles",
+      "source": {
+        "page": "Journey",
+        "url": "https://survivor.fandom.com/wiki/Journey"
+      },
+      "extracted": "table",
+      "episode": 6,
+      "contestantSlug": "ori-jean-charles"
+    },
+    {
+      "id": "journey-kristin-flickinger-journey-6",
+      "type": "journey",
+      "contestant": "Kristin Flickinger",
+      "source": {
+        "page": "Journey",
+        "url": "https://survivor.fandom.com/wiki/Journey"
+      },
+      "extracted": "table",
+      "episode": 6,
+      "contestantSlug": "kristin-flickinger"
     },
     {
       "id": "hidden-immunity-idol-history-jelly-loblack-idol-played-8",
