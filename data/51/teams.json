@@ -1,25 +1,25 @@
 {
   "austin": {
     "drafterId": "austin",
-    "nickname": "Tovuto Farm & Therapy",
-    "summary": "Austin, you drafted last and somehow walked away with the two best players in the game. Eric at pick #16 and Carter at #15 are both sitting at 15 pts, rank 1 of 21, and they're both still in the game. That's the good news. The bad news wears a 2 draft GPA — Linnea and Jenna are long gone. You're rank 3 of 5 with 40 counted points, the leader has 59, and 32 points are still on the table. You're alive.",
+    "nickname": "Counselor and Cattleman",
+    "summary": "Austin, drafting fifth from the tail of the snake, you swung boom-or-bust and got both. Jenna at pick #6 ranks 17 of 21 — that one stung, and a 2 draft GPA tells the story. But Eric at pick #16 ranks 1 of 21, and that's a steal, period. You sit rank 3 of 5 with 43 counted points, out of contention with 19 points still on the table and the leader at 63. Ep 3 brought +8, Ep 6 only +2. Pride's still in play.",
     "bullets": [
       {
         "label": "Carrying the load",
-        "text": "Eric, your pick #16 steal, is tied at the very top with 15 pts and a rank of 1 of 21 — the best value in this entire draft."
+        "text": "Eric, your sixteenth-pick mental health counselor, leads all 21 players with 17 pts and is the one name of your four still in the game."
       },
       {
         "label": "Cause for concern",
-        "text": "Jenna at pick #6 was the reach that stung, going out 4th in Ep 4 with 4 pts and a rank of 17 of 21, and Linnea followed her out the door in Ep 5."
+        "text": "Jenna went 4th voted out in Ep 4 for 4 pts and a grade F, a brutal return on a pick #6, and Linnea followed one episode later with 6 pts."
       },
       {
         "label": "Watch for",
-        "text": "Both of your survivors wear Tovuto buffs, so watch how that tribe holds together — your whole comeback runs through one camp."
+        "text": "Those 19 points still on the table ride entirely on Eric — watch whether that charisma and emotional intelligence keep stacking him up at rank 1 of 21."
       }
     ],
-    "generatedAt": "2026-11-19T11:18:48.114Z",
+    "generatedAt": "2026-11-26T14:47:00.670Z",
     "model": "claude-opus-5",
-    "sourceHash": "212111d4275c"
+    "sourceHash": "ecbb66dd26c3"
   },
   "kylie": {
     "drafterId": "kylie",

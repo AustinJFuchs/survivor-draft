@@ -1184,6 +1184,17 @@
         "Kylie: 4th → 4th, 33 → 35 pts"
       ],
       "episode": 10
+    },
+    {
+      "id": "2026-11-26T14:47:17.956Z",
+      "at": "2026-11-26T14:47:17.956Z",
+      "source": "pipeline",
+      "summary": "1 team summary refreshed and a new State of the Draft went up.",
+      "details": [
+        "Team summary refreshed for Austin",
+        "State of the Draft written (Ep 10)"
+      ],
+      "episode": 10
     }
   ],
   "state": {
@@ -1591,7 +1602,7 @@
       "thien-an-nguyen": "91ee5e518c09"
     },
     "teams": {
-      "austin": "49fddcb09d9b",
+      "austin": "16d4d3858b51",
       "kylie": "83b2e39efb50",
       "tami": "efaf485fe051",
       "taylor": "bf52a3cbd7ed",
@@ -1607,7 +1618,8 @@
       "6": "165f98849550",
       "7": "c8d0ab9fad3c",
       "8": "d2ebc516b24a",
-      "9": "bcdf930cdefa"
+      "9": "bcdf930cdefa",
+      "10": "2dd9c2aa5aa9"
     },
     "events": [
       "extra-vote-brady-booker-advantage-found-3",
@@ -1699,6 +1711,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-26T12:03:06.718Z",
+  "lastCheckedAt": "2026-11-26T14:47:17.956Z",
   "quietChecks": 0
 }

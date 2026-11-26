@@ -437,5 +437,49 @@
     "generatedAt": "2026-11-19T14:10:44.844Z",
     "model": "claude-opus-5",
     "sourceHash": "e1754449df3e"
+  },
+  "10": {
+    "key": "10",
+    "episode": 10,
+    "eliminations": 14,
+    "headline": "Two torches snuffed, two drafts left standing, everybody else watching",
+    "overview": "Fourteen gone, seven left, and the finale just became a two-horse race. Tim sits on top with 63 points and a league-best 2.75 draft GPA, but he coughed up Maggie Nestor this week and has only 2 of 4 still in. Tami is right behind at 54, the biggest mover with +9, three of five breathing, and 37 on the table. Austin at 43 and Kylie at 35 each have one castaway left and zero winning scenarios. Taylor? 31 points, nothing in, nothing on the table, pure spectator. The math has spoken.",
+    "lines": [
+      {
+        "drafterId": "tim",
+        "text": "Wire-to-Wire leader with 63 points and 28 on the table, but losing Maggie Nestor means Thien An and Devin are now carrying the whole farm."
+      },
+      {
+        "drafterId": "tami",
+        "text": "The Tovuto Trifecta hummed to +9 with Jelly, Mike and Sharonda all alive, 37 on the table, and 54 of 105 scenarios — Sharonda at pick #21 is the steal of the draft."
+      },
+      {
+        "drafterId": "austin",
+        "text": "Carter Krull's torch took Austin's last real hope with it; 43 points, Eric alone on the island, and eliminated from contention."
+      },
+      {
+        "drafterId": "kylie",
+        "text": "First Blood badge, 2.25 GPA, and Cristian's immunity necklace — but 35 points and one survivor isn't a comeback, it's a consolation."
+      },
+      {
+        "drafterId": "taylor",
+        "text": "Zero this episode, zero still in, zero on the table — the Crisis & Chaos Crew is officially all crisis and 31 points."
+      }
+    ],
+    "awards": [
+      {
+        "label": "Draft of the week",
+        "drafterId": "tami",
+        "text": "A league-high +9, immunity from Mike, three names still in the game, and the best path through the finale math."
+      },
+      {
+        "label": "Ouch of the week",
+        "drafterId": "austin",
+        "text": "Carter held the idol, won the reward trip's afterglow, and still heard his name — dropping Austin to one castaway and no scenarios."
+      }
+    ],
+    "generatedAt": "2026-11-26T14:47:17.300Z",
+    "model": "claude-opus-5",
+    "sourceHash": "2d21d32da957"
   }
 }
