@@ -1162,6 +1162,28 @@
         "2 game events added"
       ],
       "episode": 9
+    },
+    {
+      "id": "2026-11-26T12:03:06.718Z",
+      "at": "2026-11-26T12:03:06.718Z",
+      "source": "pipeline",
+      "summary": "Ep 10 aired and Maggie and Carter were voted out. The voting table filled in, Jeff recapped Ep 10, and 4 team summaries refreshed.",
+      "details": [
+        "Maggie voted out in Ep 10, first jury member",
+        "Carter voted out in Ep 10, first jury member",
+        "Vote records: 315 → 357",
+        "Commentary written for Ep 10",
+        "Team summary refreshed for Kylie",
+        "Team summary refreshed for Tami",
+        "Team summary refreshed for Taylor",
+        "Team summary refreshed for Tim",
+        "1 game event added",
+        "Tim: 1st → 1st, 59 → 63 pts",
+        "Tami: 2nd → 2nd, 48 → 54 pts",
+        "Austin: 3rd → 3rd, 40 → 43 pts",
+        "Kylie: 4th → 4th, 33 → 35 pts"
+      ],
+      "episode": 10
     }
   ],
   "state": {
@@ -1302,6 +1324,18 @@
         "kind": "fire",
         "episode": 9,
         "jury": true
+      },
+      {
+        "slug": "maggie-nestor",
+        "kind": "voted-out",
+        "episode": 10,
+        "jury": true
+      },
+      {
+        "slug": "carter-krull",
+        "kind": "voted-out",
+        "episode": 10,
+        "jury": true
       }
     ],
     "merged": [
@@ -1334,17 +1368,17 @@
       "kristin-flickinger": "Tovuto",
       "danny-kilby": "Tovuto",
       "lewis-kelly": "Tovuto",
+      "maggie-nestor": "Tovuto",
+      "carter-krull": "Tovuto",
       "cristian-chavez": "Tovuto",
       "sharonda-cox": "Tovuto",
-      "carter-krull": "Tovuto",
       "jelly-loblack": "Tovuto",
       "eric-macksoud": "Tovuto",
-      "maggie-nestor": "Tovuto",
       "thien-an-nguyen": "Tovuto",
       "mike-pinsky": "Tovuto",
       "devin-way": "Tovuto"
     },
-    "votes": 315,
+    "votes": 357,
     "extras": {
       "aaliyah-puglia": {
         "birthdate": "2001-04-21",
@@ -1530,7 +1564,8 @@
       "6": "72ce351de7d7",
       "7": "77f87991bd1d",
       "8": "b008847409dc",
-      "9": "cd954a091f7e"
+      "9": "cd954a091f7e",
+      "10": "334a146c44d3"
     },
     "profiles": {
       "aaliyah-puglia": "7fd3165dee72",
@@ -1557,10 +1592,10 @@
     },
     "teams": {
       "austin": "49fddcb09d9b",
-      "kylie": "f19df6c5ab8c",
-      "tami": "a2e897be1e31",
-      "taylor": "a1d0c54b971f",
-      "tim": "63ff021148f2"
+      "kylie": "83b2e39efb50",
+      "tami": "efaf485fe051",
+      "taylor": "bf52a3cbd7ed",
+      "tim": "cfa4f122fce6"
     },
     "rundowns": {
       "0": "635052266722",
@@ -1581,6 +1616,7 @@
       "extra-vote-devin-way-advantage-found-3",
       "extra-vote-lewis-kelly-advantage-played-5",
       "extra-vote-maggie-nestor-advantage-found-5",
+      "hidden-immunity-idol-history-carter-krull-idol-played-10",
       "hidden-immunity-idol-history-jelly-loblack-idol-found-2",
       "hidden-immunity-idol-history-jelly-loblack-idol-played-8",
       "hidden-immunity-idol-history-kristin-flickinger-idol-found-6",
@@ -1608,22 +1644,22 @@
     "standings": [
       {
         "drafterId": "tim",
-        "total": 59,
+        "total": 63,
         "rank": 1
       },
       {
         "drafterId": "tami",
-        "total": 48,
+        "total": 54,
         "rank": 2
       },
       {
         "drafterId": "austin",
-        "total": 40,
+        "total": 43,
         "rank": 3
       },
       {
         "drafterId": "kylie",
-        "total": 33,
+        "total": 35,
         "rank": 4
       },
       {
@@ -1663,6 +1699,6 @@
       "austin": "Austin"
     }
   },
-  "lastCheckedAt": "2026-11-25T22:03:40.986Z",
+  "lastCheckedAt": "2026-11-26T12:03:06.718Z",
   "quietChecks": 0
 }
